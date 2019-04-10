@@ -2,14 +2,16 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Expositions"
+	  url: /expositions/
 
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-    
+        
   - title: "Blog Posts"
     url: /year-archive/
     
