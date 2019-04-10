@@ -1,14 +1,12 @@
 ---
 layout: archive
 title: "Expositions"
-permalink: /expositions/
+permalink: /espositions/
 author_profile: true
 ---
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
