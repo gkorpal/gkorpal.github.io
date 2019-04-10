@@ -1,7 +1,7 @@
 ---
 title: "Exposition Title Number 1"
 collection: expositions
-permalink: /expositions/exposition1
+permalink: /exposition/2009-10-01-paper-title-number-1
 excerpt: 'This exposition is about the number 1. The number 2 is left for old work.'
 date: 2009-10-01
 venue: 'Journal 1'
