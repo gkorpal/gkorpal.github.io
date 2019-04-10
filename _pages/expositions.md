@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Expositions"
-permalink: /espositions/
+permalink: /expositions/
 author_profile: true
 ---
 
