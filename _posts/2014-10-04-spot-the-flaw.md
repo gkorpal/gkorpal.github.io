@@ -14,9 +14,9 @@ Here I came across a "Calculus based proof of 1=0" in <a href="http://www.amazon
 
 It is based on "Integration by Parts" formula, which is:
 
-$$ \int f dg = fg - \int g df$$
+$$ \int f \ dg = fg - \int g \ df$$
 
 So, the proof is of this is as follows:
 
-$$ \int \frac{1}{x} dx = \left(\frac{1}{x}\right) x - \int s d \left(\frac{1}{x}\right) = 1 - \int x \left(-\frac{1}{x^2}\right) dx = 1 + \int \frac{1}{x}dx$$
+$$ \int \frac{1}{x} dx = \left(\frac{1}{x}\right) x - \int x \ d \left(\frac{1}{x}\right) = 1 - \int x \left(-\frac{1}{x^2}\right) dx = 1 + \int \frac{1}{x}dx$$
 $$\Rightarrow 0 = 1$$
