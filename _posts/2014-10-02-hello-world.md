@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 1'
+title: 'Hello World'
 date: 2014-10-02
 permalink: /posts/2014/10/hello-world/
 tags:
