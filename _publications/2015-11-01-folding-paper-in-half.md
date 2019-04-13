@@ -1,5 +1,5 @@
 ---
-title: "Folding Paper in Half $\Rightarrow$"
+title: "Folding Paper in Half"
 collection: publications
 permalink: /publication/2015-11-01-folding-paper-in-half
 excerpt: 
