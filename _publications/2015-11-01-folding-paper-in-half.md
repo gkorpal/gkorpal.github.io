@@ -1,5 +1,5 @@
 ---
-title: "Folding Paper in Half"
+title: "Folding Paper in Half $qw$"
 collection: publications
 permalink: /publication/2015-11-01-folding-paper-in-half
 excerpt: 
