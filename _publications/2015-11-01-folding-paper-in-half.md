@@ -8,6 +8,3 @@ venue: 'At Right Angles'
 paperurl: 'http://teachersofindia.org/en/ebook/folding-paper-half'
 citation: 'Korpal, G. (2015). "Folding paper in half." At Right Angles (India), pp. 20-23, Vol. 4, No. 3, November 2015.'
 ---
-
-[Download article here](http://gkorpal.github.io/files/folding_paper_in_half.pdf)
-
