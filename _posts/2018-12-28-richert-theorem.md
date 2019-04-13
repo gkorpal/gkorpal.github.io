@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Richert Theorem'
 date: 2018-12-28
 permalink: /posts/2018/12/richert-theorem/
