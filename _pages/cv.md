@@ -33,6 +33,6 @@ Awards and Fellowships
 
 Recreational Mathematics Explorations
 ======
-* <a href="put-blog-link">Cross Diagonal Cover Problem</a>, a puzzle I posed in April 2016 (This puzzle was <a href="http://gkorpal.github.io/files/32.pdf">solved by Matthew Scroggs</a> in July 2016).
+* <a href="put-blog-link">Cross Diagonal Cover Problem</a>, a puzzle I posed in the form of blog posts on my wordpress blog Gaurish4Math during April-May 2016 (This puzzle was <a href="http://gkorpal.github.io/files/32.pdf">solved by Matthew Scroggs</a> in July 2016).
 * Pulsating Checkpoint Sequence
  (<a href="https://oeis.org/A264962">A264962</a>) The On-Line Encyclopedia of Integer Sequences, November 2015. (I discovered this sequence while attempting to solve a <a href="http://gkorpal.github.io/files/20151125-solution-be-still-my-pulsating-sequence.pdf">puzzle posed by Pradeep Mutalik</a> in “Quanta Magazine” in November 2015).
