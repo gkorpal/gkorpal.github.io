@@ -47,6 +47,7 @@ cannot be an integer.
 <hr />
 
 <strong>References:</strong>
+
 [0] Turner, C. (2015) <a href="https://math.stackexchange.com/a/1382818/214604" target="_blank" rel="noopener">A theorem of Richert</a>. Math.SE profile: https://math.stackexchange.com/users/37268/sharkos
 
 [1] Richert, H. E. (1950). <a href="https://rdcu.be/beceV" target="_blank" rel="noopener">Über Zerfällungen in ungleiche Primzahlen</a>. (German). Mathematische Zeitschrift 52, pp. 342-343.  https://doi.org/10.1007/BF02230699
