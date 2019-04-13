@@ -5,7 +5,6 @@ permalink: /publication/2015-11-01-folding-paper-in-half
 date: 2015-11-01
 venue: 'At Right Angles'
 paperurl: 'http://teachersofindia.org/en/ebook/folding-paper-half'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This article discusses Britney C. Gallivan's proof about the possibility of folding a piece of paper into half any number of times.
 
