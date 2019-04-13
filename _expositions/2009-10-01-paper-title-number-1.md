@@ -2,7 +2,7 @@
 title: "Exposition Title Number 1"
 collection: expositions
 permalink: /exposition/2009-10-01-paper-title-number-1
-excerpt: 'This exposition is about the number 1. The number 2 is left for old work.'
+excerpt: 'This is my first summer project reposrt, full of plagairism.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
