@@ -19,4 +19,5 @@ $$ \int f \ dg = fg - \int g \ df$$
 So, the proof is of this is as follows:
 
 $$ \int \frac{1}{x} dx = \left(\frac{1}{x}\right) x - \int x \ d \left(\frac{1}{x}\right) = 1 - \int x \left(-\frac{1}{x^2}\right) dx = 1 + \int \frac{1}{x}dx$$
+
 $$\Rightarrow 0 = 1$$
