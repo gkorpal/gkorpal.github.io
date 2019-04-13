@@ -20,7 +20,7 @@ These are the two lesser known number systems, with confusing names.
 
 Following is a relevant Numberphile video:
 
-https://www.youtube.com/watch?v=BBp0bEczCNg
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BBp0bEczCNg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <strong>Surreal numbers</strong>, on the other hand, is a fully developed number system which is more powerful than our real number system. They share many properties with the real numbers, including the usual arithmetic operations (addition, subtraction, multiplication, and division); as such, they also form an ordered field. The modern definition and construction of surreal numbers was given by <a href="http://www-history.mcs.st-and.ac.uk/Biographies/Conway.html" target="_blank" rel="noopener">John Horton Conway</a> in  1970. The inspiration for these numbers came from the <em>combinatorial game theory</em>. Conway's construction was introduced in <a href="http://www-history.mcs.st-andrews.ac.uk/Biographies/Knuth.html" target="_blank" rel="noopener">Donald Knuth</a>'s 1974 book <em>Surreal Numbers: How Two Ex-Students Turned on to Pure Mathematics and Found Total Happiness</em>.
 
@@ -30,6 +30,6 @@ In his book, which takes the form of a dialogue, Knuth coined the term<em> surre
 
 Following is a relevant Numberphile video:
 
-https://www.youtube.com/watch?v=mPn2AdMH7UQ
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mPn2AdMH7UQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Many nice videos on similar topics can be found on <a href="https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g/videos" target="_blank" rel="noopener">PBS Infinite Series YouTube channel</a>.
