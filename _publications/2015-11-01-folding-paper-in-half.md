@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-11-01-folding-paper-in-half
 excerpt: 
 date: 2015-11-01
-venue: 'At Right Angles'
+venue:
 paperurl: 
 citation: 
 ---
