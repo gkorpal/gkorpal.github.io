@@ -15,7 +15,7 @@ tags:
 ---
 
 In 1852, Chebyshev proved the Bertrand's postulate:
-<blockquote>For any integer $n>1$, there always exists at least one prime number $p$ with $< p < 2n$.</blockquote>
+<blockquote>For any integer $n>1$, there always exists at least one prime number $p$ with $n < p < 2n$.</blockquote>
 You can find Erdős' elementary proof <a href="https://gaurish4math.files.wordpress.com/2014/12/erdos.pdf" target="_blank" rel="noopener">here</a>. In this post I would like to discuss an application of this fantastic result, discovered by <a href="https://en.wikipedia.org/wiki/Hans-Egon_Richert" target="_blank" rel="noopener">Hans-Egon Richert</a> in 1948:
 <blockquote>Every integer $ n\geq 7$ can be expressed as a sum of distinct primes.</blockquote>
 There are several proofs available in literature, but we will follow the short proof given by Richert himself (english translation has been taken from <a href="https://math.stackexchange.com/a/1382818/214604" target="_blank" rel="noopener">here</a> and <a href="https://math.stackexchange.com/a/1382840/214604" target="_blank" rel="noopener">here</a>):
