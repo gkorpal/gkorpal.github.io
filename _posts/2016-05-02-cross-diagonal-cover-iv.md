@@ -96,7 +96,7 @@ In case you want to understand above Python function, here is an illustration wh
 
 
 <figure>
-  <img src="/images/new-doc-23_1.jpg" alt="my alt text"style="width:600px;height:500px;"/>
+  <img src="/images/new-doc-23_1.jpg" alt="my alt text" style="width:600px;height:500px;"/>
   <figcaption>Note that though (1,1) position is encountered twice but it is added to "visited squares" list only once.</figcaption>
 </figure>
 
