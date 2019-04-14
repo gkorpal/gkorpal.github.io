@@ -43,3 +43,4 @@ So, the question which still remains to be answered is:
 <blockquote>How many filled squares are there when  $m>n$ and $n-1$ does not divide $m-1$ ?</blockquote>
 
 Examples of such grids are: 7 by 5, 11 by 5, 15 by 5 ... 
+
