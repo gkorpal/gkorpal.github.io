@@ -13,7 +13,7 @@ While doodling in my college classes, I designed an algorithm which I called <sp
 
 <blockquote>I have a $m\times n$ rectangle divided into unit squares. I start by placing a x (cross) in leftmost corner. Every time I visit a square in diagonal direction I place a  x in the squares till I reach any boundary of rectangle, from where I switch to adjacent diagonal.</blockquote>
 
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="/images/new-doc-17_1.jpg" style="padding-bottom:0.5em;"/> Illustrating the algorithm… Follow the arrow numbers to fill the grid.</div>
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="/images/new-doc-17_1.jpg" style="padding-bottom:0.5em;"/> Illustrating the algorithm. Follow the arrow numbers to fill the grid.</div>
 
 Please note that it doesn't matter that how many x (cross) are there in each square. The number of x (cross) in each square just signify number of times I visited that square while executing the algorithm.
 
