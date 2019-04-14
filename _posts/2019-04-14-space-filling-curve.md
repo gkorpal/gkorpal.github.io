@@ -49,7 +49,7 @@ where $a_i \in \{0,1\}$ for all $i$. Also,
 $$ t_0 = 0.(2a_0)(2a_1)(2a_2)\ldots = \displaystyle{\sum_{i=0}^{\infty} \frac{1}{3^{i+1}}2a_{i}}$$
 where $(2a_i) \in \{0,2\}$ for all $i$ (motivating the idea of representing $t_0$ in ternary)
 
-<blockquote><b>Claim</i> $x(t_0) = x_0$ and $y(t_0) = y_0$ </blockquote>
+<blockquote><b>Claim</b> $x(t_0) = x_0$ and $y(t_0) = y_0$ </blockquote>
 
 We will use the ternary expansion of $t_0$ to simplify, 
 \[\begin{eqnarray*}
