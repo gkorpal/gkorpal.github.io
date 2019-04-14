@@ -30,7 +30,7 @@ SageMath is is an open source implementation of mathematics and scientific softw
 
 Here is the SageMath (or Python) code to count the number of filled squares for $2 \leq m\leq n\leq 10$
 
-{% highlight python linenos %}
+[code language="python" wraplines="false" collapse="false"]
 #-----START OF PYTHON FUNCTION FOR CROSS DIAGONAL COVER ALGORITHM-----
 
 def cover(m,n):
@@ -88,7 +88,7 @@ for i in range (2, 11):
         print i, j, len(cover(i, j))
 # len(indata) counts the bytes of data in indata here it
 #counts the number of elements is visited list.
-{% endhighlight %}
+[/code]
 
 To run the above code, please copy-paste it in <a href="https://sagecell.sagemath.org/" target="_blank">SageMathCell</a> and click evaluate button. You will get the list displaying m, n and the number of filled squares in each of the grid (with 1<m,n<11).
 
@@ -97,5 +97,3 @@ In case you want to understand above Python function, here is an illustration wh
 <div style="width:image width px; font-size:80%; text-align:center;"><img src="/images/new-doc-23_1.jpg" style="padding-bottom:0.5em;"/>Note that though (1,1) position is encountered twice but it is added to "visited squares" list only once.</div>
 
 So far I haven't been able to derive a useful interpretation even after getting access to lot of data. I hope to formulate a conjecture soon...
-
- 
