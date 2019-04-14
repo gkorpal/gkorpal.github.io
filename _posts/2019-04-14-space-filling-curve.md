@@ -52,9 +52,9 @@ $$ t_0 = 0.(2a_0)(2a_1)(2a_2)\ldots = \displaystyle{\sum_{i=0}^{\infty} \frac{1}
 
 where $(2a_i) \in \\{0,2\\}$ for all $i$ (motivating the idea of representing $t_0$ in ternary)
 
-<blockquote><b>Claim</b> $x(t_0) = x_0$ and $y(t_0) = y_0$ </blockquote>
+<blockquote><b>Claim:</b> $x(t_0) = x_0$ and $y(t_0) = y_0$ </blockquote>
 
-Next, using the ternary expansion of $t_0$ we will get
+Using the ternary expansion of $t_0$ we will get
 <p>
 \[\begin{eqnarray*}
 3^n t_0 & = & 3^n \left(\sum_{i=0}^{\infty} \frac{2a_i}{3^{i+1}}\right) \\ 
@@ -62,7 +62,7 @@ Next, using the ternary expansion of $t_0$ we will get
 &=& 2I + 3^n\sum_{i=n}^{\infty} \frac{2a_i}{3^{i+1}}
 \end{eqnarray*}\]
 </p>
-note that since $3^n \geq 3^{i+1}$ for $0\leq i \leq n-1$, we concluded that $\displaystyle{3^n\sum_{i=0}^{n-1} \frac{2a_i}{3^{i+1}}}$ is twice an integer (taking 2 out of summation).
+where $\displaystyle{3^n\sum_{i=0}^{n-1} \frac{2a_i}{3^{i+1}}}$ is twice an integer since $3^n \geq 3^{i+1}$ for $0\leq i \leq n-1$, we concluded (hence we could take 2 out of summation).
 
 Now $a_n$ can be either 0 or 1. We will consider following two cases:
 
@@ -106,19 +106,9 @@ x(t_0) = \displaystyle{\sum_{n=0}^{\infty} \frac{1}{2^{n+1}} f\left(3^{2n}t_0\ri
 y(t_0) = \displaystyle{\sum_{n=0}^{\infty} \frac{1}{2^{n+1}} f\left(3^{2n+1}t_0\right) = \sum_{n=0}^{\infty} \frac{1}{2^{n+1}}a_{2n+1}} = y_0
 \end{cases}$$
 
-Thus proving our claim. Hence we can conclude that <i>$g$ is a surjective</i>.
+Thus proving our claim. Therefore, <i>$g$ is surjective</i>.
 
-From standard exercises in metric spaces we know that $[0,1]$ is homeomorphic to $\mathbb{R}$ and $[0,1]\times [0,1]$ is homeomorphic to $\mathbb{R}^2$, where \emph{homeomorphism} is defined as
-
-<blockquote> A function $F: X \rightarrow Y$, between two [topological spaces](http://mathworld.wolfram.com/TopologicalSpace.html)  $(X,T_X)$ and $(Y, T_Y)$  is called a homeomorphism if it has the following properties:
-<ul>
-  <li> $F$ is a bijection, </li>
-  <li> $F$ is continuous,</li>
-  <li> the inverse function $F^{-1}$ is continuous. </li>
-</ul>
- 
-If such a function exists, we say $X$ and $Y$ are <i>homeomorphic</i>.
-</blockquote>
+From standard exercises in metric spaces we know that $[0,1]$ is [homeomorphic](https://en.wikipedia.org/wiki/Homeomorphism) to $\mathbb{R}$ and $[0,1]\times [0,1]$ is homeomorphic to $\mathbb{R}^2$. 
 
 Let $\phi : \mathbb{R} \rightarrow [0,1]$ and $\psi : [0,1]\times [0,1] \rightarrow \mathbb{R}^2$ be the homeomorphisms, then
 
