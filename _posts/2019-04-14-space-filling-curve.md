@@ -55,11 +55,11 @@ where $(2a_i) \in \\{0,2\\}$ for all $i$ (motivating the idea of representing $t
 
 We will use the ternary expansion of $t_0$ to simplify, 
 
-\begin{eqnarray*}
+\[\begin{eqnarray*}
 3^n t_0 & = & 3^n \left(\sum_{i=0}^{\infty} \frac{2a_i}{3^{i+1}}\right)\\ 
 &=& 3^n \left(\sum_{i=0}^{n-1} \frac{2a_i}{3^{i+1}} + \sum_{i=n}^{\infty} \frac{2a_i}{3^{i+1}}\right)\\
 &=& 2I + 3^n\sum_{i=n}^{\infty} \frac{2a_i}{3^{i+1}}
-\end{eqnarray*}
+\end{eqnarray*}\]
 
 since $3^n \geq 3^{i+1}$ for $0\leq i \leq n-1$, we conclude that $\displaystyle{3^n\sum_{i=0}^{n-1} \frac{2a_i}{3^{i+1}}}$ is twice an integer (taking 2 out of summation).
 
