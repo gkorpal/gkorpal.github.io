@@ -96,7 +96,7 @@ In case you want to understand above Python function, here is an illustration wh
 
 <figure>
   <img src="/images/new-doc-23_1.jpg" alt="my alt text"style="width:600px;height:500px;"/>
-  <figcaption>ote that though (1,1) position is encountered twice but it is added to "visited squares" list only once.</figcaption>
+  <figcaption>Note that though (1,1) position is encountered twice but it is added to "visited squares" list only once.</figcaption>
 </figure>
 
 So far I haven't been able to derive a useful interpretation even after getting access to lot of data. I hope to formulate a conjecture soon...
