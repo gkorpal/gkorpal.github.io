@@ -121,7 +121,7 @@ If such a function exists, we say $X$ and $Y$ are <i>homeomorphic</i>.
 
 Let $\phi : \mathbb{R} \rightarrow [0,1]$ and $\psi : [0,1]\times [0,1] \rightarrow \mathbb{R}^2$ be the homeomorphisms, then
 
-<img src="/images/m.jpg" alt="" width="400" height="400">
+<img src="/images/m.jpg" alt="" width="250" height="250">
 
 Thus the composition, $\Gamma = \psi \circ g \circ \phi$ is the required <i>continuous surjective map</i>.
 
