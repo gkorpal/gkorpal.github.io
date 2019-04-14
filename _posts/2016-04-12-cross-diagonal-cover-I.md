@@ -14,7 +14,7 @@ While doodling in my college classes, I designed an algorithm which I called <sp
 <blockquote>I have a $m\times n$ rectangle divided into unit squares. I start by placing a x (cross) in leftmost corner. Every time I visit a square in diagonal direction I place a  x in the squares till I reach any boundary of rectangle, from where I switch to adjacent diagonal.</blockquote>
 
 <figure>
-  <img src="/images/new-doc-17_1.jpg" alt="my alt text" style="width:500px;height:600px;"/>
+  <img src="/images/new-doc-17_1.jpg" alt="my alt text" style="width:400px;height:500px;"/>
   <figcaption>Illustrating the algorithm. Follow the arrow numbers to fill the grid.</figcaption>
 </figure>
 
