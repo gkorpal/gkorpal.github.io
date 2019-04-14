@@ -30,7 +30,7 @@ SageMath is is an open source implementation of mathematics and scientific softw
 
 Here is the SageMath (or Python) code to count the number of filled squares for $2 \leq m\leq n\leq 10$
 
-[code language="python" wraplines="false" collapse="false"]
+{% highlight python linenos %}
 #-----START OF PYTHON FUNCTION FOR CROSS DIAGONAL COVER ALGORITHM-----
 
 def cover(m,n):
@@ -88,7 +88,7 @@ for i in range (2, 11):
         print i, j, len(cover(i, j))
 # len(indata) counts the bytes of data in indata here it
 #counts the number of elements is visited list.
-[/code]
+{% endhighlight %}
 
 To run the above code, please copy-paste it in <a href="https://sagecell.sagemath.org/" target="_blank">SageMathCell</a> and click evaluate button. You will get the list displaying m, n and the number of filled squares in each of the grid (with 1<m,n<11).
 
