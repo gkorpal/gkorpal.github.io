@@ -62,7 +62,7 @@ Next, using the ternary expansion of $t_0$ we will get
 &=& 2I + 3^n\sum_{i=n}^{\infty} \frac{2a_i}{3^{i+1}}
 \end{eqnarray*}\]
 </p>
-note that since $3^n \geq 3^{i+1}$ for $0\leq i \leq n-1$, we conclude that $\displaystyle{3^n\sum_{i=0}^{n-1} \frac{2a_i}{3^{i+1}}}$ is twice an integer (taking 2 out of summation).
+note that since $3^n \geq 3^{i+1}$ for $0\leq i \leq n-1$, we concluded that $\displaystyle{3^n\sum_{i=0}^{n-1} \frac{2a_i}{3^{i+1}}}$ is twice an integer (taking 2 out of summation).
 
 Now $a_n$ can be either 0 or 1. We will consider following two cases:
 
