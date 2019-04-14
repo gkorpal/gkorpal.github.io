@@ -17,6 +17,7 @@ Consider $f : \mathbb{R} \rightarrow [0,1]$
 Observe that $f$ is a continuous periodic function with period 2. Hence, $f(x+2I) = f(x)$ for any integer $I$.
 
 Now consider, $g : [0,1] \rightarrow [0,1]\times [0,1]$ where $g(t) = \left(x(t), y(t)\right)$. We define the map $g$ as:
+
 $$\begin{cases}
 x(t) = \frac{1}{2}f(t) + \frac{1}{2^2}f(3^2t) + \frac{1}{2^3} f(3^4 t) + \ldots = \displaystyle{\sum_{n=0}^{\infty} \frac{1}{2^{n+1}} f\left(3^{2n}t\right)}\\
 y(t) = \frac{1}{2}f(3t) + \frac{1}{2^2}f(3^3t) + \frac{1}{2^5} f(3^4 t) + \ldots = \displaystyle{\sum_{n=0}^{\infty} \frac{1}{2^{n+1}} f\left(3^{2n+1}t\right)}
