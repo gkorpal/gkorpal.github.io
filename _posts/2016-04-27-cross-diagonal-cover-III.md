@@ -34,7 +34,10 @@ There is another unexplained observation:
 
 Frustrated by so many unanswered questions I started colouring squares, so that number of times I visited a square is not visible. Since I really don't care about how many times I visited  given square while counting the number of filled squares this may help in understanding the underlying symmetry.
 
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="/images/new-doc-21_1.jpg" style="padding-bottom:0.5em;"/> Replacing cross (x) by any colour and applying Cross Diagonal Cover Algorithm. </div>
+<p>
+    <img src="/images/new-doc-21_1.jpg" alt>
+    <em>Replacing cross (x) by any colour and applying Cross Diagonal Cover Algorithm.</em>
+</p>
 
 After observing above diagrams I suspect that my algorithm leads to a non-deterministic <i>cellular automata</i>.
 
