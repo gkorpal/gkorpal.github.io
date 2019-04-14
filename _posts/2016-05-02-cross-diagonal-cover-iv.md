@@ -94,6 +94,7 @@ To run the above code, please copy-paste it in <a href="https://sagecell.sagemat
 
 In case you want to understand above Python function, here is an illustration when m=3 and n=4:
 
+
 <figure>
   <img src="/images/new-doc-23_1.jpg" alt="my alt text"style="width:600px;height:500px;"/>
   <figcaption>Note that though (1,1) position is encountered twice but it is added to "visited squares" list only once.</figcaption>
