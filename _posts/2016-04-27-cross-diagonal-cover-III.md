@@ -36,7 +36,7 @@ Frustrated by so many unanswered questions I started colouring squares, so that 
 
 
 <figure>
-  <img src="/images/new-doc-21_1.jpg" alt="my alt text"style="width:500px;height:800px;"/>
+  <img src="/images/new-doc-21_1.jpg" alt="my alt text"style="width:400px;height:800px;"/>
   <figcaption>Replacing cross (x) by any colour and applying Cross Diagonal Cover Algorithm.</figcaption>
 </figure>
 
