@@ -13,7 +13,7 @@ tags:
 
 I will continue the <a href="https://gkorpal.github.io/posts/2016/04/cross-diagonal-cover-I/" target="_blank">previous post</a>. Now the question to  be answered is that:
 
-<blockquote>What percentage (or how many) of given $latex m\times n&bg=ffffff$ grid can be covered by following Cross Diagonal Cover Algorithm?</blockquote>
+<blockquote>What percentage (or how many) of given $m\times n$ grid can be covered by following Cross Diagonal Cover Algorithm?</blockquote>
 
 I did some calculations, for example:
 
