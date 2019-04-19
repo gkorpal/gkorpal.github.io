@@ -1,7 +1,7 @@
 ---
 title: 'Cross Diagonal Cover - IV'
 date: 2016-04-27
-permalink: /posts/2016/04/cross-diagonal-cover-IV/
+permalink: /posts/2016/05/cross-diagonal-cover-IV/
 tags:
   - problem-solving
   - my research
