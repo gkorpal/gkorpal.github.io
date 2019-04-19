@@ -30,3 +30,5 @@ The <a href="http://www.mscroggs.co.uk/blog/32" target="_blank" rel="noopener">s
 Original Grid --> Dual Grid --> Mirror Grid --> Inner-point Grid</blockquote>
 
 Counting the "Corners visited twice" (the subtracted term) was something I wasn't able to do. Corners visited was essentially what I called "<a href="https://gkorpal.github.io/posts/2016/05/cross-diagonal-cover-V/" target="_blank" rel="noopener">number of steps needed for algorithm to stop</a>". So, his mirror argument provides a proof without words of that result.
+
+PAST BLOG POSTS: <a href="https://gkorpal.github.io/posts/2016/04/cross-diagonal-cover-I/" target="_blank" rel="noopener">Part I</a>, <a href="https://gkorpal.github.io/posts/2016/04/cross-diagonal-cover-II/" target="_blank" rel="noopener">Part II</a>, <a href="https://gkorpal.github.io/posts/2016/04/cross-diagonal-cover-III/" target="_blank" rel="noopener">Part III</a>, <a href="https://gkorpal.github.io/posts/2016/05/cross-diagonal-cover-IV/" target="_blank" rel="noopener">Part IV</a>, and <a href="https://gkorpal.github.io/posts/2016/05/cross-diagonal-cover-V/" target="_blank" rel="noopener">Part V</a>.
