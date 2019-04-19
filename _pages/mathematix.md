@@ -252,11 +252,19 @@ MathematiX is NISER's mathematics club, for the students, by the students. At pr
 </ul>
 
 <strong>9.</strong> <em>Soma Cube</em> - Nisarg Vyas (B17) - 12 October 2018
+
 <strong>8.</strong> <em>Klein Bottle from waste cloth</em> - Ayush Singh (B17)- Saturday, 05 October 2018
+
 <strong>7.</strong> <em>Origami</em> - Himanshu Bimal (B17)- Friday, 17 August 2018
+
 <strong>6.</strong> <em>Tower of Hanoi</em> - Kumar Sannidhya Shukla (B16) - Saturday, 26th August 2017
+
 <strong>5.</strong> <em>Tangram</em> - Gaurish Korpal (B14) - Sunday, 16th April 2017
+
 <strong>4.</strong> <em>Unknot, Figure-8 & Borromean Ring</em> - Awanish Kumar (B15) - Sunday, 19th March 2017
+
 <strong>3.</strong> <em>Hexa-Tetra Flexagon</em> - Satyam Chandra Mishra (B15) - Saturday, 4th February 2017
+
 <strong>2.</strong> <em>Tetra-Hexa Flexagon</em> - Satyam Chandra Mishra (B15) - Friday, 27th January 2017
+
 <strong>1.</strong> <em>Weaire-Phelan Structure</em> - Pankaj Kumar (B15) - Saturday, 19th November 2016
