@@ -135,7 +135,7 @@ MathematiX is NISER's mathematics club, for the students, by the students. At pr
 
 <strong>41.</strong> <em>Equivalent Formulations of Axiom of Choice</em> - Prajakta Bedekar (B10) - October 16, 2012
 
-<strong>40.</strong> $latex \sum_{i=1}^{\infty}\frac{1}{i^{2}} = \frac{\pi^{2}}{6}&bg=ffffff$ - Aasaimani T. (B11) - October 9, 2012
+<strong>40.</strong> $\sum_{i=1}^{\infty}\frac{1}{i^{2}} = \frac{\pi^{2}}{6}$ - Aasaimani T. (B11) - October 9, 2012
 
 <strong>39.</strong> <em>Schroeder Bernstein Theorem ­-</em> Sagar Shrivastava (B11) ­- September 11, 2012
 
