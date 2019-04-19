@@ -1,6 +1,6 @@
 ---
 title: 'Cross Diagonal Cover - IV'
-date: 2016-04-27
+date: 2016-05-02
 permalink: /posts/2016/05/cross-diagonal-cover-IV/
 tags:
   - problem-solving
