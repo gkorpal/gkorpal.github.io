@@ -34,7 +34,7 @@ Conferences and Workshops
 * [International Conference on Class Groups of Number Fields and Related Topics](https://sites.google.com/site/iccnnfrt2017/home), Harish-Chandra Research Institute, Allahabad (Septemebr 04, 2017 - September 07, 2017)
 * <u>USERC Undergraduate Summer Workshop</u>, Center for Excellence in Mathematical Sciences (Kumaon University), Almora (June 22, 2015 - July 04, 2015)    
 * [30th Annual Conference of Ramanujan Mathematical Society](http://30ac.ramanujanmathsociety.org/), Indian Institute of Science Education and Research, Mohali, India (May 15, 2015 - May 17, 2015)
-* {u>RMS Some High Points of Undergraduate Mathematics Education</u>, Indian Institute of Science Education and Research, Mohali, India (May 14, 2015)
+* <u>RMS Some High Points of Undergraduate Mathematics Education</u>, Indian Institute of Science Education and Research, Mohali, India (May 14, 2015)
 * [KVPY-INSPIRE National Science Camp (Vijyoshi 2014)](http://kvpy.iisc.ernet.in/vijyoshi2014/), Indian Institute of Science Education and Research, Kolkata, India (November 10, 2014 - November 12, 2014)  
 
 Recreational Mathematics Explorations
