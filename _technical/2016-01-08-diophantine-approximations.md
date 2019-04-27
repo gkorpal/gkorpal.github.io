@@ -1,7 +1,7 @@
 ---
 title: "Diophantine Approximations"
 collection: technical
-permalink: /technical/2016-01-08-enigma-cryptanalysis
+permalink: /technical/2016-01-08-diophantine-approximations
 excerpt:
 date: 2016-01-08
 venue: 'Prof. R. Thangadurai (Harish-Chandra Research Institute, Allahabad)'
