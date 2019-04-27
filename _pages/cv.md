@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ---------
-* B.S. in GitHub, GitHub University, 2012 $n\to \infty$
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Integrated M.Sc. (Mathematics), 2019 (expected)
+  * College: [National Institute of Science Education and Research](http://www.niser.ac.in/), Bhubaneswar (India)
+  * University: [Homi Bhabha National Institute](http://www.hbni.ac.in/), Mumbai (India)
+  * M.Sc. Thesis: [Sheaf, Cohomology and Geometry](http://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf)
 
 Work experience
 ------
