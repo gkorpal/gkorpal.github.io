@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Technical Reports"
-permalink: /expositions/
+permalink: /technical/
 author_profile: true
 ---
 
