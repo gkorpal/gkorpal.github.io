@@ -1,0 +1,15 @@
+---
+title: "Prime Numbers"
+collection: technical
+permalink: /technical/2017-07-15-prime-numbers
+excerpt:
+date: 2017-07-15
+venue: 'Prof. K. Srinivas (Institute of Mathematical Sciences, Chennai)'
+paperurl: 
+citation: 
+---
+Work done during summer 2017 (June 05, 2017 to July 15, 2017).
+
+Studied de la Vallee Poussin's proof of Prime Number Theorem  and  Dirichlet's theorem of primes in arithmetic progression, following Davenport's exposition from the book "Multiplicative Number Theory."
+
+[Download report here](http://gkorpal.github.io/files/winter2015-diophantine_approximation-gaurish.pdf)
