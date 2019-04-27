@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Expositions"
+title: "Technical Reports"
 permalink: /expositions/
 author_profile: true
 ---
