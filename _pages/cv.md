@@ -12,25 +12,21 @@ redirect_from:
 Education
 ---------
 * 5-year Integrated M.Sc. (Mathematics), 2019
-  * M.Sc. Thesis: <em>[Sheaf, Cohomology and Geometry](http://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf)</em> (Supervisor: <em>Dr. Ritwik Mukherjee</em>)
   * University: <em>[Homi Bhabha National Institute](http://www.hbni.ac.in/), Mumbai, India.</em>
   * Constituent Institution: <em>[National Institute of Science Education and Research](http://www.niser.ac.in/), Bhubaneswar, India.</em>
+  * M.Sc. Thesis: <em>[Sheaf, Cohomology and Geometry](http://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf)</em> (Supervisor: <em>Dr. Ritwik Mukherjee</em>)
 
 Work experience
 ------
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019: Teaching Assistant
   
 Awards and Fellowships
 ------
-* LOL
+* [Visiting Students' Research Fellowship](http://www.tifr.res.in/~vsrp/), Tata Institute of Fundamental Research, Mumbai (June 04, 2018 - July 04, 2018) ~ INR 8,000
+* [Summer Research Fellowship](https://www.imsc.res.in/summer_research_programme), The Institute of Mathematical Sciences, Chennai (June 05, 2017 - July 15, 2017) ~ INR 14,500
+* [Visiting Student Fellowship](http://www.hri.res.in/opportunities/), Harish-Chandra Research Institute, Allahabad (December 09, 2016 - January 07, 2017) ~ INR 6,550
+* [Visiting Student Fellowship](http://www.hri.res.in/opportunities/), Harish-Chandra Research Institute, Allahabad (December 13, 2015 - January 08, 2016) ~ INR 6,100
+* [Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship](), Department of Science and Technology, Government of India (August 01, 2014 - present) ~ INR 370,000
 
 Recreational Mathematics Explorations
 ------
