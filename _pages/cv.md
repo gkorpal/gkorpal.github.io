@@ -22,7 +22,7 @@ Work experience
   
 Awards and Fellowships
 ------
-* [Junior Research Fellowship and Eligibility for Lectureship](http://csirhrdg.res.in/Home/Index/1/Default/842/60) (Mathematical Science), Council of Scientific and Industrial Research, New Delhi (Joint CSIR-UGC NET held on December 16, 2018) ~ All India Rank 18
+* [Junior Research Fellowship and Eligibility for Lectureship](http://csirhrdg.res.in/Home/Index/1/Default/842/60) (Mathematical Sciences), Council of Scientific and Industrial Research, New Delhi (Joint CSIR-UGC NET held on December 16, 2018) ~ All India Rank 18
 * [Visiting Students' Research Fellowship](http://www.tifr.res.in/~vsrp/), Tata Institute of Fundamental Research, Mumbai (June 04, 2018 - July 04, 2018) ~ INR 8,000
 * [Summer Research Fellowship](https://www.imsc.res.in/summer_research_programme), The Institute of Mathematical Sciences, Chennai (June 05, 2017 - July 15, 2017) ~ INR 14,500
 * [Visiting Student Fellowship](http://www.hri.res.in/opportunities/), Harish-Chandra Research Institute, Allahabad (December 09, 2016 - January 07, 2017) ~ INR 6,550
