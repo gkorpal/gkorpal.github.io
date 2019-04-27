@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ---------
-* 5-year Integrated M.Sc. (Mathematics), 2019
+* M.Sc. (5-year integrated) in Mathematical Sciences, 2019
   * University: <em>[Homi Bhabha National Institute](http://www.hbni.ac.in/), Mumbai, India.</em>
   * Constituent Institution: <em>[National Institute of Science Education and Research](http://www.niser.ac.in/), Bhubaneswar, India.</em>
   * M.Sc. Thesis: <em>[Sheaf, Cohomology and Geometry](http://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf)</em> (Supervisor: <em>Dr. Ritwik Mukherjee</em>)
@@ -28,6 +28,14 @@ Awards and Fellowships
 * [Visiting Student Fellowship](http://www.hri.res.in/opportunities/), Harish-Chandra Research Institute, Allahabad (December 09, 2016 - January 07, 2017) ~ INR 6,550
 * [Visiting Student Fellowship](http://www.hri.res.in/opportunities/), Harish-Chandra Research Institute, Allahabad (December 13, 2015 - January 08, 2016) ~ INR 6,100
 * [Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship](), Department of Science and Technology, Government of India (August 01, 2014 - present) ~ INR 370,000
+
+Conferences and Workshops
+------
+* [International Conference on Class Groups of Number Fields and Related Topics](https://sites.google.com/site/iccnnfrt2017/home), Harish-Chandra Research Institute, Allahabad (Septemebr 04, 2017 - September 07, 2017)
+* USERC Undergraduate Summer Workshop, Center for Excellence in Mathematical Sciences (Kumaon University), Almora (June 22, 2015 - July 04, 2015)    
+* [30th Annual Conference of Ramanujan Mathematical Society](http://30ac.ramanujanmathsociety.org/), Indian Institute of Science Education and Research, Mohali, India (May 15, 2015 - May 17, 2015)
+* RMS Some High Points of Undergraduate Mathematics Education, Indian Institute of Science Education and Research, Mohali, India (May 14, 2015)
+* [KVPY-INSPIRE National Science Camp (Vijyoshi 2014)](http://kvpy.iisc.ernet.in/vijyoshi2014/), Indian Institute of Science Education and Research, Kolkata, India (November 10, 2014 - November 12, 2014)  
 
 Recreational Mathematics Explorations
 ------
