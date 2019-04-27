@@ -179,7 +179,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  expositions:
+  technical:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -225,10 +225,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _expositions
+  # _technical
   - scope:
       path: ""
-      type: expositions
+      type: technical
     values:
       layout: single
       author_profile: true
