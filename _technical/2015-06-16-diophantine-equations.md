@@ -1,7 +1,7 @@
 ---
 title: "Diophantine Equations"
-collection: expositions
-permalink: /exposition/2015-06-16-diophantine-equations
+collection: technical
+permalink: /technical/2015-06-16-diophantine-equations
 excerpt:
 date: 2015-06-16
 venue: 'Prof. S. A. Katre (Bhaskaracharaya Pratishthana, Pune)'
