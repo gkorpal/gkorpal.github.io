@@ -14,7 +14,7 @@ Education
 * 5-year Integrated M.Sc. (Mathematics), 2019
   * M.Sc. Thesis: <em>[Sheaf, Cohomology and Geometry](http://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf)</em> (Supervisor: <em>Dr. Ritwik Mukherjee</em>)
   * University: <em>[Homi Bhabha National Institute](http://www.hbni.ac.in/), Mumbai, India.</em>
-  * Constituent Institution: <em>[National Institute of Science Education and Research](http://www.niser.ac.in/),Bhubaneswar, India.</em>
+  * Constituent Institution: <em>[National Institute of Science Education and Research](http://www.niser.ac.in/), Bhubaneswar, India.</em>
 
 Work experience
 ------
