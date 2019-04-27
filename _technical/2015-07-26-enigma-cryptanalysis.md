@@ -4,7 +4,7 @@ collection: technical
 permalink: /technical/2015-07-26-enigma-cryptanalysis
 excerpt:
 date: 2015-07-26
-venue: 'Prof. S. A. Katre (Bhaskaracharaya Pratishthana, Pune)'
+venue: 'Prof. Geetha Venkataraman (Ambedkar University Delhi)'
 paperurl: 
 citation: 
 ---
