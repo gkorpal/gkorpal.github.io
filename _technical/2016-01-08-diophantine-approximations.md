@@ -8,7 +8,7 @@ venue: 'Prof. R. Thangadurai (Harish-Chandra Research Institute, Allahabad)'
 paperurl: 
 citation: 
 ---
-Work done during winter 2015 (December 13, 2015 to January 8, 2016).
+Work done during winter 2015 (December 13, 2015 to January 08, 2016).
 
 Studied the proof of Thue-Seigel-Roth theorem, following Prof. Thangadurai's lecture notes. Also did a brief literature survey on Pillai's Conjecture about exponential Diophantine equations.
 
