@@ -15,6 +15,9 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
+  - title: "Good Books List"
+    url: /book-list/
+    
   - title: "CV"
     url: /cv/
     
