@@ -16,6 +16,8 @@ redirect_from:
 ## High-school ##
 ------
 
+<img src="/images/book1.jpg" alt="">
+
 * **NCERT textbooks**: These books were written before 2005. They still follow the old notation to represent natural numbers, integers etc., for example: using  <b>N </b> instead of <b>ℕ </b> to represent set of natural numbers.  Since, only after 2003, bold font (like <b>N</b>)  was completely replaced by  blackboard bold font (like <b>ℕ</b> ) to represent some familiar systems of numbers (like "set of natural numbers") in print.  All of these can be downloaded legally from [NCERT e-books website](http://ncert.nic.in/textbook/textbook.htm).
   * *NCERT Mathematics Textbook for Class IX [NCF – 2005]* is fantastic book as it touches nearly all topics (like geometry, polynomials, Number Theory (rational - irrational numbers), Introduction to mathematical modelling).FOR EXAMPLE: I was spell bound by chapter - “Introduction to Euclid’s Axioms” and I ended up reading “<i>Euclid’s Window by Leonard Mlodinow</i> “ & “<i>Fun & Fundamentals of Mathematics by Narlikar</i>”
   * *NCERT Mathematics Textbook for Class X [NCF – 2005]* also consists of basics of “Number Theory” topics like “Euclid’s division algorithm”. Moreover the appendices on “Proofs in Mathematics” & “Mathematical Modelling” are worth reading even at later stages. FOR EXAMPLE: The discussion on ‘Proof by Contradiction’ is awesome.
@@ -36,7 +38,7 @@ redirect_from:
 ## Olympiad-style problem solving ##
 --------
 
-<img src="/images/book1.jpg" alt="">
+<img src="/images/book2.jpg" alt="">
 
 * **Mathematical Circles (Russian Experience)** by *Fomin, Genkin, and Itenberg* : A thought provoking book for students of class VIII & IX
 * **Non-Routine Problems in Mathematics** by *AMTI (Editor: V. K. Krishnan)* : Lovely book but has few wrong solutions for problems posed in exercises
@@ -45,18 +47,29 @@ redirect_from:
 
 [Here](https://gkorpal.github.io/files/old-olympiad.pdf) is an outdated list of olympiad preparation books.
 
-## Popular mathematics ##
+## Popular mathematics and Fiction ##
 ------
+
+<img src="/images/book3.jpg" alt="">
 
 * **Euclid’s Window** by *Leonard Mlodinow*: I loved reading this book (Mlodinow has co-authored "The Grand Design" by Stephen Hawking).
 * **Fermat’s Last Theorem** by *Simon Singh*: A very detailed account on Fermat Theorem & a good number of references.
 * **Journey Through Genius** by *William Dunham*: Wonderful discussions about mathematical works of great mathematicians.
+* **The Curious Incident of the Dog in the Night-Time** by *Mark Haddon*: An autistic boy who loves prime numbers.
+* **The Devotion of Suspect X** by *Keigo Higashino*: The protagonist is a brilliant but lonely mathematician.
 
 ## Biographies & Autobiographies ##
 ------
+
+<img src="/images/book4.jpg" alt="">
 
 * **The Man who knew infinity** by *Robert Kanigel*: Finest biography of Srinivasa Ramanujan Iyenger.
 * **The Man who loved only numbers** by *Paul Hoffmann*: Biography of Paul Erdos which motivated me to become a mathematician.
 * **A Beautiful Mind** by *Sylvia Nasar*: This is biography of John Nash,
 * Dirac
 * Feynman
+
+## Undergraduate textbooks ##
+-----
+
+<img src="/images/book5.jpg" alt="">
