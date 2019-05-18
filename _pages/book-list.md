@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[High school books](#heading-section-1)
+[High school books](#high-school-books)
 
-[Olympiad-style problem solving](#heading-section-2)
+[Olympiad-style problem solving](#olympiad-style-problem-solving)
 
 ## High-school books ##
 ------
