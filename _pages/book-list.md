@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 Following are the good book lists:
 
-* [High-school](#high-school)
+* [High-school maths](#high-school-maths)
 * [Olympiad-style problem solving](#olympiad-style-problem-solving)
 * [Popular maths and fiction](#popular-maths-and-fiction)
 * [Biographies and autobiographies](#biographies-and-autobiographies)
-* [Undergraduate textbooks](#undergraduate-textbooks)
+* [Undergraduate maths textbooks](#undergraduate-maths-textbooks)
 * Number theory and algebraic geometry (Coming soon!)
 
-## High-school ##
+## High-school maths ##
 ------
 
 <img src="/images/book3.jpg" alt="">
@@ -73,7 +73,7 @@ Following are the good book lists:
 * Dirac
 * Feynman
 
-## Undergraduate textbooks ##
+## Undergraduate maths textbooks ##
 -----
 
 <img src="/images/book4.jpg" alt="">
