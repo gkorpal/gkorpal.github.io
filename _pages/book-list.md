@@ -28,7 +28,7 @@ redirect_from:
 * **Hands-on Geometry** by *Christopher M. Freeman*: Lovely book ! A step-by-step  guide to learning constructions
 * **Higher Algebra** by *Barnard and Child*: A classic book in college algebra, contains my favourite proof of Wilson's theorem. Freely available on [Internet Archive](https://archive.org/details/higheralgebra032813mbp/page/n4).
 * **The Cartoon Guide to Calculus** by *Larry Gonick*:  A Fantastic book ! Everyone will love calculus after reading this. An illustrative guide to elementary calculus.
-* **Calculus: Basic Concepts for High Schools** by *Lev Tarasov*: Among the many calculus textbooks I read, this was the one which gave me the most clarity. Re-written in [LaTex](https://archive.org/details/LevTarasovCalculusBasicConceptsForHighSchools/page/n101) by [The Mitr](https://wp.me/p13GRc-RX).
+* **Calculus: Basic Concepts for High Schools** by *Lev Tarasov*: Among the many calculus textbooks I read, this was the one which gave me the most clarity. Re-written in [LaTeX](https://archive.org/details/LevTarasovCalculusBasicConceptsForHighSchools/page/n101) by [The Mitr](https://wp.me/p13GRc-RX).
 * **Mathematics: A very Short Introduction** by *T. Gowers*: A broad overview of research carrier in mathematics.
 * **What is Mathematics ?** by *Richard Courant and Herbert Robbins* : This is must read book for all students serious towards mathematics. This book will be your life long friend.
 
