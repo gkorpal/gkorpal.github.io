@@ -48,4 +48,15 @@ redirect_from:
 ## Popular mathematics ##
 ------
 
-* 
+* **Euclid’s Window** by *Leonard Mlodinow*: I loved reading this book (Mlodinow has co-authored "The Grand Design" by Stephen Hawking).
+* **Fermat’s Last Theorem** by *Simon Singh*: A very detailed account on Fermat Theorem & a good number of references.
+* **Journey Through Genius** by *William Dunham*: Wonderful discussions about mathematical works of great mathematicians.
+
+## Biographies & Autobiographies ##
+------
+
+* **The Man who knew infinity** by *Robert Kanigel*: Finest biography of Srinivasa Ramanujan Iyenger.
+* **The Man who loved only numbers** by *Paul Hoffmann*: Biography of Paul Erdos which motivated me to become a mathematician.
+* **A Beautiful Mind** by *Sylvia Nasar*: This is biography of John Nash,
+* Dirac
+* Feynman
