@@ -30,6 +30,7 @@ Following are the good book lists:
 * **Little Mathematics Library** by *MIR Publishers*: These books include short introductory material (without much detail) on various topics which can help student to get an idea of different fields of mathematics, written especially for high school students preparing for Olympiad. All of these can be downloaded legally from [mirtitles.org](http://mirtitles.org/2012/09/06/little-mathematics-library-taking-stock/).
 * **Fun and Fundamentals of Mathematics** by *J. V. Narlikar and M. Narlikar*: This was the first book I bought through flipkart (when it had just started as book selling website). Have read it many times, and enjoyed it every time.
 * **A Mathematical Mosaic: Patterns & Problem-Solving** by *Ravi Vakil*: One of my favorite book (but sadly not available in India, bought it from the USA).
+* **The Number Devil** by *Hans Magnus Enzensberge*: Though the author is not a mathematician, he is a well-known and respected European intellectual and author with wide-ranging interests. This book is similar to George Gamow’s "Mr Tompkins". Plus it's a colourful maths book!
 * **Challenge and Thrill of Pre-College Mathematics** by *Krishnamurthy, Pranesachar,Ranganathan and Venkatachala*: I learned geometry and combinatorics from this book, was fascinated by the Friendship theorem and the work of Erdos.   
 * **A primer on Number Sequences** by *Shailesh Shirali* : A plethora of sequences!
 * **Hands-on Geometry** by *Christopher M. Freeman*: Lovely book ! A step-by-step  guide to learning constructions
@@ -57,8 +58,14 @@ Following are the good book lists:
 <img src="/images/book2.jpg" alt="">
 
 * **Euclid’s Window** by *Leonard Mlodinow*: I loved reading this book (Mlodinow has co-authored "The Grand Design" by Stephen Hawking).
-* **Fermat’s Last Theorem** by *Simon Singh*: A very detailed account on Fermat Theorem & a good number of references.
+* **Fermat’s Last Theorem** by *Simon Singh*: A very detailed account on Fermat's Theorem with a good number of references.
+* **The Poincare Conjecture** by *Donal O'Shea*: It was nice to see how the different branches of topology were developed to solve this conjecture.
+* **The Einstein Theory of Relativity** by *Lillian R. Lieber*: A very clear exposition of the mathematical contribution of Albert Einstein.
 * **Journey Through Genius** by *William Dunham*: Wonderful discussions about mathematical works of great mathematicians.
+* **The book of numbers** by *John H. Conway and Richard K. Guy*: Clear explaination of complicated concepts, especially Bernoulli numbers and cardinal numbers (counting cards). Plus it's a colourful maths book!
+* **Magical Mathematics** by *Persi Diaconis and Ron Graham*: Very interesting mathematical card tricks, a great treat for people who love the collection of Scientific American articles by Martin Gardner.
+* **The Penguin Dictionary of Curious and Interesting Geometry** by *David Wells*: My favourite entry is "pursuit curves".
+* **Flatland** by *Abbott*: It's a short and sweet book.
 * **The Curious Incident of the Dog in the Night-Time** by *Mark Haddon*: An autistic boy who loves prime numbers.
 * **The Devotion of Suspect X** by *Keigo Higashino*: The protagonist is a brilliant but lonely mathematician.
 
@@ -67,13 +74,15 @@ Following are the good book lists:
 
 <img src="/images/book5.jpg" alt="">
 
-* **The Man who knew infinity** by *Robert Kanigel*: Finest biography of Srinivasa Ramanujan Iyenger.
-* **The Man who loved only numbers** by *Paul Hoffmann*: Biography of Paul Erdos which motivated me to become a mathematician.
-* **A Beautiful Mind** by *Sylvia Nasar*: This is biography of John Nash,
-* Dirac
-* Feynman
+* **Surely You're Joking, Mr. Feynman!** by *Richard Feynman*: MUST READ! It change my prospective of life, science and maths. Fun fact: Feynman was a [Putnam fellow](https://mks.mff.cuni.cz/kalva/putnam/putn39.html) and he wrote the exam just for fun, like most of his research (fooling around).
+* **The Man Who Knew Infinity** by *Robert Kanigel*: The finest biography of Srinivasa Ramanujan Iyenger.
+* **The Man Who Loved Only Numbers** by *Paul Hoffmann*: The biography of Paul Erdos which motivated me to become a mathematician.
+* **A Beautiful Mind** by *Sylvia Nasar*: This is the biography of John Nash, a mathematician whose personality is quite the opposite of mine.
+* **The Strangest Man** by *Graham Farmelo*: This is the biography of Paul Dirac, whose life I wanted to know about because he is believed to be autistic.
 
 ## Undergraduate maths textbooks ##
 -----
 
 <img src="/images/book4.jpg" alt="">
+
+* **Abstract Algebra** by *Dummit andd Foote**: 
