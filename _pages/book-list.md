@@ -8,10 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
+Following are the good book lists:
 
-[High-school](#high-school)
-
-[Olympiad-style problem solving](#olympiad-style-problem-solving)
+* [High-school](#high-school)
+* [Olympiad-style problem solving](#olympiad-style-problem-solving)
+* [Popular maths and fiction](#popular-maths-and-fiction)
+* [Biographies and autobiographies](#biographies-and-autobiographies)
+* [Undergraduate textbooks](#undergraduate-textbooks)
+* Number theory and algebraic geometry (Coming soon!)
 
 ## High-school ##
 ------
@@ -58,7 +62,7 @@ redirect_from:
 * **The Curious Incident of the Dog in the Night-Time** by *Mark Haddon*: An autistic boy who loves prime numbers.
 * **The Devotion of Suspect X** by *Keigo Higashino*: The protagonist is a brilliant but lonely mathematician.
 
-## Biographies & Autobiographies ##
+## Biographies and Autobiographies ##
 ------
 
 <img src="/images/book5.jpg" alt="">
