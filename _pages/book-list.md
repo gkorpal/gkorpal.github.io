@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Good Books List"
+title: "Good Books"
 permalink: /book-list/
 author_profile: true
 redirect_from:
