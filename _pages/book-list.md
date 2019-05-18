@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-[High school books](#high-school-books)
+[High-school](#high-school)
 
 [Olympiad-style problem solving](#olympiad-style-problem-solving)
 
-## High-school books ##
+## High-school ##
 ------
 * **NCERT textbooks**: These books were written before 2005. They still follow the old notation to represent natural numbers, integers etc., for example: using  <b>N </b> instead of <b>ℕ </b> to represent set of natural numbers.  Since, only after 2003, bold font (like <b>N</b>)  was completely replaced by  blackboard bold font (like <b>ℕ</b> ) to represent some familiar systems of numbers (like "set of natural numbers") in print.  All of these can be downloaded legally from [NCERT e-books website](http://ncert.nic.in/textbook/textbook.htm).
   * *NCERT Mathematics Textbook for Class IX [NCF – 2005]* is fantastic book as it touches nearly all topics (like geometry, polynomials, Number Theory (rational - irrational numbers), Introduction to mathematical modelling).FOR EXAMPLE: I was spell bound by chapter - “Introduction to Euclid’s Axioms” and I ended up reading “<i>Euclid’s Window by Leonard Mlodinow</i> “ & “<i>Fun & Fundamentals of Mathematics by Narlikar</i>”
@@ -39,3 +39,10 @@ redirect_from:
 * **Non-Routine Problems in Mathematics** by *AMTI (Editor: V. K. Krishnan)* : Lovely book but has few wrong solutions for problems posed in exercises
 * **Problem-Solving Strategies** by *Arthur Engel*: This book is more than enough for someone preparing for olympiads. I found the problems in this book to be quite hard but satisfying.
 * **The Art and Craft of Problem Solving** by *Paul Zeitz*: The first four chapters of this book taught me how to streamline my thinking process.
+
+[Here](https://gkorpal.github.io/files/old-olympiad.pdf) is an outdated list of olympiad preparation books.
+
+## Popular mathematics ##
+------
+
+* 
