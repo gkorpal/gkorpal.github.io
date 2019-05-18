@@ -80,6 +80,8 @@ Following are the good book lists:
 * **A Beautiful Mind** by *Sylvia Nasar*: This is the biography of John Nash, a mathematician whose personality is quite the opposite of mine.
 * **The Strangest Man** by *Graham Farmelo*: This is the biography of Paul Dirac, whose life I wanted to know about because he is believed to be autistic.
 
+*What happened to the women mathematicians?*
+
 ## Undergraduate maths textbooks ##
 -----
 
