@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [High school books](#section-1)
+[Olympiad-style problem solving](#section-2)
 
 ## High-school books ##
 ------
@@ -19,12 +20,21 @@ redirect_from:
   * *NCERT Mathematics Textbook for Class XI [NCF – 2005]* includes some of most fundamental mathematics concepts like “Set Theory”, “Principle of Mathematical Induction”, “Summation of Series”, “Binomial Theorem” & “Permutation & Combinations”. Also appendices on “Infinite Series” & “Mathematical Modelling” are worth reading.</li>
   * *NCERT Mathematics Textbook for Class XII [NCF – 2005]* major focus in on Calculus, but still its appendices on “Proofs in Mathematics” & “Mathematical Modelling” are worth reading. FOR EXAMPLE: In Appendix – 1 (Proofs in Mathematics), there are proofs for two beautiful theorems of Number theory (a) Prime Numbers are infinite & (b) Fermat Numbers are NOT Prime
 * **Little Mathematics Library** by *MIR Publishers*: These books include short introductory material (without much detail) on various topics which can help student to get an idea of different fields of mathematics, written especially for high school students preparing for Olympiad. All of these can be downloaded legally from [mirtitles.org](http://mirtitles.org/2012/09/06/little-mathematics-library-taking-stock/).
-* **Mathematical Circles (Russian Experience)** by *Fomin, Genkin, and Itenberg* : A thought provoking book for students of class VIII & IX
-* **A Mathematical Mosaic: Patterns & Problem-Solving** by *Ravi Vakil*: My favorite book <em>(but sadly not available in India, bought it from USA)</em>
-* **Arithmetic and Algebra: Numbers and the beginnings of Algebra** by *S. A. Shirali* : An ideal text for beginners
-* **First Steps in Number Theory: A Primer on Divisibility** by *S.A. Shirali* : Discusses congruences in good detail
+* **Fun and Fundamentals of Mathematics** by *J. V. Narlikar and M. Narlikar*: This was the first book I bought through flipkart (when it had just started as book selling website). Have read it many times, and enjoyed it every time.
+* **A Mathematical Mosaic: Patterns & Problem-Solving** by *Ravi Vakil*: One of my favorite book (but sadly not available in India, bought it from the USA).
+* **Challenge and Thrill of Pre-College Mathematics** by *Krishnamurthy, Pranesachar,Ranganathan and Venkatachala*: I learned geometry and combinatorics from this book, was fascinated by the Friendship theorem and the work of Erdos.   
+* **A primer on Number Sequences** by *Shailesh Shirali* : A plethora of sequences!
 * **Hands-on Geometry** by *Christopher M. Freeman*: Lovely book ! A step-by-step  guide to learning constructions
-* **Non-Routine Problems in Mathematics** by *AMTI (Editor: V. K. Krishnan)* : Lovely book but has few wrong solutions for problems posed in exercises
+* **Higher Algebra** by *Barnard and Child*: A classic book in college algebra, contains my favourite proof of Wilson's theorem. Freely available on [Internet Archive](https://archive.org/details/higheralgebra032813mbp/page/n4).
 * **The Cartoon Guide to Calculus** by *Larry Gonick*:  A Fantastic book ! Everyone will love calculus after reading this. An illustrative guide to elementary calculus.
+* **Calculus: Basic Concepts for High Schools** by *Lev Tarasov*: Among the many calculus textbooks I read, this was the one which gave me the most clarity. Re-written in [LaTex](https://archive.org/details/LevTarasovCalculusBasicConceptsForHighSchools/page/n101) by [The Mitr](https://wp.me/p13GRc-RX).
 * **Mathematics: A very Short Introduction** by *T. Gowers*: A broad overview of research carrier in mathematics.
 * **What is Mathematics ?** by *Richard Courant and Herbert Robbins* : This is must read book for all students serious towards mathematics. This book will be your life long friend.
+
+## Olympiad-style problem solving ##
+--------
+
+* **Mathematical Circles (Russian Experience)** by *Fomin, Genkin, and Itenberg* : A thought provoking book for students of class VIII & IX
+* **Non-Routine Problems in Mathematics** by *AMTI (Editor: V. K. Krishnan)* : Lovely book but has few wrong solutions for problems posed in exercises
+* **Problem-Solving Strategies** by *Arthur Engel*: This book is more than enough for someone preparing for olympiads. I found the problems in this book to be quite hard but satisfying.
+* **The Art and Craft of Problem Solving** by *Paul Zeitz*: The first four chapters of this book taught me how to streamline my thinking process.
