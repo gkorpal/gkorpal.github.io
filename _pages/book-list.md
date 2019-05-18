@@ -62,7 +62,7 @@ Following are the good book lists:
 * **The Poincare Conjecture** by *Donal O'Shea*: It was nice to see how the different branches of topology were developed to solve this conjecture.
 * **The Einstein Theory of Relativity** by *Lillian R. Lieber*: A very clear exposition of the mathematical contribution of Albert Einstein.
 * **Journey Through Genius** by *William Dunham*: Wonderful discussions about mathematical works of great mathematicians.
-* **The book of numbers** by *John H. Conway and Richard K. Guy*: Clear explaination of complicated concepts, especially Bernoulli numbers and cardinal numbers (counting cards). Plus it's a colourful maths book!
+* **The Book of Numbers** by *John H. Conway and Richard K. Guy*: Clear explaination of complicated concepts, especially Bernoulli numbers and cardinal numbers (counting cards). Plus it's a colourful maths book!
 * **Magical Mathematics** by *Persi Diaconis and Ron Graham*: Very interesting mathematical card tricks, a great treat for people who love the collection of Scientific American articles by Martin Gardner.
 * **The Penguin Dictionary of Curious and Interesting Geometry** by *David Wells*: My favourite entry is "pursuit curves".
 * **Flatland** by *Abbott*: It's a short and sweet book.
