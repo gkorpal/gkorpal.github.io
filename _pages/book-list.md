@@ -119,7 +119,7 @@ Following are the good book lists:
 * **An Introduction to Algebraic Topology** by *Joseph Rotman*: A good introductory text with a good number of examples. Can read Munkres' "Elements of Algebraic Topology" for a more detailed discussion.
 * **Elementary Differential Geometry** by *Andrew Pressley*: This book is the study of the geometry of curves and surfaces in three-dimensional space using calculus techniques.
 * **An Introduction to Manifolds** by *Loring  W. Tu*: The best possible introduction to smooth manifolds. Can skip the Lie group, Lie algebra and Lie derivative during the first reading. Also have a look at Amiya Mukherjee's "Differential Topology".
-* **An Invitation to Algebraic Geometry** by *Karen E. Smith, Lauri Kahanpää, Pekka Kekäläinen, William Traves*: Really nice warmup book for Hartshorne. Also, have a look at Miles Reid's "Undergraduate commutative algebra".
+* **An Invitation to Algebraic Geometry** by *Karen E. Smith, Lauri Kahanpää, Pekka Kekäläinen, William Traves*: Really nice warmup book for Hartshorne. Also have a look at Miles Reid's "Undergraduate commutative algebra".
 
 ## Miscellaneous ##
 
