@@ -52,7 +52,7 @@ Following are the good book lists:
 
 *[Here](https://gkorpal.github.io/files/old-olympiad.pdf) is an outdated list of olympiad preparation books.*
 
-## Popular mathematics and Fiction ##
+## Popular maths and Fiction ##
 ------
 
 <img src="/images/book2.jpg" alt="">
