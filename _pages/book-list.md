@@ -107,7 +107,7 @@ Following are the good book lists:
 
 * **Foundations of Analysis** by *E. Landau*: Fantastic short book. I learned about Peano axioms from this book. Terry Tao's "Analysis I" also starts with a similar discussion.
 * **Introduction to Real Analysis** by *Bartle and Sherbert*: A very nice introduction to epsilon-delta framework. Lots of examples and good exercises.
-* **Topology of Metric Spaces** by *Kumaresan*: Discusses various useful inequalitites needed in analysis and helps us see the importance of metric space structure in real analysis. Also have a look at the book "The Cauchy-Schwarz Master Class" by J. Michael Steele.
+* **Topology of Metric Spaces** by *S. Kumaresan*: Discusses various useful inequalitites needed in analysis and helps us see the importance of metric space structure in real analysis. Also have a look at the book "The Cauchy-Schwarz Master Class" by J. Michael Steele.
 * **Analysis on Manifolds** by *Munkres*: A very clear introduction to several variable calculus. For integrations examples, see books by Tom Apostol (Calculus vol. 1 and 2, and Mathematical Analysis). However, most probably the best book for learning this subject is "Vector Calculus, Linear Algebra, and Differential Forms" by Hubbard and Hubbard (unfortunately I had time to read only a few parts of this book).
 * **Lebesgue Integration On Euclidean Space** by *Frank Jones*: An introductory text on mesaure theory. If you find this book boring, spend some time on the first three chapters of Folland's "Real Analysis: Modern Techniques and Their Applications".
 * **Functions of One Complex Variable** by *J. B. Conway*: I really like the proofs given in this book, though I feel that it is a tough book for beginners. Section III.3 briefly discusses Mobius transformations which is very important. There are many better books in the market like the one by Bak and Newman, or Sasane and Sasane.
@@ -116,11 +116,11 @@ Following are the good book lists:
 
 ## Topology and Geometry ##
 
-* **Topology** by *J. Munkres*: For point-set topology and introductory algebraic topology (fundamental groups).
+* **Topology** by *James Munkres*: For point-set topology and introductory algebraic topology (fundamental groups).
 * **An Introduction to Algebraic Topology** by *Joseph Rotman*: A good introductory text with a good number of examples. Can read Munkres' "Elements of Algebraic Topology" for a more detailed discussion.
 * **Elementary Differential Geometry** by *Andrew Pressley*: This book is the study of the geometry of curves and surfaces in three-dimensional space using calculus techniques.
 * **An Introduction to Manifolds** by *Loring  W. Tu*: The best possible introduction to smooth manifolds. Can skip the Lie group, Lie algebra and Lie derivative during the first reading. Also have a look at Amiya Mukherjee's "Differential Topology".
-* **An Invitation to Algebraic Geometry** by *Karen E. Smith, Lauri Kahanpää, Pekka Kekäläinen, William Traves*: Really nice warmup book for Hartshorne. Also have a look at Miles Reid's "Undergraduate commutative algebra".
+* **An Invitation to Algebraic Geometry** by *Karen E. Smith, Lauri Kahanpää, Pekka Kekäläinen, and William Traves*: Really nice warmup book for Hartshorne. Also have a look at Miles Reid's "Undergraduate commutative algebra".
 
 ## Miscellaneous ##
 
@@ -128,4 +128,4 @@ Following are the good book lists:
 * **An Introduction to the Theory of Numbers** by *Ivan Niven, Herbert S. Zuckerman and Hugh L. Montgomery*: Covers all flavours of number theory in adequate detail. For a more gentle introduction, see Silverman's "A Friendly Introduction to Number Theory".
 
 
-*I don't know about a good introductory book on numerical analysis, graph theory, probability and statistics.*
+*I don't know about a good introductory book on numerical analysis, graph theory, probability or statistics.*
