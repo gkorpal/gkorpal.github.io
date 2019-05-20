@@ -43,6 +43,7 @@ Following are the good book lists:
 * **Calculus: Basic Concepts for High Schools** by *Lev Tarasov*: Among the many calculus textbooks I read, this was the one which gave me the most clarity. Re-written in [LaTeX](https://archive.org/details/LevTarasovCalculusBasicConceptsForHighSchools/page/n101) by [The Mitr](https://wp.me/p13GRc-RX).
 * **Mathematics: A very Short Introduction** by *T. Gowers*: A broad overview of research carrier in mathematics.
 * **What is Mathematics ?** by *Richard Courant and Herbert Robbins* : This is must read book for all students serious towards mathematics. This book will be your life long friend.
+* **MATH!: Encounters with High School Students** by *Serge Lang*: A collection of conversations involving high-school level mathematics topics.
 
 ## Olympiad-style problem solving ##
 --------
@@ -62,8 +63,10 @@ Following are the good book lists:
 <img src="/images/book2.jpg" alt="">
 
 * **Euclid’s Window** by *Leonard Mlodinow*: I loved reading this book (Mlodinow has co-authored "The Grand Design" by Stephen Hawking).
+*  **Euler's Gem** by *David Richeson*: 2+E=F+V was my favourite formula in school and this was the first book I read in college.
 * **Fermat’s Last Theorem** by *Simon Singh*: A very detailed account on Fermat's Theorem with a good number of references.
 * **The Poincare Conjecture** by *Donal O'Shea*: It was nice to see how the different branches of topology were developed to solve this conjecture.
+* **Prime Obsession** by *John Derbyshire*: I finally understood the  meaning of "analytic continuation" from this book.
 * **The Einstein Theory of Relativity** by *Lillian R. Lieber*: A very clear exposition of the mathematical contribution of Albert Einstein.
 * **Journey Through Genius** by *William Dunham*: Wonderful discussions about mathematical works of great mathematicians.
 * **The Book of Numbers** by *John H. Conway and Richard K. Guy*: Clear explaination of complicated concepts, especially Bernoulli numbers and cardinal numbers (counting cards). Plus it's a colourful maths book!
@@ -93,17 +96,18 @@ Following are the good book lists:
 
 ## Algebra ##
 
-* **Topics in Algebra** by *I. N. Herstein*: For an introduction to group theory. Especially for the three different proofs of Sylow's theorems. Also has a good selection of exercises.
+* **Topics in Algebra** by *I. N. Herstein*: For an introduction to group theory, though the notations are a bit outdated. Especially see the three different proofs of Sylow's theorems. Also has a good selection of exercises.
 * **Linear Algebra** by *Hoffman and Kunze*: Surely there are better books in the market, but I learned from this. The first chapter is a bit of a mess with 4x4 and 5x5 matrices.
 * **Abstract Algebra** by *Dummit and Foote*: For an introduction to ring theory, modules over PID, field theory and Galois theory. Has lots of solved examples.
 * **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's "Algebraic Geometry". A more gentle introductory book is by N. S. Gopala Krishnan.
+* **Representation Theory of Finite Groups** by *Martin Burrow*: 
 
 ## Analysis ##
 
 * **Foundations of Analysis** by *E. Landau*: Fantastic short book. I learned about Peano axioms from this book. Terry Tao's "Analysis I" also starts with a similar discussion.
 * **Introduction to Real Analysis** by *Bartle and Sherbert*: A very nice introduction to epsilon-delta framework. Lots of examples and good exercises.
-* **Topology of Metric Spaces** by *Kumaresan*: Discusses various useful inequalitites needed in analysis and helps us see the importance of metric space structure in real analysis.
-* **Analysis on Manifolds** by *Munkres*: A very clear introduction to several variable calculus. For integrations examples, see books by Tom Apostol (Calculus vol. 1 and 2, and Mathematical Analysis).
+* **Topology of Metric Spaces** by *Kumaresan*: Discusses various useful inequalitites needed in analysis and helps us see the importance of metric space structure in real analysis. Also have a look at the book "The Cauchy-Schwarz Master Class" by J. Michael Steele.
+* **Analysis on Manifolds** by *Munkres*: A very clear introduction to several variable calculus. For integrations examples, see books by Tom Apostol (Calculus vol. 1 and 2, and Mathematical Analysis). However, most probably the best book for learning this subject is "Vector Calculus, Linear Algebra, and Differential Forms" by Hubbard and Hubbard (unfortunately I had time to read only a few parts of this book).
 * **Lebesgue Integration On Euclidean Space** by *Frank Jones*: An introductory text on mesaure theory. If you find this book boring, spend some time on the first three chapters of Folland's "Real Analysis: Modern Techniques and Their Applications".
 * **Functions of One Complex Variable** by *J. B. Conway*: I really like the proofs given in this book, though I feel that it is a tough book for beginners. Section III.3 briefly discusses Mobius transformations which is very important. There are many better books in the market like the one by Bak and Newman, or Sasane and Sasane.
 * **Introduction to Topology and Modern Analysis** by *G. F. Simmons*: This book should be renamed as "An Introduction to Functional Analysis".
@@ -113,8 +117,9 @@ Following are the good book lists:
 
 * **Topology** by *J. Munkres*: For point-set topology and introductory algebraic topology (fundamental groups).
 * **An Introduction to Algebraic Topology** by *Joseph Rotman*: A good introductory text with a good number of examples. Can read Munkres' "Elements of Algebraic Topology" for a more detailed discussion.
+* **Elementary Differential Geometry** by *Andrew Pressley*: This book is the study of the geometry of curves and surfaces in three-dimensional space using calculus techniques.
+* **An Introduction to Manifolds** by *Loring  W. Tu*: The best possible introduction to smooth manifolds. Can skip the Lie group, Lie algebra and Lie derivative during the first reading. Also have a look at Amiya Mukherjee's "Differential Topology".
 * **An Invitation to Algebraic Geometry** by *Karen E. Smith, Lauri Kahanpää, Pekka Kekäläinen, William Traves*: Really nice warmup book for Hartshorne. Also, have a look at Miles Reid's "Undergraduate commutative algebra".
-* **An Introduction to Manifolds** by *Loring  W. Tu*: The best possible introduction to smooth manifolds.
 
 ## Miscellaneous ##
 
