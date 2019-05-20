@@ -69,6 +69,7 @@ Following are the good book lists:
 * **Prime Obsession** by *John Derbyshire*: I finally understood the  meaning of "analytic continuation" from this book.
 * **The Einstein Theory of Relativity** by *Lillian R. Lieber*: A very clear exposition of the mathematical contribution of Albert Einstein.
 * **Journey Through Genius** by *William Dunham*: Wonderful discussions about mathematical works of great mathematicians.
+* **Who Gave you the Epsilon?: And Other Tales of Mathematical History** by *Anderson, Katz and Wilson*: One of the many good books in the SPECTRUM series of MAA.
 * **The Book of Numbers** by *John H. Conway and Richard K. Guy*: Clear explaination of complicated concepts, especially Bernoulli numbers and cardinal numbers (counting cards). Plus it's a colourful maths book!
 * **Magical Mathematics** by *Persi Diaconis and Ron Graham*: Very interesting mathematical card tricks, a great treat for people who love the collection of Scientific American articles by Martin Gardner.
 * **The Penguin Dictionary of Curious and Interesting Geometry** by *David Wells*: My favourite entry is "pursuit curves".
@@ -87,7 +88,7 @@ Following are the good book lists:
 * **A Beautiful Mind** by *Sylvia Nasar*: This is the biography of John Nash, a mathematician whose personality is quite the opposite of mine.
 * **The Strangest Man** by *Graham Farmelo*: This is the biography of Paul Dirac, whose life I wanted to know about because he is believed to be autistic.
 
-*What happened to the women mathematicians?*
+*What happened to the women mathematicians? Sophie Germain, Sofia Kovalevskaya, Emmy Noether, Julia Robinson,...*
 
 ## Undergraduate maths textbooks ##
 -----
@@ -96,11 +97,11 @@ Following are the good book lists:
 
 ## Algebra ##
 
-* **Topics in Algebra** by *I. N. Herstein*: For an introduction to group theory, though the notations are a bit outdated. Especially see the three different proofs of Sylow's theorems. Also has a good selection of exercises.
+* **Topics in Algebra** by *I. N. Herstein*: For an introduction to group theory, though the notations are a bit outdated. Especially see the three different proofs of Sylow's theorems. Also has a good selection of exercises. To have a better understanding of Cayley's theorem, see Fraleigh's "A First Course in Abstract Algebra".
 * **Linear Algebra** by *Hoffman and Kunze*: Surely there are better books in the market, but I learned from this. The first chapter is a bit of a mess with 4x4 and 5x5 matrices.
 * **Abstract Algebra** by *Dummit and Foote*: For an introduction to ring theory, modules over PID, field theory and Galois theory. Has lots of solved examples.
 * **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's "Algebraic Geometry". A more gentle introductory book is by N. S. Gopala Krishnan.
-* **Representation Theory of Finite Groups** by *Martin Burrow*: 
+* **Representation Theory of Finite Groups** by *Martin Burrow*: Must read the introduction to the first chapter. Notations are a bit outdated, but not as [bad](https://math.stackexchange.com/a/192728) as in Gordon James and Martin Liebeck's "Representation and Characters of Groups". 
 
 ## Analysis ##
 
