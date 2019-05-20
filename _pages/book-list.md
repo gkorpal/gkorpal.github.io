@@ -87,16 +87,24 @@ Following are the good book lists:
 
 <img src="/images/book4.jpg" alt="">
 
+## AS ##
+
+* **Topology** by *J. Munkres*: For point-set topology and introductory algebraic topology (fundamental groups).
+* **An Introduction to Algebraic Topology** by *Joseph Rotman*: A good introductory text with a good number of examples. Can read Munkres' "Elements of Algebraic Topology" for a more detailed discussion.
+* **Foundations of Analysis** by *E. Landau*: Fantastic short book. I learned about Peano axioms from this book. Terry Tao's "Analysis I" also starts with a similar discussion.
+* **Introduction to Real Analysis** by *Bartle and Sherbert*: A very nice introduction to epsilon-delta framework. Lots of examples and good exercises.
+* **Topology of Metric Spaces** by *Kumaresan*: Discusses various useful inequalitites needed in analysis and helps us see the importance of metric space structure in real analysis.
+* **Analysis on Manifolds** by *Munkres*: A very clear introduction to several variable calculus. Prepares you to start reading about smooth manifold from Tu's "An Introduction to Manifolds". For integrations examples, see books by Tom Apostol (Calculus vol. 1 and 2, and Mathematical Analysis).
+* **Lebesgue Integration On Euclidean Space** by *Frank Jones*: An introductory text on mesaure theory. If you find this book boring, spend some time on the first three chapters of Folland's "Real Analysis: Modern Techniques and Their Applications".
+* **Functions of One Complex Variable** by *J. B. Conway*: I really like the proofs given in this book, though I feel that it is a tough book for beginners. There are many better books in the market like the one by Bak and Newman, or Sasane and Sasane.
+* **Introduction to Topology and Modern Analysis** by *G. F. Simmons*: This book should be renamed as "An Introduction to Functional Analysis".
+* **Differential Equations** by *S. L. Ross*: Nothing special, any other text like Simmons and Krantz's "Differential Equations: Theory - Technique and Practice" is also good.
+* **Introductory Combinatorics** by *R. A. Brualdi*: There are some typos, but there some really interesting discussions like an interesting theorem by Erdős and Szekeres (pp. 76, 5th ed).
 * **Topics in Algebra** by *I. N. Herstein*: For an introduction to group theory. Especially for the three different proofs of Sylow's theorems. Also has a good selection of exercises.
 * **Linear Algebra** by *Hoffman and Kunze*: Surely there are better books in the market, but I learned from this. The first chapter is a bit of a mess with 4x4 and 5x5 matrices.
 * **Abstract Algebra** by *Dummit and Foote*: For an introduction to ring theory, modules over PID, field theory and Galois theory. Has lots of solved examples.
-* **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's "Algebraic Geometry".
-* **Introduction to Real Analysis** by *Bartle and Sherbert*: A very nice introduction to epsilon-delta framework. Lots of examples and good exercises.
-* **Topology of Metric Spaces** by *Kumaresan*: Discusses various useful inequalitites needed in analysis and helps us see the importance of metric space structure in real analysis.
-* **Analysis on Manifolds** by *Munkres*: A very clear introduction to several variable calculus. Prepares you to start reading about smooth manifold from Tu's "An Introduction to Manifolds".
-* **Measure theory** ?? FOllanda, or other euclidean space book
-* **Topology** by *J. Munkres*: For point-set topology and introductory algebraic topology (fundamental groups).
-* **An Introduction to Algebraic Topoplogy** by *Joseph Rotman*: A good introductory text with a good number of examples. Can read Munkres' "Elements of Algebraic Topology" for a more detailed discussion.
+* **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's "Algebraic Geometry". A more gentle introductory book is by N. S. Gopala Krishnan.
+* **An Invitation to Algebraic Geometry** by *Karen E. Smith, Lauri Kahanpää, Pekka Kekäläinen, William Traves*: Really nice warmup book for Hartshorne.
+* **An Introduction to the Theory of Numbers** by *Ivan Niven, Herbert S. Zuckerman and Hugh L. Montgomery*: Covers all flavours of number theory in adequate detail. For a more gentle introduction, see Silverman's "A Friendly Introduction to Number Theory".
 
-
-*I am still looking for a good introductory book on representation theory.*
+*I don't know about a good introductory book on numerical analysis, graph theory, probability and statistics.*
