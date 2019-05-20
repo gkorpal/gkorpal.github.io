@@ -50,7 +50,7 @@ Following are the good book lists:
 * **Problem-Solving Strategies** by *Arthur Engel*: This book is more than enough for someone preparing for olympiads. I found the problems in this book to be quite hard but satisfying.
 * **The Art and Craft of Problem Solving** by *Paul Zeitz*: The first four chapters of this book taught me how to streamline my thinking process.
 
-[Here](https://gkorpal.github.io/files/old-olympiad.pdf) is an outdated list of olympiad preparation books.
+*[Here](https://gkorpal.github.io/files/old-olympiad.pdf) is an outdated list of olympiad preparation books.*
 
 ## Popular mathematics and Fiction ##
 ------
@@ -87,4 +87,16 @@ Following are the good book lists:
 
 <img src="/images/book4.jpg" alt="">
 
-* **Abstract Algebra** by *Dummit andd Foote**: 
+* **Topics in Algebra** by *I. N. Herstein*: For an introduction to group theory. Especially for the three different proofs of Sylow's theorems. Also has a good selection of exercises.
+* **Linear Algebra** by *Hoffman and Kunze*: Surely there are better books in the market, but I learned from this. The first chapter is a bit of a mess with 4x4 and 5x5 matrices.
+* **Abstract Algebra** by *Dummit and Foote*: For an introduction to ring theory, modules over PID, field theory and Galois theory. Has lots of solved examples.
+* **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's "Algebraic Geometry".
+* **Introduction to Real Analysis** by *Bartle and Sherbert*: A very nice introduction to epsilon-delta framework. Lots of examples and good exercises.
+* **Topology of Metric Spaces** by *Kumaresan*: Discusses various useful inequalitites needed in analysis and helps us see the importance of metric space structure in real analysis.
+* **Analysis on Manifolds** by *Munkres*: A very clear introduction to several variable calculus. Prepares you to start reading about smooth manifold from Tu's "An Introduction to Manifolds".
+* **Measure theory** ?? FOllanda, or other euclidean space book
+* **Topology** by *J. Munkres*: For point-set topology and introductory algebraic topology (fundamental groups).
+* **An Introduction to Algebraic Topoplogy** by *Joseph Rotman*: A good introductory text with a good number of examples. Can read Munkres' "Elements of Algebraic Topology" for a more detailed discussion.
+
+
+*I am still looking for a good introductory book on representation theory.*
