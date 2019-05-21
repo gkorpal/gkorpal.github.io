@@ -19,7 +19,7 @@ Following are the good book lists:
   * [Analysis](#analysis)
   * [Topology and Geometry](#topology-and-geometry)
   * [Miscellaneous](#miscellaneous)
-* Number theory and algebraic geometry (Coming soon!)
+* [Number theory and algebraic geometry](#number-theory-and-algebraic-geometry)
 
 ## High-school maths ##
 ------
@@ -129,3 +129,10 @@ Following are the good book lists:
 
 
 *I don't know about a good introductory book on numerical analysis, graph theory, probability or statistics.*
+
+## Number theory and algebraic geometry ##
+--------------
+
+<img src="/images/book6.jpg" alt="">
+
+* **Number Theory**
