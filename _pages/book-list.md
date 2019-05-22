@@ -10,18 +10,20 @@ redirect_from:
 {% include base_path %}
 Following are the good book lists:
 
-* [High-school maths](#high-school-maths)
-* [Olympiad-style problem solving](#olympiad-style-problem-solving)
-* [Popular maths and fiction](#popular-maths-and-fiction)
-* [Biographies and autobiographies](#biographies-and-autobiographies)
-* [Undergraduate maths textbooks](#undergraduate-maths-textbooks)
+* [High School Maths](#high-school-maths)
+* [Olympiad-style Problem Solving](#olympiad-style-problem-solving)
+* [Popular Maths and Fiction](#popular-maths-and-fiction)
+* [Biographies and Autobiographies](#biographies-and-autobiographies)
+* [Undergraduate Maths Textbooks](#undergraduate-maths-textbooks)
   * [Algebra](#algebra)
   * [Analysis](#analysis)
   * [Topology and Geometry](#topology-and-geometry)
   * [Miscellaneous](#miscellaneous)
-* [Number theory and algebraic geometry](#number-theory-and-algebraic-geometry) (incomplete list)
+* [My Interests](#my-interests)
+  * [Number Theory](#number-theory)
+  * [Algebraic Geometry](#algebraic-geometry)
 
-## High-school maths ##
+## High School Maths ##
 ------
 
 <img src="/images/book3.jpg" alt="">
@@ -45,7 +47,7 @@ Following are the good book lists:
 * **What is Mathematics ?** by *Richard Courant and Herbert Robbins* : This is must read book for all students serious towards mathematics. This book will be your life long friend.
 * **MATH!: Encounters with High School Students** by *Serge Lang*: A collection of conversations involving high-school level mathematics topics.
 
-## Olympiad-style problem solving ##
+## Olympiad-style Problem Solving ##
 --------
 
 <img src="/images/book1.jpg" alt="">
@@ -57,7 +59,7 @@ Following are the good book lists:
 
 *[Here](https://gkorpal.github.io/files/old-olympiad.pdf) is an outdated list of olympiad preparation books.*
 
-## Popular maths and Fiction ##
+## Popular Maths and Fiction ##
 ------
 
 <img src="/images/book2.jpg" alt="">
@@ -90,7 +92,7 @@ Following are the good book lists:
 
 *What happened to the women mathematicians? Sophie Germain, Sofia Kovalevskaya, Emmy Noether, Julia Robinson,...*
 
-## Undergraduate maths textbooks ##
+## Undergraduate Maths Textbooks ##
 -----
 
 <img src="/images/book4.jpg" alt="">
@@ -120,7 +122,7 @@ Following are the good book lists:
 * **An Introduction to Algebraic Topology** by *Joseph Rotman*: A good introductory text with a good number of examples. Can read Munkres' "Elements of Algebraic Topology" for a more detailed discussion.
 * **Elementary Differential Geometry** by *Andrew Pressley*: This book is the study of the geometry of curves and surfaces in three-dimensional space using calculus techniques.
 * **An Introduction to Manifolds** by *Loring  W. Tu*: The best possible introduction to smooth manifolds. Can skip the Lie group, Lie algebra and Lie derivative during the first reading. Also have a look at Amiya Mukherjee's "Differential Topology".
-* **An Invitation to Algebraic Geometry** by *Karen E. Smith, Lauri Kahanpää, Pekka Kekäläinen, and William Traves*: Really nice warmup book for Hartshorne. Also have a look at Miles Reid's "Undergraduate commutative algebra".
+* **An Invitation to Algebraic Geometry** by *Karen E. Smith, Lauri Kahanpää, Pekka Kekäläinen, and William Traves*: Really nice warmup book for Hartshorne. Lots of solved examples. Also have a look at Miles Reid's "Undergraduate commutative algebra".
 
 ## Miscellaneous ##
 
@@ -130,10 +132,12 @@ Following are the good book lists:
 
 *I don't know about a good introductory book on numerical analysis, graph theory, probability or statistics.*
 
-## Number theory and algebraic geometry ##
+## My Interests ##
 --------------
 
 <img src="/images/book6.jpg" alt="">
+
+## Number Theory ##
 
 * **An Introduction to Diophantine Equations** by *Dorin Andrica, Ion Cucurezeanu, and Titu Andreescu*: A really nice place to learn elementary methods for solving various types of Diophantine equations.
 * **A Friendly Introduction to Number Theory** by *Joseph H. Silverman*: A modern introduction to elementary number theory.
@@ -144,3 +148,18 @@ Following are the good book lists:
 * **Elementary Methods in Number Theory** by *M. B. Nathanson*: The part 3 of this book gives a good introduction to additive aspects of analytic number theory. I haven't spent much time on this book since I don't enjoy analysis in general.
 * **Number Theory 2: Introduction to Class Field Theory** by *Kazuya Kato, Nobushige Kurokawa and Takeshi Saito*: I haven't read this book, but in Prof. C.S. Rajan's opinion this is one of the best inroduction to class field theory. I know very little about class field theory, most of what I know can be found in the first part of Serre's "A Course in Arithmetic".
 * **Algebraic Number Theory** by *Jürgen Neukirch*: A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. This book nicely interlaces algebraic geometry with algebraic number theory.
+
+## Algebraic Geometry ##
+
+* **Basic Algebraic Geometry (vol. 1 and 2)** by *Igor Shafarevich*: A very nice introductory text for someone who is also interested in number theory. Initially, the subject is motivated using examples from number theory.  
+* **Principles of Algebraic Geometry** by *Joe Harris and Phillip Griffiths*: The only available introductory text on complex algebraic geometry. Not at all a good book for self study, my whole master's thesis was an attempt to understand 14 pages of this book (pp. 34-47). However, the collection of ideas is worth the effort. You might find the following texts useful for background reading:
+  * **Foundations of Differentiable Manifolds and Lie Groups** by *W. F. Warner*: Chapter 5 where the equivalence of Cech cohomology to sheaf cohomology is discussed.
+  * **Algebraic Curves and Riemann Surfaces** by *Rick Miranda*: Chapter IX for the definiton and basic properties of Cech cohomology.
+  * **Topological Methods in Algebraic Geometry** by *Friedrich Hirzebruch*: Section 2 for the realtion between Cech and de Rham cohomology.
+  * **Complex Geometry** by *Daniel Huybrechts*: The first two chapters of this book cover the necessary complex analysis and complex manifolds background needed for Griffiths-Harris. Especially the proof of $\overline{\partial}$-Poincare lemma. The proof of Poincare lemma can be found in Munkres' "Analysis on Manifolds".
+  * **Differential Analysis on Complex Manifolds** by *R. O. Wells*: For understanding vector bundles and more.
+  * **From Holomorphic Functions to Complex Manifolds** by *Fritzsche and Grauert*: For analytic subvariety properties.
+  * **Analytic Functions of Several Complex Variables** by *Gunning and Rossi*: The necessary background about several variable complex valued functions, and a detailed proof of proof of $\overline{\partial}$-Poincare lemma.
+  * **Function Theory of Several Complex Variables** by *S. G. Krantz*: The proof of Dolbeault theorem for $\mathbb{C}^n$ is discussed in section 6.3.
+* **Algebraic Geometry** by *Hartshorne*: This is a standard text, everyone has to solve its exercises. Qing Liu's "Algebraic Geometry and Arithmetic Curves" might be of some help intially since the first chapter about commutative algebra and sheaf theory are well written.
+  
