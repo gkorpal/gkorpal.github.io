@@ -19,7 +19,7 @@ Following are the good book lists:
   * [Analysis](#analysis)
   * [Topology and Geometry](#topology-and-geometry)
   * [Miscellaneous](#miscellaneous)
-* [Number theory and algebraic geometry](#number-theory-and-algebraic-geometry)(incomplete list)
+* [Number theory and algebraic geometry](#number-theory-and-algebraic-geometry) (incomplete list)
 
 ## High-school maths ##
 ------
