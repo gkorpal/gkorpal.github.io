@@ -161,5 +161,5 @@ Following are the good book lists:
   * **From Holomorphic Functions to Complex Manifolds** by *Fritzsche and Grauert*: For analytic subvariety properties.
   * **Analytic Functions of Several Complex Variables** by *Gunning and Rossi*: The necessary background about several variable complex valued functions, and a detailed proof of $\overline{\partial}$-Poincare lemma.
   * **Function Theory of Several Complex Variables** by *S. G. Krantz*: The proof of Dolbeault theorem for $\mathbb{C}^n$ is discussed in section 6.3.
-* **Algebraic Geometry** by *Hartshorne*: This is a standard text, everyone has to solve its exercises. Qing Liu's "Algebraic Geometry and Arithmetic Curves" might be of some help intially since the first chapter about commutative algebra and sheaf theory are well written.
+* **Algebraic Geometry** by *Hartshorne*: This is a standard text, everyone has to solve its exercises. Qing Liu's "Algebraic Geometry and Arithmetic Curves" might be of some help intially since its first chapter about commutative algebra and sheaf theory is well written.
   
