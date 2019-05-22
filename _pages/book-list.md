@@ -135,4 +135,11 @@ Following are the good book lists:
 
 <img src="/images/book6.jpg" alt="">
 
-* **Number Theory**
+* **An Introduction to Diophantine Equations** by *Dorin Andrica, Ion Cucurezeanu, and Titu Andreescu*: A really nice place to learn elementary methods for solving various types of Diophantine equations.
+* **A Friendly Introduction to Number Theory** by *Joseph H. Silverman*: A modern introduction to elementary number theory.
+* **Topics in Number Theory (Volumes I and II)** by *William J. LeVeque*: The best place to understand the proof of Roth's theorem and Delaunay-Nagell theorem (discussed in the volume 2 part). The volume 1 part can also be used as an introduction to elementary number theory. If you want to see the proof of Roth's theorem in terms of exercises, have a look at the book "An Invitation to Modern Number Theory" by Steven J. Miller and Ramin Takloo-Bighash.
+* **Number Fields** by *Daniel Marcus*: The best introductory text on algeraic number theory, where most big proofs are in the form of exercises. When I read the book, it was available only in old typewriter font but fortunately Springer released its LaTeX edition!
+* **Multiplicative Number Theory** by *Harold Davenport*: This is a tough book for introducing analytic number theory, but worth the hardwork since the proof of Prime Number Theorem with a good extimate has been discussed. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!). Also, Davenport's "Higher Arithmetic" is a nice second reading in elementary number theory.
+* **Introduction to Elliptic Curves and Modular Forms** by *Neal Koblitz*: A great introduction to modular forms, which basically adds details and exercises to Serre's condense one chapter introduction in the classic "A Course in Arithmetic". 
+* **Elementary Methods in Number Theory** by *M. B. Nathanson*: The part 3 of this book gives a good introduction to additive aspects of analytic number theory. I haven't spent much time on this book since I don't enjoy analysis in general.
+* **Number Theory 2: Introduction to Class Field Theory** by *Kazuya Kato, Nobushige Kurokawa and Takeshi Saito*: I haven't read this book, but this is Prof. C.S. Rajan's one  of the favourite book and in his opinion one of the best inroduction to class field theory. I know very little about class field theory, most of what I know can be found in the first part of Serre's "A Course in Arithmetic".
