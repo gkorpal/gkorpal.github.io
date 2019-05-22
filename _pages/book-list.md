@@ -19,7 +19,7 @@ Following are the good book lists:
   * [Analysis](#analysis)
   * [Topology and Geometry](#topology-and-geometry)
   * [Miscellaneous](#miscellaneous)
-* [Number theory and algebraic geometry](#number-theory-and-algebraic-geometry)
+* [Number theory and algebraic geometry](#number-theory-and-algebraic-geometry)(incomplete list)
 
 ## High-school maths ##
 ------
@@ -142,4 +142,5 @@ Following are the good book lists:
 * **Multiplicative Number Theory** by *Harold Davenport*: This is a tough book for introducing analytic number theory, but worth the hardwork since the proof of Prime Number Theorem with a good extimate has been discussed. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!). Also, Davenport's "Higher Arithmetic" is a nice second reading in elementary number theory.
 * **Introduction to Elliptic Curves and Modular Forms** by *Neal Koblitz*: A great introduction to modular forms, which basically adds details and exercises to Serre's condense one chapter introduction in the classic "A Course in Arithmetic". 
 * **Elementary Methods in Number Theory** by *M. B. Nathanson*: The part 3 of this book gives a good introduction to additive aspects of analytic number theory. I haven't spent much time on this book since I don't enjoy analysis in general.
-* **Number Theory 2: Introduction to Class Field Theory** by *Kazuya Kato, Nobushige Kurokawa and Takeshi Saito*: I haven't read this book, but this is Prof. C.S. Rajan's one  of the favourite book and in his opinion one of the best inroduction to class field theory. I know very little about class field theory, most of what I know can be found in the first part of Serre's "A Course in Arithmetic".
+* **Number Theory 2: Introduction to Class Field Theory** by *Kazuya Kato, Nobushige Kurokawa and Takeshi Saito*: I haven't read this book, but in Prof. C.S. Rajan's opinion this is one of the best inroduction to class field theory. I know very little about class field theory, most of what I know can be found in the first part of Serre's "A Course in Arithmetic".
+* **Algebraic Number Theory** by *Jürgen Neukirch*: A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. This book nicely interlaces algebraic geometry with algebraic number theory.
