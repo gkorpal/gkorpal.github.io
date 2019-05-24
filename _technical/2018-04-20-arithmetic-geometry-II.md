@@ -12,4 +12,4 @@ Work done during spring 2018 (January 07, 2018 to April 20, 2018).
 
 Three different concepts were studied.  First, factorization of prime ideals in Dedekind domain extensions satisfying a mild condition. Second, determining the prime ideals of $\mathbb{Z}[x]$ using basic algebraic geometry.  Third, illustrating the application of normalization process to determine the dimension of the polynomial ring.
 
-[Download report here](http://gkorpal.github.io/files/spring2018-arithmetic_geometry_II-gaurish.pdf)
+[Download the report](http://gkorpal.github.io/files/spring2018-arithmetic_geometry_II-gaurish.pdf)
