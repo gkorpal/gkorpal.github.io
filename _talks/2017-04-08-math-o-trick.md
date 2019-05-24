@@ -18,6 +18,8 @@ This was a 45 minutes performance prepared and performed by 7 students from my c
 * Swaroop Hegde (2nd year, Int. M.Sc. in Math, NISER)
 * Swati Snigdha Priyadarsini (1st year, Int. M.Sc., NISER)
 
-[Download the script](http://gkorpal.github.io/)
-[Download the slides](http://gkorpal.github.io/)
-[Download the assignment](http://gkorpal.github.io/)
+[Download the script](http://gkorpal.github.io/files/script.pdf)
+
+[Download the slides](http://gkorpal.github.io/files/math-o-trick-slides.pdf)
+
+[Download the assignment](http://gkorpal.github.io/files/math-o-tirck1.pdf)
