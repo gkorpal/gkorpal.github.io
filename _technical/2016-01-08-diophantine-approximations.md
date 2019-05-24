@@ -12,4 +12,4 @@ Work done during winter 2015 (December 13, 2015 to January 08, 2016).
 
 Studied the proof of Thue-Seigel-Roth theorem, following Prof. Thangadurai's lecture notes. Also did a brief literature survey on Pillai's Conjecture about exponential Diophantine equations.
 
-[Download report here](http://gkorpal.github.io/files/winter2015-diophantine_approximation-gaurish.pdf)
+[Download the report](http://gkorpal.github.io/files/winter2015-diophantine_approximation-gaurish.pdf)
