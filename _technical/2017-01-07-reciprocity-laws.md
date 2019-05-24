@@ -12,4 +12,4 @@ Work done during winter 2016 (December 09, 2016 to January 07, 2017).
 
 An attempt was made to understand the meaning of reciprocity laws. Studied Hilbert’s formulation of local quadratic reciprocity law, along with some basic $p$-adic analysis, from Prof. Dalawat's lecture notes.
 
-[Download report here](http://gkorpal.github.io/files/winter2016-reciprocity_laws-gaurish.pdf)
+[Download the report](http://gkorpal.github.io/files/winter2016-reciprocity_laws-gaurish.pdf)
