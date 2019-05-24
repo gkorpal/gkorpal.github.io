@@ -13,7 +13,7 @@ This was a 45 minutes performance prepared and performed by 7 students from my c
 * Devashish Sonowal (1st year, Int. M.Sc., NISER)
 * Gaurish Korpal (3rd year, Int. M.Sc. in Math, NISER)
 * Hitesh Kumar (2nd year, Int. M.Sc. in Math, NISER)
-* T. Padma Ragaleena (1st year, Int. M.Sc., NISER)
+* Padma Ragaleena Tanikella (1st year, Int. M.Sc., NISER)
 * Simran Chourasia (1st year, Int. M.Sc., NISER)
 * Swaroop Hegde (2nd year, Int. M.Sc. in Math, NISER)
 * Swati Snigdha Priyadarsini (1st year, Int. M.Sc., NISER)
