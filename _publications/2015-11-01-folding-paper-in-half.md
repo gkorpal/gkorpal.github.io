@@ -12,4 +12,4 @@ Korpal, G. (2015). "Folding paper in half." At Right Angles (India), pp. 20-23, 
 
 This article discusses Britney C. Gallivan's proof about the possibility of folding a piece of paper into half any number of times.
 
-[Download article here](http://gkorpal.github.io/files/folding_paper_in_half.pdf)
+[Download the article](http://gkorpal.github.io/files/folding_paper_in_half.pdf)
