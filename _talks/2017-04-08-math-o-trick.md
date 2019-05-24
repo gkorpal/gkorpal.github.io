@@ -1,0 +1,22 @@
+---
+title: "Math-O-Trick"
+collection: talks
+type: "Open Day 2017"
+permalink: /talks/2017-04-08-math-o-trick
+venue: "Science Activity Club"
+date: 2017-04-08
+location: "NISER Jatni"
+---
+
+This was a 45 minutes performance prepared and performed by 7 students from my college (alphabetic order):
+* Devashish Sonowal (1st year, Int. M.Sc., NISER)
+* Gaurish Korpal (3rd year, Int. M.Sc. in Math, NISER)
+* Hitesh Kumar (2nd year, Int. M.Sc. in Math, NISER)
+* T. Padma Ragaleena (1st year, Int. M.Sc., NISER)
+* Simran Chourasia (1st year, Int. M.Sc., NISER)
+* Swaroop Hegde (2nd year, Int. M.Sc. in Math, NISER)
+* Swati Snigdha Priyadarsini (1st year, Int. M.Sc., NISER)
+
+[Download the script](http://gkorpal.github.io/)
+[Download the slides](http://gkorpal.github.io/)
+[Download the assignment](http://gkorpal.github.io/)
