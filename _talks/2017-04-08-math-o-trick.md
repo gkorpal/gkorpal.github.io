@@ -9,6 +9,7 @@ location: "NISER Jatni"
 ---
 
 This was a 45 minutes performance prepared and performed by 7 students from my college (alphabetic order):
+
 * Devashish Sonowal (1st year, Int. M.Sc., NISER)
 * Gaurish Korpal (3rd year, Int. M.Sc. in Math, NISER)
 * Hitesh Kumar (2nd year, Int. M.Sc. in Math, NISER)
