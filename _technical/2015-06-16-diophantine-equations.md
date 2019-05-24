@@ -12,4 +12,4 @@ Work done during summer 2015 (May 18, 2015 to June 16, 2015).
 
 Learned the general methods available for solving degree one and two Diophantine equations in two/three unknowns. Studied the proof of Mordell's Theorem for curves with a rational point of order two, following Silverman's book "Rational Points on Elliptic Curves."
 
-[Download report here](http://gkorpal.github.io/files/summer2015-diophantine_equations-gaurish.pdf)
+[Download the report](http://gkorpal.github.io/files/summer2015-diophantine_equations-gaurish.pdf)
