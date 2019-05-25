@@ -1,20 +1,33 @@
 ---
-title: "Teaching 1"
+title: "Course Number: Course Title"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Department"
+date: 2019-08-15
+location: "University"
 ---
 
-Details coming soon!
+Course syllabus and background needed for the course
+------
 
-Heading 1
-======
 
-Heading 2
-======
+Homework assignments
+--------
 
-Heading 3
-======
+
+Solutions to homework assignments
+--------
+
+
+Announcements of exams
+--------
+
+
+Solutions to exams
+--------
+
+
+Other course information
+------
+regarding academic integrity; suggestions for doing the homework; use of calculators in class;
