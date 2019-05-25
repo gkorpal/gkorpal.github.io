@@ -7,9 +7,10 @@ venue: "Department"
 date: 2019-08-15
 location: "University"
 ---
+Welcome to the course web page!
 
 Course syllabus and background needed for the course
-------
+========
 
 
 Homework assignments
