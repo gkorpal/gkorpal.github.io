@@ -10,7 +10,7 @@ location: "University"
 Welcome to the course web page!
 
 Course syllabus and background needed for the course
-========
+------
 
 
 Homework assignments
