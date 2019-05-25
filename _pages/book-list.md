@@ -155,7 +155,7 @@ Following are the good book lists:
 * **Principles of Algebraic Geometry** by *Joe Harris and Phillip Griffiths*: The only available introductory text on complex algebraic geometry. Not at all a good book for self study, my whole master's thesis was an attempt to understand 14 pages of this book (pp. 34-47). However, the collection of ideas is worth the effort. You might find the following texts useful for background reading:
   * **Foundations of Differentiable Manifolds and Lie Groups** by *W. F. Warner*: Chapter 5 where the equivalence of Cech cohomology to sheaf cohomology is discussed.
   * **Algebraic Curves and Riemann Surfaces** by *Rick Miranda*: Chapter IX for the definiton and basic properties of Cech cohomology.
-  * **Topological Methods in Algebraic Geometry** by *Friedrich Hirzebruch*: Section 2 for the realtion between Cech and de Rham cohomology.
+  * **Topological Methods in Algebraic Geometry** by *Friedrich Hirzebruch*: Section 2 for the relation between Cech and de Rham cohomology.
   * **Complex Geometry** by *Daniel Huybrechts*: The first two chapters of this book cover the necessary complex analysis and complex manifolds background needed for Griffiths-Harris. Especially the proof of $\overline{\partial}$-Poincare lemma. The proof of Poincare lemma can be found in Munkres' "Analysis on Manifolds".
   * **Differential Analysis on Complex Manifolds** by *R. O. Wells*: For understanding vector bundles and more.
   * **From Holomorphic Functions to Complex Manifolds** by *Fritzsche and Grauert*: For analytic subvariety properties.
