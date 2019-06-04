@@ -22,12 +22,12 @@ Work experience
   
 Awards and Fellowships
 ------
-* [Junior Research Fellowship and Eligibility for Lectureship](http://csirhrdg.res.in/Home/Index/1/Default/842/60) (Mathematical Sciences), Council of Scientific and Industrial Research, New Delhi (Joint CSIR-UGC NET held on December 16, 2018) ~ All India Rank 18
-* [Visiting Students' Research Fellowship](http://www.tifr.res.in/~vsrp/), Tata Institute of Fundamental Research, Mumbai (June 04, 2018 - July 04, 2018) ~ INR 8,000
-* [Summer Research Fellowship](https://www.imsc.res.in/summer_research_programme), The Institute of Mathematical Sciences, Chennai (June 05, 2017 - July 15, 2017) ~ INR 14,500
-* [Visiting Student Fellowship](http://www.hri.res.in/opportunities/), Harish-Chandra Research Institute, Allahabad (December 09, 2016 - January 07, 2017) ~ INR 6,550
-* [Visiting Student Fellowship](http://www.hri.res.in/opportunities/), Harish-Chandra Research Institute, Allahabad (December 13, 2015 - January 08, 2016) ~ INR 6,100
-* [Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship](http://www.inspire-dst.gov.in/scholarship.htm), Department of Science and Technology, Government of India (July 22, 2014 - May 20, 2019) ~ INR 370,000 (I didn't receive the full amount, the government forgot to give at least INR 65,000 of the total amount promised.)
+* [Junior Research Fellowship and Eligibility for Lectureship](http://csirhrdg.res.in/Home/Index/1/Default/842/60) (Mathematical Sciences) - Council of Scientific and Industrial Research, New Delhi (Joint CSIR-UGC NET held on December 16, 2018) ~ All India Rank 18
+* [Visiting Students' Research Fellowship](http://www.tifr.res.in/~vsrp/) - Tata Institute of Fundamental Research, Mumbai (June 04, 2018 - July 04, 2018) ~ INR 8,000
+* [Summer Research Fellowship](https://www.imsc.res.in/summer_research_programme) - The Institute of Mathematical Sciences, Chennai (June 05, 2017 - July 15, 2017) ~ INR 14,500
+* [Visiting Student Fellowship](http://www.hri.res.in/opportunities/) - Harish-Chandra Research Institute, Allahabad (December 09, 2016 - January 07, 2017) ~ INR 6,550
+* [Visiting Student Fellowship](http://www.hri.res.in/opportunities/) - Harish-Chandra Research Institute, Allahabad (December 13, 2015 - January 08, 2016) ~ INR 6,100
+* [Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship](http://www.inspire-dst.gov.in/scholarship.htm) - Department of Science and Technology, Government of India (July 22, 2014 - May 20, 2019) ~ INR 370,000 (I didn't receive the full amount, the government forgot to give at least INR 65,000 of the total amount promised.)
 
 Conferences and Workshops
 ------
