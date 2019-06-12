@@ -12,8 +12,8 @@ redirect_from:
 Education
 ---------
 * M.Sc. (5-year integrated) in Mathematics, 2019
-  * University: <em>[Homi Bhabha National Institute](http://www.hbni.ac.in/), Mumbai, India.</em>
-  * Constituent Institution: <em>[National Institute of Science Education and Research](http://www.niser.ac.in/), Bhubaneswar, India</em> (An [off-campus centre of HBNI](http://www.hbni.ac.in/cis/niser.html) under [Department of Atomic Eneregy, Govt. of India](https://dae.nic.in/?q=node/81)).
+  * University: <em>[Homi Bhabha National Institute](http://www.hbni.ac.in/), Mumbai.</em>
+  * Constituent Institution: <em>[National Institute of Science Education and Research](http://www.niser.ac.in/), Bhubaneswar</em> (An [off-campus centre of HBNI](http://www.hbni.ac.in/cis/niser.html) under [Department of Atomic Eneregy, Govt. of India](https://dae.nic.in/?q=node/81)).
   * Thesis: <em>[Sheaf, Cohomology and Geometry](http://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf)</em> (Supervisor: <em>Dr. Ritwik Mukherjee</em>).
 
 Work experience
