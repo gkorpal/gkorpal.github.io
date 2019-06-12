@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ---------
-* M.Sc. (5-year integrated) in Mathematical Sciences, 2019
+* M.Sc. (5-year integrated) in Mathematics, 2019
   * University: <em>[Homi Bhabha National Institute](http://www.hbni.ac.in/), Mumbai, India.</em>
-  * Constituent Institution: <em>[National Institute of Science Education and Research](http://www.niser.ac.in/), Bhubaneswar, India.</em>
-  * M.Sc. Thesis: <em>[Sheaf, Cohomology and Geometry](http://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf)</em> (Supervisor: <em>Dr. Ritwik Mukherjee</em>)
+  * Constituent Institution: <em>[National Institute of Science Education and Research](http://www.niser.ac.in/), Bhubaneswar, India</em> (An [off-campus centre of HBNI](http://www.hbni.ac.in/cis/niser.html) and [autonomous institute under Department of Atomic Eneregy, Govt. of India](https://dae.nic.in/?q=node/81)).
+  * Thesis: <em>[Sheaf, Cohomology and Geometry](http://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf)</em> (Supervisor: <em>Dr. Ritwik Mukherjee</em>).
 
 Work experience
 ------
@@ -22,7 +22,8 @@ Work experience
   
 Awards and Fellowships
 ------
-* [Junior Research Fellowship and Eligibility for Lectureship](http://csirhrdg.res.in/) (Mathematical Sciences) - Council of Scientific and Industrial Research, New Delhi (Joint CSIR-UGC NET held on December 16, 2018) ~ All India Rank 18
+* Best Thesis Award in Mathematics - National Institute of Science Education and Research, Bhubaneswar (June 10, 2019).
+* [Junior Research Fellowship and Eligibility for Lectureship](http://csirhrdg.res.in/) (Mathematical Sciences) - Council of Scientific and Industrial Research, New Delhi (Selected through the joint CSIR-UGC NET held on December 16, 2018) ~ All India Rank 18
 * [Visiting Students' Research Fellowship](http://www.tifr.res.in/~vsrp/) - Tata Institute of Fundamental Research, Mumbai (June 04, 2018 - July 04, 2018) ~ INR 8,000
 * [Summer Research Fellowship](https://www.imsc.res.in/summer_research_programme) - The Institute of Mathematical Sciences, Chennai (June 05, 2017 - July 15, 2017) ~ INR 14,500
 * [Visiting Student Fellowship](http://www.hri.res.in/opportunities/) - Harish-Chandra Research Institute, Allahabad (December 09, 2016 - January 07, 2017) ~ INR 6,550
