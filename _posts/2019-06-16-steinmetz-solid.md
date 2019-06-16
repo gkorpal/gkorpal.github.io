@@ -29,6 +29,7 @@ where $f(x,z)= y = \sqrt{a^2-x^2}$ and $D' = \\{(x,z)\in D : x,z\geq 0\\} $. The
 
 <p style="text-align:center;">$\displaystyle{\frac{1}{8}S = \int_{0}^a \int_{0}^{\sqrt{a^2-x^2}}\sqrt{1+ \left(-\frac{x}{\sqrt{a^2-x^2}}\right)^2 + \left(0\right)^2}dz dx }$</p>
 <p style="text-align:center;">$\displaystyle{= \int_{0}^a \int_{0}^{\sqrt{a^2-x^2}}\frac{a}{\sqrt{a^2-x^2}}dz dx = a \int_0^a \left[\frac{z}{\sqrt{a^2-x^2}}\right]_0^{\sqrt{a^2-x^2}}dx = a\int_0^1 dx = a^2}$</p>
+<p style="text-align:center;">$\displaystyle{= a\int_0^1 dx = a^2}$</p>
 
 (luckily we don't need change of variables!)
 
