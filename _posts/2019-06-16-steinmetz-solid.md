@@ -17,7 +17,7 @@ Consider the following example from <a href="https://wp.me/p13GRc-co" target="_b
 Here we need to find the surface area $S$ of the part of cylinder $C_1: x^2+y^2=a^2$ which lies inside the cylinder $C_2: x^2+z^2=a^2$. That is, the surface $S$ is bounded by the curve $\Gamma$ traced at the intersection of the two curves.
 
 <figure>
-  <img src="/images/Steinmetz-cc.svg.png" alt="my alt text" style="width:600px;height:500px;"/>
+  <img src="/images/Steinmetz-cc.svg.png" alt="my alt text" style="width:534px;height:269px;"/>
   <figcaption>The generation of a bicylinder by Ag2gaeh [<a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>], <a href="https://commons.wikimedia.org/wiki/File:Steinmetz-cc.svg">via Wikimedia Commons</a>. Here the purple line is the curve $\Gamma$ and $S$ is the area of surface marked with red lines.</figcaption>
 </figure>
 
