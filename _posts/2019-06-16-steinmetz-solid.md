@@ -33,4 +33,4 @@ where $f(x,z)= y = \sqrt{a^2-x^2}$ and $D' = \\{(x,z)\in D : x,z\geq 0\\} $. The
 
 (luckily we don't need change of variables!)
 
-Hence, $\boxed{S = 8a^2}$.
+Hence, $\boxed{S = 8a^2}$. I found this problem to be visually challenging, though the <a href="https://math.stackexchange.com/a/755408" target="_blank">surface area</a> and <a href="https://math.stackexchange.com/a/8896" target="_blank">volume</a> follow directly from the general formulas. 
