@@ -10,7 +10,7 @@ tags:
   - bicylinder
 ---
 
-Consider the following example from <a href="https://wp.me/p13GRc-co" target="_blank">Piskunov's "Integeral and Differential Calculus"</a>:
+Consider the following example from <a href="https://wp.me/p13GRc-co" target="_blank">Piskunov's "Integral and Differential Calculus"</a>:
 
 <blockquote>Find the area of that part of the surface of the cylinder $x^2+y^2=a^2$ which is cut out by the cylinder $x^2+z^2=a^2$.</blockquote>
 
