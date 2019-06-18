@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
   - /maths-club
 ---
-MathematiX is NISER's mathematics club, for the students, by the students. At present, the 3 club activities focus on introducing students to new topics/ideas. These activities are:
+MathematiX was NISER's mathematics club, for the students, by the students. The 3 club activities focused on introducing students to new topics/ideas. These activities were:
 <ul>
-	<li><strong>Short Undergraduate Mathematics Seminar (SUMS)</strong> : These weekly seminars were started in the year 2009.  The motive is to give bird's eye view of various topics in mathematics.</li>
+	<li><strong>Short Undergraduate Mathematics Seminar (SUMS)</strong> : These weekly seminars were started in the year 2009.  The motive was to give bird's eye view of various topics in mathematics.</li>
 </ul>
 
 <strong>102.</strong> <em>Signal Processing and Fourier Analysis</em> - Apratim Choudhury (B18) - Friday, 22 March 2019
@@ -218,7 +218,7 @@ MathematiX is NISER's mathematics club, for the students, by the students. At pr
 <hr />
 
 <ul>
-	<li><strong>Student Research Seminar (SRS)</strong> : These seminars were started in the year 2015.  The motive is to share the excitement of the things learned during summer internships or personal investigations.</li>
+	<li><strong>Student Research Seminar (SRS)</strong> : These seminars were started in the year 2015.  The motive was to share the excitement of the things learned during summer internships or personal investigations.</li>
 </ul>
 
 <strong>12.</strong> <em>Rational Approximations</em> -NKU Sarada Anoushka (B17) - Firday, 16 November 2018 
@@ -248,7 +248,7 @@ MathematiX is NISER's mathematics club, for the students, by the students. At pr
 <hr />
 
 <ul>
-	<li><strong>MathToys</strong>: These monthly sessions were started in the year 2016. In these sessions we learn to make a toy and discuss the mathematics it illustrates. There isn't any blackboard-chalk monologues in a classroom, rather discussions among the participants is promoted.</li>
+	<li><strong>MathToys</strong>: These monthly sessions were started in the year 2016. In these sessions we learned to make a toy and discuss the mathematics it illustrates. There wasn't any blackboard-chalk monologues in a classroom, rather discussions among the participants was promoted.</li>
 </ul>
 
 <strong>9.</strong> <em>Soma Cube</em> - Nisarg Vyas (B17) - 12 October 2018
