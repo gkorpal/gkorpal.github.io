@@ -10,6 +10,6 @@ citation:
 ---
 Work done during spring 2019 (January 01, 2019 to April 19, 2019).
 
-The report begins with an introduction to the theory of complex manifolds. Then a proof of Dolbeault theorem, analogous to that of de Rham theorem, was studied. The utility of Dolbeault-Čech isomorphism is illustrated by proving that every analytic hypersurface in $\mathbb{C}^n$ can be described as the zero-locus of an entire function.
+Firstly, a proof of Dolbeault theorem was studied. Then the utility of Dolbeault-Čech isomorphism was illustrated by proving that every analytic hypersurface in $\mathbb{C}^n$ can be described as the zero-locus of an entire function.
 
 [Download the report](http://gkorpal.github.io/files/spring2019-cousin_problem_for_hypersurface-gaurish.pdf)
