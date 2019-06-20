@@ -28,7 +28,7 @@ Awards and Fellowships
 * [Summer Research Fellowship](https://www.imsc.res.in/summer_research_programme) - The Institute of Mathematical Sciences, Chennai (June 05, 2017 - July 15, 2017) ~ INR 14,500
 * [Visiting Student Fellowship](http://www.hri.res.in/opportunities/) - Harish-Chandra Research Institute, Allahabad (December 09, 2016 - January 07, 2017) ~ INR 6,550
 * [Visiting Student Fellowship](http://www.hri.res.in/opportunities/) - Harish-Chandra Research Institute, Allahabad (December 13, 2015 - January 08, 2016) ~ INR 6,100
-* [Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship](http://www.inspire-dst.gov.in/scholarship.html) - Department of Science and Technology, Government of India (July 22, 2014 - May 20, 2019) ~ INR 370,000 (I haven't received the full amount yet, the government still has to give at least INR 65,000 of this promised total amount.)
+* [Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship](http://www.inspire-dst.gov.in/scholarship.html) - Department of Science and Technology, Government of India (July 22, 2014 - May 20, 2019) ~ INR 370,000 (I haven't received the full amount yet, the government still has to give INR 20,000 of this promised total amount.)
 
 Conferences and Workshops
 ------
