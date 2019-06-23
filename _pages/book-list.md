@@ -36,7 +36,7 @@ Following are the good book lists:
 * **Little Mathematics Library** by *MIR Publishers*: These books include short introductory material (without much detail) on various topics which can help student to get an idea of different fields of mathematics, written especially for high school students preparing for Olympiad. All of these can be downloaded legally from [mirtitles.org](http://mirtitles.org/2012/09/06/little-mathematics-library-taking-stock/).
 * **Fun and Fundamentals of Mathematics** by *J. V. Narlikar and M. Narlikar*: This was the first book I bought through flipkart (when it had just started as book selling website). Have read it many times, and enjoyed it every time.
 * **A Mathematical Mosaic: Patterns & Problem-Solving** by *Ravi Vakil*: One of my favorite book (but sadly not available in India, bought it from the USA).
-* **The Number Devil** by *Hans Magnus Enzensberge*: Though the author is not a mathematician, he is a well-known and respected European intellectual and author with wide-ranging interests. This book is similar to George Gamow’s "Mr Tompkins". Plus it's a colourful maths book!
+* **The Number Devil** by *Hans Magnus Enzensberge*: Though the author is not a mathematician, he is a well-known and respected European intellectual and author with wide-ranging interests. This book is similar to George Gamow’s book "Mr Tompkins". Plus it's a colourful maths book!
 * **Challenge and Thrill of Pre-College Mathematics** by *Krishnamurthy, Pranesachar,Ranganathan and Venkatachala*: I learned geometry and combinatorics from this book, was fascinated by the Friendship theorem and the work of Erdos.   
 * **A primer on Number Sequences** by *Shailesh Shirali* : A plethora of sequences!
 * **Hands-on Geometry** by *Christopher M. Freeman*: Lovely book ! A step-by-step  guide to learning constructions
@@ -102,32 +102,32 @@ Following are the good book lists:
 * **Topics in Algebra** by *I. N. Herstein*: For an introduction to group theory, though the notations are a bit outdated. Especially see the three different proofs of Sylow's theorems. Also has a good selection of exercises. To have a better understanding of Cayley's theorem, see Fraleigh's "A First Course in Abstract Algebra".
 * **Linear Algebra** by *Hoffman and Kunze*: Surely there are better books in the market, but I learned from this. The first chapter is a bit of a mess with 4x4 and 5x5 matrices.
 * **Abstract Algebra** by *Dummit and Foote*: For an introduction to ring theory, modules over PID, field theory and Galois theory. Has lots of solved examples.
-* **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's "Algebraic Geometry". A more gentle introductory book is by N. S. Gopala Krishnan.
-* **Representation Theory of Finite Groups** by *Martin Burrow*: Must read the introduction to the first chapter. Notations are a bit outdated, but not as [bad](https://math.stackexchange.com/a/192728) as in Gordon James and Martin Liebeck's "Representation and Characters of Groups". 
+* **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's book "Algebraic Geometry". A more gentle introductory book is by N. S. Gopala Krishnan.
+* **Representation Theory of Finite Groups** by *Martin Burrow*: Must read the introduction to the first chapter. Notations are a bit outdated, but not as [bad](https://math.stackexchange.com/a/192728) as in Gordon James and Martin Liebeck's book "Representation and Characters of Groups". 
 
 ## Analysis ##
 
-* **Foundations of Analysis** by *E. Landau*: Fantastic short book. I learned about Peano axioms from this book. Terry Tao's "Analysis I" also starts with a similar discussion.
+* **Foundations of Analysis** by *E. Landau*: Fantastic short book. I learned about Peano axioms from this book. Terry Tao's book "Analysis I" also starts with a similar discussion.
 * **Introduction to Real Analysis** by *Bartle and Sherbert*: A very nice introduction to epsilon-delta framework. Lots of examples and good exercises.
 * **Topology of Metric Spaces** by *S. Kumaresan*: Discusses various useful inequalitites needed in analysis and helps us see the importance of metric space structure in real analysis. Also have a look at the book "The Cauchy-Schwarz Master Class" by J. Michael Steele.
 * **Analysis on Manifolds** by *J. Munkres*: A very clear introduction to several-variable analysis in $\mathbb{R}^n$. For a quick review of the several-variable calculus in $\mathbb{R}^3$ that one learns during high-school physics courses, see the book "Differential and Integral Calculus" by N. Piskunov (this is a soviet era book, sold in India as two volumes; <a href="http://www.cbspd.co.in/differential-and-integral-calculus-vol-1-pb-1996-9788123904924-piskunov-n.html" target="_blank">vol 1</a> and <a href="http://www.cbspd.co.in/differential-and-integral-calculus-vol-2-pb-9788123904931-piskunov-n.html" target="_blank">vol 2</a>).
-* **Lebesgue Integration On Euclidean Space** by *Frank Jones*: An introductory text on mesaure theory. If you find this book boring, spend some time on the first three chapters of Folland's "Real Analysis: Modern Techniques and Their Applications".
+* **Lebesgue Integration On Euclidean Space** by *Frank Jones*: An introductory text on mesaure theory. If you find this book boring, spend some time on the first three chapters of Folland's book "Real Analysis: Modern Techniques and Their Applications".
 * **Functions of One Complex Variable** by *J. B. Conway*: I really like the proofs given in this book (Runge's theorem, Mittag-Leffler's theorem and Weierstrass factorization theorem), though I feel that it is a tough book for beginners. Section III.3 briefly discusses Mobius transformations which is very important. There are many better books in the market like the one by Bak and Newman, or Sasane and Sasane (which give much more importance to contour integration and residue theorem applications).
 * **Introduction to Topology and Modern Analysis** by *G. F. Simmons*: This book should be renamed as "An Introduction to Functional Analysis".
-* **Differential Equations** by *S. L. Ross*: Nothing special, any other text like Simmons and Krantz's "Differential Equations: Theory - Technique and Practice" is also good.
+* **Differential Equations** by *S. L. Ross*: Nothing special, any other text like Simmons and Krantz's book "Differential Equations: Theory - Technique and Practice" is also good.
 
 ## Topology and Geometry ##
 
 * **Topology** by *James Munkres*: For point-set topology and introductory algebraic topology (fundamental groups).
 * **An Introduction to Algebraic Topology** by *Joseph Rotman*: A good introductory text with a good number of examples. Can read Munkres' "Elements of Algebraic Topology" for a more detailed discussion.
 * **Elementary Differential Geometry** by *Andrew Pressley*: This book is the study of the geometry of curves and surfaces in three-dimensional space using calculus techniques.
-* **An Introduction to Manifolds** by *Loring  W. Tu*: The best possible introduction to smooth manifolds. Can skip the Lie group, Lie algebra and Lie derivative during the first reading. Also have a look at Amiya Mukherjee's "Differential Topology".
-* **An Invitation to Algebraic Geometry** by *Karen E. Smith, Lauri Kahanpää, Pekka Kekäläinen, and William Traves*: Really nice warmup book for Hartshorne. Lots of solved examples. Also have a look at Miles Reid's "Undergraduate commutative algebra".
+* **An Introduction to Manifolds** by *Loring  W. Tu*: The best possible introduction to smooth manifolds. Can skip the Lie group, Lie algebra and Lie derivative during the first reading. Also have a look at Amiya Mukherjee's book "Differential Topology".
+* **An Invitation to Algebraic Geometry** by *Karen E. Smith, Lauri Kahanpää, Pekka Kekäläinen, and William Traves*: Really nice warmup book for Hartshorne. Lots of solved examples. Also have a look at Miles Reid's book "Undergraduate commutative algebra".
 
 ## Miscellaneous ##
 
 * **Introductory Combinatorics** by *R. A. Brualdi*: There are some typos, but there some really interesting discussions like an interesting theorem by Erdős and Szekeres (pp. 76, 5th ed).
-* **An Introduction to the Theory of Numbers** by *Ivan Niven, Herbert S. Zuckerman and Hugh L. Montgomery*: Covers all flavours of number theory in adequate detail. For a more gentle introduction, see Silverman's "A Friendly Introduction to Number Theory".
+* **An Introduction to the Theory of Numbers** by *Ivan Niven, Herbert S. Zuckerman and Hugh L. Montgomery*: Covers all flavours of number theory in adequate detail. For a more gentle introduction, see Silverman's book "A Friendly Introduction to Number Theory".
 
 
 *I don't know about a good introductory book on numerical analysis, graph theory, probability or statistics.*
@@ -143,10 +143,10 @@ Following are the good book lists:
 * **A Friendly Introduction to Number Theory** by *Joseph H. Silverman*: A modern introduction to elementary number theory.
 * **Topics in Number Theory (Volumes I and II)** by *William J. LeVeque*: The best place to understand the proof of Roth's theorem and Delaunay-Nagell theorem (discussed in the volume 2 part). The volume 1 part can also be used as an introduction to elementary number theory. If you want to see the proof of Roth's theorem in terms of exercises, have a look at the book "An Invitation to Modern Number Theory" by Steven J. Miller and Ramin Takloo-Bighash.
 * **Number Fields** by *Daniel Marcus*: The best introductory text on algeraic number theory, where most big proofs are in the form of exercises. When I read the book in 2016, it was available only in old typewriter font but fortunately in 2018 Springer released its LaTeX edition!
-* **Multiplicative Number Theory** by *Harold Davenport*: This is a tough book for introducing analytic number theory, but worth the hardwork since the proof of Prime Number Theorem with a good extimate has been discussed. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!). Also, Davenport's "Higher Arithmetic" is a nice second reading in elementary number theory.
-* **Introduction to Elliptic Curves and Modular Forms** by *Neal Koblitz*: A great introduction to modular forms, which basically adds details and exercises to Serre's condense one chapter introduction in the classic "A Course in Arithmetic". 
+* **Multiplicative Number Theory** by *Harold Davenport*: This is a tough book for introducing analytic number theory, but worth the hardwork since the proof of Prime Number Theorem with a good extimate has been discussed. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!). Also, Davenport's book "Higher Arithmetic" is a nice second reading in elementary number theory.
+* **Introduction to Elliptic Curves and Modular Forms** by *Neal Koblitz*: A great introduction to modular forms, which basically adds details and exercises to Serre's condense one chapter introduction in his classic book "A Course in Arithmetic". 
 * **Elementary Methods in Number Theory** by *M. B. Nathanson*: The part 3 of this book gives a good introduction to additive aspects of analytic number theory. I haven't spent much time on this book since I don't enjoy analysis in general.
-* **Number Theory 2: Introduction to Class Field Theory** by *Kazuya Kato, Nobushige Kurokawa and Takeshi Saito*: I haven't read this book, but in Prof. C.S. Rajan's opinion this is one of the best inroduction to class field theory. I know very little about class field theory, most of what I know can be found in the first part of Serre's "A Course in Arithmetic".
+* **Number Theory 2: Introduction to Class Field Theory** by *Kazuya Kato, Nobushige Kurokawa and Takeshi Saito*: I haven't read this book, but in Prof. C.S. Rajan's opinion this is one of the best inroduction to class field theory. I know very little about class field theory, most of what I know can be found in the first part of Serre's book "A Course in Arithmetic".
 * **Algebraic Number Theory** by *Jürgen Neukirch*: A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. This book nicely interlaces algebraic geometry with algebraic number theory.
 
 ## Algebraic Geometry ##
@@ -161,5 +161,4 @@ Following are the good book lists:
   * **From Holomorphic Functions to Complex Manifolds** by *Fritzsche and Grauert*: For analytic subvariety properties.
   * **Analytic Functions of Several Complex Variables** by *Gunning and Rossi*: The necessary background about several variable complex valued functions, and a detailed proof of $\overline{\partial}$-Poincare lemma.
   * **Function Theory of Several Complex Variables** by *S. G. Krantz*: The proof of Dolbeault theorem for $\mathbb{C}^n$ is discussed in section 6.3.
-* **Algebraic Geometry** by *Hartshorne*: This is a standard text, everyone has to solve its exercises. Qing Liu's "Algebraic Geometry and Arithmetic Curves" might be of some help intially since its first chapter about commutative algebra and sheaf theory is well written.
-  
+* **Algebraic Geometry** by *Hartshorne*: This is a standard text, everyone has to solve its exercises. Qing Liu's book "Algebraic Geometry and Arithmetic Curves" might be of some help intially since its first chapter about commutative algebra and sheaf theory is well written.
