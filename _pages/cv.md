@@ -22,7 +22,7 @@ Work experience
   
 Awards and Fellowships
 ------
-* Best M.Sc. Thesis Award in Mathematics - National Institute of Science Education and Research, Bhubaneswar (June 10, 2019).
+* <u>Best M.Sc. Thesis Award in Mathematics</u> - National Institute of Science Education and Research, Bhubaneswar (June 10, 2019).
 * [Junior Research Fellowship and Eligibility for Lectureship](http://csirhrdg.res.in/) (Mathematical Sciences) - Council of Scientific and Industrial Research, New Delhi (Selected through the joint CSIR-UGC NET held on December 16, 2018) ~ All India Rank 18
 * [Visiting Students' Research Fellowship](http://www.tifr.res.in/~vsrp/) - Tata Institute of Fundamental Research, Mumbai (June 04, 2018 - July 04, 2018) ~ INR 8,000
 * [Summer Research Fellowship](https://www.imsc.res.in/summer_research_programme) - The Institute of Mathematical Sciences, Chennai (June 05, 2017 - July 15, 2017) ~ INR 14,500
