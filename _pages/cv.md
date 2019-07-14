@@ -12,9 +12,7 @@ redirect_from:
 Education
 ---------
 * Ph.D. in Mathematics, 2024 (expected)
-  * University: <em>[The University of Arizona, Tucson](https://www.arizona.edu/).</em>
-  * College: <em>[College of Science](http://cos.arizona.edu/).</em>
-  
+  * [The University of Arizona, Tucson](https://www.arizona.edu/).  
 
 * M.Sc. (5-year integrated) in Mathematics, 2019
   * University: <em>[Homi Bhabha National Institute, Mumbai](http://www.hbni.ac.in/).</em>
