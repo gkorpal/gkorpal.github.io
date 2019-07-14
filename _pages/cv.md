@@ -11,6 +11,11 @@ redirect_from:
 
 Education
 ---------
+* Ph.D. in Mathematics, 2024 (expected)
+  * University: <em>[The University of Arizona, Tucson](https://www.arizona.edu/).</em>
+  * College: <em>[College of Science](http://cos.arizona.edu/).</em>
+  
+
 * M.Sc. (5-year integrated) in Mathematics, 2019
   * University: <em>[Homi Bhabha National Institute, Mumbai](http://www.hbni.ac.in/).</em>
   * Constituent Institution: <em>[National Institute of Science Education and Research, Bhubaneswar](http://www.niser.ac.in/) </em> (An [off-campus centre of HBNI](http://www.hbni.ac.in/cis/niser.html) and [autonomous institution under DAE, Govt. of India](https://dae.nic.in/?q=node/81)).
@@ -18,7 +23,8 @@ Education
 
 Work experience
 ------
-* Fall 2019: Teaching Assistant
+* Fall 2019: Graduate Teaching Assistant - Department of Mathematics (The University of Arizona College of Science)
+  * Teaching Assignment
   
 Awards and Fellowships
 ------
