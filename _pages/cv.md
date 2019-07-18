@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ---------
-* Ph.D. in Mathematics, 2024 (expected)
+* Ph.D. in Mathematics, 2019-present
   * [The University of Arizona, Tucson](https://www.arizona.edu/).  
 
 * M.Sc. (5-year integrated) in Mathematics, 2019
