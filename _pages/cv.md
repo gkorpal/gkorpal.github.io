@@ -21,8 +21,8 @@ Education
 
 Work experience
 ------
-* Fall 2019: Graduate Teaching Assistant - Department of Mathematics (The University of Arizona College of Science)
-  * Teaching Assignment
+* Fall 2019: Teaching Assistant - Department of Mathematics (The University of Arizona College of Science)
+  * MATH:112 - College Algebra Concepts and Applications (Section 002, 60 students)
   
 Awards and Fellowships
 ------
