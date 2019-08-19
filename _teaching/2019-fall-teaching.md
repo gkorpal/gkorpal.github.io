@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching
 venue: "University of Arizona"
-date: 2019-08-15
+date: 2019-09-26
 location: "University"
 ---
 Welcome to the course web page for the section 2 of the class.
