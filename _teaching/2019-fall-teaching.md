@@ -1,13 +1,16 @@
 ---
-title: "Course Number: Course Title"
+title: "MATH 112 - College Algebra Concepts and Applications"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching
-venue: "Department"
+venue: "University of Arizona"
 date: 2019-08-15
 location: "University"
 ---
-Welcome to the course web page!
+Welcome to the course web page for the section 2 of the class.
+
+**Instructor:** [Christopher Person-Renell](https://www.math.arizona.edu/people/cpersonrennell)
+**Assistant:** Gaurish Korpal [Job Guideliines](files/guidelinesfor112TAs.pdf)
 
 Course syllabus and background needed for the course
 ------
