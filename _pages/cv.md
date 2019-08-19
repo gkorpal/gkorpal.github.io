@@ -22,7 +22,7 @@ Education
 Work experience
 ------
 * Fall 2019: Teaching Assistant - Department of Mathematics (The University of Arizona College of Science)
-  * MATH 112 - College Algebra Concepts and Applications (Section 002, 60 students)
+  * MATH 112 - College Algebra Concepts and Applications ([Job Guideliines](files/guidelinesfor112TAs.pdf))
   
 Awards and Fellowships
 ------
