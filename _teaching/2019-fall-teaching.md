@@ -10,6 +10,7 @@ location: "University"
 Welcome to the course web page for the section 2 of the class.
 
 **Course Instructor:** [Christopher Person-Renell](https://www.math.arizona.edu/people/cpersonrennell)
+
 **Teaching Assistant:** Gaurish Korpal 
 
 Course syllabus and background needed for the course
