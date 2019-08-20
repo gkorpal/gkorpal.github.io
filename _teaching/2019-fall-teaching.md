@@ -7,11 +7,14 @@ venue: "University of Arizona"
 date: 2019-09-26
 location: "University"
 ---
-Welcome to the course web page for the section 2 of the class.
+Following is some information regarding the section 033 of the course MATH 112 at the University of Arizona. The full course has about 1800 students, but this section has only 28 students.
 
-**Course Instructor:** [Christopher Person-Renell](https://www.math.arizona.edu/people/cpersonrennell)
+**Course Coordinator:** 
+
+**Instructor:** [Mitchell James Wilson](https://www.math.arizona.edu/~mjw/)
 
 **Teaching Assistant:** Gaurish Korpal 
+
 
 Course syllabus and background needed for the course
 ------
