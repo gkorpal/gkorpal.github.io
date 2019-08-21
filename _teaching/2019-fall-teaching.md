@@ -7,13 +7,15 @@ venue: "University of Arizona"
 date: 2019-09-26
 location: "University"
 ---
-Following is some information regarding the section 033 of the course MATH 112 at the University of Arizona. The full course has about 1800 students, but this section has only 28 students.
+Following is some information regarding the section of the course MATH 112 I will be assisting with during Fall 2019. 
 
-**Course Coordinator:** 
+*The full course has about 1800 students, but this section (033) has only 28 students.*
 
-**Instructor:** [Mitchell James Wilson](https://www.math.arizona.edu/~mjw/)
+**Course Coordinators:** [Dr. Brenae Bailey](https://www.math.arizona.edu/people/bbailey) and [Taryn Laird](https://www.math.arizona.edu/people/tarynl)
 
-**Teaching Assistant:** Gaurish Korpal 
+**Section Instructor:** [Mitchell James Wilson](https://www.math.arizona.edu/~mjw/)
+
+**Teaching Assistant:** Gaurish Korpal
 
 
 Course syllabus and background needed for the course
