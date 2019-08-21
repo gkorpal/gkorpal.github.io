@@ -7,7 +7,7 @@ venue: "University of Arizona"
 date: 2019-09-26
 location: "University"
 ---
-Following is some information regarding the section of the course MATH 112 I will be assisting with during Fall 2019. 
+Following is some information regarding the section of the course MATH 112 that I will be assisting with during Fall 2019. 
 
 *The full course has about 1800 students, but this section (033) has only 28 students.*
 
