@@ -12,6 +12,8 @@ Hi! I am a first year mathematics graduate student at the University of Arizona.
 
 **Contact Details**
 
-Office: *A grad pod in ENR2 S390GG (Environment and Natural Resources 2 Building, on the south side of the third floor)*
+Office: *ENR2 S390GG ([Environment and Natural Resources 2 Building](https://enr2tour.arizona.edu/))*
+
+Office Hours: *Mondays 2:00 pm -3:00 pm and Wednesdays 11:30 am -12:30 pm*
 
 email: *gkorpal at math dot arizona dot edu*
