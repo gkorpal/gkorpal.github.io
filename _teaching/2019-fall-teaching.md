@@ -13,7 +13,7 @@ Following is some information regarding the section of the course MATH 112 that 
 
 **Course Coordinators:** [Dr. Brenae Bailey](https://www.math.arizona.edu/people/bbailey) and [Taryn Laird](https://www.math.arizona.edu/people/tarynl)
 
-**Section Instructor:** [Mitchell James Wilson](https://www.math.arizona.edu/~mjw/)
+**Section Instructor:** [Mitchell James Wilson](https://www.math.arizona.edu/people/mjw)
 
 **Teaching Assistant:** Gaurish Korpal
 
