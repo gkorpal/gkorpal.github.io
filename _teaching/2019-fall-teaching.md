@@ -11,33 +11,31 @@ Following is some information regarding the section of the course MATH 112 that 
 
 *The full course has about 1800 students, but this section (033) has only 28 students.*
 
+-----
+
 **Course Coordinators:** [Dr. Brenae Bailey](https://www.math.arizona.edu/people/bbailey) and [Taryn Laird](https://www.math.arizona.edu/people/tarynl)
 
 **Section Instructor:** [Mitchell James Wilson](https://www.math.arizona.edu/people/mjw)
 
 **Teaching Assistant:** Gaurish Korpal
 
+-----
 
-Course syllabus and background needed for the course
-------
-
-
-Homework assignments
---------
+**Course syllabus and background needed for the course:**
 
 
-Solutions to homework assignments
---------
+**Homework assignments:**
 
 
-Announcements of exams
---------
+**Solutions to homework assignments:**
 
 
-Solutions to exams
---------
+**Announcements of exams:**
 
 
-Other course information
-------
+
+**Solutions to exams:**
+
+
+**Other course information:** 
 regarding academic integrity; suggestions for doing the homework; use of calculators in class;
