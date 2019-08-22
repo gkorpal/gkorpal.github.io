@@ -25,13 +25,13 @@ The following is some information regarding the section 033 of the course MATH 1
 
 * **Quizzes and exams:** There will be about 12 in-class quizzes, to gauge students’ understanding on the topics discussed in class. Quizzes may be worked cooperatively with a group or taken individually. The instructor will indicate the format for each quiz. There will 3 unit (“Midterm”) exams and a final exam, all given in person and all written by the course coordinators. All unit exams are given at common times outside of class. The final exam is given at a common time according to the final exam schedule posted by The University of Arizona
   * Midterm 1: Tuesday, October 1, 2019, from 7:30 PM – 8:30 PM, location to be announced
-   * Topics: Functions, Graphs of Functions, Linear Functions, Piecewise Linear Functions, Transformations of Functions
+    * Topics: Functions, Graphs of Functions, Linear Functions, Piecewise Linear Functions, Transformations of Functions
   * Midterm 2: Tuesday, October 29, 2019, from 7:30 PM – 8:30 PM, location to be announced
-   * Topics: Combining Functions, Inverse Functions, Quadratic Functions, Polynomial Functions
+    * Topics: Combining Functions, Inverse Functions, Quadratic Functions, Polynomial Functions
   * Midterm 3: Thursday, December 5, 2019, from 7:30 PM – 8:30 PM, location to be announced
-   * Topics: Rational Functions, Exponential Functions, Logarithmic Functions, Properties of Logarithms, Exponential and
+    * Topics: Rational Functions, Exponential Functions, Logarithmic Functions, Properties of Logarithms, Exponential and
 Logarithmic Equations and Applications
   * Final Exam: Monday, December 16, 2019, from 8:00 AM – 10:00 AM, location to be announced
-   * Topics: Full syllabus.
+    * Topics: Full syllabus.
   
 * **Study guides and other information regarding exams:** https://math112.math.arizona.edu/
