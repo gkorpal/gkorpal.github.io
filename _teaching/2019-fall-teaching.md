@@ -34,4 +34,6 @@ Logarithmic Equations and Applications
   * Final Exam: Monday, December 16, 2019, 8:00 AM – 10:00 AM, location to be announced
     * Topics: Full syllabus.
   
-* **Study guides and other information regarding exams:** https://math112.math.arizona.edu/
+* **Study guides and other information regarding exams:** <a href="https://math112.math.arizona.edu/
+" target="_blank">https://math112.math.arizona.edu/
+</a> 
