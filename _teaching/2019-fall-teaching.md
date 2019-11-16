@@ -31,7 +31,7 @@ The following is some information regarding the section 033 of the course MATH 1
   * Midterm 3: Thursday, December 5, 2019, 7:30 PM – 8:30 PM
     * Topics: Rational Functions, Exponential Functions, Logarithmic Functions, Properties of Logarithms, Exponential and
 Logarithmic Equations and Applications
-  * Final Exam: Monday, December 16, 2019, 8:00 AM – 10:00 AM, location to be announced
+  * Final Exam: Monday, December 16, 2019, 8:00 AM – 10:00 AM
     * Topics: Full syllabus.
   
 * **Study guides and other information regarding exams:** <a href="https://math112.math.arizona.edu/
