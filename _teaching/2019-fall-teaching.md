@@ -9,7 +9,7 @@ location: "University"
 ---
 The following is some information regarding the section 033 of the course MATH 112 that I will be assisting with during Fall 2019. 
 
-*The full course has about 2000 students.*
+*Our section had about 60 students. The full course has about 2000 students.*
 
 
 **Course Coordinators:** [Dr. Brenae Bailey](https://www.math.arizona.edu/people/bbailey) and [Taryn Laird](https://www.math.arizona.edu/people/tarynl)
