@@ -38,6 +38,6 @@ Logarithmic Equations and Applications
 " target="_blank">https://math112.math.arizona.edu/
 </a> 
 
-* **Slides for the topic I taught:**
+* **Slides for the topics I taught:**
   * [Quadratic Functions and Applications](https://gkorpal.github.io/files/quadratic-functions.pdf)
   * Logarithmic Functions
