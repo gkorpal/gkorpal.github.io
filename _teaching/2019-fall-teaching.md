@@ -40,4 +40,4 @@ Logarithmic Equations and Applications
 
 * **Slides for the topics I taught:**
   * [Quadratic Functions and Applications](https://gkorpal.github.io/files/quadratic-functions.pdf)
-  * Logarithmic Functions
+  * [Logarithmic Functions](https://gkorpal.github.io/files/logarithmic-functions.pdf)
