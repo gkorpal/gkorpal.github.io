@@ -8,7 +8,7 @@ date: 2019-11-21
 location: "The University of Arizona"
 ---
 
-The concepts like gratest common divisor and Euclidean algorithm were introduced. This was used to provide a method for solving linear Diophantine equations in two variables.
+The concepts like gratest common divisor and Euclidean algorithm were introduced. These were used to provide a method for solving linear Diophantine equations in two variables.
 
 Only the first section of the lecture notes was actually discussed during the session. The other sections are included just for the sake of completeness. 
 
