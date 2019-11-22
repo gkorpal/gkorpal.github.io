@@ -12,4 +12,4 @@ The concepts like gratest common divisor and Euclidean algorithm were introduced
 
 Only the first section of the lecture notes was actually discussed during the session. The other sections are included just for the sake of completeness. 
 
-[Download the lecture notes](http://gkorpal.github.io/files/diophnatine-problems.pdf)
+[Download the lecture notes](http://gkorpal.github.io/files/diophantine-problems.pdf)
