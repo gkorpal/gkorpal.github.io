@@ -108,7 +108,7 @@ Following are the good book lists:
 
 ## Analysis ##
 
-* **Calculus I, II, III** by *Jerrold E. Marsden and Alan Weinstein*:  These books are old fashioned version of Calculus 1, 2 and 3 \. The books are available <a href="https://aimath.org/textbooks/approved-textbooks/marsden-weinstein/" target="_blank">here</a>.
+* **Calculus I, II, III** by *Jerrold E. Marsden and Alan Weinstein*:  These books are old fashioned version of Calculus 1, 2 and 3 \. The books are available <a href="https://aimath.org/textbooks/approved-textbooks/marsden-weinstein/" target="_blank">here</a>. This topic is an amalgamation of analysis, topology and geometry. We use geometric amd topological properties of the Euclidean space to find some logic behind analytic facts about real valued functions in one variable.
 * **Foundations of Analysis** by *E. Landau*: Fantastic short book. I learned about Peano axioms from this book. Terry Tao's book "Analysis I" also starts with a similar discussion.
 * **Introduction to Real Analysis** by *Bartle and Sherbert*: A very nice introduction to concepts like countability and epsilon-delta method. Focus is to rigorously prove the stuff learned in Calculus I and II. Lots of examples and good exercises. Also compares improper Riemann integration with Lebesgue integration (pros and cons).
 * **Topology of Metric Spaces** by *S. Kumaresan*: Discusses various useful inequalitites needed in analysis and helps us see the importance of metric space structure in real analysis. Also have a look at the book "The Cauchy-Schwarz Master Class" by J. Michael Steele.
@@ -121,7 +121,7 @@ Following are the good book lists:
 
 ## Topology ##
 
-* **Topology** by *James Munkres*: For point-set topology and introductory algebraic topology (fundamental groups).
+* **Topology** by *James Munkres*: For point-set topology and introductory algebraic topology (fundamental groups). Focus on generalizing the properties of continuous funtions learned in Calculus I.
 * **An Introduction to Algebraic Topology** by *Joseph Rotman*: A good introductory text with a good number of examples. Can read Munkres' "Elements of Algebraic Topology" for a more detailed discussion.
 * **Differential Topology** by *Amiya Mukherjee*: This text nicely complements the study of smooth manifolds.
 
