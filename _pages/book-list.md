@@ -19,7 +19,7 @@ Following are the good book lists:
   * [Analysis](#analysis)
   * [Topology](#topology)
   * [Geometry](#geometry)
-  * [Discrete Mathematics](#discrete)
+  * [Discrete Mathematics](#discrete-mathematics)
 * [My Interests](#my-interests)
   * [Number Theory](#number-theory)
   * [Algebraic Geometry](#algebraic-geometry)
