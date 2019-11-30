@@ -121,7 +121,7 @@ Following are the good book lists:
 
 ## Topology ##
 
-* **Topology** by *James Munkres*: For point-set topology and introductory algebraic topology (fundamental groups). Focus on generalizing the properties of continuous funtions learned in Calculus I.
+* **Topology** by *James Munkres*: For point-set topology and introductory algebraic topology (fundamental groups). The focus is on generalizing the properties of continuous funtions learned in Calculus I and III.
 * **An Introduction to Algebraic Topology** by *Joseph Rotman*: A good introductory text with a good number of examples about homology and cohomology. Can read Munkres' "Elements of Algebraic Topology" for a more detailed discussion.
 * **Differential Topology** by *Amiya Mukherjee*: This text nicely complements the study of smooth manifolds.
 
