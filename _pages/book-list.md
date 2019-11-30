@@ -17,8 +17,9 @@ Following are the good book lists:
 * [Undergraduate Maths Textbooks](#undergraduate-maths-textbooks)
   * [Algebra](#algebra)
   * [Analysis](#analysis)
-  * [Topology and Geometry](#topology-and-geometry)
-  * [Miscellaneous](#miscellaneous)
+  * [Topology](#topology)
+  * [Geometry](#geometry)
+  * [Discrete Mathematics](#discrete)
 * [My Interests](#my-interests)
   * [Number Theory](#number-theory)
   * [Algebraic Geometry](#algebraic-geometry)
@@ -100,7 +101,7 @@ Following are the good book lists:
 ## Algebra ##
 
 * **Topics in Algebra** by *I. N. Herstein*: For an introduction to group theory, though the notations are a bit outdated. Especially see the three different proofs of Sylow's theorems. Also has a good selection of exercises. To have a better understanding of Cayley's theorem, see Fraleigh's "A First Course in Abstract Algebra".
-* **Linear Algebra** by *Hoffman and Kunze*: Surely there are better books in the market, but I learned from this. The first chapter is a bit of a mess with 4x4 and 5x5 matrices.
+* **Linear Algebra** by *Friedberg, Insel and Spence*: Use third edition, 1999 reprint to avoid typos. It is a good book to learn basic stuff.
 * **Abstract Algebra** by *Dummit and Foote*: For an introduction to ring theory, modules over PID, field theory and Galois theory. Has lots of solved examples.
 * **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's book "Algebraic Geometry". A more gentle introductory book is by N. S. Gopala Krishnan.
 * **Representation Theory of Finite Groups** by *Martin Burrow*: Must read the introduction to the first chapter. Notations are a bit outdated, but not as [bad](https://math.stackexchange.com/a/192728) as in Gordon James and Martin Liebeck's book "Representation and Characters of Groups". 
@@ -108,36 +109,41 @@ Following are the good book lists:
 ## Analysis ##
 
 * **Foundations of Analysis** by *E. Landau*: Fantastic short book. I learned about Peano axioms from this book. Terry Tao's book "Analysis I" also starts with a similar discussion.
-* **Introduction to Real Analysis** by *Bartle and Sherbert*: A very nice introduction to epsilon-delta framework. Lots of examples and good exercises.
+* **Introduction to Real Analysis** by *Bartle and Sherbert*: A very nice introduction to epsilon-delta framework. Lots of examples and good exercises. Also compares improper Riemann integration with Lebesgue integration (pros and cons).
 * **Topology of Metric Spaces** by *S. Kumaresan*: Discusses various useful inequalitites needed in analysis and helps us see the importance of metric space structure in real analysis. Also have a look at the book "The Cauchy-Schwarz Master Class" by J. Michael Steele.
-* **Analysis on Manifolds** by *J. Munkres*: A very clear introduction to several-variable analysis in $\mathbb{R}^n$. For a quick review of the several-variable calculus in $\mathbb{R}^3$ that one learns during high-school physics courses, see the book "Differential and Integral Calculus" by N. Piskunov (this is a soviet era book, sold in India as two volumes; <a href="http://www.cbspd.co.in/differential-and-integral-calculus-vol-1-pb-1996-9788123904924-piskunov-n.html" target="_blank">vol 1</a> and <a href="http://www.cbspd.co.in/differential-and-integral-calculus-vol-2-pb-9788123904931-piskunov-n.html" target="_blank">vol 2</a>) or the <a href="https://www.khanacademy.org/math/multivariable-calculus" target="_blank">Multivariable calculus</a> course at KhanAcademy (lectures by [Salman Khan](https://www.ted.com/speakers/salman_khan) and articles+diagrams+animations by [Grant Sanderson](https://www.3blue1brown.com/about)).
 * **Lebesgue Integration On Euclidean Space** by *Frank Jones*: An introductory text on mesaure theory. If you find this book boring, spend some time on the first three chapters of Folland's book "Real Analysis: Modern Techniques and Their Applications".
 * **Functions of One Complex Variable** by *J. B. Conway*: I really like the proofs given in this book (Runge's theorem, Mittag-Leffler's theorem and Weierstrass factorization theorem), though I feel that it is a tough book for beginners. Section III.3 briefly discusses Mobius transformations which is very important. There are many better books in the market like the one by Bak and Newman, or Sasane and Sasane (which give much more importance to contour integration and residue theorem applications).
 * **Introduction to Topology and Modern Analysis** by *G. F. Simmons*: This book should be renamed as "An Introduction to Functional Analysis".
 * **Differential Equations** by *S. L. Ross*: Nothing special, any other text like Simmons and Krantz's book "Differential Equations: Theory - Technique and Practice" is also good.
 
-## Topology and Geometry ##
+*I don't know about a good introductory book on numerical analysis.*
+
+## Topology ##
 
 * **Topology** by *James Munkres*: For point-set topology and introductory algebraic topology (fundamental groups).
 * **An Introduction to Algebraic Topology** by *Joseph Rotman*: A good introductory text with a good number of examples. Can read Munkres' "Elements of Algebraic Topology" for a more detailed discussion.
-* **Elementary Differential Geometry** by *Andrew Pressley*: This book is the study of the geometry of curves and surfaces in three-dimensional space using calculus techniques.
-* **An Introduction to Manifolds** by *Loring  W. Tu*: The best possible introduction to smooth manifolds. Can skip the Lie group, Lie algebra and Lie derivative during the first reading. Also have a look at Amiya Mukherjee's book "Differential Topology".
+* **Differential Topology** by *Amiya Mukherjee*: This text nicely complements the study of smooth manifolds.
+
+## Geometry ##
+
+* **Vector Calculus, Linear Algebra And Differential Forms: A unified approach** by *J. H. Hubbard and B. B. Hubbard*: A visual introduction to manifolds in $\mathbb{R}^n$ . All discusses the geometry of curves and surfaces in $\mathbb{R}^3$. For a quick review of the several-variable calculus in $\mathbb{R}^3$ that one learns during high-school physics courses, see the book "Differential and Integral Calculus" by N. Piskunov (this is a soviet era book, sold in India as two volumes; <a href="http://www.cbspd.co.in/differential-and-integral-calculus-vol-1-pb-1996-9788123904924-piskunov-n.html" target="_blank">vol 1</a> and <a href="http://www.cbspd.co.in/differential-and-integral-calculus-vol-2-pb-9788123904931-piskunov-n.html" target="_blank">vol 2</a>) or the <a href="https://www.khanacademy.org/math/multivariable-calculus" target="_blank">Multivariable calculus</a> course at KhanAcademy (lectures by [Salman Khan](https://www.ted.com/speakers/salman_khan) and articles+diagrams+animations by [Grant Sanderson](https://www.3blue1brown.com/about)).
+* **Analysis on Manifolds** by *J. Munkres*: A rigorous introduction to manifolds in $\mathbb{R}^n$ (de Rham cohomology). 
+* **An Introduction to Manifolds** by *Loring  W. Tu*: The best possible introduction to smooth manifolds (de Rham cohomology). Can skip the Lie group, Lie algebra and Lie derivative during the first reading. 
 * **An Invitation to Algebraic Geometry** by *Karen E. Smith, Lauri Kahanpää, Pekka Kekäläinen, and William Traves*: Really nice warmup book for Hartshorne. Lots of solved examples. Also have a look at Miles Reid's book "Undergraduate commutative algebra".
 
-## Miscellaneous ##
+## Discrete Mathematics ##
 
 * **Introductory Combinatorics** by *R. A. Brualdi*: There are some typos, but there some really interesting discussions like an interesting theorem by Erdős and Szekeres (pp. 76, 5th ed).
 * **An Introduction to the Theory of Numbers** by *Ivan Niven, Herbert S. Zuckerman and Hugh L. Montgomery*: Covers all flavours of number theory in adequate detail. For a more gentle introduction, see Silverman's book "A Friendly Introduction to Number Theory".
 
-
-*I don't know about a good introductory book on numerical analysis, graph theory, probability or statistics.*
+*I don't know about a good introductory book on graph theory.*
 
 ## My Interests ##
 --------------
 
 <img src="/images/book6.jpg" alt="">
 
-## Number Theory ##
+## Aritmetic ##
 
 * **An Introduction to Diophantine Equations** by *Dorin Andrica, Ion Cucurezeanu, and Titu Andreescu*: A really nice place to learn elementary methods for solving various types of Diophantine equations.
 * **A Friendly Introduction to Number Theory** by *Joseph H. Silverman*: A modern introduction to elementary number theory.
