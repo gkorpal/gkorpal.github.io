@@ -127,7 +127,7 @@ Following are the good book lists:
 
 ## Geometry ##
 
-* **Vector Calculus, Linear Algebra And Differential Forms: A unified approach** by *J. H. Hubbard and B. B. Hubbard*: A visual introduction to manifolds in $\mathbb{R}^n$. Also discusses the geometry of curves and surfaces in $\mathbb{R}^3$. Focus is to rigorously prove the stuff learned in Calculus III and extend those ideas. The book is available <a href="https://archive.org/details/HubbardJ.H.HubbardB.B.VectorCalculusLinearAlgebraAndDifferentialFormsAUnifiedApp" target="_blank">here</a>.
+* **Vector Calculus, Linear Algebra And Differential Forms: A unified approach** by *J. H. Hubbard and B. B. Hubbard*: A visual introduction to manifolds in $\mathbb{R}^n$. Also discusses the geometry of curves and surfaces in $\mathbb{R}^3$. Focus is to rigorously prove the stuff learned in Calculus III and extend those ideas. The book is available on <a href="https://archive.org/details/HubbardJ.H.HubbardB.B.VectorCalculusLinearAlgebraAndDifferentialFormsAUnifiedApp" target="_blank">Internet Archive</a>.
 * **Analysis on Manifolds** by *J. Munkres*: A rigorous introduction to manifolds in $\mathbb{R}^n$ (de Rham cohomology). 
 * **An Introduction to Manifolds** by *Loring  W. Tu*: The best possible introduction to smooth manifolds (de Rham cohomology). Can skip the Lie group, Lie algebra and Lie derivative during the first reading. 
 * **Undergraduate Algebraic Geometry** by *Miles Reid*: There are many explicit examples. Also have a look at Miles Reid's book "Undergraduate commutative algebra".
