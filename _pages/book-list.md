@@ -145,7 +145,7 @@ Following are the good book lists:
 
 <img src="/images/book6.jpg" alt="">
 
-## Aritmetic ##
+## Number Theory ##
 
 * **An Introduction to Diophantine Equations** by *Dorin Andrica, Ion Cucurezeanu, and Titu Andreescu*: A really nice place to learn elementary methods for solving various types of Diophantine equations.
 * **A Friendly Introduction to Number Theory** by *Joseph H. Silverman*: A modern introduction to elementary number theory.
