@@ -131,7 +131,7 @@ Following are the good book lists:
 * **Analysis on Manifolds** by *J. Munkres*: A rigorous introduction to manifolds in $\mathbb{R}^n$ (de Rham cohomology). He provides better notations for differentaition and integration, hence clearing the confusion caused due to Calculus notations like "dx" etc. 
 * **An Introduction to Manifolds** by *Loring  W. Tu*: The best possible introduction to smooth manifolds (de Rham cohomology). Can skip the Lie group, Lie algebra and Lie derivative during the first reading. 
 * **Undergraduate Algebraic Geometry** by *Miles Reid*: There are many explicit examples. Also have a look at Reid's book "Undergraduate commutative algebra".
-* **An Invitation to Algebraic Geometry** by *Karen E. Smith, Lauri Kahanpää, Pekka Kekäläinen, and William Traves*: Really nice warmup book for Hartshorne. Lots of solved examples.
+* **An Invitation to Algebraic Geometry** by *Karen E. Smith, Lauri Kahanpää, Pekka Kekäläinen, and William Traves*: This book nicely complements the first chapter of Hartshorne. Lots of solved examples.
 
 ## Discrete Mathematics ##
 
