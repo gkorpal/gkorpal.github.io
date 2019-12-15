@@ -29,6 +29,7 @@ Following are the good book lists:
 
 <img src="/images/book2.jpg" alt="">
 
+* **Fun and Fundamentals of Mathematics** by *J. V. Narlikar and M. Narlikar*: This was the first book I bought through flipkart (when it had just started as book selling website). Have read it many times, and enjoyed it every time.
 * **Euclid’s Window** by *Leonard Mlodinow*: I loved reading this book (Mlodinow has co-authored "The Grand Design" by Stephen Hawking).
 *  **Euler's Gem** by *David Richeson*: 2+E=F+V was my favourite formula in school and this was the first book I read in college.
 * **Fermat’s Last Theorem** by *Simon Singh*: A very detailed account on Fermat's Theorem with a good number of references.
@@ -41,8 +42,11 @@ Following are the good book lists:
 * **Magical Mathematics** by *Persi Diaconis and Ron Graham*: Very interesting mathematical card tricks, a great treat for people who love the collection of Scientific American articles by Martin Gardner.
 * **The Penguin Dictionary of Curious and Interesting Geometry** by *David Wells*: My favourite entry is "pursuit curves".
 * **Flatland** by *Abbott*: It's a short and sweet book.
+* **The Number Devil** by *Hans Magnus Enzensberge*: Though the author is not a mathematician, he is a well-known and respected European intellectual and author with wide-ranging interests. This book is similar to George Gamow’s book "Mr Tompkins". Plus it's a colourful maths book!
 * **The Curious Incident of the Dog in the Night-Time** by *Mark Haddon*: An autistic boy who loves prime numbers.
 * **The Devotion of Suspect X** by *Keigo Higashino*: The protagonist is a brilliant but lonely mathematician.
+* **Mathematics: A very Short Introduction** by *T. Gowers*: A broad overview of research carrier in mathematics.
+* **What is Mathematics ?** by *Richard Courant and Herbert Robbins* : This is must read book for all students serious towards mathematics. This book will be your life long friend.
 
 ## Biographies and Autobiographies ##
 ------
@@ -62,8 +66,13 @@ Following are the good book lists:
 
 <img src="/images/book1.jpg" alt="">
 
+* **Little Mathematics Library** by *MIR Publishers*: These books include short introductory material (without much detail) on various topics which can help student to get an idea of different fields of mathematics, written especially for high school students preparing for Olympiad. All of these can be downloaded legally from [mirtitles.org](http://mirtitles.org/2012/09/06/little-mathematics-library-taking-stock/).
 * **Mathematical Circles (Russian Experience)** by *Fomin, Genkin, and Itenberg* : A thought provoking book for students of class VIII & IX
 * **Non-Routine Problems in Mathematics** by *AMTI (Editor: V. K. Krishnan)* : Lovely book but has few wrong solutions for problems posed in exercises
+* **Challenge and Thrill of Pre-College Mathematics** by *Krishnamurthy, Pranesachar,Ranganathan and Venkatachala*: I learned geometry and combinatorics from this book, was fascinated by the Friendship theorem and the work of Erdos.   
+* **A primer on Number Sequences** by *Shailesh Shirali* : A plethora of sequences!
+* **A Mathematical Mosaic: Patterns & Problem-Solving** by *Ravi Vakil*: One of my favorite book (but sadly not available in India, bought it from the USA).
+* **Hands-on Geometry** by *Christopher M. Freeman*: Lovely book ! A step-by-step  guide to learning constructions
 * **Problem-Solving Strategies** by *Arthur Engel*: This book is more than enough for someone preparing for olympiads. I found the problems in this book to be quite hard but satisfying.
 * **The Art and Craft of Problem Solving** by *Paul Zeitz*: The first four chapters of this book taught me how to streamline my thinking process.
 
@@ -79,19 +88,10 @@ Following are the good book lists:
   * *NCERT Mathematics Textbook for Class X [NCF – 2005]* also consists of basics of “Number Theory” topics like “Euclid’s division algorithm”. Moreover the appendices on “Proofs in Mathematics” & “Mathematical Modelling” are worth reading even at later stages. FOR EXAMPLE: The discussion on ‘Proof by Contradiction’ is awesome.
   * *NCERT Mathematics Textbook for Class XI [NCF – 2005]* includes some of most fundamental mathematics concepts like “Set Theory”, “Principle of Mathematical Induction”, “Summation of Series”, “Binomial Theorem” & “Permutation & Combinations”. Also appendices on “Infinite Series” & “Mathematical Modelling” are worth reading.</li>
   * *NCERT Mathematics Textbook for Class XII [NCF – 2005]* major focus in on Calculus, but still its appendices on “Proofs in Mathematics” & “Mathematical Modelling” are worth reading. FOR EXAMPLE: In Appendix – 1 (Proofs in Mathematics), there are proofs for two beautiful theorems of Number theory (a) Prime Numbers are infinite & (b) Fermat Numbers are NOT Prime
-* **Little Mathematics Library** by *MIR Publishers*: These books include short introductory material (without much detail) on various topics which can help student to get an idea of different fields of mathematics, written especially for high school students preparing for Olympiad. All of these can be downloaded legally from [mirtitles.org](http://mirtitles.org/2012/09/06/little-mathematics-library-taking-stock/).
-* **Fun and Fundamentals of Mathematics** by *J. V. Narlikar and M. Narlikar*: This was the first book I bought through flipkart (when it had just started as book selling website). Have read it many times, and enjoyed it every time.
-* **A Mathematical Mosaic: Patterns & Problem-Solving** by *Ravi Vakil*: One of my favorite book (but sadly not available in India, bought it from the USA).
-* **The Number Devil** by *Hans Magnus Enzensberge*: Though the author is not a mathematician, he is a well-known and respected European intellectual and author with wide-ranging interests. This book is similar to George Gamow’s book "Mr Tompkins". Plus it's a colourful maths book!
-* **Challenge and Thrill of Pre-College Mathematics** by *Krishnamurthy, Pranesachar,Ranganathan and Venkatachala*: I learned geometry and combinatorics from this book, was fascinated by the Friendship theorem and the work of Erdos.   
-* **A primer on Number Sequences** by *Shailesh Shirali* : A plethora of sequences!
-* **Hands-on Geometry** by *Christopher M. Freeman*: Lovely book ! A step-by-step  guide to learning constructions
-* **Higher Algebra** by *Barnard and Child*: A classic book in college algebra, contains my favourite proof of Wilson's theorem. Freely available on [Internet Archive](https://archive.org/details/higheralgebra032813mbp/page/n4).
+* **MATH!: Encounters with High School Students** by *Serge Lang*: A collection of conversations involving high-school geometry.
+* **Higher Algebra** by *Barnard and Child*: A classic book in college algebra and discrete-maths, contains my favourite proof of Wilson's theorem. Freely available on [Internet Archive](https://archive.org/details/higheralgebra032813mbp/page/n4).
 * **The Cartoon Guide to Calculus** by *Larry Gonick*:  A Fantastic book ! Everyone will love calculus after reading this. An illustrative guide to elementary calculus.
 * **Calculus: Basic Concepts for High Schools** by *Lev Tarasov*: Among the many calculus textbooks I read, this was the one which gave me the most clarity. Re-written in [LaTeX](https://archive.org/details/LevTarasovCalculusBasicConceptsForHighSchools/page/n101) by [The Mitr](https://wp.me/p13GRc-RX).
-* **Mathematics: A very Short Introduction** by *T. Gowers*: A broad overview of research carrier in mathematics.
-* **What is Mathematics ?** by *Richard Courant and Herbert Robbins* : This is must read book for all students serious towards mathematics. This book will be your life long friend.
-* **MATH!: Encounters with High School Students** by *Serge Lang*: A collection of conversations involving high-school level mathematics topics.
 * **Calculus I, II, III** by *Jerrold E. Marsden and Alan Weinstein*:  These books are old fashioned version of Calculus I, II and II (US Education System). The books are available <a href="https://aimath.org/textbooks/approved-textbooks/marsden-weinstein/" target="_blank">here</a>. This topic is an amalgamation of analysis, topology and geometry. We use geometric and topological properties of the Euclidean space to find some logic behind analytic facts about functions defined on Euclidean space. This is the "maths" needed for most of the undergraduate Physics courses.
 
 ## Undergraduate Maths Textbooks ##
