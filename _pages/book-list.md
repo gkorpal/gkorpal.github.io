@@ -101,9 +101,8 @@ Following are the good book lists:
 
 ## Algebra ##
 
-* **Topics in Algebra** by *I. N. Herstein*: For an introduction to group theory, though the notations are a bit outdated. Especially see the three different proofs of Sylow's theorems. Also has a good selection of exercises. To have a better understanding of Cayley's theorem, see Fraleigh's "A First Course in Abstract Algebra".
-* **Linear Algebra** by *Friedberg, Insel and Spence*: To avoid typos, use 1999 reprint of the third edition It is a good book to learn basic stuff.
-* **Abstract Algebra** by *Dummit and Foote*: For an introduction to ring theory, modules over PID, field theory and Galois theory. Has lots of solved examples.
+* **Linear Algebra** by *Friedberg, Insel and Spence*: To avoid typos, use 1999 reprint of the third edition It is a good book to learn basic stuff. 
+* **Abstract Algebra** by *Dummit and Foote*: For an introduction to group theory, ring theory, modules over PID, field theory and Galois theory. Has lots of solved examples. Beginners might find the books by Fraleigh (A First Course in Abstract Algebra) and Gallian (Contemporary Abstract Algebra) more useful for learning basic group theory. 
 * **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's book "Algebraic Geometry". A more gentle introductory book is by N. S. Gopala Krishnan.
 * **Representation Theory of Finite Groups** by *Martin Burrow*: Must read the introduction to the first chapter. Notations are a bit outdated, but not as [bad](https://math.stackexchange.com/a/192728) as in Gordon James and Martin Liebeck's book "Representation and Characters of Groups". 
 
