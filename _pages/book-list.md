@@ -30,7 +30,7 @@ Following are the good book lists:
 
 <img src="/images/book2.jpg" alt="">
 
-* **Fun and Fundamentals of Mathematics** by *J. V. Narlikar and M. Narlikar*: This was the first book I bought through flipkart (when it had just started as book selling website). Have read it many times, and enjoyed it every time.
+* **Fun and Fundamentals of Mathematics** by *J. V. Narlikar and M. Narlikar*: This was the first book I bought through flipkart (when it used to sell only books). Have read it many times since April 2011.
 * **Euclid’s Window** by *Leonard Mlodinow*: I loved reading this book (Mlodinow has co-authored "The Grand Design" by Stephen Hawking).
 *  **Euler's Gem** by *David Richeson*: 2+E=F+V was my favourite formula in school and this was the first book I read in college.
 * **Fermat’s Last Theorem** by *Simon Singh*: A very detailed account on Fermat's Theorem with a good number of references.
@@ -67,6 +67,8 @@ Following are the good book lists:
 
 <img src="/images/book1.jpg" alt="">
 
+These books should be accessible to the students in class VIII (final year of Primary education in India), i.e. children aged 13+.
+
 * **Little Mathematics Library** by *MIR Publishers*: These books include short introductory material (without much detail) on various topics which can help student to get an idea of different fields of mathematics, written especially for high school students preparing for Olympiad. All of these can be downloaded legally from [mirtitles.org](http://mirtitles.org/2012/09/06/little-mathematics-library-taking-stock/).
 * **Mathematical Circles (Russian Experience)** by *Fomin, Genkin, and Itenberg* : A thought provoking book for students of class VIII & IX
 * **Non-Routine Problems in Mathematics** by *AMTI (Editor: V. K. Krishnan)* : Lovely book but has few wrong solutions for problems posed in exercises
@@ -84,6 +86,8 @@ Following are the good book lists:
 
 <img src="/images/book3.jpg" alt="">
 
+The High School constitutes of class IX-XII (Secondary and Senior Secondary education in India), i.e. students aged 14 to 18.
+
 * **NCERT textbooks**: These books were written before 2005. They still follow the old notation to represent natural numbers, integers etc., for example: using  <b>N </b> instead of <b>ℕ </b> to represent set of natural numbers.  Since, only after 2003, bold font (like <b>N</b>)  was completely replaced by  blackboard bold font (like <b>ℕ</b> ) to represent some familiar systems of numbers (like "set of natural numbers") in print.  All of these can be downloaded legally from [NCERT e-books website](http://ncert.nic.in/textbook/textbook.htm).
   * *NCERT Mathematics Textbook for Class IX [NCF – 2005]* is fantastic book as it touches nearly all topics (like geometry, polynomials, Number Theory (rational - irrational numbers), Introduction to mathematical modelling).FOR EXAMPLE: I was spell bound by chapter - “Introduction to Euclid’s Axioms” and I ended up reading “<i>Euclid’s Window by Leonard Mlodinow</i> “ & “<i>Fun & Fundamentals of Mathematics by Narlikar</i>”
   * *NCERT Mathematics Textbook for Class X [NCF – 2005]* also consists of basics of “Number Theory” topics like “Euclid’s division algorithm”. Moreover the appendices on “Proofs in Mathematics” & “Mathematical Modelling” are worth reading even at later stages. FOR EXAMPLE: The discussion on ‘Proof by Contradiction’ is awesome.
@@ -98,6 +102,8 @@ Following are the good book lists:
 -----
 
 <img src="/images/book4.jpg" alt="">
+
+The Undergraduate constitutes of 4-year bachelor's degree program in mathematics (Tertiary education in India), i.e. students aged 18 to 22.
 
 ## Basics ##
 
