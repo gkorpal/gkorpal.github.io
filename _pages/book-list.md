@@ -15,6 +15,7 @@ Following are the good book lists:
 * [Olympiad-style Problem Solving](#olympiad-style-problem-solving)
 * [High School Maths](#high-school-maths)
 * [Undergraduate Maths Textbooks](#undergraduate-maths-textbooks)
+  * [Basics](#basics)
   * [Algebra](#algebra)
   * [Analysis](#analysis)
   * [Topology](#topology)
@@ -92,16 +93,19 @@ Following are the good book lists:
 * **Higher Algebra** by *Barnard and Child*: A classic book in college algebra and discrete-maths, contains my favourite proof of Wilson's theorem. Freely available on [Internet Archive](https://archive.org/details/higheralgebra032813mbp/page/n4).
 * **The Cartoon Guide to Calculus** by *Larry Gonick*:  A Fantastic book ! Everyone will love calculus after reading this. An illustrative guide to elementary calculus.
 * **Calculus: Basic Concepts for High Schools** by *Lev Tarasov*: Among the many calculus textbooks I read, this was the one which gave me the most clarity. Re-written in [LaTeX](https://archive.org/details/LevTarasovCalculusBasicConceptsForHighSchools/page/n101) by [The Mitr](https://wp.me/p13GRc-RX).
-* **Calculus I, II, III** by *Jerrold E. Marsden and Alan Weinstein*:  These books are old fashioned version of Calculus I, II and II (US Education System). The books are available <a href="https://aimath.org/textbooks/approved-textbooks/marsden-weinstein/" target="_blank">here</a>. This topic is an amalgamation of analysis, topology and geometry. We use geometric and topological properties of the Euclidean space to find some logic behind analytic facts about functions defined on Euclidean space. This is the "maths" needed for most of the undergraduate Physics courses.
 
 ## Undergraduate Maths Textbooks ##
 -----
 
 <img src="/images/book4.jpg" alt="">
 
+## Basics ##
+
+* **Calculus I, II, III** by *Jerrold E. Marsden and Alan Weinstein*:  These books are old fashioned version of Calculus I, II and II (US Education System). The books are available <a href="https://aimath.org/textbooks/approved-textbooks/marsden-weinstein/" target="_blank">here</a>. This topic is an amalgamation of analysis, topology and geometry. We use geometric and topological properties of the Euclidean space to find some logic behind analytic facts about functions defined on Euclidean space. This is the "maths" needed for most of the undergraduate Physics courses.
+* **Linear Algebra** by *Friedberg, Insel and Spence*: To avoid typos, use 1999 reprint of the third edition, or more recent editions. It is a good book to learn basic stuff used in algebra (groups, modules over PID, etc.), analysis (Banach space, numerical analysis, differential equations, etc.),  geometry (coordinate change, orientation, multilinear maps, etc.) and discrete mathematics (incidence matrix etc.). 
+
 ## Algebra ##
 
-* **Linear Algebra** by *Friedberg, Insel and Spence*: To avoid typos, use 1999 reprint of the third edition It is a good book to learn basic stuff. 
 * **Abstract Algebra** by *Dummit and Foote*: For an introduction to group theory, ring theory, modules over PID, field theory and Galois theory. Has lots of solved examples. Beginners might find the books by Fraleigh (A First Course in Abstract Algebra) and Gallian (Contemporary Abstract Algebra) more useful for learning basic group theory. 
 * **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's book "Algebraic Geometry". For a more gentle introduction, read the book by N. S. Gopala Krishnan.
 * **Representation Theory of Finite Groups** by *Martin Burrow*: Must read the introduction to the first chapter. Notations are a bit outdated, but not as [bad](https://math.stackexchange.com/a/192728) as in Gordon James and Martin Liebeck's book "Representation and Characters of Groups". 
