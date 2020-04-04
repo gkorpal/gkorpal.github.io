@@ -168,7 +168,6 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 ## Algebraic Geometry ##
 
-* **Basic Algebraic Geometry (vol. 1 and 2)** by *Igor Shafarevich*: A very nice introductory text for someone who is also interested in number theory. Initially, the subject is motivated using examples from number theory. Only thing I don't like is that the book is written like a novel, many interesting results and their proofs are buried in long paragraphs.
 * **Principles of Algebraic Geometry** by *Joe Harris and Phillip Griffiths*: The only available introductory text on complex algebraic geometry. Not at all a good book for self study, my whole master's thesis was an attempt to understand 14 pages of this book (pp. 34-47). However, the collection of ideas is worth the effort. The following texts were useful for supplementary reading:
   * **Foundations of Differentiable Manifolds and Lie Groups** by *W. F. Warner*: Chapter 5 where the equivalence of Cech cohomology to sheaf cohomology is discussed.
   * **Algebraic Curves and Riemann Surfaces** by *Rick Miranda*: Chapter IX for the definiton and basic properties of Cech cohomology.
@@ -180,5 +179,5 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
   * **Analytic Functions of Several Complex Variables** by *Gunning and Rossi*: The necessary background about several variable complex valued functions, and a detailed proof of $\overline{\partial}$-Poincare lemma.
   * **Function Theory of Several Complex Variables** by *S. G. Krantz*: The proof of Dolbeault theorem for $\mathbb{C}^n$ is discussed in section 6.3.
 * **Algebraic Geometry** by *Hartshorne*: This standard text introducing algebraic geometry via the theory of schemes. Many of the important ideas in the book are contained in the exercises. The following texts were useful for supplementary reading:
-  * **Algebraic Geometry and Arithmetic Curves** by *Qing Liu*: This book might be of some help intially since its first chapter about commutative algebra and sheaf theory is well written. But later many big proofs have been skipped.
-  * **The Geometry of Schemes** by *Eisenbud and Harris*: I haven't read it, but it is said to provide better intuition than Hartshorne. However the book does lack a discussion of cohomology.
+  * **Basic Algebraic Geometry (vol. 1 and vol. 2)** by *Igor Shafarevich* (translated from Russian by Miles Reid): Initially, the subject is motivated using examples from number theory, which I liked. Only thing I don't like is that many interesting results and their proofs are buried in long paragraphs. The vol 1 is a good alternative to the first chapter of Hartshorne. Also, note that the vol 2, unlike vol 1, is fast paced and will make a lot more sense once you have read Atiyah and MacDonald.
+  * **The Geometry of Schemes** by *Eisenbud and Harris*: This book acts as a bridge between the first chapter and rest of the chapters of Hartshorne. This book is a good alternative to the vol 2 of Shafrevich.
