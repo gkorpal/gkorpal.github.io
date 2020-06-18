@@ -15,6 +15,5 @@ tags:
 |RAM | 8 GB DDR4 2933 MHz                | 8 GB LPDDR4 4266 MHz|
 |Storage| 500GB NVMe SSD  | 512GB NVMe SSD|
 |Display | 21.5" 1080p IPS | 14" 1080p IPS |
-
 |Warranty |  2-5 years on expensive parts | 1 year|
 |Bottomline | Customizability (optimized for Ubuntu and LaTeX) | Mobility (0. 63" thin and 2. 65 lbs) |
