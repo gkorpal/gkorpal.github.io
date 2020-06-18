@@ -7,6 +7,7 @@ categories:
 tags:
   - edge case
 ---
+May 2020 best option for USD 650 budget:
 
 | Specification | Custom build PC   | Acer Swift 3 (SF314-42-R9YN) |
 | ------------- |:-----------------:|:----------------------------:|
@@ -23,4 +24,4 @@ tags:
 |Warranty |  2-5 years on expensive parts | 1 year|
 |Bottomline | Customizability (optimized for Ubuntu and LaTeX) | Mobility (0.71" thin and 2. 65 lbs) |
 
-Ryzen 7 4700U is about 20% better than Ryzen 3 3200G for LaTeX (single core performance).
+Ryzen 7 4700U is about 20% better than Ryzen 3 3200G for LaTeX ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_3_3200g-952-vs-amd_ryzen_7_4700u-1093)).
