@@ -13,7 +13,7 @@ May 2020 best option for USD 650 budget:
 | ------------- |:-----------------:|:----------------------------:|
 |CPU            | AMD Ryzen 3 3200G (3.60 GHz x 4 cores, Zen+)    | AMD Ryzen 7 4700U (2.00 GHz x 8 cores, Zen 2)|
 |iGPU            | AMD Radeon Vega 8  (1.25 GHz x 8 cores, Gen 8)  | AMD Radeon 7 (1.60 GHz x 7 cores, Gen 9)|
-|RAM | 8 GB DDR4 2933 MHz                | 8 GB LPDDR4 4266 MHz|
+|RAM | 2x4 GB DDR4 2933 MHz                | 8 GB LPDDR4 4266 MHz|
 |Storage| Crucial P1 500GB NVMe SSD  | Samsung PM991 512GB NVMe SSD|
 |Ports| PS/2, 5 x USB 3.2, 4 x USB 2.0, DVI-D, HDMI, Audio In/Out, 2 x Mic| 1 x USB Type-C, 1 x USB 3.2, 1 x USB 2.0, HDMI|
 |Network| Realtek Gigabit Ethernet (upto 1 Gbps) | Intel Bluetooth 5.0 and WiFi 6 (IEEE 802.11ax, upto 10 Gbps) |
