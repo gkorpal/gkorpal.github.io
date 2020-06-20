@@ -20,7 +20,7 @@ May 2020 best option for USD 650 budget:
 |Audio| Realtek ALC892 Codec| Realtek Audio |
 |Display | 21.5" 1080p IPS with Eye Care and 2 stereo speakers| 14" 1080p IPS with Bluelight Shiel and 2 stereo speakers|
 |Webcam | 720p with mic| 720p with mic|
-|Keyboard | 60% size with Outemu Blue switches  | 60% size with scissor switch and backlight|
+|Keyboard | Tenkeyless mechanical with Outemu Blue switches  | 60% size chiclet with scissor switch and backlight|
 |Pointing device | Wireless mouse | Touchpad |
 |Warranty |  2-5 years on expensive parts | 1 year|
 |Bottomline | Customizability (optimized for Ubuntu and LaTeX) | Mobility (0.71" thin and 2. 65 lbs) |
