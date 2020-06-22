@@ -15,17 +15,17 @@ The laptop that I got when I joined college 5 years ago was now old enough to be
 | ------------- |:--------------------------------------:|:----------------------------:|
 |CPU            | Intel Core m3-8100Y (1.1 GHz x 2 cores, Amber Lake Y)    | Intel Core i7-4702MQ (2.20 GHz x 4 cores, Haswell)|
 |iGPU            | Intel UHD Graphics 615  (300 MHz, Gen. 9 Amber Lake)  | Intel HD Graphics 4600 (400 MHz, Gen. 7.5 Haswell)|
-|RAM | 2 x 4 GBLPDDR3 1866 MHz SO-DIMM            | 8GB PC3-12800 DDR3L SDRAM 1600 MHz SO-DIMM|
-|Storage| Crucial P1 500GB NVMe SSD  | Samsung PM991 512GB NVMe SSD|
-|Ports| PS/2, 5 x USB 3.2, 4 x USB 2.0, DVI-D, HDMI, Audio In/Out, 2 x Mic| 1 x USB Type-C, 1 x USB 3.2, 1 x USB 2.0, HDMI, Headset/speaker jack|
-|Network| Realtek Gigabit Ethernet (upto 1 Gbps) | Intel Bluetooth 5.0 and WiFi 6 (IEEE 802.11ax, upto 10 Gbps) |
-|Audio| Realtek ALC892 Codec| Realtek Audio |
-|Display | 21.5" 1080p IPS with Eye Care and 2 stereo speakers| 14" 1080p IPS with Bluelight Shiel and 2 stereo speakers|
-|Webcam | 720p with mic| 720p with mic|
-|Keyboard | Tenkeyless mechanical with Outemu Blue switches  | 60% size chiclet with scissor switch and backlight|
-|Pointing device | Wireless mouse | Touchpad |
-|Warranty |  2-5 years on expensive parts | 1 year|
-|Bottomline | Customizability (optimized for Ubuntu and LaTeX) | Mobility (0.71" thin and 2. 65 lbs) |
+|RAM | 2 x 4 GB LPDDR3 1866 MHz SO-DIMM            | 8 GB PC3-12800 DDR3L SDRAM 1600 MHz SO-DIMM|
+|Storage|   | (Upgraded to: )|
+|Ports|     | |
+|Network|   | |
+|Audio|     | |
+|Display |  | |
+|Webcam | | |
+|Keyboard |  | |
+|Pointing device |  | |
+|Warranty |  | |
+|Bottomline | Fanless and cheap quality | Sturdy and easy to upgrade (user manual has full details) |
 
 Ryzen 7 4700U is about 20% better than Ryzen 3 3200G for LaTeX ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_3_3200g-952-vs-amd_ryzen_7_4700u-1093)).
 
