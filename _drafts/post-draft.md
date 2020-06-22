@@ -14,8 +14,7 @@ The laptop that I got when I joined college 5 years ago was now old enough to be
 | Specification | ASUS Chromebook 14 C425 (C425TA-DH384) | ThinkPad E440 (Custom build) |
 | ------------- |:--------------------------------------:|:----------------------------:|
 |CPU            | Intel Core m3-8100Y (1.1 GHz x 2 cores, Amber Lake Y)    | Intel Core i7-4702MQ (2.20 GHz x 4 cores, Haswell)|
-|iGPU            | Intel UHD Graphics 615  (300 MHz, Gen. 9 Amber Lake)  | 
-Intel HD Graphics 4600 (400 MHz, Gen. 7.5 Haswell)|
+|iGPU            | Intel UHD Graphics 615  (300 MHz, Gen. 9 Amber Lake)  | Intel HD Graphics 4600 (400 MHz, Gen. 7.5 Haswell)|
 |RAM | 2 x 4 GBLPDDR3 1866 MHz SO-DIMM            | 8GB PC3-12800 DDR3L SDRAM 1600 MHz SO-DIMM|
 |Storage| Crucial P1 500GB NVMe SSD  | Samsung PM991 512GB NVMe SSD|
 |Ports| PS/2, 5 x USB 3.2, 4 x USB 2.0, DVI-D, HDMI, Audio In/Out, 2 x Mic| 1 x USB Type-C, 1 x USB 3.2, 1 x USB 2.0, HDMI, Headset/speaker jack|
