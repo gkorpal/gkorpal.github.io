@@ -11,7 +11,7 @@ tags:
 The laptop that I got when I joined college 5 years ago was now old enough to be replaced. Mostly because I picked all the wrong specs when there was a choice (like Realtek vs Intel wireless, 2x4 GB RAM vs 1x8GB RAM, 48Wh vs 62Wh battery) and my lack of maintenance (never cleaned dust from inside or the rust from the ports). So I wanted something portable that can allow me to browse internet and write homework assignments in LaTeX. Following is the comparison of my new laptop (USD 375 before taxes) with the older laptop (USD 916 before taxes) :
 
 
-| Specification | ASUS Chromebook 14 C425 (C425TA) | ThinkPad E440 (Custom build) |
+| Specification | Asus Chromebook C425 (C425T) | Lenovo ThinkPad E440 (Custom build) |
 | ------------- |:--------------------------------------:|:----------------------------:|
 |CPU            | Intel Core m3-8100Y (1.10GHz x 2 cores, Amber Lake Y)    | Intel Core i7-4702MQ (2.20GHz x 4 cores, Haswell)|
 |iGPU            | Intel UHD Graphics 615  (300MHz, Gen. 9 Amber Lake)  | Intel HD Graphics 4600 (400MHz, Gen. 7.5 Haswell)|
