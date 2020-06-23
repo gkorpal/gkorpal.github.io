@@ -8,26 +8,29 @@ tags:
   - edge case
 ---
 ## Pre COVID ##
-The laptop that I got when I joined college 5 years ago was now old enough to be replaced. Mostly because I picked all the wrong specs when there was a choice (like Realtek vs Intel wireless, 2x4 GB RAM vs 1x8GB RAM, 48Wh vs 62 Wh battery) and my lack of maintenance (never cleaned dust from inside or the rust from the ports). So I wanted something portable that can allow me to browse internet and write homework assignments in LaTeX. Following is the comparison of my new laptop (USD 375 before taxes) with the older laptop (USD 916 before taxes) :
+The laptop that I got when I joined college 5 years ago was now old enough to be replaced. Mostly because I picked all the wrong specs when there was a choice (like Realtek vs Intel wireless, 2x4 GB RAM vs 1x8GB RAM, 48Wh vs 62Wh battery) and my lack of maintenance (never cleaned dust from inside or the rust from the ports). So I wanted something portable that can allow me to browse internet and write homework assignments in LaTeX. Following is the comparison of my new laptop (USD 375 before taxes) with the older laptop (USD 916 before taxes) :
 
 
-| Specification | ASUS Chromebook 14 C425 (C425TA-DH384) | ThinkPad E440 (Custom build) |
+| Specification | ASUS Chromebook 14 C425 (C425TA) | ThinkPad E440 (Custom build) |
 | ------------- |:--------------------------------------:|:----------------------------:|
-|CPU            | Intel Core m3-8100Y (1.1 GHz x 2 cores, Amber Lake Y)    | Intel Core i7-4702MQ (2.20 GHz x 4 cores, Haswell)|
-|iGPU            | Intel UHD Graphics 615  (300 MHz, Gen. 9 Amber Lake)  | Intel HD Graphics 4600 (400 MHz, Gen. 7.5 Haswell)|
-|RAM | 2 x 4 GB LPDDR3 1866 MHz SO-DIMM            | 8 GB PC3-12800 DDR3L SDRAM 1600 MHz SO-DIMM|
-|Storage|   | (Upgraded to: )|
-|Ports|     | |
-|Network|   | |
-|Audio|     | |
-|Display |  | |
-|Webcam | | |
-|Keyboard |  | |
-|Pointing device |  | |
-|Warranty |  | |
-|Bottomline | Fanless and cheap quality | Sturdy and easy to upgrade (user manual has full details) |
+|CPU            | Intel Core m3-8100Y (1.10GHz x 2 cores, Amber Lake Y)    | Intel Core i7-4702MQ (2.20GHz x 4 cores, Haswell)|
+|iGPU            | Intel UHD Graphics 615  (300MHz, Gen. 9 Amber Lake)  | Intel HD Graphics 4600 (400MHz, Gen. 7.5 Haswell)|
+|RAM | 2 x 4GB LPDDR3 1866 MHz SO-DIMM            | 8GB PC3-12800 DDR3L SDRAM 1600 MHz SO-DIMM|
+|Storage| 64GB eMMC + 100GB Google One for 1 year (later $20/year) | 500GB HDD, 7200rpm |
+|Battery | 48 Wh | 48 Wh |
+|Ports |  Audio jack (mic/headphone), 2 x Type-C USB 3.0 (display and power delivery support), Type-A USB 3.0, micro SD card reader | |
+|Network| Intel Integrated Wi-Fi 5 (802.11 ac (2x2) and Bluetooth 5.0 | |
+|Audio|  Dialog Semiconductor DA7219   | |
+|Display | 14" 1920x1080 (60Hz, 45% NTSC) | |
+|Webcam | 720p with mic | |
+|Keyboard | 60% chiclet with scissor switch and backlight | |
+|Pointing device | Touchpad | |
+|Warranty | 1 year  | 1 year |
+|Bottomline | Mobility (Fanless, 0.66" thin and 2.8 lbs) | Sturdy and easy to upgrade (user manual has full details) |
 
 Ryzen 7 4700U is about 20% better than Ryzen 3 3200G for LaTeX ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_3_3200g-952-vs-amd_ryzen_7_4700u-1093)).
+
+Had to replace the dying HDD with 250 GB SSD (2.5" SATA 6Gb/s). For budget PC expect low build quality and dim display.
 
 
 
@@ -41,13 +44,13 @@ Following is the comparison of my PC with the best laptop available in the marke
 |RAM | 2 x 4 GB DDR4 2933 MHz                | 2 x 4 GB LPDDR4 4266 MHz|
 |Storage| Crucial P1 500GB NVMe SSD  | Samsung PM991 512GB NVMe SSD|
 |Ports| PS/2, 5 x USB 3.2, 4 x USB 2.0, DVI-D, HDMI, Audio In/Out, 2 x Mic| 1 x USB Type-C, 1 x USB 3.2, 1 x USB 2.0, HDMI, Headset/speaker jack|
-|Network| Realtek Gigabit Ethernet (upto 1 Gbps) | Intel Bluetooth 5.0 and WiFi 6 (IEEE 802.11ax, upto 10 Gbps) |
+|Network| Realtek Gigabit Ethernet (upto 1 Gbps) | Intel Integrated WiFi 6 (802.11ax, upto 10 Gbps) and Bluetooth 5.0 |
 |Audio| Realtek ALC892 Codec| Realtek Audio |
-|Display | 21.5" 1080p IPS with Eye Care and 2 stereo speakers| 14" 1080p IPS with Bluelight Shiel and 2 stereo speakers|
+|Display | 21.5" 1920x1080 60Hz IPS with Eye Care and 2 stereo speakers| 14" 1920x1080 IPS with Bluelight Shiel and 2 stereo speakers|
 |Webcam | 720p with mic| 720p with mic|
-|Keyboard | Tenkeyless mechanical with Outemu Blue switches  | 60% size chiclet with scissor switch and backlight|
+|Keyboard | Tenkeyless mechanical with Outemu Blue switches  | 60% chiclet with scissor switch and backlight|
 |Pointing device | Wireless mouse | Touchpad |
 |Warranty |  2-5 years on expensive parts | 1 year|
-|Bottomline | Customizability (optimized for Ubuntu and LaTeX) | Mobility (0.71" thin and 2. 65 lbs) |
+|Bottomline | Customizability (optimized for Ubuntu and LaTeX) | Mobility (0.71" thin and 2.65 lbs) |
 
 Ryzen 7 4700U is about 20% better than Ryzen 3 3200G for LaTeX ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_3_3200g-952-vs-amd_ryzen_7_4700u-1093)).
