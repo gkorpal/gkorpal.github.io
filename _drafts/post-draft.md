@@ -21,7 +21,7 @@ The laptop that I got when I joined college 5 years ago was now old enough to be
 |Ports |  Audio jack (mic/headphone), 2 x Type-C USB 3.0 (display and power delivery support), Type-A USB 3.0, micro SD card reader | Optical drive |
 |Network| Intel Integrated WiFi 5 (802.11 ac (2x2)) and Bluetooth 5.0 | |
 |Audio|  Dialog Semiconductor DA7219   | |
-|Display | 14" 1920x1080 (60Hz, 45% NTSC) | |
+|Display | 14" 1920x1080 60Hz IPS (45% NTSC) | |
 |Webcam | 720p with mic | |
 |Keyboard | 60% chiclet with scissor switch and backlight | Thinkpad keyboard|
 |Pointing device | Elan Microelectronics Touchpad | |
