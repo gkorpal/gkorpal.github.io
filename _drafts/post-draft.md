@@ -19,7 +19,7 @@ The laptop that I got when I joined college 5 years ago was now old enough to be
 |Storage| 64GB eMMC + 100GB Google One for 1 year (later $20/year) | 500GB HDD, 7200rpm |
 |Battery | 48 Wh | 48 Wh |
 |Ports |  Audio jack (mic/headphone), 2 x Type-C USB 3.0 (display and power delivery support), Type-A USB 3.0, micro SD card reader | |
-|Network| Intel Integrated Wi-Fi 5 (802.11 ac (2x2) and Bluetooth 5.0 | |
+|Network| Intel Integrated WiFi 5 (802.11 ac (2x2)) and Bluetooth 5.0 | |
 |Audio|  Dialog Semiconductor DA7219   | |
 |Display | 14" 1920x1080 (60Hz, 45% NTSC) | |
 |Webcam | 720p with mic | |
