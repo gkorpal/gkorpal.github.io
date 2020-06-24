@@ -18,12 +18,12 @@ The laptop that I got when I joined college 5 years ago was now old enough to be
 |RAM | Micron Technology 2 x 4GB LPDDR3 1866 MHz SO-DIMM            | SK Hynix 8GB PC3-12800 DDR3L SDRAM 1600 MHz SO-DIMM|
 |Storage| 64GB eMMC + 100GB Google One for 1 year (later $20/year) | Seagate 2.5" 500GB HDD, 7200rpm |
 |Battery | 48 Wh | 48 Wh |
-|Ports |  Audio jack (mic/headphone), 2 x Type-C USB 3.0 (display and power delivery support), Type-A USB 3.0, micro SD card reader | Optical drive (PLDS DVD-RW) |
-|Network| Intel Integrated WiFi 5 (802.11 ac (2x2)) and Bluetooth 5.0 | Realtek RTL8723BE Integrated WiFi 4 (802.11 n) and Bluetooth 4.0 |
+|Ports |  Audio jack (mic/headphone), 2 x Type-C USB 3.0 (display and power delivery support), Type-A USB 3.0, micro SD card reader | Audio jack (mic/headphone), 2 x Type-A USB 3.0, 1 x USB 2.0 VGA, HDMI, SD card reader (Realtek), Optical drive (PLDS DVD-RW), Lenovo OneLink connector (for docking) |
+|Network| Intel Integrated WiFi 5 (802.11 ac (2x2)) and Bluetooth 5.0 | Realtek 8168E Gigabit Ethernet and Realtek RTL8723BE Integrated WiFi 4 (802.11 n) and Bluetooth 4.0 |
 |Audio|  Dialog Semiconductor DA7219  Codec | Conexant CX20751 SmartAudio HD |
 |Display | 14" 1920x1080 60Hz AntiGlare IPS (45% NTSC) | 14" 1600x900 AntiGlare TN|
 |Webcam | 720p with mic | 720p with mic |
-|Keyboard | 60% chiclet with scissor switch and backlight | Thinkpad keyboard|
+|Keyboard | 60% chiclet with scissor switch and backlight | Thinkpad keyboard with TrackPoint pointing stick |
 |Pointing device | Elan Microelectronics Touchpad | Synaptics Touchpad |
 |Warranty | 1 year  | 1 year |
 |Bottomline | Mobility (Fanless, 0.66" thin and 2.8 lbs) | Sturdy and easy to upgrade (user manual has full details) |
@@ -32,7 +32,7 @@ Ryzen 7 4700U is about 20% better than Ryzen 3 3200G for LaTeX ([single core per
 
 Had to replace the dying HDD with 250 GB SSD (2.5" SATA 6Gb/s). For budget PC expect low build quality and dim display.
 
-
+https://tuxbyte.com/how-to-get-your-realtek-rtl8111rtl8168-working-updated-guide/
 
 ## Post COVID ##
 Following is the comparison of my PC with the best laptop available in the market in May 2020 for USD 650 (before tax):
@@ -44,7 +44,7 @@ Following is the comparison of my PC with the best laptop available in the marke
 |RAM | 2 x 4 GB DDR4 2933 MHz                | 2 x 4 GB LPDDR4 4266 MHz|
 |Storage| Crucial P1 500GB NVMe SSD  | Samsung PM991 512GB NVMe SSD|
 |Ports| PS/2, 5 x USB 3.2, 4 x USB 2.0, DVI-D, HDMI, Audio In/Out, 2 x Mic| 1 x USB Type-C, 1 x USB 3.2, 1 x USB 2.0, HDMI, Headset/speaker jack|
-|Network| Realtek Gigabit Ethernet (upto 1 Gbps) | Intel Integrated WiFi 6 (802.11ax, upto 10 Gbps) and Bluetooth 5.0 |
+|Network| Realtek 8111H Gigabit LAN | Intel Integrated WiFi 6 (802.11ax) and Bluetooth 5.0 |
 |Audio| Realtek ALC892 Codec| Realtek Audio |
 |Display | 21.5" 1920x1080 60Hz IPS with Eye Care and 2 stereo speakers| 14" 1920x1080 IPS with Bluelight Shiel and 2 stereo speakers|
 |Webcam | 720p with mic| 720p with mic|
