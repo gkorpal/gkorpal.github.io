@@ -28,7 +28,7 @@ The laptop that I got when I joined college 5 years ago was now old enough to be
 |Warranty | 1 year  | 1 year |
 |Bottomline | Mobility (Fanless, 0.66" thin and 2.8 lbs) | Sturdy and easy to upgrade (user manual has full details) |
 
-Ryzen 7 4700U is about 20% better than Ryzen 3 3200G for LaTeX ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_3_3200g-952-vs-amd_ryzen_7_4700u-1093)).
+Core i7-4702MQ is about 10% better than Core m3-8100Y for LaTeX ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-intel_core_m3_8100y-1216-vs-intel_core_i7_4702mq-448)). Howeover, the process is extremely slow since Debian runs in a virtual machine.
 
 Had to replace the dying HDD with 250 GB SSD (2.5" SATA 6Gb/s). For budget PC expect low build quality and dim display.
 
