@@ -15,16 +15,16 @@ The laptop that I got when I joined college 5 years ago was now old enough to be
 | ------------- |:--------------------------------------:|:----------------------------:|
 |CPU            | Intel Core m3-8100Y (1.10GHz x 2 cores, Amber Lake Y)    | Intel Core i7-4702MQ (2.20GHz x 4 cores, Haswell)|
 |iGPU            | Intel UHD Graphics 615  (300MHz, Gen. 9 Amber Lake)  | Intel HD Graphics 4600 (400MHz, Gen. 7.5 Haswell)|
-|RAM | Micron Technology 2 x 4GB LPDDR3 1866 MHz SO-DIMM            | 8GB PC3-12800 DDR3L SDRAM 1600 MHz SO-DIMM|
+|RAM | Micron Technology 2 x 4GB LPDDR3 1866 MHz SO-DIMM            | SK Hynix 8GB PC3-12800 DDR3L SDRAM 1600 MHz SO-DIMM|
 |Storage| 64GB eMMC + 100GB Google One for 1 year (later $20/year) | Seagate 2.5" 500GB HDD, 7200rpm |
 |Battery | 48 Wh | 48 Wh |
-|Ports |  Audio jack (mic/headphone), 2 x Type-C USB 3.0 (display and power delivery support), Type-A USB 3.0, micro SD card reader | Optical drive |
-|Network| Intel Integrated WiFi 5 (802.11 ac (2x2)) and Bluetooth 5.0 | |
-|Audio|  Dialog Semiconductor DA7219   | |
-|Display | 14" 1920x1080 60Hz IPS (45% NTSC) | |
-|Webcam | 720p with mic | |
+|Ports |  Audio jack (mic/headphone), 2 x Type-C USB 3.0 (display and power delivery support), Type-A USB 3.0, micro SD card reader | Optical drive (PLDS DVD-RW) |
+|Network| Intel Integrated WiFi 5 (802.11 ac (2x2)) and Bluetooth 5.0 | Realtek RTL8723BE Integrated WiFi 4 (802.11 n) and Bluetooth 4.0 |
+|Audio|  Dialog Semiconductor DA7219  Codec | Conexant CX20751 SmartAudio HD |
+|Display | 14" 1920x1080 60Hz AntiGlare IPS (45% NTSC) | 14" 1600x900 AntiGlare TN|
+|Webcam | 720p with mic | 720p with mic |
 |Keyboard | 60% chiclet with scissor switch and backlight | Thinkpad keyboard|
-|Pointing device | Elan Microelectronics Touchpad | |
+|Pointing device | Elan Microelectronics Touchpad | Synaptics Touchpad |
 |Warranty | 1 year  | 1 year |
 |Bottomline | Mobility (Fanless, 0.66" thin and 2.8 lbs) | Sturdy and easy to upgrade (user manual has full details) |
 
