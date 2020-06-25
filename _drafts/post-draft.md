@@ -41,7 +41,7 @@ I considered this an upgrade since it offered better mobility and screen.
 4. Install TeX Live from Debian repo: `sudo apt-get install texlive`
 5. Install TexMaker from Debian repo: `sudo apt-get install texmaker`
 6. Install Evince (pdf viewer) from Debian repo: `sudo apt-get install evince`
-7. Install DjVu4 (DjVu viewer) from Debian repo: `sudo apt-get install djview4
+7. Install DjVu4 (DjVu viewer) from Debian repo: `sudo apt-get install djview4`
 
 I used `apt-get` instead of `apt` since I am more used to that. 
 
