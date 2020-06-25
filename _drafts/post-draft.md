@@ -31,7 +31,7 @@ Following is the comparison of tech specs of my new laptop (USD 375 before taxes
 |Warranty | 1 year  (ChromeOS updates until June 2026)| 1 year |
 |Bottomline | Mobility (Fanless, 0.66" thin and 2.8 lbs) | Sturdy and easy to upgrade (user manual has full details) |
 
-I considered this an upgrade since it offered better mobility and screen.
+I considered this an upgrade since it offered better mobility and screen. 
 
 ## LaTeX Setup in Chromebook 
 
@@ -48,7 +48,7 @@ I used `apt-get` instead of `apt` since I am more used to that. Also, you might 
 
 Theoretically, Core i7-4702MQ should be only 10% better than Core m3-8100Y for compiling LaTeX files ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-intel_core_m3_8100y-1216-vs-intel_core_i7_4702mq-448)). Howeover, the pdfLatex process is extremely slow in Chromebook since Debian runs in a sandbox and have limited access to resources (still in beta state). Moreover, there are random crashes when multiple pdf/DjVu docs are opened using Evince/DjVu-viewer. 
 
-The thing which I hate the most is that the browser uses 90% of the available RAM irrespective of how many tabs are open or the total RAM the computer has. Also, one wrong browser extension can lead to random crashes.
+The thing which I hate the most is that the browser uses 90% of the available RAM irrespective of how many tabs are open or the total RAM the computer has. Also, one wrong browser extension can lead to random crashes. And the stupidest thing is the lack of local trash/recycle-bin folder just like Android, so deleted files can't be recovered (i.e. make a Downloads folder on Google Drive instead of using the local drive folder).
 
 <figure>
   <img src="/images/chromeos.jpeg" alt="my alt text" style="width:534px;height:269px;"/>
