@@ -25,7 +25,7 @@ The laptop that I got when I joined college 5 years ago was now old enough to be
 |Webcam | 720p with mic | 720p with mic |
 |Keyboard | 60% chiclet with scissor switch and backlight | Thinkpad keyboard with TrackPoint pointing stick |
 |Pointing device | Elan Microelectronics Touchpad | Synaptics Touchpad |
-|Warranty | 1 year  | 1 year |
+|Warranty | 1 year  (ChromeOS updates until June 2026)| 1 year |
 |Bottomline | Mobility (Fanless, 0.66" thin and 2.8 lbs) | Sturdy and easy to upgrade (user manual has full details) |
 
 Core i7-4702MQ is about 10% better than Core m3-8100Y for LaTeX ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-intel_core_m3_8100y-1216-vs-intel_core_i7_4702mq-448)). Howeover, the pdfLatex process is extremely slow in Chromebook since Debian runs in a virtual machine and don't have limited access to resources.
