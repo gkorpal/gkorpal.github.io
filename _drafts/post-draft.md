@@ -7,7 +7,7 @@ categories:
 tags:
   - edge case
 ---
-## Pre COVID ##
+## Tech Specs ##
 The laptop that I got when I joined college 5 years ago was now old enough to be replaced. Mostly because I picked all the wrong specs when there was a choice (like choosing Realtek over Intel NIC, 1x8GB over 2x4GB RAM, and 48Wh over 62Wh battery) and my lack of maintenance (never cleaned dust from inside or the rust from the ports). So I wanted something portable that can allow me to browse internet and write homework assignments in LaTeX. Following is the comparison of my new laptop (USD 375 before taxes) with the older laptop (USD 916 before taxes) :
 
 
@@ -30,7 +30,11 @@ The laptop that I got when I joined college 5 years ago was now old enough to be
 
 Core i7-4702MQ is about 10% better than Core m3-8100Y for LaTeX ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-intel_core_m3_8100y-1216-vs-intel_core_i7_4702mq-448)). Howeover, the process is extremely slow since Debian runs in a virtual machine.
 
+## Build Quality ##
 
+| Quality Parameter | Asus Chromebook C425 (C425T) | Lenovo ThinkPad E440 (Custom build) |
+| ------------- |:--------------------------------------:|:----------------------------:|
+| Chassis |  Metal flap with plastic body. The laptop looks stylish but the hinge design is really bad. Can't be open with just one hand and it flexes the whole machine a little bit putting strain on the plastic casing. Therefore, the frame started cracking withing 2 months of usage and it is not covered under warranty. | Metal flap with plastic body. The laptop looks simple and the laptop can be easily openend with one hand. No cracks after 5 years of rough usage.|
 
 Had to replace the dying HDD with 250 GB SSD (2.5" SATA 6Gb/s). For budget PC expect low build quality and dim display.
 
