@@ -31,7 +31,11 @@ Following is the comparison of tech specs of my new laptop (USD 375 before taxes
 |Warranty | 1 year  (ChromeOS updates until June 2026)| 1 year |
 |Bottomline | Mobility (Fanless, 0.66" thin and 2.8 lbs) | Sturdy and easy to upgrade (user manual has full details) |
 
-Core i7-4702MQ should be about 10% better than Core m3-8100Y for LaTeX ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-intel_core_m3_8100y-1216-vs-intel_core_i7_4702mq-448)). Howeover, the pdfLatex process is extremely slow in Chromebook since Debian runs in a virtual machine and don't have limited access to resources.
+I considered this an upgrade since it offered better mobility and screen.
+
+# Latex Setup in Chromebook #
+
+Theoretically, Core i7-4702MQ should be about 10% better than Core m3-8100Y for compiling LaTeX files ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-intel_core_m3_8100y-1216-vs-intel_core_i7_4702mq-448)). Howeover, the pdfLatex process is extremely slow in Chromebook since Debian runs in a virtual machine and have limited access to resources (still in beta state). Moreover, there are random crashes when multiple pdf/DjVu docs are opened using Evince/DjVu-viewer. 
 
 ## Build Quality ##
 
