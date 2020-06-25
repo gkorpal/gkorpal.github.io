@@ -42,6 +42,7 @@ I considered this an upgrade since it offered better mobility and screen.
 5. Install TexMaker from Debian repo: `sudo apt-get install texmaker`
 6. Install Evince (pdf viewer) from Debian repo: `sudo apt-get install evince`
 7. Install DjVu4 (DjVu viewer) from Debian repo: `sudo apt-get install djview4`
+5. Right click on the folder where you want to create the tex files and choose `Share with Linux` and `Available offline`
 
 I used `apt-get` instead of `apt` since I am more used to that. Also, you might get gibberish text when using Linux, so you might need to disable GPU-acceleration for the sandbox, this can be done by going to `chrome://flags/#crostini-gpu-support` and changing the option to "disabled".
 
