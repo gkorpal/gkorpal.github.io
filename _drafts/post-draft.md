@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Draft Post"
+title:  "Pre-Covid Tech Remedies"
 header:
 categories: 
   - Jekyll
@@ -29,6 +29,8 @@ The laptop that I got when I joined college 5 years ago was now old enough to be
 |Bottomline | Mobility (Fanless, 0.66" thin and 2.8 lbs) | Sturdy and easy to upgrade (user manual has full details) |
 
 Core i7-4702MQ is about 10% better than Core m3-8100Y for LaTeX ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-intel_core_m3_8100y-1216-vs-intel_core_i7_4702mq-448)). Howeover, the process is extremely slow since Debian runs in a virtual machine.
+
+
 
 Had to replace the dying HDD with 250 GB SSD (2.5" SATA 6Gb/s). For budget PC expect low build quality and dim display.
 
