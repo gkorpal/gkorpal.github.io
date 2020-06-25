@@ -27,3 +27,4 @@ Following is the comparison of my PC with the best laptop available in the marke
 |Bottomline | Customizability (optimized for Ubuntu and LaTeX) | Mobility (0.71" thin and 2.65 lbs) |
 
 Ryzen 7 4700U is about 20% better than Ryzen 3 3200G for LaTeX ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_3_3200g-952-vs-amd_ryzen_7_4700u-1093)).
+https://tuxbyte.com/how-to-get-your-realtek-rtl8111rtl8168-working-updated-guide/
