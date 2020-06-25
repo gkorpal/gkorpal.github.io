@@ -37,6 +37,11 @@ I considered this an upgrade since it offered better mobility and screen.
 
 Theoretically, Core i7-4702MQ should be about 10% better than Core m3-8100Y for compiling LaTeX files ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-intel_core_m3_8100y-1216-vs-intel_core_i7_4702mq-448)). Howeover, the pdfLatex process is extremely slow in Chromebook since Debian runs in a virtual machine and have limited access to resources (still in beta state). Moreover, there are random crashes when multiple pdf/DjVu docs are opened using Evince/DjVu-viewer. 
 
+<figure>
+  <img src="/images/chromeos.jpeg" alt="my alt text" style="width:534px;height:269px;"/>
+  <figcaption>The current state of Chrome OS: <a href="https://twitter.com/RonAmadeo/status/1218230779148427271?s=20">Ron Amadeo</a></figcaption>
+</figure>
+
 ## Build Quality ##
 
 | Quality Parameter | Asus Chromebook C425 (C425T) | Lenovo ThinkPad E440 (Custom build) |
