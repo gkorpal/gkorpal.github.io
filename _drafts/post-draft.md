@@ -43,9 +43,11 @@ I considered this an upgrade since it offered better mobility and screen.
 6. Install Evince (pdf viewer) from Debian repo: `sudo apt-get install evince`
 7. Install DjVu4 (DjVu viewer) from Debian repo: `sudo apt-get install djview4`
 
-I used `apt-get` instead of `apt` since I am more used to that. 
+I used `apt-get` instead of `apt` since I am more used to that. Also, you might get gibberish text when using Linux, so you might need to disable GPU-acceleartion for the sandbox, this can be done by going to `chrome://flags/#crostini-gpu-support` and changing the option to "disabled".
 
-Theoretically, Core i7-4702MQ should be about 10% better than Core m3-8100Y for compiling LaTeX files ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-intel_core_m3_8100y-1216-vs-intel_core_i7_4702mq-448)). Howeover, the pdfLatex process is extremely slow in Chromebook since Debian runs in a sandbox and have limited access to resources (still in beta state). Moreover, there are random crashes when multiple pdf/DjVu docs are opened using Evince/DjVu-viewer. The thing which I hate the most is the introduction of new bugs even in stable channel and the browser using 90% of the available RAM (irrespective of how many tabs are open or the total RAM the computer has).
+Theoretically, Core i7-4702MQ should be only 10% better than Core m3-8100Y for compiling LaTeX files ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-intel_core_m3_8100y-1216-vs-intel_core_i7_4702mq-448)). Howeover, the pdfLatex process is extremely slow in Chromebook since Debian runs in a sandbox and have limited access to resources (still in beta state). Moreover, there are random crashes when multiple pdf/DjVu docs are opened using Evince/DjVu-viewer. 
+
+The thing which I hate the most is that the browser uses 90% of the available RAM irrespective of how many tabs are open or the total RAM the computer has. Also, one wrong browser extension can lead to random crashes.
 
 <figure>
   <img src="/images/chromeos.jpeg" alt="my alt text" style="width:534px;height:269px;"/>
