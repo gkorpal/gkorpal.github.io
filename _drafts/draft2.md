@@ -7,7 +7,7 @@ categories:
 tags:
   - edge case
 ---
-With the "work-from-home" restriction imposed to counter COVID crisis, the chromebook became even more useless. It could neither run the desktop version of Zoom nor work with a drawing tablet. I believe these problems can be solved by enabling the Developer Mode and installing Ubuntu alongside ChromeOS, but I highly doubt that audio and other drivers will work in Ubuntu. However, since mobility is not desired anymore, I cdecided to build desktop PC with minimum possible budget (which turned out to be $650, same as the cost of the basic Pixelbook Go or an entry level ThinkPad with core i5 10th gen).
+With the "work-from-home" restriction imposed to counter COVID crisis, the chromebook became even more useless. It could neither run the desktop version of Zoom nor work with a drawing tablet. I believe these problems can be solved by enabling the Developer Mode and installing Ubuntu alongside ChromeOS, but I highly doubt that audio and other drivers will work in Ubuntu. However, since mobility is not desired anymore, I cdecided to build desktop PC with minimum possible budget (which turned out to be $650, same as the cost of the basic Pixelbook Go or an entry level ThinkPad with core i5 10th gen mobile).
 
 # Performance
 Following is the comparison of my PC with the best laptop available in the market in May 2020 for USD 650 (before tax):
@@ -34,5 +34,12 @@ Theoretically, Ryzen 7 4700U should be about 20% better than Ryzen 3 3200G for c
 ## Cloud Backup Setup in Ubuntu PC
 
 # Build Details
+
+| PC Part | Model   | MSRP before tax/shipping (round figure) |
+| ------------- |:-----------------:|:----------------------------:|
+|System Unit|
+|CPU+GPU+cooler| AMD Ryzen 3 3200g | USD 100|
+|Input/Output Devices|
+|Keyboard | Redragon| USD 30|
 
 Intel monopoly https://videocardz.com/newz/intel-faces-criticism-for-comparing-gaming-laptops-with-different-gpu-models
