@@ -46,7 +46,9 @@ The thing which I don't like about the Chromebook is that the browser uses 90% o
 7. Install DjVu4 (DjVu viewer) from Debian repo: `sudo apt-get install djview4`
 5. Right click on the folder where you want to create the tex files and choose `Share with Linux` and `Available offline`
 
-I used `apt-get` instead of `apt` since I am more used to that. Also, you might get gibberish text when using Linux, so you might need to disable GPU-acceleration for the sandbox, this can be done by going to `chrome://flags/#crostini-gpu-support` and changing the option to "disabled".
+I used `apt-get` instead of `apt` since I am more used to that. Also, you might get gibberish text when using Linux, so you might need to disable GPU-acceleration for the sandbox, this can be done by going to `chrome://flags/#crostini-gpu-support` and changing the option to "disabled". 
+
+Though ChromeOS gives you an option of making a backup of Chrostini, I would recommend removing Linux before system restart for the biweekly updates and then rinstall everything. Many times Linux breaks after system updates.
 
 The pdfLatex process in this Chromebook turned out to be as slow as in the old netbook (HP Mini 1103) since the Debian runs in a sandbox and have limited access to resources (still in beta state). Moreover, there are random crashes when multiple pdf/DjVu docs are opened using Evince/DjVu-viewer.
 
