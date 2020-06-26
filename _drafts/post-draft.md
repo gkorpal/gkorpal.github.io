@@ -65,6 +65,5 @@ The thing which I hate the most is that the browser uses 90% of the available RA
 | Keyboard | | |
 | Trackpad |   |  |
 | Thermals |  |  |
-For budget PC expect low build quality and dim display.
 
 
