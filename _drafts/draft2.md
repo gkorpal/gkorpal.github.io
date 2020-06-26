@@ -7,7 +7,7 @@ categories:
 tags:
   - edge case
 ---
-With the "work-from-home" restriction imposed to counter COVID crisis, the chromebook became even more useless. It could neither run the desktop version of Zoom nor work with a drawing tablet. I believe these problems can be solved by enabling the Developer Mode and installing Ubuntu alongside ChromeOS, but I highly doubt that audio and other drivers will work in Ubuntu. However, since mobility is not desired anymore, I cdecided to build desktop PC with minimum possible budget (which turned out to be $650, same as the cost of the basic Pixelbook Go or an entry level ThinkPad with core i5 10th gen mobile).
+With the "work-from-home" restriction imposed to counter COVID crisis, the chromebook became even more useless. It could neither run the desktop version of Zoom nor work with a drawing tablet. I believe these problems can be solved by enabling the Developer Mode and installing Ubuntu alongside ChromeOS, but I highly doubt that audio and other drivers will work in Ubuntu. However, since mobility is not desired anymore, I decided to build desktop PC with minimum possible budget (which turned out to be $650, same as the cost of the basic Pixelbook Go or an entry level ThinkPad with core i5 10th gen). Moreover, desktop CPUs is much more powerful than laptop CPUs, for instance the [Intel Core i3-9100 gives slightly better performance as Intel Core i5-10210U](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_9100-924-vs-intel_core_i5_10210u-941).
 
 # Performance
 Following is the comparison of my PC with the best laptop available in the market in May 2020 for USD 650 (before tax):
@@ -28,7 +28,13 @@ Following is the comparison of my PC with the best laptop available in the marke
 |Warranty |  1.5 to 5 years depending on the part | 1 year|
 |Bottomline | Sturdy and easy to repair | Mobility (0.71" thin and 2.65 lbs) |
 
-Theoretically, Ryzen 7 4700U should be about 20% better than Ryzen 3 3200G for compiling LaTeX files ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_3_3200g-952-vs-amd_ryzen_7_4700u-1093)). However, I have no complaints in terms of performance. The only headache is the lack of HDMI compatibility between the motherboard and monitor. Luckily, this time the Realtek ethernet drivers [didn't cause headache](https://tuxbyte.com/how-to-get-your-realtek-rtl8111rtl8168-working-updated-guide/).
+This will certainly an upgrade from the desktop computer I used a decade ago with Intel Pentium 4 CPU and 512MB RAM (no idea how did the graphics work in that machine).
+
+The current AMD budget processors provide a much superior iGPU performance than their Intel counterparts. For example: 
+* We can compare the entry level quad-core desktop processors from last year: Intel Core i3-9100 (MSRP $120) has better CPU but worse iGPU than AMD Ryzen 3 3200g (MSRP $100) ([benchmark](https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_3_3200g-952-vs-intel_core_i3_9100-924)).
+* We can compare the pro level mobile processors from this year: Intel Core i7-10710U with 6-physical cores with hyperthreading, is not better than AMD Ryzen 7 4700U with 8-physical cores but no hyperthreading ([comparison](https://www.pcworld.com/article/3541009/ryzen-7-4700u-review-amds-budget-8-core-crushes-intels-10th-gen-chips-again.html)).
+
+I finally decided not to spend extra $20 for i3-9100 since the ability of 3200g to allow light gaming would be more than enough for my daily usage. Moreover, since neither of them have hyperthereading/multithreading, I won't expect much improvement in multitasking. However, Intel being more popular has better support for various hardware (for example, I couldn't run my monitor via HDMI due to compatibility issue between the motherboard and monitor). Howoever, luckily, this time the Realtek ethernet drivers [didn't cause headache with Ubuntu](https://tuxbyte.com/how-to-get-your-realtek-rtl8111rtl8168-working-updated-guide/).
 
 
 ## Cloud Backup Setup in Ubuntu PC
