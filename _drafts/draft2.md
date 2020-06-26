@@ -34,3 +34,5 @@ Theoretically, Ryzen 7 4700U should be about 20% better than Ryzen 3 3200G for c
 ## Cloud Backup Setup in Ubuntu PC
 
 # Build Details
+
+Intel monopoly https://videocardz.com/newz/intel-faces-criticism-for-comparing-gaming-laptops-with-different-gpu-models
