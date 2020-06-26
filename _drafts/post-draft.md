@@ -48,7 +48,7 @@ The thing which I don't like about the Chromebook is that the browser uses 90% o
 
 I used `apt-get` instead of `apt` since I am more used to that. Also, you might get gibberish text when using Linux, so you might need to disable GPU-acceleration for the sandbox, this can be done by going to `chrome://flags/#crostini-gpu-support` and changing the option to "disabled".
 
-Theoretically, Core i7-4702MQ should be only 10% better than Core m3-8100Y for compiling LaTeX files ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-intel_core_m3_8100y-1216-vs-intel_core_i7_4702mq-448)). Howeover, the pdfLatex process is extremely slow in Chromebook since Debian runs in a sandbox and have limited access to resources (still in beta state). Moreover, there are random crashes when multiple pdf/DjVu docs are opened using Evince/DjVu-viewer. 
+The pdfLatex process in this Chromebook turned out to be as slow as in the old netbook (HP Mini 1103) since the Debian runs in a sandbox and have limited access to resources (still in beta state). Moreover, there are random crashes when multiple pdf/DjVu docs are opened using Evince/DjVu-viewer.
 
 <figure>
   <img src="/images/chromeos.jpeg" alt="my alt text" style="width:534px;height:269px;"/>
