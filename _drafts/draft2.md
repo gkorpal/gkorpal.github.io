@@ -37,7 +37,7 @@ Theoretically, Ryzen 7 4700U should be about 20% better than Ryzen 3 3200G for c
 
 | PC Part | Model   | MSRP before tax/shipping (round figure) |
 | ------------- |:-----------------:|:----------------------------:|
-|System Unit
+System Unit
 |CPU+GPU+cooler| AMD Ryzen 3 3200g | USD 100|
 |Input/Output Devices|
 |Keyboard | Redragon| USD 30|
