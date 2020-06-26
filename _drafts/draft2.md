@@ -1,13 +1,15 @@
 ---
 layout: single
-title:  "Post-Covid Tech Remedies"
+title:  "COVID Crisis Tech Remedies (May 2020)"
 header:
 categories: 
   - Jekyll
 tags:
   - edge case
 ---
-## Tech Specs ##
+With the "work-from-home" restriction imposed to counter COVID crisis, the chromebook became even more useless. It could neither run the desktop version of Zoom nor work with a drawing tablet. I believe these problems can be solved by enabling the Developer Mode and installing Ubuntu alongside ChromeOS, but I highly doubt that audio and other drivers will work in Ubuntu. However, since mobility is not desired anymore, I could try building a desktop PC with the budget of $650 (cost of Pixelbook Go).
+
+# Performance
 Following is the comparison of my PC with the best laptop available in the market in May 2020 for USD 650 (before tax):
 
 | Specification | Custom build PC   | Acer Swift 3 (SF314-42-R9YN) |
@@ -23,8 +25,12 @@ Following is the comparison of my PC with the best laptop available in the marke
 |Webcam | 720p with mic| 720p with mic|
 |Keyboard | Tenkeyless mechanical with Outemu Blue switches  | 60% chiclet with scissor switch and backlight|
 |Pointing device | Wireless mouse | Touchpad |
-|Warranty |  2-5 years on expensive parts | 1 year|
-|Bottomline | Customizability (optimized for Ubuntu and LaTeX) | Mobility (0.71" thin and 2.65 lbs) |
+|Warranty |  1.5 to 5 years depending on the part | 1 year|
+|Bottomline | Sturdy and easy to repair | Mobility (0.71" thin and 2.65 lbs) |
 
-Ryzen 7 4700U is about 20% better than Ryzen 3 3200G for LaTeX ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_3_3200g-952-vs-amd_ryzen_7_4700u-1093)).
-https://tuxbyte.com/how-to-get-your-realtek-rtl8111rtl8168-working-updated-guide/
+Theoretically, Ryzen 7 4700U should be about 20% better than Ryzen 3 3200G for compiling LaTeX files ([single core performance](https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_3_3200g-952-vs-amd_ryzen_7_4700u-1093)). However, I have no complaints in terms of performance. The only headache is the lack of HDMI compatibility between the motherboard and monitor. Luckily, this time the Realtek ethernet drivers [didn't cause headache](https://tuxbyte.com/how-to-get-your-realtek-rtl8111rtl8168-working-updated-guide/).
+
+
+## Cloud Backup Setup in Ubuntu PC
+
+# Build Details
