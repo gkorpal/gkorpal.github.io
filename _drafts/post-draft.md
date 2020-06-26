@@ -31,7 +31,9 @@ Following is the comparison of tech specs of my new laptop (USD 375 + taxes in J
 |Warranty | 1 year  (ChromeOS updates until June 2026)| 1 year |
 |Bottomline | Mobility (Fanless, 0.66" thin and 2.8 lbs) | Sturdy and easy to upgrade (user manual has full details) |
 
-I considered this as an upgrade since it offered better mobility and screen. The thing which I hate the most about the Chromebook is that the browser uses 90% of the available RAM irrespective of how many tabs are open or the total RAM the computer has. Also, one wrong browser extension can lead to random crashes. And the stupidest thing is the lack of local trash/recycle-bin folder just like Android, so deleted files can't be recovered (i.e. make a Downloads folder on Google Drive instead of using the local drive folder).
+I considered this as an upgrade since it offered better mobility and screen. Moreover, before getting the Thinkpad as a gift, I was using the netbook [HP Mini 1103](https://www.laptopmag.com/reviews/laptops/hp-mini-1103) (10.1-inch screen with a single-core 1.66-GHz Intel Atom N455 CPU and 1GB of RAM) with Windows 7 replaced by Lubunu. Even on that netbook the compiling single LaTeX files worked fine.
+
+The thing which I don't like about the Chromebook is that the browser uses 90% of the available RAM irrespective of how many tabs are open or the total RAM the computer has. Also, one wrong browser extension can lead to random crashes. And the stupidest thing is the lack of local trash/recycle-bin folder just like Android, so deleted files can't be recovered (i.e. make a Downloads folder on Google Drive instead of using the local drive folder).
 
 ## LaTeX Setup in Chromebook 
 
