@@ -7,7 +7,7 @@ categories:
 tags:
   - edge case
 ---
-With the "work-from-home" restriction imposed to counter COVID crisis, the chromebook became even more useless. It could neither run the desktop version of Zoom nor work with a drawing tablet. I believe these problems can be solved by enabling the Developer Mode and installing Ubuntu alongside ChromeOS, but I highly doubt that audio and other drivers will work in Ubuntu. However, since mobility is not desired anymore, I cdecided to build desktop PC with minimum possible budget (which turned out to be $650, same as the cost of the basic Pixelbook Go).
+With the "work-from-home" restriction imposed to counter COVID crisis, the chromebook became even more useless. It could neither run the desktop version of Zoom nor work with a drawing tablet. I believe these problems can be solved by enabling the Developer Mode and installing Ubuntu alongside ChromeOS, but I highly doubt that audio and other drivers will work in Ubuntu. However, since mobility is not desired anymore, I cdecided to build desktop PC with minimum possible budget (which turned out to be $650, same as the cost of the basic Pixelbook Go or an entry level ThinkPad with core i5 10th gen).
 
 # Performance
 Following is the comparison of my PC with the best laptop available in the market in May 2020 for USD 650 (before tax):
