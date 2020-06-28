@@ -35,6 +35,11 @@ I considered this as an upgrade since it offered better mobility and screen. Mor
 
 The thing which I don't like about the Chromebook is that the browser uses 90% of the available RAM irrespective of how many tabs are open or the total RAM the computer has. Also, one wrong browser extension can lead to random crashes. And the stupidest thing is the lack of local trash/recycle-bin folder just like Android, so deleted files can't be recovered (i.e. make a Downloads folder on Google Drive instead of using the local drive folder).
 
+<figure>
+  <img src="/images/logo.png" alt="my alt text" style="width:534px;height:269px;"/>
+  <figcaption>neofetch: Linux system information with distribution logo</figcaption>
+</figure>
+
 ## LaTeX Setup in Chromebook 
 
 1. Turn on Linux (Beta) by following [these steps](https://support.google.com/chromebook/answer/9145439?hl=en). 
