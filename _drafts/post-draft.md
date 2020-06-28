@@ -35,10 +35,11 @@ I considered this as an upgrade since it offered better mobility and screen. Mor
 
 The thing which I don't like about the Chromebook is that the browser uses 90% of the available RAM irrespective of how many tabs are open or the total RAM the computer has. Also, one wrong browser extension can lead to random crashes. And the stupidest thing is the lack of local trash/recycle-bin folder just like Android, so deleted files can't be recovered (i.e. make a Downloads folder on Google Drive instead of using the local drive folder).
 
+
 <figure>
-  <img src="/images/logo.png" alt="my alt text" style="width:534px;height:269px;"/>
-  <figcaption>neofetch: Linux system information with distribution logo</figcaption>
-</figure>
+  <img src="/images/chromeos.jpeg" alt="my alt text" style="width:534px;height:269px;"/>
+  <figcaption>The current state of Chrome OS: <a href="https://twitter.com/RonAmadeo/status/1218230779148427271?s=20">Ron Amadeo</a></figcaption>
+</figure> 
 
 ## LaTeX Setup in Chromebook 
 
@@ -58,9 +59,10 @@ Though ChromeOS gives you an option of making a backup of Chrostini, I would rec
 The pdfLatex process in this Chromebook turned out to be as slow as in the old netbook (HP Mini 1103) since the [Debian runs in a virtual machine](https://linuxiumcomau.blogspot.com/2018/07/introduction-to-crostini-part-1-hp.html) and have limited access to resources due to [sandbox restrictions](https://chromium.googlesource.com/chromium/src/+/master/docs/design/sandbox.md). Moreover, there are random crashes when multiple pdf/DjVu docs are opened using Evince/DjVu-viewer.
 
 <figure>
-  <img src="/images/chromeos.jpeg" alt="my alt text" style="width:534px;height:269px;"/>
-  <figcaption>The current state of Chrome OS: <a href="https://twitter.com/RonAmadeo/status/1218230779148427271?s=20">Ron Amadeo</a></figcaption>
+  <img src="/images/logo.png" alt="my alt text" style="width:534px;height:269px;"/>
+  <figcaption>neofetch: Linux system information with distribution logo</figcaption>
 </figure>
+
 
 # Build Quality
 
