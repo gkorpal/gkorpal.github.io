@@ -36,13 +36,13 @@ The current AMD budget processors provide a much superior iGPU performance than 
 
 I finally decided not to spend extra $20 for i3-9100 since the ability of 3200g to allow light gaming would be more than enough for my daily usage. Moreover, since neither of them have hyperthereading/multithreading, I won't expect much improvement in multitasking. However, Intel being more popular has better support for various hardware (for example, I couldn't run my monitor via HDMI due to compatibility issue between the motherboard and monitor). Howoever, luckily, this time the Realtek ethernet drivers [didn't cause headache with Ubuntu](https://tuxbyte.com/how-to-get-your-realtek-rtl8111rtl8168-working-updated-guide/).
 
-
-## Cloud Backup Setup in Ubuntu PC
-
 <figure>
   <img src="/images/comparison.png" alt="my alt text" style="width:534px;height:269px;"/>
   <figcaption> This a a comparison of Passmark results (screenshot taken on 26 June 2020, when the prices had dropped due to announcement of next gen processors). I have no idea what these benchmarks prove, since each CPU has different architecture and a given program need not be optimised for a particular processor. In general, all seem to agree that Intel gives better single threaded performance than AMD, i.e. Intel should be better for pdfLateX.</figcaption>
 </figure>
+
+## Cloud Backup Setup in Ubuntu PC
+
 
 # Build Details
 
