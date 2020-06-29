@@ -46,7 +46,7 @@ I finally decided not to spend extra $20 for i3-9100 since the ability of 3200g 
 
 # Build Details
 
-| PC Part | Model   | MSRP before tax/shipping (round figure) | Comments |
+| PC Part | Model   | Price before tax/shipping (round figure) | Comments |
 | ------------- |-----------------|------------------------| ----------|
 |***System Unit*** | ***Total cost*** | ***USD 380***  | ***Should not require any upgrade for 4 years***|
 |CPU+GPU+Cooler| AMD Ryzen 3 3200g | USD 100| Cheapest quad-core processor in the market with a proper GPU|
