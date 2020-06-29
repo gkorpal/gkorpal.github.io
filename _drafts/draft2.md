@@ -38,7 +38,7 @@ I finally decided not to spend extra $20 for i3-9100 since the ability of 3200g 
 
 <figure>
   <img src="/images/comparison.png" alt="my alt text" style="width:534px;height:269px;"/>
-  <figcaption> This is a comparison of PassMark results (screenshot taken on 26 June 2020, when the prices had dropped due to announcement of next gen processors). I have no idea what these benchmarks prove, since each CPU has different architecture and a given program need not be optimised for a particular processor. In general, all seem to agree that Intel gives better single threaded performance than AMD, i.e. Intel should be better for pdfLateX.</figcaption>
+  <figcaption> This is a comparison of PassMark results (screenshot taken on 26 June 2020, when the prices had dropped due to announcement of next gen processors). PassMark a good measure of server orientated performance, where multiple cores are often simultaneously loaded. However, as seen above, for everyday use Core i3 is better than Ryzen 3.</figcaption>
 </figure>
 
 ## Cloud Backup Setup in Ubuntu PC
