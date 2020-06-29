@@ -46,13 +46,13 @@ I finally decided not to spend extra $20 for i3-9100 since the ability of 3200g 
 
 # Build Details
 
-| PC Part | Model   | MSRP before tax/shipping (round figure) | Possible upgrades |
+| PC Part | Model   | MSRP before tax/shipping (round figure) | Comments |
 | ------------- |-----------------|------------------------| ----------|
-|***System Unit*** | ***Total cost*** | ***USD 380***  | |
-|CPU+GPU+cooler| AMD Ryzen 3 3200g | USD 100| i10100 or 3400g|
-|***Input/Output Devices***| ***Total cost*** | ***USD 380***  |   |
-|Keyboard | Redragon| USD 30| Das 110 |
-|***Accesories*** | ***Total Cost*** | ***USD 380*** | |
-|Stand | | | |
+|***System Unit*** | ***Total cost*** | ***USD 380***  | ***Should not require any upgrade for 4 years***|
+|CPU+GPU+Cooler| AMD Ryzen 3 3200g | USD 100| Cheapest quad-core processor in the market with a proper GPU|
+|***Input/Output Devices***| ***Total cost*** | ***USD 380***  |  ***minimalistic, nothing fancy*** |
+|Keyboard | Redragon| USD 30| Cheapest tenkeyless mechanical keyboard without any lighting |
+|***Accesories*** | ***Total Cost*** | ***USD 380*** | ***Required to make PC setup comfortable*** |
+|PC Case Stand | | | |
 
 Intel monopoly https://videocardz.com/newz/intel-faces-criticism-for-comparing-gaming-laptops-with-different-gpu-models
