@@ -60,7 +60,7 @@ The pdfLatex process in this Chromebook turned out to be as slow as in the old n
 
 <figure>
   <img src="/images/logo.png" alt="my alt text" style="width:534px;height:269px;"/>
-  <figcaption>neofetch showing Linux system information with distribution logo. Note that only two cores are available and CPU identity is not available </figcaption>
+  <figcaption>neofetch showing Linux system information with distribution logo. Note that only two cores are available and CPU identity is not shared with the virtual machine </figcaption>
 </figure>
 
 
