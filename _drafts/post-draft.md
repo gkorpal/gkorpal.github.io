@@ -37,8 +37,8 @@ The thing which I don't like about the Chromebook is that the browser uses major
 
 
 <figure>
-  <img src="/images/chromeos.jpeg" alt="my alt text" style="width:534px;height:269px;"/>
-  <figcaption>The current state of Chrome OS: <a href="https://twitter.com/RonAmadeo/status/1218230779148427271?s=20">Ron Amadeo</a></figcaption>
+  <img src="/images/cog.png" alt="my alt text" style="width:534px;height:269px;"/>
+  <figcaption>Cog - System Info Viewer showing utilization of all four cores once hyperthreading is enabled via flags</figcaption>
 </figure> 
 
 ## LaTeX Setup in Chromebook 
@@ -60,7 +60,7 @@ The pdfLatex process in this Chromebook turned out to be as slow as in the old n
 
 <figure>
   <img src="/images/logo.png" alt="my alt text" style="width:534px;height:269px;"/>
-  <figcaption>neofetch showing Linux system information with distribution logo. </figcaption>
+  <figcaption>neofetch showing Linux system information with distribution logo. Note that only two cores are available and CPU identity is not available </figcaption>
 </figure>
 
 
