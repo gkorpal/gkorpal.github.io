@@ -31,15 +31,15 @@ Following is the comparison of tech specs of my new laptop (USD 375 + taxes in J
 |Warranty | 1 year  (ChromeOS updates until June 2026)| 1 year |
 |Bottomline | Mobility (Fanless, 0.66" thin and 2.8 lbs) | Sturdy and easy to upgrade (user manual has full details) |
 
-I considered this as an upgrade since it offered better mobility and screen. Moreover, before getting the Thinkpad as a gift, I was using the netbook [HP Mini 1103](https://www.laptopmag.com/reviews/laptops/hp-mini-1103) (10.1-inch screen with a single-core 1.66-GHz Intel Atom N455 CPU and 1GB of RAM) with Windows 7 replaced by Lubunu. I learned LaTeX on that small computer. Hyperthreading might be disabled by default, so you will have to enable it by going to `chrome://flags/#scheduler-configuration` and changing the option to "Enables Hyper-Threading on relevant CPUs". You might need to repeat this after each bi-weekly system update.
+I considered this as an upgrade since it offered better mobility and screen. Moreover, before getting the Thinkpad as a gift, I was using the netbook [HP Mini 1103](https://www.laptopmag.com/reviews/laptops/hp-mini-1103) (10.1-inch screen with a single-core 1.66-GHz Intel Atom N455 CPU and 1GB of RAM) with Windows 7 replaced by Lubunu. I learned LaTeX on that small computer. Note that hyperthreading might be disabled by default, so you will have to enable it by going to `chrome://flags/#scheduler-configuration` and changing the option to "Enables Hyper-Threading on relevant CPUs". You might need to repeat this process after each bi-weekly system update.
 
 The thing which I don't like about the Chromebook is that the browser uses majority of the available RAM irrespective of how many tabs are open or the total RAM the computer has. Also, one wrong browser extension can lead to random crashes. And the stupidest thing is the lack of local trash/recycle-bin folder just like Android, so deleted files can't be recovered (i.e. make a Downloads folder on Google Drive instead of using the local drive folder).
 
 
 <figure>
-  <img src="/images/cog.png" alt="my alt text" style="width:534px;height:269px;"/>
-  <figcaption>Cog - System Info Viewer showing utilization of all four cores once hyperthreading is enabled via flags</figcaption>
-</figure> 
+  <img src="/images/ideal.png" alt="my alt text" style="width:534px;height:269px;"/>
+  <figcaption>When you are lucky, you might get ideal performance, with hyper-threading active in both ChromeOS and Crostini, along with no CPU hogging by Crostini. Here, the Cog app is showing ChromeOS info, neofetch is showing Linux system info (the CPU identity is not shared with the virtual machine) and System Task Manager shows CPU/RAM usage.</figcaption>
+</figure>
 
 ## LaTeX Setup in Chromebook 
 
@@ -56,13 +56,13 @@ You might get gibberish text when using Linux, so you might need to disable GPU-
 
 Though ChromeOS gives you an option of making a backup of Chrostini, I would recommend removing Linux before system restart for the biweekly updates and then rinstall everything. Many times Linux breaks after system updates.
 
-The pdfLatex process in this Chromebook turned out to be as slow as in the old netbook (HP Mini 1103) since the [Debian runs in a virtual machine](https://linuxiumcomau.blogspot.com/2018/07/introduction-to-crostini-part-1-hp.html) and have limited access to resources due to [sandbox restrictions](https://chromium.googlesource.com/chromium/src/+/master/docs/design/sandbox.md). In particular, hyperthreading is not available, i.e. only 2 cores instead of 4 are available ([discussion thread](https://bugs.chromium.org/p/chromium/issues/detail?id=1088305)). Therefore, in Crostini the Intel Core m3-8100Y will perform like Intel Atom N455. That is, running multiple tasks in parallel in Linux will cause Chromebook to crash and restart. However, the most frustrating thing is when the virtual machine starts utilising 200% of the CPU (i.e. approximately 100% of both the cores available to it) even after you have closed it, in which case you will have to go to Task Manager (`Search + Esc`) and end it ([discussion thread](https://www.reddit.com/r/Crostini/comments/apxf77/crostini_linux_running_at_300_cpu_usage/)). 
+The pdfLatex process in this Chromebook can be as slow as in the old netbook (HP Mini 1103) since the [Debian runs in a virtual machine](https://linuxiumcomau.blogspot.com/2018/07/introduction-to-crostini-part-1-hp.html) and might get limited access to resources due to [sandbox restrictions](https://chromium.googlesource.com/chromium/src/+/master/docs/design/sandbox.md). In particular, hyperthreading for Crostini sometimes get disabled after ChromeOS update, i.e. only 2 cores instead of 4 are available ([discussion thread](https://bugs.chromium.org/p/chromium/issues/detail?id=1088305)). Therefore, in Crostini the Intel Core m3-8100Y might sometimes perform like Intel Atom N455. However, the most frustrating thing is when the virtual machine starts utilising 200% or more of the CPU (i.e. approximately 100% of mote than one of the available cores) even after you have closed it, in which case you will have to go to Task Manager (`Search` + `Esc`) and end it there ([discussion thread](https://www.reddit.com/r/Crostini/comments/apxf77/crostini_linux_running_at_300_cpu_usage/)). 
+
 
 <figure>
-  <img src="/images/logo.png" alt="my alt text" style="width:534px;height:269px;"/>
-  <figcaption>neofetch showing Linux system information with distribution logo. Note that only two cores are available and CPU identity is not shared with the virtual machine </figcaption>
-</figure>
-
+  <img src="/images/buggy.jpg" alt="my alt text" style="width:534px;height:269px;"/>
+  <figcaption>Even with hyperthreading enabled, sometimes the Linux will show only 2 cores. Note that virtual machine is reading the CPU as single core with 2 or 4 threads. Hence, the cache organization is half of the <a href="https://en.wikichip.org/wiki/intel/core_m/m3-8100y">actual value</a>.</figcaption>
+</figure> 
 
 # Build Quality
 
