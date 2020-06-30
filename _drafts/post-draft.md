@@ -43,6 +43,8 @@ The thing which I don't like about the Chromebook is that the browser uses major
 
 ## LaTeX Setup in Chromebook 
 
+For LaTeX I use Vim as text-editor and Zathura via MuPDF as pdf-viewer. Earier I used TexMaker as text-editor and Evince as pdf-viewer, but the [display scaling](https://www.reddit.com/r/Crostini/wiki/howto/adjust-display-scaling) was required tweaking for TexMaker and Evince was not unable to open DjVu files (hence no advantage of it using poppler), save annotated files by replacing the existing one, or open multiple PDF files without leading to system crash.
+
 1. Turn on Linux (Beta) by following [these steps](https://support.google.com/chromebook/answer/9145439?hl=en). 
 2. Check that the sandbox (Penguin container/Crostini) is up-to-date. In your browser, go to `chrome://components`. Under `cros-termina`, select "Check for update". If you download an update, you might need to restart your Chromebook.
 3. Open terminal and update the packages `sudo apt-get update && sudo apt-get dist-upgrade` (there won't be any password prompts)
@@ -52,11 +54,11 @@ The thing which I don't like about the Chromebook is that the browser uses major
 7. Install DjVu4 (DjVu viewer) from Debian repo: `sudo apt-get install djview4`
 5. Right click on the folder where you want to create the tex files and choose `Share with Linux` and `Available offline`
 
-You might get gibberish text when using Linux, so you might need to disable GPU-acceleration for the sandbox, this can be done by going to `chrome://flags/#crostini-gpu-support` and changing the option to "disabled". 
+You might get gibberish text when using Linux, in that case you will have to disable GPU-acceleration for the sandbox, this can be done by going to `chrome://flags/#crostini-gpu-support` and changing the option to "disabled". 
 
 Though ChromeOS gives you an option of making a backup of Chrostini, I would recommend removing Linux before system restart for the biweekly updates and then rinstall everything. Many times Linux breaks after system updates.
 
-The pdfLatex process in this Chromebook can be as slow as in the old netbook (HP Mini 1103) since the [Debian runs in a virtual machine](https://linuxiumcomau.blogspot.com/2018/07/introduction-to-crostini-part-1-hp.html) and might get limited access to resources due to [sandbox restrictions](https://chromium.googlesource.com/chromium/src/+/master/docs/design/sandbox.md). In particular, hyperthreading for Crostini sometimes get disabled after ChromeOS update, i.e. only 2 cores instead of 4 are available ([discussion thread](https://bugs.chromium.org/p/chromium/issues/detail?id=1088305)). Therefore, in Crostini the Intel Core m3-8100Y might sometimes perform like Intel Atom N455. However, the most frustrating thing is when the virtual machine starts utilising 200% or more of the CPU (i.e. approximately 100% of mote than one of the available cores) even after you have closed it, in which case you will have to go to Task Manager (`Search` + `Esc`) and end it there ([discussion thread](https://www.reddit.com/r/Crostini/comments/apxf77/crostini_linux_running_at_300_cpu_usage/)). 
+The pdfLatex process in this Chromebook can be as slow as in the old netbook (HP Mini 1103) since the [Debian runs in a virtual machine](https://linuxiumcomau.blogspot.com/2018/07/introduction-to-crostini-part-1-hp.html) and might get limited access to resources due to [sandbox restrictions](https://chromium.googlesource.com/chromium/src/+/master/docs/design/sandbox.md). In particular, hyperthreading for Crostini sometimes get disabled after ChromeOS update, i.e. only 2 cores instead of 4 are available ([discussion thread](https://bugs.chromium.org/p/chromium/issues/detail?id=1088305)). Therefore, in Crostini the Intel Core m3-8100Y might sometimes perform like Intel Atom N455. However, the most frustrating thing is when the virtual machine starts utilising 200% or more of the CPU (i.e. approximately 100% of more than one of the available cores) even after you have closed it, in which case you will have to go to Task Manager (`Search` + `Esc`) and end it there ([discussion thread](https://www.reddit.com/r/Crostini/comments/apxf77/crostini_linux_running_at_300_cpu_usage/)). 
 
 
 <figure>
