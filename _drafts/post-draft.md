@@ -43,7 +43,7 @@ The thing which I don't like about the Chromebook is that the browser uses major
 
 ## LaTeX Setup in Chromebook 
 
-For LaTeX I use [Vim](https://packages.debian.org/bullseye/vim) with [Terminal](https://packages.debian.org/bullseye/gnome-terminal) as the text-editor and [MuPDF](https://packages.debian.org/buster/mupdf) as the pdf-viewer. Earlier I used TexMaker as text-editor and Evince as pdf-viewer, but the [display scaling](https://www.reddit.com/r/Crostini/wiki/howto/adjust-display-scaling) was bad with TexMaker and Evince was not unable to open DjVu files (hence no advantage of it using poppler), save annotated files by replacing the existing one, or open multiple PDF files without leading to system crash.
+For LaTeX I use [Vim](https://packages.debian.org/bullseye/vim) with [Terminal](https://packages.debian.org/bullseye/gnome-terminal) as the text-editor and [MuPDF](https://packages.debian.org/buster/mupdf) as the pdf-viewer. Earlier I used [TexMaker](https://packages.debian.org/bullseye/texmaker) as text-editor and [Evince](https://packages.debian.org/bullseye/evince) as pdf-viewer, but the [display scaling](https://www.reddit.com/r/Crostini/wiki/howto/adjust-display-scaling) was bad with TexMaker and Evince was not unable to open DjVu files (hence no advantage of it using poppler), save annotated files by replacing the existing one, or open multiple PDF files without leading to system crash.
 
 1. Turn on Linux (Beta) by following [these steps](https://support.google.com/chromebook/answer/9145439?hl=en). 
 2. Check that the sandbox (Penguin container/Crostini) is up-to-date. In your browser, go to `chrome://components`. Under `cros-termina`, select "Check for update". If you download an update, you might need to restart your Chromebook.
