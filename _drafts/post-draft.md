@@ -43,16 +43,24 @@ The thing which I don't like about the Chromebook is that the browser uses major
 
 ## LaTeX Setup in Chromebook 
 
-For LaTeX I use Vim as text-editor and Zathura via MuPDF as pdf-viewer. Earier I used TexMaker as text-editor and Evince as pdf-viewer, but the [display scaling](https://www.reddit.com/r/Crostini/wiki/howto/adjust-display-scaling) was required tweaking for TexMaker and Evince was not unable to open DjVu files (hence no advantage of it using poppler), save annotated files by replacing the existing one, or open multiple PDF files without leading to system crash.
+For LaTeX I use [Vim](https://www.vim.org/) as text-editor and [Zathura via MuPDF](https://pwmt.org/projects/zathura-pdf-mupdf/) as pdf-viewer. Earier I used TexMaker as text-editor and Evince as pdf-viewer, but the [display scaling](https://www.reddit.com/r/Crostini/wiki/howto/adjust-display-scaling) was required tweaking for TexMaker and Evince was not unable to open DjVu files (hence no advantage of it using poppler), save annotated files by replacing the existing one, or open multiple PDF files without leading to system crash.
 
 1. Turn on Linux (Beta) by following [these steps](https://support.google.com/chromebook/answer/9145439?hl=en). 
 2. Check that the sandbox (Penguin container/Crostini) is up-to-date. In your browser, go to `chrome://components`. Under `cros-termina`, select "Check for update". If you download an update, you might need to restart your Chromebook.
-3. Open terminal and update the packages `sudo apt-get update && sudo apt-get dist-upgrade` (there won't be any password prompts)
-4. Install TeX Live from Debian repo: `sudo apt-get install texlive`
-5. Install TexMaker from Debian repo: `sudo apt-get install texmaker`
-6. Install Evince (pdf viewer) from Debian repo: `sudo apt-get install evince`
-7. Install DjVu4 (DjVu viewer) from Debian repo: `sudo apt-get install djview4`
-5. Right click on the folder where you want to create the tex files and choose `Share with Linux` and `Available offline`
+3. Open terminal and update the packages `sudo apt update && sudo apt dist-upgrade` (there won't be any password prompts). You can safely ignore the error related to "googleapis".
+4. Check if Vim is already installed by typing `vim`. If it's not the latest version then follow the following steps:
+    a. Remove the installed version: `sudo apt remove vim vim-common vim-tiny vim-runtime` and then `sudo apt autoremove`
+    b. Obtain the latest copy of Vim from GitHub: `git clone https://github.com/vim/vim.git`. If "git" is not already installed, install it using `sudo apt install git`.
+    c. Install the dependencies need for building Vim with GTK3 GUI (latest GNOME interface): ` sudo apt install libacl1-dev libc6-dev libcairo2-dev` `sudo apt install libncurses5-dev libgnome2-dev libgnomeui-dev libgtk2.0-dev libatk1.0-dev libbonoboui2-dev libcairo2-dev libx11-dev libxpm-dev libxt-dev`
+    d. Install the tool "make" needed to build Vim: `sudo apt install make`
+    e. Build and install Vim as follows:
+        ```
+        cd vim/src
+        ./configure --with-features=huge --enable-gui=gtk3
+        make
+        sudo make install
+        ```
+9. Right click on the folder where you want to create the tex files and choose `Share with Linux` and `Available offline`
 
 You might get gibberish text when using Linux, in that case you will have to disable GPU-acceleration for the sandbox, this can be done by going to `chrome://flags/#crostini-gpu-support` and changing the option to "disabled". 
 
