@@ -62,9 +62,9 @@ For LaTeX I use [Vim](https://www.vim.org/) with [Terminal](https://help.gnome.o
 4. Mark stable release as default: `echo 'APT::Default-Release "stable";' | sudo tee -a /etc/apt/apt.conf.d/00local`
 5. Update the packages: `sudo apt update && sudo apt dist-upgrade` (there won't be any password prompts).
 6. Remove the installed version of Vim (we will do a fresh install of the latest version): `sudo apt remove vim vim-common vim-tiny vim-runtime` and then `sudo apt autoremove`
-7. Install the latest version of Vim (36.3 MB downloaded) : `sudo apt-get -t testing install vim`. You can also try the GUI version like GTK3, but screen resolution might be messed up ([fixing screen resolution]). Moreover, "vim-gtk3" will also  add support for scripting with Lua, Perl, Python 3, Ruby, and Tcl which I neither need nor have space for in my chromebook. 
+7. Install the latest version of Vim (36.3 MB downloaded) : `sudo apt-get -t testing install vim`. You can also try the GUI version like GTK3, but screen resolution might be messed up ([fixing screen resolution](https://www.reddit.com/r/Crostini/comments/9g1ovl/scale_and_dpi_in_sommelierrc/)). Moreover, "vim-gtk3" will also  add support for scripting with Lua, Perl, Python 3, Ruby, and Tcl which I neither need nor have space for in my chromebook. 
 8. Install the latest version of TeX Live (336 MB downloaded): `sudo apt-get -t testing install texlive`
-9. Install the latest version of Ubuntu Terminal (304 MB downloaded) which allows new tabs via `Ctrl`+`Shift`+`T`: `sudo apt-get -t testing install gnome-terminal`
+9. Install the latest version of Ubuntu Terminal (304 MB downloaded) which allows new tabs via `Ctrl`+`Shift`+`T`: `sudo apt-get -t testing install gnome-terminal` (It also uses GTK interface, so if you might consider installing vim-gtk3 as well)
 9. Right click on the folder where you want to create the tex files and choose `Share with Linux` and `Available offline`.
 10. To access the file
 
