@@ -63,7 +63,7 @@ For LaTeX I use [Vim](https://packages.debian.org/bullseye/vim) with [Terminal](
 5. Update the packages: `sudo apt update && sudo apt dist-upgrade` (there won't be any password prompts).
 6. Remove the installed version of Vim (we will do a fresh install of the latest version): `sudo apt remove vim vim-common vim-tiny vim-runtime` and then `sudo apt autoremove`
 7. Install the latest version of Vim (36.3 MB downloaded) : `sudo apt -t testing install vim`. You can also try the GUI version like GTK3, but screen resolution might be messed up ([fixing screen resolution](https://www.reddit.com/r/Crostini/comments/9g1ovl/scale_and_dpi_in_sommelierrc/)). Moreover, "vim-gtk3" will also  add support for scripting with Lua, Perl, Python 3, Ruby, and Tcl which I neither need nor have space for in my chromebook. 
-8. Install the latest version of Ubuntu's Terminal (304 MB downloaded) which allows new tabs via `Ctrl`+`Shift`+`T`: `sudo apt -t testing install gnome-terminal` (It also uses GTK interface, so if you might consider installing vim-gtk3 as well). 
+8. Install the latest version of Ubuntu's Terminal (304 MB downloaded) which allows new tabs via `Ctrl`+`Shift`+`T`: `sudo apt -t testing install gnome-terminal` (It also uses GTK interface, so you can consider installing vim-gtk or vim-gtk3 instead). 
 9. Install the latest version of TeX Live (336 MB downloaded): `sudo apt -t testing install texlive`
 10. Install the plugin which will allow Vim to specialize as LaTeX editor: 
 11. Install the latest version of MuPDF (35.3 MB downloaded): `sudo apt -t testing install mupdf` 
