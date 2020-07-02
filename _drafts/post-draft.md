@@ -83,6 +83,8 @@ The pdfLatex process in this Chromebook can be as slow as in the old netbook (HP
 
 # Build Quality
 
+From what I had read about Chromebook's lack of basic capabilities (can't run most softwares, can't format flash drive to desired format, don't have SSD, and no compatible with many hardwares like drawing tablet), for $400 I expected the build quality of a $800 windows laptop. However, just like the Linux capabilities, the build quality was also disappointing.
+ 
 | Quality Parameter | Asus Chromebook C425 (C425T) | Lenovo ThinkPad E440 (Custom build) |
 | ------------- |:--------------------------------------:|:----------------------------:|
 | Chassis |  Metal flap with plastic body. The laptop looks stylish but the hinge design is really bad. Can't be open with just one hand and it flexes the whole machine a little bit putting strain on the plastic casing. Therefore, the frame started cracking within 2 months of usage and it is not covered under warranty. | Metal flap with plastic body. The laptop looks simple and the laptop can be easily openend with one hand. No cracks after 5 years of rough usage.|
@@ -91,5 +93,3 @@ The pdfLatex process in this Chromebook can be as slow as in the old netbook (HP
 | Keyboard | Makes web browsing more comfortable| |
 | Trackpad |   |  |
 | Thermals |  |  |
-
-
