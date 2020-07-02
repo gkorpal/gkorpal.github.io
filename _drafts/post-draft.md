@@ -87,7 +87,7 @@ From what I had read about Chromebook's lack of basic capabilities (can't run mo
  
 | Quality Parameter | Asus Chromebook C425 (C425T) | Lenovo ThinkPad E440 (Custom build) |
 | ------------- |:--------------------------------------:|:----------------------------:|
-| Chassis |  Metal flap with plastic body. The laptop looks stylish but the hinge design is really bad. Can't be open with just one hand and it flexes the whole machine a little bit putting strain on the plastic casing. Therefore, the frame started cracking within 2 months of usage and it is not covered under warranty. | Metal flap with plastic body. The laptop looks simple and the laptop can be easily openend with one hand. No cracks after 5 years of rough usage.|
+| Chassis |  Metal flap with plastic body. The laptop looks stylish but the hinge design is really bad. Can't be open with just one hand and it flexes the whole machine a little bit putting strain on the plastic casing. Therefore, the frame started cracking within 2 months of usage and it is not covered under warranty. | Metal flap with plastic body. The laptop looks simple and can be easily openend with one hand. Only the fan grill plastic broke after 5 years of rough usage.|
 |Display |  |  |
 |Speakers|   |   |
 | Keyboard | Makes web browsing more comfortable| |
