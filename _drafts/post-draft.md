@@ -58,7 +58,7 @@ For LaTeX I use [Vim](https://packages.debian.org/bullseye/vim) with [Terminal](
    deb http://deb.debian.org/debian-security buster/updates main
    deb http://deb.debian.org/debian testing main
    ````
-   Here "buster" should correspond to the [version of Debian](https://wiki.debian.org/DebianReleases) installed in Crostini. We have basically added [Debian Testing](https://wiki.debian.org/DebianTesting) to the source list so that we can [install latest version of Vim and Texlive](https://nosarthur.github.io/coding/2019/09/05/crostini.html).
+   Here "buster" should correspond to the [version of Debian](https://wiki.debian.org/DebianReleases) installed in Crostini. We have basically added [Debian Testing](https://wiki.debian.org/DebianTesting) to the source list so that we can [install the latest version of packages known to be stable](https://nosarthur.github.io/coding/2019/09/05/crostini.html).
 4. Mark stable release as default: `echo 'APT::Default-Release "stable";' | sudo tee -a /etc/apt/apt.conf.d/00local`
 5. Update the packages: `sudo apt update && sudo apt dist-upgrade` (there won't be any password prompts).
 6. Remove the installed version of Vim (we will do a fresh install of the latest version): `sudo apt remove vim vim-common vim-tiny vim-runtime` and then `sudo apt autoremove`
