@@ -43,7 +43,7 @@ The thing which I don't like about the Chromebook is that the browser uses major
 
 ## LaTeX Setup in Chromebook 
 
-For LaTeX I use [Vim](https://packages.debian.org/bullseye/vim) with [Terminal](https://packages.debian.org/bullseye/gnome-terminal) as the text-editor and [MuPDF](https://packages.debian.org/buster/mupdf) as the pdf-viewer. Earlier I used [TexMaker](https://packages.debian.org/bullseye/texmaker) as text-editor and [Evince](https://packages.debian.org/bullseye/evince) as pdf-viewer, but the [display scaling](https://www.reddit.com/r/Crostini/wiki/howto/adjust-display-scaling) was bad with TexMaker and Evince was not unable to open DjVu files (hence no advantage of it using poppler), save annotated files by replacing the existing one, or open multiple PDF files without leading to system crash.
+For LaTeX I use [Vim](https://packages.debian.org/bullseye/vim) with [Terminal](https://packages.debian.org/bullseye/gnome-terminal) as the text-editor and [MuPDF](https://packages.debian.org/bullseye/mupdf) as the pdf-viewer since both can be accessed solely via keyboard. Earlier I used [TexMaker](https://packages.debian.org/bullseye/texmaker) as text-editor and [Evince](https://packages.debian.org/bullseye/evince) as pdf-viewer, but the [display scaling](https://www.reddit.com/r/Crostini/wiki/howto/adjust-display-scaling) was bad with TexMaker and Evince was not unable to open DjVu files (hence no advantage of it using poppler), save annotated files by replacing the existing one, or open multiple PDF files without leading to system crash.
 
 1. Turn on Linux (Beta) by following [these steps](https://support.google.com/chromebook/answer/9145439?hl=en). 
 2. Check that the sandbox (Penguin container/Crostini) is up-to-date. In your browser, go to `chrome://components`. Under `cros-termina`, select "Check for update". If you download an update, you might need to restart your Chromebook.
@@ -63,10 +63,11 @@ For LaTeX I use [Vim](https://packages.debian.org/bullseye/vim) with [Terminal](
 5. Update the packages: `sudo apt update && sudo apt dist-upgrade` (there won't be any password prompts).
 6. Remove the installed version of Vim (we will do a fresh install of the latest version): `sudo apt remove vim vim-common vim-tiny vim-runtime` and then `sudo apt autoremove`
 7. Install the latest version of Vim (36.3 MB downloaded) : `sudo apt -t testing install vim`. You can also try the GUI version like GTK3, but screen resolution might be messed up ([fixing screen resolution](https://www.reddit.com/r/Crostini/comments/9g1ovl/scale_and_dpi_in_sommelierrc/)). Moreover, "vim-gtk3" will also  add support for scripting with Lua, Perl, Python 3, Ruby, and Tcl which I neither need nor have space for in my chromebook. 
-8. Install the latest version of TeX Live (336 MB downloaded): `sudo apt -t testing install texlive`
-9. Install the latest version of Ubuntu's Terminal (304 MB downloaded) which allows new tabs via `Ctrl`+`Shift`+`T`: `sudo apt -t testing install gnome-terminal` (It also uses GTK interface, so if you might consider installing vim-gtk3 as well). 
-10. Install the latest version of MuPDF (35.3 MB downloaded): `sudo apt -t testing install mupdf` 
-9. Right click on the folder where you want to create the tex files and choose `Share with Linux` and `Available offline`. To access the file
+8. Install the latest version of Ubuntu's Terminal (304 MB downloaded) which allows new tabs via `Ctrl`+`Shift`+`T`: `sudo apt -t testing install gnome-terminal` (It also uses GTK interface, so if you might consider installing vim-gtk3 as well). 
+9. Install the latest version of TeX Live (336 MB downloaded): `sudo apt -t testing install texlive`
+10. Install the plugin which will allow Vim to specialize as LaTeX editor: 
+11. Install the latest version of MuPDF (35.3 MB downloaded): `sudo apt -t testing install mupdf` 
+12. Right click on the folder where you want to create the tex files and choose "Share with Linux" and "Available offline". The folder can be accessed via  `/mnt/chromeos/GoogleDrive/MyDrive/NameOfSharedFolder`
 
 You might get gibberish text when using Linux, in that case you will have to disable GPU-acceleration for the sandbox, this can be done by going to `chrome://flags/#crostini-gpu-support` and changing the option to "disabled". 
 
