@@ -92,4 +92,5 @@ From what I had read about Chromebook's lack of basic capabilities (can't run mo
 |Speakers|   |   |
 | Keyboard | Makes web browsing more comfortable| |
 | Trackpad |   |  |
-| Thermals | Due to the lack of fan, multitasking and video calls can make the right side of keyboard really hot to touch. |  |
+| Thermals | Due to the lack of fan, multitasking and video calls can make the right side of keyboard really hot (about 55°C). |  |
+|Internals| Coil whining | easy to upgrade |
