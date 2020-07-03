@@ -90,7 +90,15 @@ From what I had read about Chromebook's lack of basic capabilities (can't run mo
 | Chassis |  Metal flap with plastic body. The laptop looks stylish but the hinge design is really bad. Can't be open with just one hand and it flexes the whole machine a little bit putting strain on the plastic casing. Therefore, the frame started cracking within 2 months of usage and it is not covered under warranty. | Metal flap with plastic body. The laptop looks simple and can be easily openend with one hand. Only the fan grill plastic broke after 5 years of rough usage.|
 |Display |  |  |
 |Speakers|   |   |
-| Keyboard | Makes web browsing more comfortable| |
+| Keyboard | Makes web browsing more comfortable.  When the Chromebook lid swings out for use, the hinge forces the back of the keyboard up, [increasing strain on hinge](https://www.androidcentral.com/asus-c425-best-chromebook-buy-black-friday). | |
 | Trackpad |   |  |
 | Thermals | Due to the lack of fan, multitasking and video calls can make the right side of keyboard really hot (about 55°C). |  |
 |Internals| Coil whining | easy to upgrade |
+
+I will end by quoting the reviews I read before buying this chromebook and ignored the warnings:
+
+> I’m not a plastic hater, but there are price brackets I equate to plastics being used, and at MSRP $499, I don’t expect a mostly-plastic build. While there isn’t a ton of flex and wobbliness with this chassis, there’s no getting around the way plastic feels under your palms as you actually use a Chromebook. ---- [Chrome Unboxed](https://chromeunboxed.com/asus-chromebook-c425-review/)
+
+> Personally, I don’t mind a plastic bottom. In fact, there are advantages to having a plastic bottom, as plastic is lighter and less heat-conductive than metal. However, a plastic main-deck might be enough of a reason to pay extra for the C434. I mean, the plastic on the C425 is not the poor-quality we’ve used to see on entry-level laptops in the past, but it’s still plastic nonetheless, and doesn’t feel as nice or as sturdy as metal. ---- [UltrabookReview.com](https://www.ultrabookreview.com/31669-asus-chromebook-c425-reviewed/)
+
+> The C425’s plastic body has more flex and suffers from a duller-looking, non-touch screen, but the keyboard and trackpad are responsive, the screen is fine for documents and spreadsheets, and it has enough battery life to last a full day of work or classes. ---- [NY Times- Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-chromebook/) 
