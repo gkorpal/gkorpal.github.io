@@ -46,7 +46,7 @@ I finally decided not to spend extra $20 for i3-9100 since the ability of 3200g 
 
 # Build Details
 
-As I said above, Intel Core i3 9100 would have been a better choice in terms of processing power. Moreover, after the launch of 10th gen CPUs that build would have costed the same (about $300 for CPU+MOBO+RAM) since though CPU and motherboard will be little more expensive than the AMD counterparts, the RAM will be really cheap (since only 2400 MHz supported). So, instead of following the recommendation for gaming PC, I could have got better Linux support for about the same price by going for Intel instead of AMD.
+As I said above, Intel Core i3 9100 would have been a better choice in terms of processing power. However, even after the launch of 10th gen CPUs that build would have costed about $20 more since though the RAM will be really cheap as only 2400 MHz is supported by i3 (-$10), the CPU and motherboard (H310) will remain a little more expensive than the AMD counterparts (+$30). So, instead of following the recommendation for gaming PC, right now one can get a better Linux support for about the same price by going for Intel instead of AMD. AMD build is better than Intel if one plans to play games and do overclocking by buying a better motherboard and monitor.
 
 | PC Part | Model   | Price before tax/shipping (round figure) | Comments |
 | ------------- |-----------------|------------------------| ----------|
