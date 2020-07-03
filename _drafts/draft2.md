@@ -53,7 +53,7 @@ As I said above, Intel Core i3 9100 would have been a better choice in terms of 
 |***System Unit*** | ***Total cost*** | ***USD 380***  | ***Should not require any upgrade for 4 years***|
 |CPU+GPU+Cooler| AMD Ryzen 3 3200g | USD 100| Cheapest quad-core processor in the market with a proper GPU|
 |***Input/Output Devices***| ***Total cost*** | ***USD 380***  |  ***minimalistic, nothing fancy*** |
-|Keyboard | Redragon| USD 30| Cheapest tenkeyless mechanical keyboard without any lighting |
+|Keyboard | Redragon| USD 30| Cheapest tenkeyless mechanical keyboard without any lighting. |
 |***Accesories*** | ***Total Cost*** | ***USD 380*** | ***Required to make PC setup comfortable*** |
 |PC Case Stand | | | |
 
