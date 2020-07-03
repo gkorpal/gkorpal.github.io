@@ -34,7 +34,7 @@ The current AMD budget processors provide a much superior iGPU performance than 
 * We can compare the entry level quad-core desktop processors from last year: Intel Core i3-9100 (MSRP $120) has better CPU but worse iGPU than AMD Ryzen 3 3200g (MSRP $100) ([benchmark](https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_3_3200g-952-vs-intel_core_i3_9100-924)).
 * We can compare the pro level mobile processors from this year: Intel Core i7-10710U with 6-physical cores with hyperthreading, is not better than AMD Ryzen 7 4700U with 8-physical cores but no hyperthreading ([comparison](https://www.pcworld.com/article/3541009/ryzen-7-4700u-review-amds-budget-8-core-crushes-intels-10th-gen-chips-again.html)).
 
-I finally decided not to spend extra $20 for i3-9100 since the ability of 3200g to allow light gaming would be more than enough for my daily usage. Moreover, since neither of them have hyperthereading/multithreading, I won't expect much improvement in multitasking. However, Intel being more popular has better support for various hardware (for example, I couldn't run my monitor via HDMI due to compatibility issue between the motherboard and monitor). Howoever, luckily, this time the Realtek ethernet drivers [didn't cause headache with Ubuntu](https://tuxbyte.com/how-to-get-your-realtek-rtl8111rtl8168-working-updated-guide/).
+I finally decided not to spend extra $20 for i3-9100 since the ability of 3200g to allow light gaming would be more than enough for my daily usage. Moreover, since neither of them have hyperthereading/multithreading, I won't expect much improvement in multitasking. However, Intel being more popular has better support for various hardware (for example, I couldn't run my monitor via HDMI due to compatibility issue between the motherboard and monitor). However, luckily, this time the Realtek ethernet drivers [didn't cause headache with Ubuntu](https://tuxbyte.com/how-to-get-your-realtek-rtl8111rtl8168-working-updated-guide/).
 
 <figure>
   <img src="/images/comparison.png" alt="my alt text" style="width:534px;height:269px;"/>
@@ -45,6 +45,8 @@ I finally decided not to spend extra $20 for i3-9100 since the ability of 3200g 
 
 
 # Build Details
+
+As I said above, Intel Core i3 9100 would have been a better choice in terms of processing power. Moreover, after the launch of 10th gen CPUs that build would have costed the same (about $300 for CPU+MOBO+RAM) since though CPU and motherboard will be little more expensive than the AMD counterparts, the RAM will be really cheap (since only 2400 MHz supported). So, instead of following the recommendation for gaming PC, I could have got better Linux support for about the same price by going for Intel instead of AMD.
 
 | PC Part | Model   | Price before tax/shipping (round figure) | Comments |
 | ------------- |-----------------|------------------------| ----------|
