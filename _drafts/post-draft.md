@@ -47,7 +47,7 @@ For LaTeX I use [Vim](https://packages.debian.org/bullseye/vim) with [Terminal](
 
 1. Turn on Linux (Beta) by following [these steps](https://support.google.com/chromebook/answer/9145439?hl=en). 
 2. Check that the sandbox (Penguin container/Crostini) is up-to-date. In your browser, go to `chrome://components`. Under `cros-termina`, select "Check for update". If you download an update, you might need to restart your Chromebook.
-3. Open Crostini and use the preinstalled version of Vim to edit, if needed, the "cros.list" and "sources.list" so that they have the following content (make sure it is "http" and not "https"):  
+3. Open Crostini and use the preinstalled version of Vim to edit, if needed, the "cros.list" and "sources.list" so that they have the following content (make sure it is "http" and not "https", otherwise you can get HTTP proxy issues):  
    ````
    $ cat /etc/apt/sources.list.d/cros.list
    deb http://storage.googleapis.com/cros-packages/83 buster main
@@ -62,12 +62,13 @@ For LaTeX I use [Vim](https://packages.debian.org/bullseye/vim) with [Terminal](
 4. Mark stable release as default: `echo 'APT::Default-Release "stable";' | sudo tee -a /etc/apt/apt.conf.d/00local`
 5. Update the packages: `sudo apt update && sudo apt dist-upgrade` (there won't be any password prompts).
 6. Remove the installed version of Vim (we will do a fresh install of the latest version): `sudo apt remove vim vim-common vim-tiny vim-runtime` and then `sudo apt autoremove`
-7. Install the latest version of Vim (36.3 MB downloaded) : `sudo apt -t testing install vim`. You can also try the GUI version like GTK3, but screen resolution might be messed up ([fixing screen resolution](https://www.reddit.com/r/Crostini/comments/9g1ovl/scale_and_dpi_in_sommelierrc/)). Moreover, "vim-gtk3" will also  add support for scripting with Lua, Perl, Python 3, Ruby, and Tcl which I neither need nor have space for in my chromebook. 
-8. Install the latest version of Ubuntu's Terminal (304 MB downloaded) which allows new tabs via `Ctrl`+`Shift`+`T`: `sudo apt -t testing install gnome-terminal` (It also uses GTK interface, so you can consider installing vim-gtk or vim-gtk3 instead). 
-9. Install the latest version of TeX Live (336 MB downloaded): `sudo apt -t testing install texlive`
-10. Install the plugin which will allow Vim to specialize as LaTeX editor: 
-11. Install the latest version of MuPDF (35.3 MB downloaded): `sudo apt -t testing install mupdf` 
-12. Right click on the folder where you want to create the tex files and choose "Share with Linux" and "Available offline". The folder can be accessed via  `/mnt/chromeos/GoogleDrive/MyDrive/NameOfSharedFolder`
+7. Install the latest version of [Vim](https://www.vim.org/) (36.3 MB downloaded) : `sudo apt -t testing install vim`. You can also try the GUI version like GTK3, but screen resolution might be messed up ([fixing screen resolution](https://www.reddit.com/r/Crostini/comments/9g1ovl/scale_and_dpi_in_sommelierrc/)). Moreover, "vim-gtk3" will also  add support for scripting with Lua, Perl, Python 3, Ruby, and Tcl which I neither need nor have space for in my chromebook. 
+8. Install the latest version of Ubuntu's [Terminal](https://help.gnome.org/users/gnome-terminal/stable/) (304 MB downloaded) which allows new tabs via `Ctrl`+`Shift`+`T`: `sudo apt -t testing install gnome-terminal` (It also uses GTK interface, so you can consider installing vim-gtk or vim-gtk3 instead). 
+9. Install the latest version of MuPDF (35.3 MB downloaded): `sudo apt -t testing install mupdf` 
+10. Install the latest version of [TeX Live](https://www.tug.org/texlive/) (336 MB downloaded): `sudo apt -t testing install texlive`
+11. Install plugin manager [vim-plug](https://github.com/junegunn/vim-plug) for Vim:
+12. Install the plugin [vim-tex](https://github.com/lervag/vimtex) which will allow Vim to specialize as LaTeX editor: 
+13. Right click on the folder where you want to create the tex files and choose "Share with Linux" and "Available offline". The folder can be accessed via  `cd /mnt/chromeos/GoogleDrive/MyDrive/"NameOfSharedFolder"`
 
 You might get gibberish text when using Linux, in that case you will have to disable GPU-acceleration for the sandbox, this can be done by going to `chrome://flags/#crostini-gpu-support` and changing the option to "disabled". 
 
