@@ -74,10 +74,15 @@ I am suing [rclone](https://rclone.org/downloads/) to sync files between my PC a
 
 As I said above, Intel Core i3 9100 would have been a better choice in terms of processing power. However, even after the launch of 10th gen CPUs that build would have costed about $20 more since though the RAM will be really cheap as only 2400 MHz is supported by i3 (-$10), the CPU and motherboard (H310) will remain a little more expensive than the AMD counterparts (+$30). So, instead of following the recommendation for gaming PC, right now one can get a better Linux support for about the same price by going for Intel instead of AMD. AMD build is better than Intel if one plans to play games and do overclocking by buying a better motherboard and monitor.
 
-| PC Part | Model   | Price before tax/shipping (round figure) | Comments |
+| PC Part | Model   | MSRP (round figure) | Comments |
 | ------------- |-----------------|------------------------| ----------|
 |***System Unit*** | ***Total cost*** | ***USD 380***  | ***Should not require any upgrade for 4 years***|
 |CPU+GPU+Cooler| AMD Ryzen 3 3200g | USD 100| Cheapest quad-core processor in the market with a proper GPU|
+|Motherboard | MSI A320M-A Pro Max | USD 55 | Cheaptest motherboard with Ryzen 3000 APU support and M.2 PCIe. Shortcomings include the lack of ability to overclock CPU, no VGA port, only 2 RAM slots, only one case fan port and Realtek LAN|
+|Memory | Patroid Viper 4 Blackout (2x4GB, 3000MHz)|USD 40 | Was able to use it at CPU's supported frequency of 2933 MHz|
+|Storage | Crucial P1 500GB | USD 60 | This QCL NVMe M.2 SSD is chaper than many SATA SSDs in the market|
+|PSU | Corsair CX450 | USD 65| Cheapest 80+ Bronze rated power supply with good reviews.|
+|Case| Cooler master N200 | USD 50 | Decent quality mini-tower with two preinstalled quiet-fans (not PMW). However, it being small in size, made cable management really hard|
 |***Input/Output Devices***| ***Total cost*** | ***USD 380***  |  ***minimalistic, nothing fancy*** |
 |Keyboard | Redragon| USD 30| Cheapest tenkeyless mechanical keyboard without any lighting. |
 |***Accesories*** | ***Total Cost*** | ***USD 380*** | ***Required to make PC setup comfortable*** |
