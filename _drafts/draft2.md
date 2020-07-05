@@ -71,8 +71,8 @@ I am suing [rclone](https://rclone.org/downloads/) to sync files between my PC a
     c) To update to the latest version run this in the Terminal: `rclone -U`
 
 # Build Details
-
-As I said above, Intel Core i3 9100 would have been a better choice in terms of processing power. However, even after the launch of 10th gen CPUs that build would have costed about $20 more since though the RAM will be really cheap as only 2400 MHz is supported by i3 (-$10), the CPU and motherboard (H310) will remain a little more expensive than the AMD counterparts (+$30). So, instead of following the recommendation for gaming PC, right now one can get a better Linux support for about the same price by going for Intel instead of AMD. AMD build is better than Intel if one plans to play games and do overclocking by buying a better motherboard and monitor.
+ 
+All the system part recommendations were from [PC-Part-Picker](https://pcpartpicker.com/) forums and [Build-a-PC](https://www.reddit.com/r/buildapc/) subreddit hence were biased towards gaming performance.
 
 | PC Part | Model   | MSRP (round figure) | Comments |
 | ------------- |-----------------|------------------------| ----------|
@@ -98,5 +98,7 @@ As I said above, Intel Core i3 9100 would have been a better choice in terms of 
 |Ethernet cable| Quantum CAT5e | USD 10 | |
 |USB 3.0 extension cable| Sabrent CB-3060 | USD 10 | |
 
+## Introspection
 
-Intel monopoly https://videocardz.com/newz/intel-faces-criticism-for-comparing-gaming-laptops-with-different-gpu-models
+As I said above, Intel Core i3 9100 would have been a better choice in terms of processing power. However, even after the launch of 10th gen CPUs that build would have costed about $20 more since though the RAM will be really cheap as only 2400 MHz is supported by i3 (-$10), the CPU and motherboard (H310) will remain a little more expensive than the AMD counterparts (+$30). Moreover, by buying HP VH240a instead of Asus VA229HR, I could have saved USD 30, hence keeping the total cost of build USD 650 even with i3 9100. Therefore, instead of following the recommendation for gaming PC, I could have got a better Linux support for about the same price by going for Intel instead of AMD. AMD build is better than Intel if one plans to play games and do overclocking by buying a better motherboard and monitor, none of which I wanted.
+
