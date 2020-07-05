@@ -46,12 +46,14 @@ I finally decided not to spend extra $20 for i3-9100 since the ability of 3200g 
 I am suing [rclone](https://rclone.org/downloads/) to sync files between my PC and Google Drive. Following are the steps one can follow to set it up:
 
 0. Create your own Google Drive OAuth2 client ID for rclone:
-   a)  Log into the [Google API Console](https://console.developers.google.com/) with your Google account. It doesn't matter what Google account you use. (It need not be the same account as the Google Drive you want to access)
+
+   a)  Log into the [Google API Console](https://console.developers.google.com/) with your Google account. It doesn't matter what Google account you use. (It need not be the same account as the Google Drive you want to access.
    b)  Select a project or create a new project.
    c)  Under "ENABLE APIS AND SERVICES" search for "Drive", and enable the "Google Drive API".
    d)  Click "Oauth Consent Screen" in the left panel and select user type "External". Then add Application name (anything you want) and save.
    e)  Click "Credentials" in the left panel. Then click on "+ CREATE CREDENTIALS" button at the top of the screen, then select "OAuth client ID". Select Application type as "Desktop app", enter whaever client anme you want and click create.
-   f)  It will show you a client ID and client secret. Use these values in rclone config to add a new remote or edit an existing remote.
+   f)  It will show you a client ID and client secret. Use these values in rclone config.
+
 1. Install the latest version of rclone via Terminal: `curl https://rclone.org/install.sh | sudo bash`
 2.  Now [configure rclone](https://rclone.org/drive/) for Google Drive via Terminal: `rclone config` and follow the steps. Remeber to use the Client ID and client secret we created above. Since we created this API for personal use, we won't be submitting it for verfication. Hence don't be alarmed by the very scary confirmation screen shown when we connect via your browser for rclone to be able to get its token-id.  Also, if you want to fetch Google Docs as links (instead of converting them to .odt etc) from Google Drive, in "advance-config" set "export-formats" to "links.html".
 3.  Sync files using "[copy](https://rclone.org/commands/rclone_copy/)" and NOT "[sync](https://rclone.org/commands/rclone_sync/)": `rclone copy source:path dest:path [flags]`. For example, to sync all files from "New Folder" Google Drive (named: Drive) to PC (folder: home) and view the progress, type: `rclone copy Drive:"New Folder" /home -P`.  Google Drive tend to have duplicate files since it allows same names files in same folder, in that case use [dedupe](https://rclone.org/commands/rclone_dedupe/) to delete all duplicate files.
