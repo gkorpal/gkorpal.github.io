@@ -83,18 +83,20 @@ As I said above, Intel Core i3 9100 would have been a better choice in terms of 
 |Storage | Crucial P1 500GB | USD 60 | This QCL NVMe M.2 SSD is chaper than many SATA SSDs in the market|
 |PSU | Corsair CX450 | USD 65| Cheapest 80+ Bronze rated power supply with good reviews.|
 |Case| Cooler Master N200 | USD 50 | Decent quality mini-tower with two pre-installed quiet-fans (not PMW). However, it being small in size, made cable management really hard|
-|***Input/Output Devices***| ***Total cost*** | ***USD 380***  |  ***minimalistic, nothing fancy*** |
+|***Input/Output Devices***| ***Total cost*** | ***USD 180***  |  ***minimalistic, nothing fancy*** |
 |Keyboard | Redragon K552-N| USD 30| Cheapest tenkeyless mechanical keyboard without any lighting. The next decent option was for around USD 100. |
 |Mouse | Logitech M310 | USD 20 | Wireless ambidextrous mouse which is not very small. Though would prefer a bigger mouse.|
 | Monitor+speakers | Asus VA229HR | USD 100 | This 1080p 21.5" IPS screen with 1.5W sterio speakers didn't meet my expectations. Its HDMI port doesn't work well with my motherboard/CPU. Also, stand was so bad that I has to buy a new stand. Would have bought HP VH240a if it had longer warranty period.|
 |Webcam+mic | Logitech C270 | USD 30 | Better than the HD camera laptop have |
-|***Accesories*** | ***Total Cost*** | ***USD 380*** | ***Required to make PC setup comfortable*** 
-|Surge protector |
+|***Accesories*** | ***Total Cost*** | ***USD 90*** | ***Required to make PC setup comfortable*** 
+|Surge protector | Belkin BE108200-06 | USD 20 | |
 | System Case Stand | Iocrest Sy-ACC65029 |USD 10 | Cheapest case stand for keeping system above carpet| 
-|Mouse pad| 
-|Monitor stand|
-|DVI-D to VGA cable|
-|Audio cable|
-|USB 3.0 extension|
+|Mouse pad| Insignia  NS-PNP5008 | USD 5 | |
+|Monitor stand| Huanuo HNCM5-S | USD 25 | |
+|DVI-D to VGA cable| Benfei B07JYXYSSL | USD 10 | |
+|Audio cable| StarTech Slim 3.5mm jack | USD 5 | |
+|Ethernet cable| Quantum CAT5e | USD 10 | |
+|USB 3.0 extension| Sabrent CB-3060 | USD 5 | |
+
 
 Intel monopoly https://videocardz.com/newz/intel-faces-criticism-for-comparing-gaming-laptops-with-different-gpu-models
