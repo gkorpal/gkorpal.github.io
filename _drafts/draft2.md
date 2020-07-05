@@ -82,7 +82,7 @@ All the system part recommendations were from [PC-Part-Picker](https://pcpartpic
 |Memory | Patroit Viper 4 Blackout (2x4GB, 3000MHz)|USD 40 | Was able to use it at CPU's supported frequency of 2933 MHz|
 |Storage | Crucial P1 500GB | USD 60 | This QCL NVMe M.2 SSD is chaper than many SATA SSDs in the market|
 |PSU | Corsair CX450 | USD 65| Cheapest 80+ Bronze rated power supply with good reviews.|
-|Case| Cooler Master N200 | USD 50 | Decent quality mini-tower with two pre-installed quiet-fans (not PMW). However, it being small in size, made cable management really hard though it comes with zip-ties|
+|PC Case| Cooler Master N200 | USD 50 | Decent quality mini-tower with two pre-installed quiet-fans (not PMW). However, it being small in size, made cable management really hard though it comes with zip-ties. I hade to move the front intake fan to the outside to get rid of humming noise ([video](https://youtu.be/7S5SpE62HDE))|
 |***Input/Output Devices***| ***Total cost*** | ***USD 180***  |  ***minimalistic, nothing fancy. 28% of the total budget.*** |
 |Keyboard | Redragon K552-N| USD 30| Cheapest tenkeyless mechanical keyboard without any lighting. The next decent option was for around USD 100. |
 |Mouse | Logitech M310 | USD 20 | Wireless ambidextrous mouse which is not very small. Though would prefer a bigger mouse.|
