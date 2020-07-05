@@ -79,13 +79,15 @@ As I said above, Intel Core i3 9100 would have been a better choice in terms of 
 |***System Unit*** | ***Total cost*** | ***USD 380***  | ***Should not require any upgrade for 4 years***|
 |CPU+GPU+Cooler| AMD Ryzen 3 3200g | USD 100| Cheapest quad-core processor in the market with a proper GPU|
 |Motherboard | MSI A320M-A Pro Max | USD 55 | Cheaptest motherboard with Ryzen 3000 APU support and M.2 PCIe. Shortcomings include the lack of ability to overclock CPU, no VGA port, only 2 RAM slots, only one case fan port and Realtek LAN|
-|Memory | Patroid Viper 4 Blackout (2x4GB, 3000MHz)|USD 40 | Was able to use it at CPU's supported frequency of 2933 MHz|
+|Memory | Patroit Viper 4 Blackout (2x4GB, 3000MHz)|USD 40 | Was able to use it at CPU's supported frequency of 2933 MHz|
 |Storage | Crucial P1 500GB | USD 60 | This QCL NVMe M.2 SSD is chaper than many SATA SSDs in the market|
 |PSU | Corsair CX450 | USD 65| Cheapest 80+ Bronze rated power supply with good reviews.|
-|Case| Cooler master N200 | USD 50 | Decent quality mini-tower with two preinstalled quiet-fans (not PMW). However, it being small in size, made cable management really hard|
+|Case| Cooler master N200 | USD 50 | Decent quality mini-tower with two pre-installed quiet-fans (not PMW). However, it being small in size, made cable management really hard|
 |***Input/Output Devices***| ***Total cost*** | ***USD 380***  |  ***minimalistic, nothing fancy*** |
-|Keyboard | Redragon| USD 30| Cheapest tenkeyless mechanical keyboard without any lighting. |
-|***Accesories*** | ***Total Cost*** | ***USD 380*** | ***Required to make PC setup comfortable*** |
-|PC Case Stand | | | |
+|Keyboard | Redragon K552-N| USD 30| Cheapest tenkeyless mechanical keyboard without any lighting. The next decent option was for around USD 100. |
+|Mouse | Logitech M310 | USD 20 | Wireless ambidextrous mouse which is not very small. Though would prefer a bigger mouse.|
+| Monitor+speakers | Asus VA229HR | USD 100 | This 1080p 21" IPS screen with 1.5W sterio speakers didn't meet my expectations. Its HDMI port doesn't work well with my motherboard/CPU. Also, stand was so bad that I has to buy a new stand. |
+|Webcam+mic | Logitech C270 | USD 30 | Better than the HD camera laptop have |
+|***Accesories*** | ***Total Cost*** | ***USD 380*** | ***Required to make PC setup comfortable*** | System Case Stand | Iocrest Sy-ACC65029 |USD 10 | Cheapest case stand for keeping system on carpet| 
 
 Intel monopoly https://videocardz.com/newz/intel-faces-criticism-for-comparing-gaming-laptops-with-different-gpu-models
