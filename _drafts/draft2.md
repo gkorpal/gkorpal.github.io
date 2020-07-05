@@ -68,7 +68,7 @@ I am suing [rclone](https://rclone.org/downloads/) to sync files between my PC a
     
     b)  Add the following code to the file and save it: `rclone() { if [[ $@ == "-U" ]]; then command curl https://rclone.org/install.sh | sudo bash; else command rclone "$@"; fi; }`
     
-    c) To update to the latest version run this in the Terminal: `rclone -U`
+    c) To update to the latest version run this in the Terminal: `rclone -U` and enter the PC password.
 
 # Build Details
  
