@@ -76,27 +76,27 @@ As I said above, Intel Core i3 9100 would have been a better choice in terms of 
 
 | PC Part | Model   | MSRP (round figure) | Comments |
 | ------------- |-----------------|------------------------| ----------|
-|***System Unit*** | ***Total cost*** | ***USD 380***  | ***Should not require any upgrade for 4 years***|
+|***System Unit*** | ***Total cost*** | ***USD 370***  | ***Should not require any upgrade for 4 years***|
 |CPU+GPU+Cooler| AMD Ryzen 3 3200g | USD 100| Cheapest quad-core processor in the market with a proper GPU|
 |Motherboard | MSI A320M-A Pro Max | USD 55 | Cheaptest motherboard with Ryzen 3000 APU support and M.2 PCIe. Shortcomings include the lack of ability to overclock CPU, no VGA port, only 2 RAM slots, only one case fan port and Realtek LAN|
 |Memory | Patroit Viper 4 Blackout (2x4GB, 3000MHz)|USD 40 | Was able to use it at CPU's supported frequency of 2933 MHz|
 |Storage | Crucial P1 500GB | USD 60 | This QCL NVMe M.2 SSD is chaper than many SATA SSDs in the market|
 |PSU | Corsair CX450 | USD 65| Cheapest 80+ Bronze rated power supply with good reviews.|
-|Case| Cooler Master N200 | USD 50 | Decent quality mini-tower with two pre-installed quiet-fans (not PMW). However, it being small in size, made cable management really hard|
+|Case| Cooler Master N200 | USD 50 | Decent quality mini-tower with two pre-installed quiet-fans (not PMW). However, it being small in size, made cable management really hard though it comes with zip-ties|
 |***Input/Output Devices***| ***Total cost*** | ***USD 180***  |  ***minimalistic, nothing fancy*** |
 |Keyboard | Redragon K552-N| USD 30| Cheapest tenkeyless mechanical keyboard without any lighting. The next decent option was for around USD 100. |
 |Mouse | Logitech M310 | USD 20 | Wireless ambidextrous mouse which is not very small. Though would prefer a bigger mouse.|
 | Monitor+speakers | Asus VA229HR | USD 100 | This 1080p 21.5" IPS screen with 1.5W sterio speakers didn't meet my expectations. Its HDMI port doesn't work well with my motherboard/CPU. Also, stand was so bad that I has to buy a new stand. Would have bought HP VH240a if it had longer warranty period.|
 |Webcam+mic | Logitech C270 | USD 30 | Better than the HD camera laptop have |
-|***Accesories*** | ***Total Cost*** | ***USD 90*** | ***Required to make PC setup comfortable*** 
+|***Accesories*** | ***Total Cost*** | ***USD 100*** | ***Required to make PC setup comfortable*** 
 |Surge protector | Belkin BE108200-06 | USD 20 | |
-| System Case Stand | Iocrest Sy-ACC65029 |USD 10 | Cheapest case stand for keeping system above carpet| 
+| System Case Stand | Iocrest SY-ACC65029 |USD 15 | Cheapest case stand for keeping system above carpet| 
 |Mouse pad| Insignia  NS-PNP5008 | USD 5 | |
 |Monitor stand| Huanuo HNCM5-S | USD 25 | |
 |DVI-D to VGA cable| Benfei B07JYXYSSL | USD 10 | |
 |Audio cable| StarTech Slim 3.5mm jack | USD 5 | |
 |Ethernet cable| Quantum CAT5e | USD 10 | |
-|USB 3.0 extension| Sabrent CB-3060 | USD 5 | |
+|USB 3.0 extension cable| Sabrent CB-3060 | USD 10 | |
 
 
 Intel monopoly https://videocardz.com/newz/intel-faces-criticism-for-comparing-gaming-laptops-with-different-gpu-models
