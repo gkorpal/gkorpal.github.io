@@ -47,7 +47,7 @@ For LaTeX I use [Vim](https://packages.debian.org/bullseye/vim) with [Terminal](
 
 1. Turn on Linux (Beta) by following [these steps](https://support.google.com/chromebook/answer/9145439?hl=en). 
 2. Check that the sandbox (Penguin container/Crostini) is up-to-date. In your browser, go to `chrome://components`. Under `cros-termina`, select "Check for update". If you download an update, you might need to restart your Chromebook.
-3. Open Crostini and use the preinstalled version of Vim to edit, if needed, the "cros.list" and "sources.list" so that they have the following content (make sure it is "http" and not "https", otherwise you can get HTTP proxy issues). If you are not familiar with Vim, run the command `vimtutor` first and this [brief intro](https://vimsheet.com/).
+3. Open Crostini and use the preinstalled version of Vim to edit, if needed, the "cros.list" and "sources.list" so that they have the following content (make sure it is "http" and not "https", otherwise you can get HTTP proxy issues). If you are not familiar with Vim, run the command `vimtutor` first and also have a look at this [brief intro](https://vimsheet.com/).
    ````
    $ cat /etc/apt/sources.list.d/cros.list
    deb http://storage.googleapis.com/cros-packages/83 buster main
