@@ -71,7 +71,10 @@ For LaTeX I use [Vim](https://packages.debian.org/bullseye/vim) with [Terminal](
     curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
     `````
-12. Install the plugin [vim-tex](https://github.com/lervag/vimtex) which will allow Vim to specialize as LaTeX editor: Create the file `~/.vimrc` and add the line `Plug 'lervag/vimtex'` to it.
+12. Install the plugin [vim-tex](https://github.com/lervag/vimtex) which will allow Vim to specialize as LaTeX editor: Create the file `~/.vimrc` and add the following line to it          
+     `````
+     Plug 'lervag/vimtex'
+     `````
 13. Right click on the folder where you want to create the tex files and choose "Share with Linux" and "Available offline". The folder can be accessed via  `cd /mnt/chromeos/GoogleDrive/MyDrive/"PathOfSharedFolderInYourGoogleDrive"`
 
 You might get gibberish text when using Linux, in that case you will have to disable GPU-acceleration for the sandbox, this can be done by going to `chrome://flags/#crostini-gpu-support` and changing the option to "disabled". 
