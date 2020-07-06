@@ -66,9 +66,13 @@ For LaTeX I use [Vim](https://packages.debian.org/bullseye/vim) with [Terminal](
 8. Install the latest version of Ubuntu's [Terminal](https://help.gnome.org/users/gnome-terminal/stable/) (304 MB downloaded) which allows new tabs via `Ctrl`+`Shift`+`T`: `sudo apt -t testing install gnome-terminal` (It also uses GTK interface, so you can consider installing vim-gtk or vim-gtk3 instead). 
 9. Install the latest version of [MuPDF](https://mupdf.com/) (35.3 MB downloaded): `sudo apt -t testing install mupdf` 
 10. Install the latest version of [TeX Live](https://www.tug.org/texlive/) (336 MB downloaded): `sudo apt -t testing install texlive`
-11. Install plugin manager [vim-plug](https://github.com/junegunn/vim-plug) for Vim:
-12. Install the plugin [vim-tex](https://github.com/lervag/vimtex) which will allow Vim to specialize as LaTeX editor: 
-13. Right click on the folder where you want to create the tex files and choose "Share with Linux" and "Available offline". The folder can be accessed via  `cd /mnt/chromeos/GoogleDrive/MyDrive/"NameOfSharedFolder"`
+11. Install some plugin manager for Vim, like [vim-plug](https://github.com/junegunn/vim-plug): Use Crostini/Terminal to Download plug.vim and put it in the "autoload" directory
+    `````
+    curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+    `````
+12. Install the plugin [vim-tex](https://github.com/lervag/vimtex) which will allow Vim to specialize as LaTeX editor: Create the file `~/.vimrc` and add the line `Plug 'lervag/vimtex'` to it.
+13. Right click on the folder where you want to create the tex files and choose "Share with Linux" and "Available offline". The folder can be accessed via  `cd /mnt/chromeos/GoogleDrive/MyDrive/"PathOfSharedFolderInYourGoogleDrive"`
 
 You might get gibberish text when using Linux, in that case you will have to disable GPU-acceleration for the sandbox, this can be done by going to `chrome://flags/#crostini-gpu-support` and changing the option to "disabled". 
 
