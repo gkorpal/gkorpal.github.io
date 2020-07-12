@@ -28,7 +28,7 @@ Following is the comparison of my PC with the best laptop available in the marke
 |Warranty |  1.5 to 5 years depending on the part | 1 year|
 |Bottomline | Sturdy and easy to repair | Mobility (0.71" thin and 2.65 lbs) |
 
-This will certainly an upgrade from the desktop computer I used a decade ago with Intel Pentium 4 CPU and 512MB RAM (no idea how did the graphics work in that machine). Though on paper Intel Core i7 4702MQ (my old Thinkpad) is not much worse than AMD Ryzen 3 3200G in terms of CPU performance, the AMD iGPU much better. For instance,  with the best graphic settings of [SuperTuxKart](https://supertuxkart.net/Main_Page), AMD gives 30 to 33 fps whereas Intel only gives 13 to 15 fps.
+This will certainly an upgrade from the desktop computer I used a decade ago with Intel Pentium 4 CPU and 512MB RAM (no idea what graphics card was there in that machine). Moreover, though on paper Intel Core i7 4702MQ (my old Thinkpad) is not much worse than AMD Ryzen 3 3200G in terms of CPU performance, the AMD iGPU much better. For instance,  with the best graphic settings of [SuperTuxKart](https://supertuxkart.net/Main_Page), AMD gives 30 to 33 fps whereas Intel only gives 13 to 15 fps.
 
 The current AMD budget processors provide a much superior iGPU performance than their Intel counterparts. For example: 
 * We can compare the entry level quad-core desktop processors from last year: Intel Core i3-9100 (MSRP $120) has better CPU but worse iGPU than AMD Ryzen 3 3200g (MSRP $100) ([benchmark](https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_3_3200g-952-vs-intel_core_i3_9100-924)).
@@ -86,7 +86,7 @@ All the system part recommendations were from [PC-Part-Picker](https://pcpartpic
 |***Input/Output Devices***| ***Total cost*** | ***USD 180***  |  ***minimalistic, nothing fancy. 28% of the total budget.*** |
 |Keyboard | Redragon K552-N| USD 30| Cheapest tenkeyless mechanical keyboard without any lighting. The next decent option was for around USD 100. |
 |Mouse | Logitech M310 | USD 20 | Wireless ambidextrous mouse which is not very small. Though would prefer a bigger mouse.|
-| Monitor+speakers | Asus VA229HR | USD 100 | This 1080p 21.5" IPS screen with 1.5W sterio speakers didn't meet my expectations. Its HDMI port doesn't work well with my motherboard/CPU. Also, stand was so bad that I has to buy a new stand. Would have bought HP VH240a if it had longer warranty period.|
+| Monitor+speakers | Asus VA229HR | USD 100 | This 1080p 21.5" IPS screen with 1.5W sterio speakers didn't meet my expectations. Its HDMI port doesn't work well with my motherboard/CPU. Also, stand was so bad that I has to buy a new stand. Would have bought HP VH240a if it had longer warranty period and a smaller screen size option.|
 |Webcam+mic | Logitech C270 | USD 30 | Better than the HD camera laptop have |
 |***Accesories*** | ***Total Cost*** | ***USD 100*** | ***Required to make PC setup comfortable. 15% of the total budget.*** 
 |Surge protector | Belkin BE108200-06 | USD 20 | |
