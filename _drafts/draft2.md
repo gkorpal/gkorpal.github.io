@@ -28,7 +28,7 @@ Following is the comparison of my PC with the best laptop available in the marke
 |Warranty |  1.5 to 5 years depending on the part | 1 year|
 |Bottomline | Sturdy and easy to repair | Mobility (0.71" thin and 2.65 lbs) |
 
-This will certainly an upgrade from the desktop computer I used a decade ago with Intel Pentium 4 CPU and 512MB RAM (no idea how did the graphics work in that machine).
+This will certainly an upgrade from the desktop computer I used a decade ago with Intel Pentium 4 CPU and 512MB RAM (no idea how did the graphics work in that machine). Though on paper Intel Core i7 4702MQ (my old Thinkpad) is not much worse than AMD Ryzen 3 3200G in terms of CPU performance, the AMD iGPU much better. For instance,  with the best graphic settings of [SuperTuxKart](https://supertuxkart.net/Main_Page), AMD gives 30 to 33 fps whereas Intel only gives 13 to 15 fps.
 
 The current AMD budget processors provide a much superior iGPU performance than their Intel counterparts. For example: 
 * We can compare the entry level quad-core desktop processors from last year: Intel Core i3-9100 (MSRP $120) has better CPU but worse iGPU than AMD Ryzen 3 3200g (MSRP $100) ([benchmark](https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_3_3200g-952-vs-intel_core_i3_9100-924)).
@@ -100,5 +100,5 @@ All the system part recommendations were from [PC-Part-Picker](https://pcpartpic
 
 ## Introspection
 
-As I said above, Intel Core i3 9100 would have been a better choice in terms of processing power. However, even after the launch of 10th gen CPUs that build would have costed about $20 more since though the RAM will be really cheap as only 2400 MHz is supported by i3 (-$10), the CPU and motherboard (H310) will remain a little more expensive than the AMD counterparts (+$30). Moreover, by buying HP VH240a instead of Asus VA229HR, I could have saved USD 30, hence keeping the total cost of build USD 650 even with i3 9100. Therefore, instead of following the recommendation for gaming PC, I could have got a better Linux support for about the same price by going for Intel instead of AMD. AMD build is better than Intel if one plans to play games and do overclocking by buying a better motherboard and monitor, none of which I wanted.
+As I said above, Intel Core i3 9100 would have been a better choice in terms of processing power. However, even after the launch of 10th gen CPUs that build would have costed about $20 more since though the RAM will be really cheap as only 2400 MHz is supported by i3 (-$10), the CPU and motherboard (H310) will remain a little more expensive than the AMD counterparts (+$30). Moreover, by buying HP VH240a instead of Asus VA229HR, I could have saved USD 30, hence keeping the total cost of build USD 650 even with i3 9100. Therefore, instead of following the recommendation for gaming PC, I could have got a better Linux support for about the same price by going for Intel instead of AMD. AMD build is better than Intel if one plans to play games and do overclocking by buying a better motherboard and monitor, none of which I wanted. 
 
