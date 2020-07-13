@@ -28,7 +28,7 @@ Following is the comparison of my PC with the best laptop available in the marke
 |Warranty |  1.5 to 5 years depending on the part | 1 year|
 |Bottomline | Sturdy and easy to repair | Mobility (0.71" thin and 2.65 lbs) |
 
-This will certainly an upgrade from the desktop computer I used a decade ago with Intel Pentium 4 CPU and 512MB RAM (no idea what graphics card was there in that machine). Moreover, though on paper Intel Core i7 4702MQ (my old Thinkpad) is not much worse than AMD Ryzen 3 3200G in terms of CPU performance, the AMD iGPU much better. For instance,  with the best graphic settings of [SuperTuxKart](https://supertuxkart.net/Main_Page)(for 60FPS/1080p required to have min AMD Radeon RX 460 with 1 GB VRAM), AMD gives about 30 fps on an average whereas Intel only gives 10 fps 
+This will certainly an upgrade from the desktop computer I used a decade ago with Intel Pentium 4 CPU and 512MB RAM (no idea what graphics card was there in that machine). Moreover, though on paper Intel Core i7 4702MQ (my old Thinkpad) is not much worse than AMD Ryzen 3 3200G in terms of CPU performance, the AMD iGPU much better. For instance,  with the best graphic settings of [SuperTuxKart](https://supertuxkart.net/Main_Page) (for 60FPS/1080p required to have min AMD Radeon RX 460 with 1 GB VRAM), AMD gives about 30 fps on an average whereas Intel only gives 10 fps 
 
 The current AMD budget processors provide a much superior iGPU performance than their Intel counterparts. For example: 
 * We can compare the entry level quad-core desktop processors from last year: Intel Core i3-9100 (MSRP $120) has better CPU but worse iGPU than AMD Ryzen 3 3200g (MSRP $100) ([benchmark](https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_3_3200g-952-vs-intel_core_i3_9100-924)).
