@@ -16,7 +16,7 @@ Following is the comparison of my PC with the best laptop available in the marke
 | ------------- |:-----------------:|:----------------------------:|
 |CPU            | AMD Ryzen 3 3200G (3.60 GHz x 4 cores, Zen+)    | AMD Ryzen 7 4700U (2.00 GHz x 8 cores, Zen 2)|
 |iGPU            | AMD Radeon Vega 8  (1.25 GHz x 8 cores, Gen 8)  | AMD Radeon 7 (1.60 GHz x 7 cores, Gen 9)|
-|RAM | 2 x 4 GB DDR4 2933 MHz                | 2 x 4 GB LPDDR4 4266 MHz|
+|RAM | 2 x 4 GB DDR4 2933 MHz (with 500MB RAM reserved for GPU)            | 2 x 4 GB LPDDR4 4266 MHz|
 |Storage| Crucial P1 500GB NVMe SSD  | Samsung PM991 512GB NVMe SSD|
 |Ports| PS/2, 5 x USB 3.2, 4 x USB 2.0, DVI-D, HDMI, Audio In/Out, 2 x Mic| 1 x USB Type-C, 1 x USB 3.2, 1 x USB 2.0, HDMI, Headset/speaker jack|
 |Network| Realtek 8111H Gigabit LAN | Intel Integrated WiFi 6 (802.11ax) and Bluetooth 5.0 |
@@ -28,7 +28,7 @@ Following is the comparison of my PC with the best laptop available in the marke
 |Warranty |  1.5 to 5 years depending on the part | 1 year|
 |Bottomline | Sturdy and easy to repair | Mobility (0.71" thin and 2.65 lbs) |
 
-This will certainly an upgrade from the desktop computer I used a decade ago with Intel Pentium 4 CPU and 512MB RAM (no idea what graphics card was there in that machine). Moreover, though on paper Intel Core i7 4702MQ (my old Thinkpad) is not much worse than AMD Ryzen 3 3200G in terms of CPU performance, the AMD iGPU much better. For instance,  with the best graphic settings of [SuperTuxKart](https://supertuxkart.net/Main_Page)(recommended to have min AMD Radeon RX 460 with at least 1 GB VRAM), AMD gives about 30 fps on an average (with less than 512 MB of VRAM) whereas Intel only gives 10 fps 
+This will certainly an upgrade from the desktop computer I used a decade ago with Intel Pentium 4 CPU and 512MB RAM (no idea what graphics card was there in that machine). Moreover, though on paper Intel Core i7 4702MQ (my old Thinkpad) is not much worse than AMD Ryzen 3 3200G in terms of CPU performance, the AMD iGPU much better. For instance,  with the best graphic settings of [SuperTuxKart](https://supertuxkart.net/Main_Page)(for 60FPS/1080p required to have min AMD Radeon RX 460 with 1 GB VRAM), AMD gives about 30 fps on an average whereas Intel only gives 10 fps 
 
 The current AMD budget processors provide a much superior iGPU performance than their Intel counterparts. For example: 
 * We can compare the entry level quad-core desktop processors from last year: Intel Core i3-9100 (MSRP $120) has better CPU but worse iGPU than AMD Ryzen 3 3200g (MSRP $100) ([benchmark](https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_3_3200g-952-vs-intel_core_i3_9100-924)).
