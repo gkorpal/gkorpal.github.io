@@ -100,4 +100,19 @@ All the system part recommendations were from [PC-Part-Picker](https://pcpartpic
 
 ## Introspection
 
+The original plan was to use [Ubuntu 20.04](https://wiki.ubuntu.com/FocalFossa/ReleaseNotes) as the OS, but there were issues like limited customizability forcing me to use RAM hungry options like [GNOME extensions](https://extensions.gnome.org/) and [Variety](https://peterlevi.com/variety/), and dependence of the unstable [Snap store](https://bugs.launchpad.net/snap-store-desktop/+bug/1879137) instead of the the stable [Flatpak](https://flatpak.org/). While trying to fix these issues I was able to brick my system thrice and then decided to shift to [Linux Mint 20 Cinnamon](https://blog.linuxmint.com/?p=3928) which supported [Flatpak](https://blog.linuxmint.com/?p=3418) and [blocked Snap](https://www.linuxmint.com/rel_ulyana_cinnamon.php) while providing bettwr customizability. Though the appearance and RAM usage became much better with Linux Mint, it still had the boot errors due to [IOMMU](https://unix.stackexchange.com/questions/263901/kfd-error-getting-iommu-info)(due to some Ryzen and Linux kernel issue), [Kwallet](https://forums.linuxmint.com/viewtopic.php?f=42&t=286950), [unavailability of Bluetooth](https://wiki.archlinux.org/index.php/PulseAudio/Troubleshooting#Disable_Bluetooth_support), [initramfs](https://askubuntu.com/questions/1245458/getting-the-message-0-283078-initramfs-unpacking-failed-decoding-failed-wh), [Time Stamp Counter](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1804591) and  [GNOME key-ring ](https://gitlab.gnome.org/GNOME/gnome-keyring/-/issues/28). Also, if you are using NVMe SSD then consider installing the NVMe tool as [discussed here](https://www.cyberciti.biz/faq/linux-find-nvme-ssd-temperature-using-command-line/). Once you install any linux OS I would recommend running following commands and checking is everything is running as expected:
+`````
+inxi -Fxz #system information google to learn more about inxi
+
+lscpu #can also see lspci, lshw
+
+sudo nvme smart-log /dev/nvme0n1" #NVMe info
+
+journalctl -b -p 3 #error log messages
+
+dmesg -l emerg,alert,crit,err
+`````
+
+Remeber that if everything works, it might best be to just [shrug sholders](https://forums.linuxmint.com/viewtopic.php?f=46&t=323195).
+
 As I said above, Intel Core i3 9100 would have been a better choice in terms of processing power. Even after the launch of 10th gen CPUs that build would have costed about $20 more since though the RAM will be really cheap as only 2400 MHz is supported by i3 (-$10), the CPU and motherboard (H310) will remain a little more expensive than the AMD counterparts (+$30). however, by buying HP VH240a instead of Asus VA229HR, I could have saved USD 30, hence keeping the total cost of build USD 650 even with i3 9100. That said, I am happy with my AMD PC since it allows me to do some light gaming as a bonus (which was not the purpose of this PC). AMD build is clearly better than Intel if one plans to play even a single racing/shooting game with an option for overclocking by buying a better motherboard.
