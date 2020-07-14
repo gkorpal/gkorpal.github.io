@@ -41,7 +41,7 @@ I finally decided not to spend extra $20 for i3-9100 since the ability of 3200g 
   <figcaption> This is a comparison of PassMark results (screenshot taken on 26 June 2020, when the prices had dropped due to announcement of next gen processors). PassMark a good measure of server orientated performance, where multiple cores are often simultaneously loaded. However, as seen above, for everyday use Core i3 is better than Ryzen 3.</figcaption>
 </figure>
 
-## Cloud Backup Setup in Ubuntu PC
+## Cloud Backup Setup in Ubuntu PC (Linux Mint)
 
 I am suing [rclone](https://rclone.org/downloads/) to sync files between my PC and Google Drive. Following are the steps one can follow to set it up:
 
