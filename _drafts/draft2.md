@@ -64,7 +64,7 @@ I am suing [rclone](https://rclone.org/downloads/) to sync files between my PC a
 3.  Sync files using "[copy](https://rclone.org/commands/rclone_copy/)" and NOT "[sync](https://rclone.org/commands/rclone_sync/)": `rclone copy source:path dest:path [flags]`. For example, to sync all files from "New Folder" Google Drive (named: Drive) to PC (folder: home) and view the progress, type: `rclone copy Drive:"New Folder" /home -P`.  Google Drive tend to have duplicate files since it allows same names files in same folder, in that case use [dedupe](https://rclone.org/commands/rclone_dedupe/) to delete all duplicate files.
 4.  Set-up [auto update](https://forum.rclone.org/t/update-rclone-to-latest-version-with-rclone-u/10954) for rclone program (can see the latest version [here](https://github.com/rclone/rclone/releases)):
 
-    a)  Open the bash file using a text editor like gedit: `sudo gedit ~/.bashrc`
+    a)  Open the bash file using a text editor like gedit/xed/vim: `~/.bashrc`
     
     b)  Add the following code to the file and save it: `rclone() { if [[ $@ == "-U" ]]; then command curl https://rclone.org/install.sh | sudo bash; else command rclone "$@"; fi; }`
     
