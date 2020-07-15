@@ -100,7 +100,21 @@ All the system part recommendations were from [PC-Part-Picker](https://pcpartpic
 
 ## Introspection
 
-The original plan was to use [Ubuntu 20.04](https://wiki.ubuntu.com/FocalFossa/ReleaseNotes) as the OS, but there were issues like limited customizability forcing me to use RAM hungry options like [GNOME extensions](https://extensions.gnome.org/) and [Variety](https://peterlevi.com/variety/), and dependence of the unstable [Snap store](https://bugs.launchpad.net/snap-store-desktop/+bug/1879137) instead of the the stable [Flatpak](https://flatpak.org/). While trying to fix these issues I was able to brick my system thrice and then decided to shift to [Linux Mint 20 Cinnamon](https://blog.linuxmint.com/?p=3928) which supported [Flatpak](https://blog.linuxmint.com/?p=3418) and [blocked Snap](https://www.linuxmint.com/rel_ulyana_cinnamon.php) while providing bettwr customizability. Though the appearance and RAM usage became much better with Linux Mint, it still had many boot errors due to [IOMMU](https://unix.stackexchange.com/questions/596192/errors-when-booting-ubuntu-20-04-kernel-5-7-1)(due to some Ryzen and Linux kernel issue), [Kwallet](https://forums.linuxmint.com/viewtopic.php?f=42&t=286950), [unavailability of Bluetooth](https://wiki.archlinux.org/index.php/PulseAudio/Troubleshooting#Disable_Bluetooth_support), [initramfs](https://askubuntu.com/questions/1245458/getting-the-message-0-283078-initramfs-unpacking-failed-decoding-failed-wh), [Time Stamp Counter](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1804591) and  [GNOME key-ring ](https://gitlab.gnome.org/GNOME/gnome-keyring/-/issues/28). Also, if you are using NVMe SSD then consider installing the NVMe tool as [discussed here](https://www.cyberciti.biz/faq/linux-find-nvme-ssd-temperature-using-command-line/). Once you install any linux OS I would recommend running following commands and checking is everything is running as expected:
+The original plan was to use [Ubuntu 20.04](https://wiki.ubuntu.com/FocalFossa/ReleaseNotes) as the OS, but there were issues like limited customizability forcing me to use RAM hungry options like [GNOME extensions](https://extensions.gnome.org/) and [Variety](https://peterlevi.com/variety/), and dependence of the unstable [Snap store](https://bugs.launchpad.net/snap-store-desktop/+bug/1879137) instead of the the stable [Flatpak](https://flatpak.org/). While trying to fix these issues I was able to brick my system thrice and then decided to shift to [Linux Mint 20 Cinnamon](https://blog.linuxmint.com/?p=3928) which supported [Flatpak](https://blog.linuxmint.com/?p=3418) and [blocked Snap](https://www.linuxmint.com/rel_ulyana_cinnamon.php) while providing bettwr customizability. Though the appearance and RAM usage became much better with Linux Mint, it still has many boot errors due like:
+
+1.  [IOMMU](https://dev.getsol.us/T8884): This is a Ryzen compatibility issue with Linux kernel.
+
+2.  [Time Stamp Counter](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1804591): Another Ryzen compatibility issue with Linux kernel.
+
+3.  [Kwallet](https://forums.linuxmint.com/viewtopic.php?f=42&t=286950): KWallet is supposed to be with KDE and not Cinnamon/GNOME.
+
+4.  [GNOME key-ring](https://gitlab.gnome.org/GNOME/gnome-keyring/-/issues/28): Issue with GNOME.
+
+5.  [Pulseaudio+BlueZ](https://wiki.archlinux.org/index.php/PulseAudio/Troubleshooting#Disable_Bluetooth_support): due to unavailability of Bluetooth in my computer and presence of Pulseaudio and BlueZ 5.53 in Ubuntu 20.04.
+
+6.  [initramfs](https://askubuntu.com/questions/1245458/getting-the-message-0-283078-initramfs-unpacking-failed-decoding-failed-wh): This is for boot speed improvements through changing the default kernel compression algorithm to lz4 in Ubuntu 20.04.
+
+Also, if you are using NVMe SSD then consider installing the NVMe tool as [discussed here](https://www.cyberciti.biz/faq/linux-find-nvme-ssd-temperature-using-command-line/) (might lead to logging of boot errors). Once you install any linux OS I would recommend running following commands and checking is everything is running as expected:
 `````
 inxi -Fxz #system information google to learn more about inxi
 
