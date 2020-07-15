@@ -114,6 +114,8 @@ The original plan was to use [Ubuntu 20.04](https://wiki.ubuntu.com/FocalFossa/R
 
 6.  [initramfs](https://askubuntu.com/questions/1245458/getting-the-message-0-283078-initramfs-unpacking-failed-decoding-failed-wh): This is for boot speed improvements through changing the default kernel compression algorithm to lz4 in Ubuntu 20.04.
 
+7. [UVC driver/Alsa](https://bbs.archlinux.org/viewtopic.php?id=250667): The audio driver of Webcam leading to error during boot.
+
 Also, if you are using NVMe SSD then consider installing the NVMe tool as [discussed here](https://www.cyberciti.biz/faq/linux-find-nvme-ssd-temperature-using-command-line/) (might lead to logging of boot errors). Once you install any linux OS I would recommend running following commands and checking is everything is running as expected:
 `````
 inxi -Fxz #system information google to learn more about inxi
