@@ -78,7 +78,7 @@ All the system part recommendations were from [PC-Part-Picker](https://pcpartpic
 | ------------- |-----------------|------------------------| ----------|
 |***System Unit*** | ***Total cost*** | ***USD 370***  | ***Should not require any upgrade for 4 years. 57% of the total budget.***|
 |CPU+GPU+Cooler| AMD Ryzen 3 3200g | USD 100| Latest and cheapest quad-core processor in the market with a proper GPU|
-|Motherboard | MSI A320M-A Pro Max (UEFI version 7C52v24/E7C52AMA.240, Released Nov-07-2019) | USD 55 | Cheaptest motherboard with Ryzen 3000 APU support and M.2 PCIe. Shortcomings include the lack of ability to overclock CPU, no VGA port, only 2 RAM slots, only one case fan port and Realtek LAN|
+|Motherboard | MSI A320M-A Pro Max  | USD 55 | Cheaptest motherboard with Ryzen 3000 APU support and M.2 PCIe. Shortcomings include the lack of ability to overclock CPU, no VGA port, only 2 RAM slots, only one case fan port and Realtek LAN. Luckily it came with most stable UEFI/BIOS (UEFI version 7C52v24/E7C52AMA.240, Released Nov-07-2019)|
 |Memory | Patroit Viper 4 Blackout (2x4GB, 3000MHz)|USD 40 | Was able to use it at CPU's supported frequency of 2933 MHz|
 |Storage | Crucial P1 500GB | USD 60 | This QCL NVMe M.2 SSD is chaper than many SATA SSDs in the market|
 |PSU | Corsair CX450 | USD 65| Cheapest 80+ Bronze rated power supply with good reviews.|
