@@ -112,7 +112,7 @@ The original plan was to use [Ubuntu 20.04](https://wiki.ubuntu.com/FocalFossa/R
 
 5. [Pulseaudio+BlueZ](https://wiki.archlinux.org/index.php/PulseAudio/Troubleshooting#Disable_Bluetooth_support): due to unavailability of Bluetooth in my computer and presence of Pulseaudio and BlueZ 5.53 in Ubuntu 20.04.
 
-6. [initramfs](https://askubuntu.com/questions/1245458/getting-the-message-0-283078-initramfs-unpacking-failed-decoding-failed-wh): This is for boot speed improvements through changing the default kernel compression algorithm to lz4 in Ubuntu 20.04.
+6. [initramfs](https://askubuntu.com/questions/1245458/getting-the-message-0-283078-initramfs-unpacking-failed-decoding-failed-wh): Boot speed improvements through changing the default kernel compression algorithm to lz4 (in Ubuntu 19.10) on most architectures, and changing the default initramfs compression algorithm to lz4 on all architectures. Somehow doesn't work well for my PC. Has to apply the fix everytime this package is updated.
 
 7. [UVC driver/Alsa](https://bbs.archlinux.org/viewtopic.php?id=250667): The audio driver of Webcam leading to error during boot.
 
