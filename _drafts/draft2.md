@@ -41,7 +41,7 @@ I finally decided not to spend extra $20 for i3-9100 since the ability of 3200g 
   <figcaption> This is a comparison of PassMark results (screenshot taken on 26 June 2020, when the prices had dropped due to announcement of next gen processors). PassMark a good measure of server orientated performance, where multiple cores are often simultaneously loaded. However, as seen above, for everyday use Core i3 is better than Ryzen 3.</figcaption>
 </figure>
 
-## Cloud Backup Setup in Ubuntu PC (Linux Mint)
+## Cloud Backup Setup for Linux PC (tested in Linux Mint and Ubuntu)
 
 I am suing [rclone](https://rclone.org/downloads/) to sync files between my PC and Google Drive. Following are the steps one can follow to set it up:
 
@@ -100,7 +100,7 @@ All the system part recommendations were from [PC-Part-Picker](https://pcpartpic
 
 ## Introspection
 
-The original plan was to use [Ubuntu 20.04](https://wiki.ubuntu.com/FocalFossa/ReleaseNotes) as the OS, but there were issues like limited customizability forcing me to use RAM hungry options like [GNOME extensions](https://extensions.gnome.org/) and [Variety](https://peterlevi.com/variety/), and dependence of the unstable [Snap store](https://bugs.launchpad.net/snap-store-desktop/+bug/1879137) instead of the the stable [Flatpak](https://flatpak.org/). While trying to fix these issues I was able to brick my system thrice and then decided to shift to [Linux Mint 20 Cinnamon](https://blog.linuxmint.com/?p=3928) which provides out-of-the-box support for [Flatpak](https://blog.linuxmint.com/?p=3418)(needed for [Xournal++](https://github.com/xournalpp/xournalpp)) and [blocks Snap](https://www.linuxmint.com/rel_ulyana_cinnamon.php) while providing better customizability. Though the appearance and RAM usage became much better with Linux Mint, it still has many boot errors due like:
+The original plan was to use [Ubuntu 20.04](https://wiki.ubuntu.com/FocalFossa/ReleaseNotes) as the OS since I wanted a stable system (as opposed to rolling release distros like Manjaro and Solus) with Linux kernel [greater than 4.20](https://www.phoronix.com/scan.php?page=news_item&px=Raven2-Picasso-Firmware-Files) (hence not Debian 10) and large enough user base (hence not distros like Elementary OS, Zorin) OpenSUSE, Fedora . But Ubuntu provided limited customizability, forcing me to use RAM hungry options like [GNOME extensions](https://extensions.gnome.org/) and [Variety](https://peterlevi.com/variety/), and dependence of the unstable [Snap store](https://bugs.launchpad.net/snap-store-desktop/+bug/1879137) instead of the the stable [Flatpak](https://flatpak.org/). While trying to fix these issues I was able to brick my system thrice and then decided to shift to [Linux Mint 20 Cinnamon](https://blog.linuxmint.com/?p=3928) which provides out-of-the-box support for [Flatpak](https://blog.linuxmint.com/?p=3418)(needed for [Xournal++](https://github.com/xournalpp/xournalpp)) and [blocks Snap](https://www.linuxmint.com/rel_ulyana_cinnamon.php) while providing better customizability. Though the appearance and RAM usage became much better with Linux Mint, it still has many boot errors due like:
 
 1.  [IOMMU](https://dev.getsol.us/T8884): This is a Ryzen APU compatibility issue with Linux kernel.
 
