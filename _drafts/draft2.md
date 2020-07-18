@@ -16,7 +16,7 @@ Following is the comparison of my PC with the best laptop available in the marke
 | ------------- |:-----------------:|:----------------------------:|
 |CPU            | AMD Ryzen 3 3200G (3.60 GHz x 4 cores, Zen+)    | AMD Ryzen 7 4700U (2.00 GHz x 8 cores, Zen 2)|
 |iGPU            | AMD Radeon Vega 8  (1.25 GHz x 8 cores, Gen 8)  | AMD Radeon 7 (1.60 GHz x 7 cores, Gen 9)|
-|RAM | 2 x 4 GB DDR4 2933 MHz (with 500MB RAM reserved for GPU)            | 2 x 4 GB LPDDR4 4266 MHz|
+|RAM | 2 x 4 GB DDR4 2933 MHz ([with 64MB reserved for iGPU](https://www.techspot.com/article/1578-amd-raven-ridge-reserved-memory-explainer/))            | 2 x 4 GB LPDDR4 4266 MHz|
 |Storage| Crucial P1 500GB NVMe SSD  | Samsung PM991 512GB NVMe SSD|
 |Ports| PS/2, 5 x USB 3.2, 4 x USB 2.0, DVI-D, HDMI, Audio In/Out, 2 x Mic| 1 x USB Type-C, 1 x USB 3.2, 1 x USB 2.0, HDMI, Headset/speaker jack|
 |Network| Realtek 8111H Gigabit LAN | Intel Integrated WiFi 6 (802.11ax) and Bluetooth 5.0 |
@@ -102,7 +102,7 @@ All the system part recommendations were from [PC-Part-Picker](https://pcpartpic
 
 The original plan was to use [Ubuntu 20.04 GNOME](https://wiki.ubuntu.com/FocalFossa/ReleaseNotes) as the OS since I wanted a stable system (hence not the rolling release distros like Manjaro and Solus) with Linux kernel [greater than 4.20](https://www.phoronix.com/scan.php?page=news_item&px=Raven2-Picasso-Firmware-Files) (hence not Debian 10) and large software repository (hence not enterprise focused distros like OpenSUSE and Fedora). But Ubuntu turned out to be RAM hungry, since it required extra softwares like [GNOME extensions](https://extensions.gnome.org/) and [Variety](https://peterlevi.com/variety/) for customization, and depended on the unstable [Snap store](https://bugs.launchpad.net/snap-store-desktop/+bug/1879137). While trying to fix these issues I was able to brick my system thrice and hence decided to shift to [Linux Mint 20 Cinnamon](https://blog.linuxmint.com/?p=3928) which provides out-of-the-box support for [Flatpak](https://blog.linuxmint.com/?p=3418)(needed for [Xournal++](https://github.com/xournalpp/xournalpp)) and [blocks Snap](https://www.linuxmint.com/rel_ulyana_cinnamon.php) while providing better customizability and the same 5 year support (unlike official Ubuntu flavours which give only 3 years support). Though the appearance and RAM usage became much better with Linux Mint, it still inherited many boot errors like:
 
-1.  [IOMMU](https://dev.getsol.us/T8884): Most likely this is a [false alarm](https://bbs.archlinux.org/viewtopic.php?id=218140) from the Linux kernel. However, turning off IOMMU and in BIOS is not an option since 
+1.  [IOMMU](https://dev.getsol.us/T8884): Most likely this is a [false alarm](https://bbs.archlinux.org/viewtopic.php?id=218140) from the Linux kernel. However, turning off IOMMU in BIOS is not an option since it is [needed for HSA](https://bugzilla.redhat.com/show_bug.cgi?id=1404139) used by [AMD for making GPU and CPU work together in its APUs](https://en.wikipedia.org/wiki/Heterogeneous_System_Architecture). 
 
 2. [Time Stamp Counter](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1804591): Another Ryzen APU compatibility issue with Linux kernel.
 
