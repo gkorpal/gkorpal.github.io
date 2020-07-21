@@ -72,4 +72,4 @@ Note that just like Ubuntu PPA and Arch AUR, there is no way to verify that a pa
 
 # Software choices
 
-Xournal++, AbeWord, Gnumeric, gThumb (edit photos), Celluloid (mpv frontend), xfce4-terminal (drop-down support), Evince, [Timeshift](https://github.com/teejee2008/timeshift), [GNOME Logs](https://wiki.gnome.org/Apps/Logs), SuperTuxKart, Cheese, other xfce4 apps (taskmanager, text editor..)
+Xournal++, AbeWord, Gnumeric, gThumb (edit photos), Celluloid (mpv frontend), xfce4-terminal (drop-down support), Evince, [Timeshift](https://github.com/teejee2008/timeshift), [GNOME Logs](https://wiki.gnome.org/Apps/Logs), SuperTuxKart, Cheese, other xfce4 apps (taskmanager, text editor..), pulse-audio-volume-control
