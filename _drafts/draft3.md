@@ -30,7 +30,29 @@ Most of my Linux experience is based on Ubuntu. Following are some differences:
 | apt purge | N/A |
 | apt-cache search | dnf search |
 
-3.  The equivalent of the Ubuntu <code>restricted</code> and <code>multiverse</code> repositories, that include patented and closed-source technologies and programs, is the [RPMFusion repository](https://rpmfusion.org/). **free** is the equivalent of <code>universe</code> and contains potentially patent-encumbered software like <code>gstreamer-plugins-bad</code> or the <code>VLC media player</code>, while **nonfree** includes non-free software like proprietary 3D graphics drivers.
+In older versions, `apt-get` in Ubuntu corresponded to `yum` in Fedora.
+
+3.  Like in Ubuntu we use `dpkg` for installing .deb files, we can use `rpm` in Fedora for installing .rpm files. Following is a comparison of commands:
+
+| Command Details | 	Fedora Command	| Ubuntu Command |
+| ---------------- | -----------------| --------------- |
+|Install a package |	rpm -i package.rpm |	dpkg -i package.deb |
+|Update package |	rpm -U  package_name  |	dpkg -i {file.deb}|
+|Remove an installed package |	rpm -e package_name	 | dpkg -r package_name|
+|List all installed packages |	rpm -qa	| dpkg -l|
+|List files in an installed package |	rpm -ql package_name |	dpkg --listfiles package_name|
+|Show information about installed package	 | rpm -qi package_name| dpkg --status package_name |
+|Show information about package file	| rpm -qpi package.rpm |	dpkg --info package.deb|
+|List files in a package file	 | rpm -qpl package.rpm |	dpkg --contents package.deb|
+|Verify all installed packages |	rpm -Va |	N/A|
+|Verify installed package	| rpm -V package_name |	N/A|
+
+You can also use `dnf` instead of `rpm`, just like we can use `apt` instead of `dpkg`. You can find an outdate but more extensive list in [Ubuntu Wiki](https://help.ubuntu.com/community/SwitchingToUbuntu/FromLinux/RedHatEnterpriseLinuxAndFedora).
+
+4.  Fedora's equivalent to Synaptic package manager is [dnfdragora](https://github.com/manatools/dnfdragora). However, the outdated [Yum Extender](https://github.com/timlau/yumex-dnf) (yumex-dnf) is much faster and easier to use.
+
+
+5.  The equivalent of the Ubuntu <code>restricted</code> and <code>multiverse</code> repositories, that include patented and closed-source technologies and programs, is the [RPMFusion repository](https://rpmfusion.org/). **free** is the equivalent of <code>universe</code> and contains potentially patent-encumbered software like <code>gstreamer-plugins-bad</code> or the <code>VLC media player</code>, while **nonfree** includes non-free software like proprietary 3D graphics drivers.
 
 These repositories can easily be enabled by typing (as <code>root</code>):
 
@@ -39,13 +61,14 @@ dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$
 dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 </pre>
 
-4.  The equivalent of the PPAs in Ubuntu is [Copr](https://copr.fedorainfracloud.org/). This repository can be [added with](https://unix.stackexchange.com/a/152976/420307)
+6.  The equivalent of the PPAs in Ubuntu is [Copr](https://copr.fedorainfracloud.org/). This repository can be [added with](https://unix.stackexchange.com/a/152976/420307)
 
 <pre>
 dnf copr enable user/project.
 </pre>
 
 Note that just like Ubuntu PPA and Arch AUR, there is no way to verify that a package in Copr does not contain anything malicious unless you review the source code.
+
 
 # Software choices
 
