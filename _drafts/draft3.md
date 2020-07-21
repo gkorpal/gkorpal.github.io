@@ -46,3 +46,7 @@ dnf copr enable user/project.
 </pre>
 
 Note that just like Ubuntu PPA and Arch AUR, there is no way to verify that a package in Copr does not contain anything malicious unless you review the source code.
+
+# Software choices
+
+AbeWord, Gnumeric, gThumb, Celluloid, xfce4-terminal
