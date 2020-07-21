@@ -16,8 +16,7 @@ For the desktop environment I decided to go with Xfce because most of my program
 
 Most of my Linux experience is based on Ubuntu. Following are some differences:
 
-1.  The <code>root</code> account is the account for the system admin. This account is disabled in Ubuntu. In Ubuntu, one performs actions that require <code>root</code> privileges using **sudo**, while in Fedora, **sudo** is not the default method of gaining administrative permissions. In Fedora, <code>root</code> access can be gained with
-<pre>su</pre>
+1.  The <code>root</code> account is the account for the system admin. This account is disabled in Ubuntu. In Ubuntu, one performs actions that require <code>root</code> privileges using **sudo**, while in Fedora, **sudo** is not the default method of gaining administrative permissions. In Fedora, <code>root</code> access can be gained with `su`.
 
    **su** will ask for the <code>root</code> password, not the regular user password. The <code>root</code> password is the password which is entered while installing, not the password entered when creating a user account after the first boot.
    
@@ -47,3 +46,5 @@ dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-rel
 <pre>
 dnf copr enable user/project.
 </pre>
+
+Note that just like Ubuntu PPA and Arch AUR, there is no way to verify that a package in Copr does not contain anything malicious unless you review the source code.
