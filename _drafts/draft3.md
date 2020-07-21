@@ -49,4 +49,4 @@ Note that just like Ubuntu PPA and Arch AUR, there is no way to verify that a pa
 
 # Software choices
 
-AbeWord, Gnumeric, gThumb, Celluloid, xfce4-terminal
+Xournal++, AbeWord, Gnumeric, gThumb (edit photos), Celluloid (mpv frontend), xfce4-terminal (drop-down support), Evince
