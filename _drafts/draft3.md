@@ -32,7 +32,7 @@ Most of my Linux experience is based on Ubuntu. Following are some differences:
 | apt purge | N/A |
 | apt-cache search | dnf search |
 
-3.  The equivalent of the Ubuntu <code>restricted</code> and <code>multiverse</code> repositories, that include patented and closed-source technologies and programs, is the [RPMFusion repository](https://rpmfusion.org/). **free** is the equivalent of <code>universe</code> and contains potentially patent-encumbered software like <code>gstreamer-plugins-bad</code> or the <code>VLC media player</code>, while ***nonfree*** includes non-free software like proprietary 3D graphics drivers.
+3.  The equivalent of the Ubuntu <code>restricted</code> and <code>multiverse</code> repositories, that include patented and closed-source technologies and programs, is the [RPMFusion repository](https://rpmfusion.org/). **free** is the equivalent of <code>universe</code> and contains potentially patent-encumbered software like <code>gstreamer-plugins-bad</code> or the <code>VLC media player</code>, while **nonfree** includes non-free software like proprietary 3D graphics drivers.
 
 These repositories can easily be enabled by typing (as <code>root</code>):
 
