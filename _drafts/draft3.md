@@ -74,7 +74,7 @@ Note that just like Ubuntu PPA and Arch AUR, there is no way to verify that a pa
 
 # Installing Fedora
 
-Select Connamon Fedora without any software programs, we will install them later manually. Also reclaim the whole disk to remove the previously installed OS. To bypass creating root password in netinstall mode, just create a user account and mark it as administrator. In this minimal install we will get the following programs pre-installed: 
+Select Cinnamon Fedora without any software programs, we will install them later manually. Also reclaim the whole disk to remove the previously installed OS. To bypass creating root password in netinstall mode, just create a user account and mark it as administrator. In this minimal install we will get the following programs pre-installed: 
 
 Xfce Panel, Xfce Terminal, Xfce AppFinder, Xfce notifyd, Xfce power manager, Xfce4 Session Manager, Xfce Screensaver,  Thunar file manager, dnfdragora, PulseAudio, System Settings, Network Manager and Vim.
 
