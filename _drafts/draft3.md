@@ -14,10 +14,19 @@ For the desktop environment I decided to go with Xfce because most of my program
 
 `````
 xsetwacom set "Wacom One by Wacom S Pen stylus" PressureCurve 0 75 25 100
+````` 
 
-`````
+However, any setting changed by `xsetwacom` will be reset to default (or a statically configured setting) whenever the device is unplugged, disabled or the X Server is restarted. One can make Linux [run the command automatically at startup](https://smallbusiness.chron.com/run-command-startup-linux-27796.html) or  change [xorg.conf](https://github.com/linuxwacom/xf86-input-wacom/wiki/Tablet-Configuration-1:-xsetwacom-and-xorg.conf), but they have limitations (like when hot-plugging the device). For more details refer to this [Arch wiki page](https://wiki.archlinux.org/index.php/wacom_tablet). Note that, these CLI methods [won't work when using Wayland](https://github.com/linuxwacom/xf86-input-wacom/wiki/Wayland-and-Wacom-devices) instead of Xorg. I could't make CLI work in Cinnamon, only GUI settings worked and provided the following options:
 
-However, any setting changed by `xsetwacom` will be reset to default (or a statically configured setting) whenever the device is unplugged, disabled or the X Server is restarted. One can make Linux [run the command automatically at startup](https://smallbusiness.chron.com/run-command-startup-linux-27796.html) or  change [xorg.conf](https://github.com/linuxwacom/xf86-input-wacom/wiki/Tablet-Configuration-1:-xsetwacom-and-xorg.conf), but they have limitations (like when hot-plugging the device). For more details refer to this [Arch wiki page](https://wiki.archlinux.org/index.php/wacom_tablet). Note that, these CLI methods [won't work when using Wayland](https://github.com/linuxwacom/xf86-input-wacom/wiki/Wayland-and-Wacom-devices) instead of Xorg. I could't even make CLI work in Cinnamon, only GUI settings worked.
+````
+  0  75   25  100  # very soft
+  0  50   50  100  # soft
+  0  25   75  100  # little soft
+  0   0  100  100  # default
+ 25   0  100   75  # little firm
+ 50 100  100   50  # firm
+ 75   0  100   25     # very firm
+````
 
 I installed Xfce Fedora via netinstall mode using [Network Installer](https://alt.fedoraproject.org/) since Fedora 32 and its [spins](https://spins.fedoraproject.org/en/xfce/) had [a bug](https://bugzilla.redhat.com/show_bug.cgi?id=1816787) during initial release which has been corrected with the latest updates.
 
