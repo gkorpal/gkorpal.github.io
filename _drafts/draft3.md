@@ -74,14 +74,17 @@ Note that just like Ubuntu PPA and Arch AUR, there is no way to verify that a pa
 
 # Installing Fedora
 
-Select Cinnamon Fedora without any extra software programs, we will remove the unncessary ones and install the ones we want later. Also reclaim the whole disk to remove the previously installed OS. To bypass creating root password in netinstall mode, just create a user account and mark it as administrator. Vim is already there
+Select Cinnamon Fedora without any extra software programs, we will remove the unncessary ones and install the ones we want later. Also reclaim the whole disk to remove the previously installed OS. To bypass creating root password in netinstall mode, just create a user account and mark it as administrator. Vim is already there.
+
+Uninstall: pidgin, hexchat, thunderbird, transmission, eom, shotwell, simple-scan, xawtv, xfburn, xreader, redshift
+
+Install: 
 
 | Function | Software | dnf Package |
 |----------|----------|---------|
-|Web browser| Firefox | firefox|
 |System Restore | [Timeshift](https://github.com/teejee2008/timeshift) | timeshift|
 |GUI Text Editor |  |    |
 
 
 
-Xournal++, AbeWord, Gnumeric, gThumb (edit photos), Celluloid (mpv frontend), xfce4-terminal (drop-down support), Evince, , [GNOME Logs](https://wiki.gnome.org/Apps/Logs), SuperTuxKart, Cheese, other xfce4 apps (taskmanager, text editor..), pulse-audio-volume-control
+Xournal++, AbeWord, Gnumeric, gThumb (edit photos), Celluloid (mpv frontend), xfce4-terminal (drop-down support), Evince, , [GNOME Logs](https://wiki.gnome.org/Apps/Logs), SuperTuxKart, Cheese, pulse-audio-volume-control
