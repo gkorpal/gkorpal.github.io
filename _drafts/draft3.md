@@ -25,7 +25,7 @@ However, any setting changed by `xsetwacom` will be reset to default (or a stati
   0   0  100  100  # default
  25   0  100   75  # little firm
  50 100  100   50  # firm
- 75   0  100   25     # very firm
+ 75   0  100   25  # very firm
 ````
 
 I installed Xfce Fedora via netinstall mode using [Network Installer](https://alt.fedoraproject.org/) since Fedora 32 and its [spins](https://spins.fedoraproject.org/en/xfce/) had [a bug](https://bugzilla.redhat.com/show_bug.cgi?id=1816787) during initial release which has been corrected with the latest updates.
