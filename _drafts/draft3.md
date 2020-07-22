@@ -10,7 +10,7 @@ tags:
 
 The main use of my new PC is to write documents in LaTeX, hence it would be essential to have easy access to the latest version of texlive and text-editor (like Vim, though you will always get some version of vim-minimal pre-installed). However, stable Debian-based distros (like Debian Stable, Ubuntu LTS and Linux Mint) tend to have outdated repositories of both of these and try to mitigate this with untrusted PPAs, [unstable Snaps](https://jatan.blog/2020/05/02/ubuntu-snap-obsession-has-snapped-me-off-of-it/) and [useless Flatpaks](https://medium.com/@alex285/using-flatpak-vim-from-flathub-d876faa00d5b). Moreover, compiling them from sources can be a bit tricky (eg:  installing [TexLive](https://tex.stackexchange.com/q/1092/73743) and [Vim](https://vi.stackexchange.com/q/10817/30343)). Hence I felt the need to migrate to a distro which can give easy access to latest version of these programs. But I don't have enough knowledge to be able to maintain the stability of rolling-release distros like Arch, openSUSE and Gentoo. Therefore, since I don't need any proprietary drivers, I decided to take a middle ground and shift to the pseudo-rolling/stable-release distro Fedora (13 month life cycle) which is the upstream source of the commercial Red Hat Enterprise Linux distribution. Another reason for choosing Fedora was that its community is more knowledgebable (RedHat is [one of the biggest contributer](https://www.redhat.com/en/blog/red-hat-leads-open-source-contributions-to-kernel) to Linux kernel). 
 
-For the desktop environment I decided to go with Cinnamon because most of my programs use GTK (hence not KDE or LXQt), didn't want to waste RAM for customizability (hence not GNOME3/MATE which is resource heavy but still lacks simple in-built customization options like desktop wallaper slideshow) and needed GUI for drawing tablet settings (unfortunately, Xfce lacks GUI for tablet [pen-pressure settings](https://docs.xfce.org/xfce/xfce4-settings/mouse)). The only problem that I have faced with Cinnamon is that sometimes I experience [zombie-windows bug](https://github.com/linuxmint/cinnamon/issues/8856).
+For the desktop environment I decided to go with Cinnamon because most of my programs use GTK (hence not KDE or LXQt), didn't want to waste RAM for customizability (hence not GNOME 3 or MATE which are resource heavy but still lack simple in-built customization options like desktop wallpaper slideshow) and needed a GUI for drawing tablet settings (unfortunately, Xfce lacks GUI for tablet [pen-pressure settings](https://docs.xfce.org/xfce/xfce4-settings/mouse)). The only problem that I have faced with Cinnamon is that sometimes I experience [zombie-windows bug](https://github.com/linuxmint/cinnamon/issues/8856).
 
 I installed Cinnamon Fedora via netinstall mode using [Network Installer](https://alt.fedoraproject.org/) since Fedora 32 and its [spins](https://spins.fedoraproject.org/en/xfce/) had [a bug](https://bugzilla.redhat.com/show_bug.cgi?id=1816787) during initial release which has been corrected with the latest updates.
 
@@ -74,16 +74,14 @@ Note that just like Ubuntu PPA and Arch AUR, there is no way to verify that a pa
 
 # Installing Fedora
 
-Select Cinnamon Fedora without any software programs, we will install them later manually. Also reclaim the whole disk to remove the previously installed OS. To bypass creating root password in netinstall mode, just create a user account and mark it as administrator. In this minimal install we will get the following programs pre-installed: 
-
-Xfce Panel, Xfce Terminal, Xfce AppFinder, Xfce notifyd, Xfce power manager, Xfce4 Session Manager, Xfce Screensaver,  Thunar file manager, dnfdragora, PulseAudio, System Settings, Network Manager and Vim.
+Select Cinnamon Fedora without any extra software programs, we will remove the unncessary ones and install the ones we want later. Also reclaim the whole disk to remove the previously installed OS. To bypass creating root password in netinstall mode, just create a user account and mark it as administrator. Vim is already there
 
 | Function | Software | dnf Package |
 |----------|----------|---------|
 |Web browser| Firefox | firefox|
-|System Restore | Timeshift | timeshift|
-|GUI Text Editor | Mousepad |  mousepad  |
+|System Restore | [Timeshift](https://github.com/teejee2008/timeshift) | timeshift|
+|GUI Text Editor |  |    |
 
 
 
-Xournal++, AbeWord, Gnumeric, gThumb (edit photos), Celluloid (mpv frontend), xfce4-terminal (drop-down support), Evince, [Timeshift](https://github.com/teejee2008/timeshift), [GNOME Logs](https://wiki.gnome.org/Apps/Logs), SuperTuxKart, Cheese, other xfce4 apps (taskmanager, text editor..), pulse-audio-volume-control
+Xournal++, AbeWord, Gnumeric, gThumb (edit photos), Celluloid (mpv frontend), xfce4-terminal (drop-down support), Evince, , [GNOME Logs](https://wiki.gnome.org/Apps/Logs), SuperTuxKart, Cheese, other xfce4 apps (taskmanager, text editor..), pulse-audio-volume-control
