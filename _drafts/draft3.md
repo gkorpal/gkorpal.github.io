@@ -9,9 +9,9 @@ tags:
 ---
 I believe that, in the present scenerio, there are 3 levels of Linux distors in terms of sophestication for everyday users:
 
-1. Ubuntu: LTS distro which works out-of-the-box and has various customized versions available.
-2. Fedora: Front-runner of Linux development which can be adjusted to personal needs as long as working with free and open source stuff.
-3. Arch: Buid a highly customized OS and maintain it yourself with the help of vast community and documentation.
+1. Ubuntu: LTS distro which works out-of-the-box and has various customized versions available. Most of the troubleshooting is done using community forums.
+2. Fedora: Front-runner of Linux development which can be adjusted to personal needs as long as working with free and open source stuff. Most of the troubleshooting is done using bug reports.
+3. Arch: Enables you to buid a highly customized OS with you yourself being responcible for its security. Most of the troubleshooting is done using the extensive documentation.
 
 All these three levels have emerging comeptitors like Manjaro and Solus competing with Ubuntu and its forks, and openSUSE competing with Fedora and Arch by offering option of rolling and point release. 
 
