@@ -109,4 +109,6 @@ Install the following [Fedora's repository](https://src.fedoraproject.org/):
 
 Xournal++, AbeWord, Gnumeric, gThumb (edit photos), Celluloid (mpv frontend), Evince, ,, SuperTuxKart, Cheese, pulse-audio-volume-control
 
-Proprietary: [Google Chrome](https://www.fosslinux.com/25536/how-to-install-google-chrome-on-fedora.htm) and [Zoom](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux#h_b6ce9fba-dd38-4448-80c0-ac2e58db3acc).
+Proprietary: [Google Chrome](https://fedoraproject.org/wiki/Workstation/Third_Party_Software_Repositories) and [Zoom](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux#h_b6ce9fba-dd38-4448-80c0-ac2e58db3acc).
+
+[hist](https://fedoramagazine.org/fedora-origins-part-01/)
