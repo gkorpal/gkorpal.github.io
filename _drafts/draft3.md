@@ -57,7 +57,7 @@ Most of my Linux experience is based on Ubuntu. Following are some differences:
 | apt purge | N/A |
 | apt-cache search | dnf search |
 
-In older versions, `apt-get` in Ubuntu corresponded to `yum` in Fedora.
+In older versions, `apt-get` in Ubuntu corresponded to `yum` in Fedora.  To know if a reboot is needed after doing a `dnf update` use either [tracer](https://dnf-plugins-extras.readthedocs.io/en/latest/tracer.html) or [needs-restarting](https://dnf-plugins-core.readthedocs.io/en/latest/needs_restarting.html) plugin.
 
 3.  Like in Ubuntu we use `dpkg` for installing .deb files, we can use `rpm` in Fedora for installing .rpm files. Following is a comparison of commands:
 
@@ -87,7 +87,7 @@ dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$
 dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 </pre>
 
-6.  The equivalent of the PPAs in Ubuntu is [Copr](https://copr.fedorainfracloud.org/). This repository can be [added with](https://unix.stackexchange.com/a/152976/420307)
+6.  The equivalent of the PPAs in Ubuntu is [Copr](https://copr.fedorainfracloud.org/). This repository can be [added with](https://dnf-plugins-core.readthedocs.io/en/latest/copr.html)
 
 <pre>
 dnf copr enable user/project.
@@ -113,8 +113,8 @@ Xournal++, AbeWord, Gnumeric, gThumb (edit photos), Celluloid (mpv frontend), Ev
 
 Proprietary: [Google Chrome](https://fedoraproject.org/wiki/Workstation/Third_Party_Software_Repositories) and [Zoom](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux#h_b6ce9fba-dd38-4448-80c0-ac2e58db3acc).
 
-[hist](https://fedoramagazine.org/fedora-origins-part-01/)
+DNF plugins: [system-upgrade](https://dnf-plugins-extras.readthedocs.io/en/latest/system-upgrade.html) and [tracer](https://dnf-plugins-extras.readthedocs.io/en/latest/tracer.html).
 
 # Introspection
 
-The plan is to upgrade to next version of Fedora three months after its release so that maximum bugs can be avoided. Hence I will get a system wide update twice a year.
+The plan is to [upgrade to next version of Fedora](https://docs.fedoraproject.org/en-US/quick-docs/dnf-system-upgrade/) three months after its release so that maximum bugs can be avoided. Hence I will get a system wide update twice a year.
