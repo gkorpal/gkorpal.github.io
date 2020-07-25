@@ -109,7 +109,7 @@ Note that just like Ubuntu PPA and Arch AUR, there is no way to verify that a pa
 
 Select Xfce Fedora without any extra software programs, we will manually install the ones we want. Also reclaim the whole disk to remove the previously installed OS. To bypass creating root password in netinstall mode, just create a user account and mark it as administrator.
 
-DNF plugins: 
+## DNF plugins
 
 [system-upgrade](https://dnf-plugins-extras.readthedocs.io/en/latest/system-upgrade.html) and 
 
@@ -121,7 +121,7 @@ Uninstall: pidgin, hexchat, thunderbird, transmission, eom, shotwell, simple-sca
 
 Install the following [Fedora's repository](https://src.fedoraproject.org/): 
 
-Free and open source software:
+## Free and open source software
 
 | Purpose | Software | dnf Package |
 |----------|----------|---------|
@@ -137,7 +137,7 @@ Free and open source software:
 Xournal++, AbeWord, Gnumeric, Evince, SuperTuxKart, Cheese,
 
 
-Restricted software:
+## Restricted software
 
 | Purpose | Software | Installation guide |
 |---------|----------|--------------------|
