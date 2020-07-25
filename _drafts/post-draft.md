@@ -103,6 +103,11 @@ From what I had read about Chromebook's lack of basic capabilities (can't run mo
 | Thermals | Due to the lack of fan, multitasking and video calls can make the right side of keyboard really hot (about 55°C). |  |
 |Internals| Coil whining | easy to upgrade |
 
+
+# Introspection
+
+Somethings that I overlooked because of branding of Intel is that m3 uses DDR3 RAM, whereas modern Intel Pentium, Intel Celeron and AMD A4 use DDR4. Moreover, getting rid of fan though makes the system lighter and quiter, bottlenecks the capabilities of the processor. Also, since the prices fluctuate a lot, if it wasn't an emergency I would have waited for better price on alternatives. If mobility was not a concern, then 15" windows laptops with Core i3 or Ryzen 3 dual core processors and SSD, like Acer Aspire 5, Asus VivoBook 15, Dell Inspiron and Lenovo Ideapad were good options. If I knew that we will be teaching for home then Apple iPad Mini would have been a better option.
+
 I will end by quoting the reviews I read before buying this chromebook and ignored the warnings:
 
 > I’m not a plastic hater, but there are price brackets I equate to plastics being used, and at MSRP $499, I don’t expect a mostly-plastic build. While there isn’t a ton of flex and wobbliness with this chassis, there’s no getting around the way plastic feels under your palms as you actually use a Chromebook. ---- [Chrome Unboxed](https://chromeunboxed.com/asus-chromebook-c425-review/)
@@ -111,6 +116,3 @@ I will end by quoting the reviews I read before buying this chromebook and ignor
 
 > The C425’s plastic body has more flex and suffers from a duller-looking, non-touch screen, but the keyboard and trackpad are responsive, the screen is fine for documents and spreadsheets, and it has enough battery life to last a full day of work or classes. ---- [NY Times- Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-chromebook/) 
 
-## Introspection
-
-Somethings that I overlooked because of branding of Intel is that m3 uses DDR3 RAM, whereas modern Intel Pentium, Intel Celeron and AMD A4 use DDR4. Moreover, getting rid of fan though makes the system lighter and quiter, bottlenecks the capabilities of the processor. Also, since the prices fluctuate a lot, if it wasn't an emergency I would have waited for better price on alternatives. If mobility was not a concern, then 15" windows laptops with Core i3 or Ryzen 3 dual core processors and SSD, like Acer Aspire 5, Asus VivoBook 15, Dell Inspiron and Lenovo Ideapad were good options. If I knew that we will be teaching for home then Apple iPad Mini would have been a better option.
