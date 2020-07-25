@@ -115,7 +115,7 @@ Install the following [Fedora's repository](https://src.fedoraproject.org/):
 
 | Function | Software | dnf Package |
 |----------|----------|---------|
-|Tool for [modifying the login screen](https://wiki.archlinux.org/index.php/LightDM#GTK_greeter) | LightDM GTK+ Greeter settings | lightdm-gtk-greeter-settings |
+|Tool for modifying the login screen | [LightDM GTK+ Greeter settings](https://wiki.archlinux.org/index.php/LightDM#GTK_greeter) | lightdm-gtk-greeter-settings |
 |System Restore | [Timeshift](https://github.com/teejee2008/timeshift) | timeshift|
 |GUI for Systemd Journal |[GNOME Logs](https://wiki.gnome.org/Apps/Logs)| |
 
