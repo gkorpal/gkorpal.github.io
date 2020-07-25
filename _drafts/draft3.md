@@ -25,7 +25,7 @@ For the desktop environment I decided to go with Xfce because most of my program
 $ sudo mkdir /var/lib/AccountsService/icons/<your_user_name>
 $ sudo cp ~/home/<my_picture_of_size_96x96>.png /var/lib/AccountsService/icons/<your_user_name>
 
-$sudo mousepad /var/lib/AccountsService/users/<your_user_name>
+$ sudo mousepad /var/lib/AccountsService/users/<your_user_name>
 ````
 
 Add the line: `Icon=/var/lib/AccountsService/icons/<your_user_name>/<my_picture>.png`. And for Wacom tablet pen-pressure on X Window System we can use `xsetwacom` ([doc](https://github.com/linuxwacom/xf86-input-wacom/wiki/xsetwacom))
