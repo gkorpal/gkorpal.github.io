@@ -111,17 +111,15 @@ Select Xfce Fedora without any extra software programs, we will manually install
 
 ## DNF plugins
 
-[system-upgrade](https://dnf-plugins-extras.readthedocs.io/en/latest/system-upgrade.html) and 
-
 [tracer](https://dnf-plugins-extras.readthedocs.io/en/latest/tracer.html).
 
-Vim, PulseAudio Volume Control and dnfdragora are already there.
+[system-upgrade](https://dnf-plugins-extras.readthedocs.io/en/latest/system-upgrade.html) and 
 
-Uninstall: pidgin, hexchat, thunderbird, transmission, eom, shotwell, simple-scan, xawtv, xfburn, xreader, redshift
 
-Install the following [Fedora's repository](https://src.fedoraproject.org/): 
 
 ## Free and open source software
+
+Vim, PulseAudio Volume Control and dnfdragora are already available.
 
 | Purpose | Software | dnf Package |
 |----------|----------|---------|
@@ -135,7 +133,7 @@ Install the following [Fedora's repository](https://src.fedoraproject.org/):
 |Clipboard manager | [Clipman](https://docs.xfce.org/panel-plugins/clipman/start) | xfce4-clipman-plugin|
 |Viewing and editing images | [gThumb](https://wiki.gnome.org/Apps/Gthumb) | gthumb|
 
-Xournal++, AbeWord, Gnumeric, Evince, SuperTuxKart, Cheese
+Xournal++, AbeWord, Gnumeric, Evince, SuperTuxKart, Cheese, texlive
 
 
 ## Restricted software
@@ -143,7 +141,7 @@ Xournal++, AbeWord, Gnumeric, Evince, SuperTuxKart, Cheese
 | Purpose | Software | Installation guide |
 |---------|----------|--------------------|
 |Playing videos with patented multimedia codecs | Celluloid | [RPM Fusion Free Repository](https://admin.rpmfusion.org/pkgdb/package/free/celluloid/)|
-|View DRM content like Netflix | Google Chrome | [fedora-workstation-repositories](https://fedoraproject.org/wiki/Workstation/Third_Party_Software_Repositories)|
+|Using streaming services like Netflix which require  h264/mp3/aac and widevine | Google Chrome | [fedora-workstation-repositories](https://fedoraproject.org/wiki/Workstation/Third_Party_Software_Repositories)|
 |Video conferencing | Zoom | [manual download](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux#h_b6ce9fba-dd38-4448-80c0-ac2e58db3acc)|
 
 
