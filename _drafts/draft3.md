@@ -87,7 +87,7 @@ You can also use `dnf` instead of `rpm`, just like we can use `apt` instead of `
 
 4.  Fedora's equivalent to Debian's Synaptic package manager is [dnfdragora](https://github.com/manatools/dnfdragora), unfortuately it's nowhere as good as Synaptic. However, in GNOME edition of Fedora there is GNOME Software Centre which makes things smoother, but requires [PC reboot for installing updates](https://ask.fedoraproject.org/t/gnome-software-center-wants-me-to-restart-to-install-updates/1283/5).  In the RPM world opeSUSE has YaST as a worthy competitor of Synaptic (but that feels too nosey, it is much more than just a package manager).
 
-5.  The equivalent of the Ubuntu <code>restricted</code> and <code>multiverse</code> repositories, that include patented and closed-source technologies and programs, is the [RPMFusion repository](https://rpmfusion.org/). **free** is the equivalent of <code>universe</code> and contains potentially patent-encumbered software like <code>gstreamer-plugins-bad</code> or the <code>VLC media player</code>, while **nonfree** includes non-free software like proprietary 3D graphics drivers.
+5.  The equivalent of the Ubuntu <code>restricted</code> and <code>multiverse</code> repositories, that include patented and closed-source technologies and programs, is the [RPMFusion repository](https://docs.fedoraproject.org/en-US/quick-docs/setup_rpmfusion/). **free** is the equivalent of <code>universe</code> and contains potentially patent-encumbered software like <code>gstreamer-plugins-bad</code> or the <code>VLC media player</code>, while **nonfree** includes non-free software like proprietary 3D graphics drivers.
 
 These repositories can easily be enabled by typing (as <code>root</code>):
 
@@ -107,23 +107,45 @@ Note that just like Ubuntu PPA and Arch AUR, there is no way to verify that a pa
 
 # Installing Fedora
 
-Select Xfce Fedora without any extra software programs, we will manually install the ones we want. Also reclaim the whole disk to remove the previously installed OS. To bypass creating root password in netinstall mode, just create a user account and mark it as administrator. Vim, PulseAudio Volume Control and dnfdragora are already there.
+Select Xfce Fedora without any extra software programs, we will manually install the ones we want. Also reclaim the whole disk to remove the previously installed OS. To bypass creating root password in netinstall mode, just create a user account and mark it as administrator.
+
+DNF plugins: 
+
+[system-upgrade](https://dnf-plugins-extras.readthedocs.io/en/latest/system-upgrade.html) and 
+
+[tracer](https://dnf-plugins-extras.readthedocs.io/en/latest/tracer.html).
+
+Vim, PulseAudio Volume Control and dnfdragora are already there.
 
 Uninstall: pidgin, hexchat, thunderbird, transmission, eom, shotwell, simple-scan, xawtv, xfburn, xreader, redshift
 
 Install the following [Fedora's repository](https://src.fedoraproject.org/): 
 
-| Function | Software | dnf Package |
+Free and open source software:
+
+| Purpose | Software | dnf Package |
 |----------|----------|---------|
-|Tool for modifying the login screen | [LightDM GTK+ Greeter settings](https://wiki.archlinux.org/index.php/LightDM#GTK_greeter) | lightdm-gtk-greeter-settings |
+|Login screen modification tool | [LightDM GTK+ Greeter settings](https://wiki.archlinux.org/index.php/LightDM#GTK_greeter) | lightdm-gtk-greeter-settings |
 |System Restore | [Timeshift](https://github.com/teejee2008/timeshift) | timeshift|
-|GUI for Systemd Journal |[GNOME Logs](https://wiki.gnome.org/Apps/Logs)| |
+|GUI for Systemd Journal |[GNOME Logs](https://wiki.gnome.org/Apps/Logs)| gnome-logs |
+|Calculator | [Galculator](https://github.com/galculator/galculator) | galculator |
+|File searching tool | [Catfish](https://bluesabre.org/catfish/) | catfish |
+|GUI Text Editor | [Mousepad](https://github.com/codebrainz/mousepad) | mousepad |
+|Clipboard manager | [Clipman](https://docs.xfce.org/panel-plugins/clipman/start) | xfce4-clipman-plugin|
+|Viewing and editing images | [gThumb](https://wiki.gnome.org/Apps/Gthumb) | gthumb|
 
-Xournal++, AbeWord, Gnumeric, gThumb (edit photos), Celluloid (mpv frontend), Evince, SuperTuxKart, Cheese,  calculator
+Xournal++, AbeWord, Gnumeric, Evince, SuperTuxKart, Cheese,
 
-Proprietary: [Google Chrome](https://fedoraproject.org/wiki/Workstation/Third_Party_Software_Repositories) and [Zoom](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux#h_b6ce9fba-dd38-4448-80c0-ac2e58db3acc).
 
-DNF plugins: [system-upgrade](https://dnf-plugins-extras.readthedocs.io/en/latest/system-upgrade.html) and [tracer](https://dnf-plugins-extras.readthedocs.io/en/latest/tracer.html).
+Restricted software:
+
+| Purpose | Software | Installation guide |
+|---------|----------|--------------------|
+|Playing videos with patented multimedia codecs | Celluloid | [RPM Fusion Free Repository](https://admin.rpmfusion.org/pkgdb/package/free/celluloid/)|
+|View DRM content like Netflix | Google Chrome | [fedora-workstation-repositories](https://fedoraproject.org/wiki/Workstation/Third_Party_Software_Repositories)|
+|Video conferencing | Zoom | [manual download](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux#h_b6ce9fba-dd38-4448-80c0-ac2e58db3acc)|
+
+
 
 # Introspection
 
