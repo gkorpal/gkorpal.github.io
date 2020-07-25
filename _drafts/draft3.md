@@ -128,13 +128,14 @@ Install the following [Fedora's repository](https://src.fedoraproject.org/):
 |Login screen modification tool | [LightDM GTK+ Greeter settings](https://wiki.archlinux.org/index.php/LightDM#GTK_greeter) | lightdm-gtk-greeter-settings |
 |System Restore | [Timeshift](https://github.com/teejee2008/timeshift) | timeshift|
 |GUI for Systemd Journal |[GNOME Logs](https://wiki.gnome.org/Apps/Logs)| gnome-logs |
+|Web browser| Firefox | firefox |
 |Calculator | [Galculator](https://github.com/galculator/galculator) | galculator |
 |File searching tool | [Catfish](https://bluesabre.org/catfish/) | catfish |
 |GUI Text Editor | [Mousepad](https://github.com/codebrainz/mousepad) | mousepad |
 |Clipboard manager | [Clipman](https://docs.xfce.org/panel-plugins/clipman/start) | xfce4-clipman-plugin|
 |Viewing and editing images | [gThumb](https://wiki.gnome.org/Apps/Gthumb) | gthumb|
 
-Xournal++, AbeWord, Gnumeric, Evince, SuperTuxKart, Cheese,
+Xournal++, AbeWord, Gnumeric, Evince, SuperTuxKart, Cheese
 
 
 ## Restricted software
