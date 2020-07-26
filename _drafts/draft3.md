@@ -140,7 +140,7 @@ Vim, PulseAudio Volume Control and dnfdragora are already available.
 |Viewing and editing images | [gThumb](https://wiki.gnome.org/Apps/Gthumb) | gthumb|
 |Disk Usage Analyzer | [Baobab](https://wiki.gnome.org/Apps/DiskUsageAnalyzer) | baobab |
 
-Xournal++, AbeWord, Gnumeric, Evince, SuperTuxKart, Cheese, texlive
+Xournal++, AbeWord, Gnumeric, Evince, SuperTuxKart, Cheese, texlive, Xarchiver
 
 
 ## Restricted software
