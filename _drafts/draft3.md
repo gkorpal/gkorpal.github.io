@@ -131,7 +131,8 @@ Vim, PulseAudio Volume Control and dnfdragora are already available.
 |File searching tool | [Catfish](https://bluesabre.org/catfish/) | catfish |
 |GUI Text Editor | [Mousepad](https://github.com/codebrainz/mousepad) | mousepad |
 |Clipboard manager | [Clipman](https://docs.xfce.org/panel-plugins/clipman/start) | xfce4-clipman-plugin|
-|Viewing and editing images | [gThumb](https://wiki.gnome.org/Apps/Gthumb) | gthumb|
+|Viewing and editing images | [gThumb](https://wiki.gnome.org/Apps/Gthumb) | gthumb|\
+|Disk Usage Analyzer | [Baobab](https://wiki.gnome.org/Apps/DiskUsageAnalyzer) | baobab |
 
 Xournal++, AbeWord, Gnumeric, Evince, SuperTuxKart, Cheese, texlive
 
