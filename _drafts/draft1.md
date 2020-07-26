@@ -58,7 +58,7 @@ I will use the Qt based LaTeX editor [TexMaker](https://packages.debian.org/bust
    deb http://deb.debian.org/debian buster main
    deb http://deb.debian.org/debian-security buster/updates main
  ````
- Here "buster" should correspond to the [version of Debian] (https://wiki.debian.org/DebianReleases) installed in Crostini. If it's not the same, then use the pre-installed version of Vim to edit. If you are not familiar with Vim, run the command `vimtutor` first and also have a look at this [brief intro](https://vimsheet.com/).
+ Here "buster" should correspond to the [version of Debian](https://wiki.debian.org/DebianReleases) installed in Crostini. If it's not the same, then use the pre-installed version of Vim to edit. If you are not familiar with Vim, run the command `vimtutor` first and also have a look at this [brief intro](https://vimsheet.com/).
  
 4. Update the packages: `sudo apt update && sudo apt dist-upgrade` (there won't be any password prompts).
 6. Install the basic version of [TeX Live](https://www.tug.org/texlive/) (336 MB space needed): `sudo apt install texlive`
