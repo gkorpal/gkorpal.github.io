@@ -61,9 +61,9 @@ Since I only plan to write simple LaTeX documents like assignments. I will use [
    Here "buster" should correspond to the [version of Debian](https://wiki.debian.org/DebianReleases) installed in Crostini. We have basically added [Debian Testing](https://wiki.debian.org/DebianTesting) to the source list so that we can [install the latest version of packages known to be stable](https://nosarthur.github.io/coding/2019/09/05/crostini.html).
 4. Mark stable release as default: `echo 'APT::Default-Release "stable";' | sudo tee -a /etc/apt/apt.conf.d/00local`
 5. Update the packages: `sudo apt update && sudo apt dist-upgrade` (there won't be any password prompts).
-6. Install the latest version of [TeX Live](https://www.tug.org/texlive/) (336 MB downloaded): `sudo apt -t testing install texlive`
-7. Install the latest version of [Gummi](https://packages.debian.org/bullseye/gummi): `sudo apt -t testing install gummi`. Note that the screen resolution might be messed up due to different in system and crostini resolution, however it can be [fixed](https://www.reddit.com/r/Crostini/comments/9g1ovl/scale_and_dpi_in_sommelierrc/). 
-13. Right click on the folder where you want to create the tex files and choose "Share with Linux" and "Available offline". The folder can also  be accessed via  `cd /mnt/chromeos/GoogleDrive/MyDrive/"PathOfSharedFolderInYourGoogleDrive"`.
+6. Install the latest version of [TeX Live](https://www.tug.org/texlive/) (336 MB space needed): `sudo apt -t testing install texlive`
+7. Install the latest version of [Gummi](https://packages.debian.org/bullseye/gummi) (387 MB space needed): `sudo apt -t testing install gummi`. Note that the screen resolution might be messed up due to different in system and crostini resolution, however it can be [fixed](https://www.reddit.com/r/Crostini/comments/9g1ovl/scale_and_dpi_in_sommelierrc/). 
+8. Right click on the folder where you want to create the tex files and choose "Share with Linux" and "Available offline". The folder can also  be accessed via  `cd /mnt/chromeos/GoogleDrive/MyDrive/"PathOfSharedFolderInYourGoogleDrive"`.
 
 You might get gibberish text when using Linux, in that case you will have to disable GPU-acceleration for the sandbox, this can be done by going to `chrome://flags/#crostini-gpu-support` and changing the option to "disabled". 
 
