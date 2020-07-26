@@ -115,7 +115,14 @@ Select Xfce Fedora without any extra software programs, we will manually install
 
 [system-upgrade](https://dnf-plugins-extras.readthedocs.io/en/latest/system-upgrade.html) and 
 
+## Xfce panel plugins
 
+Few [panel plugins](https://docs.xfce.org/panel-plugins/start) like Datetime, Places, PulseAudio and ScreenShooter are already installed.
+
+| Purpose | Software | dnf Package |
+|----------|----------|---------|
+|Clipboard manager | Clipman | xfce4-clipman-plugin|
+|Weather indicator on taskbar | Weather | xfce4-weather-plugin|
 
 ## Free and open source software
 
@@ -130,8 +137,7 @@ Vim, PulseAudio Volume Control and dnfdragora are already available.
 |Calculator | [Galculator](https://github.com/galculator/galculator) | galculator |
 |File searching tool | [Catfish](https://bluesabre.org/catfish/) | catfish |
 |GUI Text Editor | [Mousepad](https://github.com/codebrainz/mousepad) | mousepad |
-|Clipboard manager | [Clipman](https://docs.xfce.org/panel-plugins/clipman/start) | xfce4-clipman-plugin|
-|Viewing and editing images | [gThumb](https://wiki.gnome.org/Apps/Gthumb) | gthumb|\
+|Viewing and editing images | [gThumb](https://wiki.gnome.org/Apps/Gthumb) | gthumb|
 |Disk Usage Analyzer | [Baobab](https://wiki.gnome.org/Apps/DiskUsageAnalyzer) | baobab |
 
 Xournal++, AbeWord, Gnumeric, Evince, SuperTuxKart, Cheese, texlive
