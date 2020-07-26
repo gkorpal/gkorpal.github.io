@@ -94,7 +94,7 @@ From what I had read about Chromebook's lack of basic capabilities (can't run mo
 
 # Introspection
 
-One can easily get the latest version of software by adding [Debian Testing](https://wiki.debian.org/DebianTesting) to the source list [by adding following line to] (https://nosarthur.github.io/coding/2019/09/05/crostini.html) `/etc/apt/sources.list`
+One can easily get the latest version of software by adding [Debian Testing](https://wiki.debian.org/DebianTesting) to the source list [by adding following line to](https://nosarthur.github.io/coding/2019/09/05/crostini.html) `/etc/apt/sources.list`
 
 `````
 deb http://deb.debian.org/debian testing main
