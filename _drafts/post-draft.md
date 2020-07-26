@@ -43,7 +43,7 @@ The thing which I don't like about the Chromebook is that the browser uses major
 
 ## LaTeX Setup in Chromebook 
 
-For LaTeX I use [Vim](https://packages.debian.org/bullseye/vim) with [Terminal](https://packages.debian.org/bullseye/gnome-terminal) as the text-editor and [MuPDF](https://packages.debian.org/bullseye/mupdf) as the pdf-viewer since both can be accessed solely via keyboard. Earlier I used [TexMaker](https://packages.debian.org/bullseye/texmaker) as text-editor and [Evince](https://packages.debian.org/bullseye/evince) as pdf-viewer, but the [display scaling](https://www.reddit.com/r/Crostini/wiki/howto/adjust-display-scaling) was bad with TexMaker and Evince was not unable to open DjVu files (hence no advantage of it using poppler), save annotated files by replacing the existing one, or open multiple PDF files without leading to system crash.
+Since I only plan to write simple LaTeX documents like assignments. I will use [Gummi](https://github.com/alexandervdm/gummi/releases/), the simple LaTeX editor with live pdf preview. The Chrome browser is sufficient for opening other pdf files.
 
 1. Turn on Linux (Beta) by following [these steps](https://support.google.com/chromebook/answer/9145439?hl=en). 
 2. Check that the sandbox (Penguin container/Crostini) is up-to-date. In your browser, go to `chrome://components`. Under `cros-termina`, select "Check for update". If you download an update, you might need to restart your Chromebook.
@@ -61,21 +61,9 @@ For LaTeX I use [Vim](https://packages.debian.org/bullseye/vim) with [Terminal](
    Here "buster" should correspond to the [version of Debian](https://wiki.debian.org/DebianReleases) installed in Crostini. We have basically added [Debian Testing](https://wiki.debian.org/DebianTesting) to the source list so that we can [install the latest version of packages known to be stable](https://nosarthur.github.io/coding/2019/09/05/crostini.html).
 4. Mark stable release as default: `echo 'APT::Default-Release "stable";' | sudo tee -a /etc/apt/apt.conf.d/00local`
 5. Update the packages: `sudo apt update && sudo apt dist-upgrade` (there won't be any password prompts).
-6. Remove the installed version of Vim (we will do a fresh install of the latest version): `sudo apt remove vim vim-common vim-tiny vim-runtime` and then `sudo apt autoremove`
-7. Install the latest version of [Vim](https://www.vim.org/) (36.3 MB downloaded) : `sudo apt -t testing install vim`. You can also try the GUI version like GTK3, but screen resolution might be messed up ([fixing screen resolution](https://www.reddit.com/r/Crostini/comments/9g1ovl/scale_and_dpi_in_sommelierrc/)). Moreover, "vim-gtk3" will also  add support for scripting with Lua, Perl, Python 3, Ruby, and Tcl which I neither need nor have space for in my chromebook. 
-8. Install the latest version of Ubuntu's [Terminal](https://help.gnome.org/users/gnome-terminal/stable/) (304 MB downloaded) which allows new tabs via <kbd>Ctrl</kbd> + <kbd>Shift</kbd>+ <kbd>T</kbd>: `sudo apt -t testing install gnome-terminal` (It also uses GTK interface, so you can consider installing vim-gtk or vim-gtk3 instead). 
-9. Install the latest version of [MuPDF](https://mupdf.com/) (35.3 MB downloaded): `sudo apt -t testing install mupdf` 
-10. Install the latest version of [TeX Live](https://www.tug.org/texlive/) (336 MB downloaded): `sudo apt -t testing install texlive`
-11. Install some plugin manager for Vim, like [vim-plug](https://github.com/junegunn/vim-plug): Use Crostini/Terminal to Download plug.vim and put it in the "autoload" directory
-    `````
-    curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-    `````
-12. Install the plugin [vim-tex](https://github.com/lervag/vimtex) which will allow Vim to specialize as LaTeX editor: Create the file `~/.vimrc` and add the following line to it          
-     `````
-     Plug 'lervag/vimtex'
-     `````
-13. Right click on the folder where you want to create the tex files and choose "Share with Linux" and "Available offline". The folder can be accessed via  `cd /mnt/chromeos/GoogleDrive/MyDrive/"PathOfSharedFolderInYourGoogleDrive"`
+6. Install the latest version of [TeX Live](https://www.tug.org/texlive/) (336 MB downloaded): `sudo apt -t testing install texlive`
+7. Install the latest version of [Gummi](https://packages.debian.org/bullseye/gummi): `sudo apt -t testing install gummi`. Note that the screen resolution might be messed up, however it can be [fixed](https://www.reddit.com/r/Crostini/comments/9g1ovl/scale_and_dpi_in_sommelierrc/). 
+13. Right click on the folder where you want to create the tex files and choose "Share with Linux" and "Available offline". The folder can also  be accessed via  `cd /mnt/chromeos/GoogleDrive/MyDrive/"PathOfSharedFolderInYourGoogleDrive"`.
 
 You might get gibberish text when using Linux, in that case you will have to disable GPU-acceleration for the sandbox, this can be done by going to `chrome://flags/#crostini-gpu-support` and changing the option to "disabled". 
 
@@ -105,6 +93,8 @@ From what I had read about Chromebook's lack of basic capabilities (can't run mo
 
 
 # Introspection
+
+For LaTeX I plan to shift to using [Vim]([Vim](https://www.vim.org/) as the text-editor and [MuPDF](https://mupdf.com/) as the pdf-viewer since both can be accessed solely via keyboard, while keeping all the good features from the GTK+ based LaTex editors [Gummi](https://github.com/alexandervdm/gummi) and [GNOME LaTeX](https://wiki.gnome.org/Apps/GNOME-LaTeX). In Ubuntu I used to use the Qt based [TexMaker](https://packages.debian.org/bullseye/texmaker) as text-editor with [Evince](https://packages.debian.org/bullseye/evince) as pdf-viewer, but the [display scaling](https://www.reddit.com/r/Crostini/wiki/howto/adjust-display-scaling) was bad with TexMaker  in Crostini and Evince was not unable to open DjVu files (hence no advantage of it using poppler), save annotated files by replacing the existing one, or open multiple PDF files without leading to system crash.
 
 Somethings that I overlooked because of branding of Intel is that m3 uses DDR3 RAM, whereas modern Intel Pentium, Intel Celeron and AMD A4 use DDR4. Moreover, getting rid of fan though makes the system lighter and quiter, bottlenecks the capabilities of the processor. Also, since the prices fluctuate a lot, if it wasn't an emergency I would have waited for better price on alternatives. If mobility was not a concern, then 15" windows laptops with Core i3 or Ryzen 3 dual core processors and SSD, like Acer Aspire 5, Asus VivoBook 15, Dell Inspiron and Lenovo Ideapad were good options. If I knew that we will be teaching for home then Apple iPad Mini would have been a better option.
 
