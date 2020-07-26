@@ -61,8 +61,8 @@ I will use the Qt based LaTeX editor [TexMaker](https://packages.debian.org/bust
  Here "buster" should correspond to the [version of Debian](https://wiki.debian.org/DebianReleases) installed in Crostini. If it's not the same, then use the pre-installed version of Vim to edit. If you are not familiar with Vim, run the command `vimtutor` first and also have a look at this [brief intro](https://vimsheet.com/).
  
 4. Update the packages: `sudo apt update && sudo apt dist-upgrade` (there won't be any password prompts).
-6. Install the basic version of [TeX Live](https://www.tug.org/texlive/) (336 MB space needed): `sudo apt install texlive`
-7. Install [TexMaker](https://packages.debian.org/bullseye/texmaker) (387 MB space needed): `sudo apt install texmaker`. Note that the screen resolution might be messed up due to different in system and crostini resolution, however it can be [fixed](https://www.reddit.com/r/Crostini/comments/9g1ovl/scale_and_dpi_in_sommelierrc/). 
+6. Install the basic version of [TeX Live](https://www.tug.org/texlive/): `sudo apt install texlive`
+7. Install [TexMaker](https://packages.debian.org/bullseye/texmaker): `sudo apt install texmaker`. Note that the screen resolution might be messed up due to different in system and crostini resolution, however it can be [fixed](https://www.reddit.com/r/Crostini/comments/9g1ovl/scale_and_dpi_in_sommelierrc/). 
 8. Right click on the folder where you want to create the tex files and choose "Share with Linux" and "Available offline". The folder can also  be accessed via  `cd /mnt/chromeos/GoogleDrive/MyDrive/"PathOfSharedFolderInYourGoogleDrive"`.
 
 You might get gibberish text when using Linux, in that case you will have to disable GPU-acceleration for the sandbox, this can be done by going to `chrome://flags/#crostini-gpu-support` and changing the option to "disabled". 
