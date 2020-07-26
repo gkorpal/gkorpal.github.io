@@ -1,9 +1,10 @@
 ---
 layout: single
-title:  "Pre-Covid Crisis Tech Remedies (Jan 2020)"
+title:  "Creating ideal LaTeX editing setup"
 header:
 categories: 
   - Jekyll
 tags:
   - edge case
 ---
+Arch way of doing stuff.
