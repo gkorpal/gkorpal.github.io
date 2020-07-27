@@ -28,17 +28,11 @@ Following is the comparison of my PC with the best laptop available in the marke
 |Warranty |  1.5 to 5 years depending on the part | 1 year|
 |Bottomline | Sturdy and easy to repair | Mobility (0.71" thin and 2.65 lbs) |
 
-This will certainly an upgrade from the desktop computer I used a decade ago with Intel Pentium 4 CPU and 512MB RAM (no idea what graphics card was there in that machine). Moreover, though on paper Intel Core i7 4702MQ (my old Thinkpad) is not much worse than AMD Ryzen 3 3200G in terms of CPU performance, the AMD iGPU much better. For instance,  with the best graphic settings of [SuperTuxKart](https://supertuxkart.net/Main_Page) (for 60FPS/1080p required to have min AMD Radeon RX 460 with 1 GB VRAM), AMD gives about 30 fps on an average whereas Intel only gives 10 fps 
-
-The current AMD budget processors provide a much superior iGPU performance than their Intel counterparts. For example: 
-* We can compare the entry level quad-core desktop processors from last year: Intel Core i3-9100 (MSRP $120) has better CPU but worse iGPU than AMD Ryzen 3 3200g (MSRP $100) ([benchmark](https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_3_3200g-952-vs-intel_core_i3_9100-924)).
-* We can compare the pro level mobile processors from this year: Intel Core i7-10710U with 6-physical cores and hyperthreading, is not better than AMD Ryzen 7 4700U with 8-physical cores but no hyperthreading ([comparison](https://www.pcworld.com/article/3541009/ryzen-7-4700u-review-amds-budget-8-core-crushes-intels-10th-gen-chips-again.html)).
-
-I finally decided not to spend extra $20 for i3-9100 since the ability of 3200g to allow light gaming would be more than enough for my daily usage. Moreover, since neither of them have hyperthereading/multithreading, I won't expect much improvement in multitasking. However, Intel being more popular has better support for various hardware (for example, I couldn't run my monitor via HDMI due to compatibility issue between the motherboard and monitor). Luckily, this time the Realtek ethernet drivers [didn't cause headache with Ubuntu](https://tuxbyte.com/how-to-get-your-realtek-rtl8111rtl8168-working-updated-guide/).
+This will certainly an upgrade from the desktop computer I used a decade ago with Intel Pentium 4 CPU and 512MB RAM (no idea what graphics card was there in that machine). Moreover, though on paper Intel Core i7 4702MQ (my old Thinkpad) is not much worse than AMD Ryzen 3 3200G in terms of CPU performance, the AMD iGPU much better. For instance,  with the best graphic settings of [SuperTuxKart](https://supertuxkart.net/Main_Page) (for 60FPS/1080p required to have min AMD Radeon RX 460 with 1 GB VRAM), AMD gives about 30 fps on an average whereas Intel only gives 10 fps.
 
 <figure>
-  <img src="/images/comparison.png" alt="my alt text" style="width:534px;height:269px;"/>
-  <figcaption> This is a comparison of PassMark results (screenshot taken on 26 June 2020, when the prices had dropped due to announcement of next gen processors). PassMark a good measure of server orientated performance, where multiple cores are often simultaneously loaded. However, as seen above, for everyday use Core i3 is better than Ryzen 3.</figcaption>
+  <img src="/images/mint20.png" alt="my alt text" style="width:534px;height:269px;"/>
+  <figcaption> Desktop screenshot showing neofetch output.</figcaption>
 </figure>
 
 ## Cloud Backup Setup for Linux PC (tested in Linux Mint and Ubuntu)
@@ -140,4 +134,15 @@ dmesg -l emerg,alert,crit,err
 
 Also, in case things get out of hand, to [access GRUB Menu](https://wiki.ubuntu.com/Kernel/KernelBootParameters) press right <kbd>Shift</kbd> if system boots using BIOS or press <kbd>Esc</kbd> if system boots using UEFI. Remeber that if you press <kbd>Esc</kbd> multiple times then you will enter [GRUB command prompt instead](https://www.gnu.org/software/grub/manual/grub/html_node/Command_002dline-and-menu-entry-commands.html). 
 
-As I said above, Intel Core i3 9100 would have been a better choice in terms of processing power. Even after the launch of 10th gen CPUs that build would have costed about $20 more since though the RAM will be really cheap as only 2400 MHz is supported by i3 (-$10), the CPU and motherboard (H310) will remain a little more expensive than the AMD counterparts (+$30). however, by buying HP VH240a instead of Asus VA229HR, I could have saved USD 30, hence keeping the total cost of build USD 650 even with i3 9100. That said, I am happy with my AMD PC since it allows me to do some light gaming as a bonus (which was not the purpose of this PC). AMD build is clearly better than Intel if one plans to play even a single racing/shooting game with an option for overclocking by buying a better motherboard.
+The current AMD budget processors provide a much superior iGPU performance than their Intel counterparts. For example: 
+* We can compare the entry level quad-core desktop processors from last year: Intel Core i3-9100 (MSRP $120) has better CPU but worse iGPU than AMD Ryzen 3 3200g (MSRP $100) ([benchmark](https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_3_3200g-952-vs-intel_core_i3_9100-924)).
+* We can compare the pro level mobile processors from this year: Intel Core i7-10710U with 6-physical cores and hyperthreading, is not better than AMD Ryzen 7 4700U with 8-physical cores but no hyperthreading ([comparison](https://www.pcworld.com/article/3541009/ryzen-7-4700u-review-amds-budget-8-core-crushes-intels-10th-gen-chips-again.html)).
+
+I decided not to spend extra $20 for i3-9100 since the ability of 3200g to allow light gaming would be more than enough for my daily usage. Moreover, since neither of them have hyperthereading/multithreading, I won't expect much improvement in multitasking. However, Intel being more popular has better support for various hardware (for example, I couldn't run my monitor via HDMI due to compatibility issue between the motherboard and monitor). Luckily, this time the Realtek ethernet drivers [didn't cause headache with Ubuntu](https://tuxbyte.com/how-to-get-your-realtek-rtl8111rtl8168-working-updated-guide/).
+
+<figure>
+  <img src="/images/comparison.png" alt="my alt text" style="width:534px;height:269px;"/>
+  <figcaption> This is a comparison of PassMark results (screenshot taken on 26 June 2020, when the prices had dropped due to announcement of next gen processors). PassMark a good measure of server orientated performance, where multiple cores are often simultaneously loaded. However, as seen above, for everyday use Core i3 is better than Ryzen 3.</figcaption>
+</figure>
+
+We can't deny the fact that, Intel Core i3 9100 would have been a better choice in terms of processing power. Even after the launch of 10th gen CPUs that build would have costed about $20 more since though the RAM will be really cheap as only 2400 MHz is supported by i3 (-$10), the CPU and motherboard (H310) will remain a little more expensive than the AMD counterparts (+$30). however, by buying HP VH240a instead of Asus VA229HR, I could have saved USD 30, hence keeping the total cost of build USD 650 even with i3 9100. That said, I am happy with my AMD PC since it allows me to do some light gaming as a bonus (which was not the purpose of this PC). AMD build is clearly better than Intel if one plans to play even a single racing/shooting game with an option for overclocking by buying a better motherboard.
