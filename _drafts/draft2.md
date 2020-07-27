@@ -88,16 +88,16 @@ All the system part recommendations were from [PC-Part-Picker](https://pcpartpic
 |Keyboard | Redragon K552-N| USD 30| Cheapest tenkeyless mechanical keyboard without any lighting. The next decent option was for around USD 100. |
 |Mouse | Logitech M310 | USD 20 | Wireless ambidextrous mouse which is not very small. Though would prefer a bigger mouse.|
 | Monitor+speakers | Asus VA229HR | USD 100 | This 1080p 21.5" IPS screen with 1.5W sterio speakers didn't meet my expectations. Its HDMI port doesn't work well with my motherboard/CPU. Also, stand was so bad that I has to buy a new stand. Would have bought HP VH240a if it had longer warranty period and a smaller screen size option.|
-|Webcam+mic | Logitech C270 | USD 30 | Better than the HD camera laptop have |
+|Webcam+mic | Logitech C270 | USD 30 | Better than the HD camera laptop has. |
 |***Accesories*** | ***Total Cost*** | ***USD 100*** | ***Required to make PC setup comfortable. 15% of the total budget.*** 
-|Surge protector | Belkin BE108200-06 | USD 20 | |
-| System Case Stand | Iocrest SY-ACC65029 |USD 15 | Cheapest case stand for keeping system above carpet| 
-|Mouse pad| Insignia  NS-PNP5008 | USD 5 | |
-|Monitor stand| Huanuo HNCM5-S | USD 25 | |
-|DVI-D to VGA cable| Benfei B07JYXYSSL | USD 10 | |
-|Audio cable| StarTech Slim 3.5mm jack | USD 5 | |
-|Ethernet cable| Quantum CAT5e | USD 10 | |
-|USB 3.0 extension cable| Sabrent CB-3060 | USD 10 | |
+|Surge protector | Belkin BE108200-06 | USD 20 | Expected lifespan of 3 to 5 years. |
+| System Case Stand | Iocrest SY-ACC65029 |USD 15 | Cheapest case stand for keeping system above carpet.| 
+|Mouse pad| Insignia  NS-PNP5008 | USD 5 | Should have bought the one with wrist rest|
+|Monitor stand| Huanuo HNCM5-S | USD 25 | Can tilt,rotate and adjust height of the monitor.  |
+|DVI-D to VGA cable| Benfei B07JYXYSSL | USD 10 | Since HDMI didn't work |
+|Audio cable| StarTech Slim 3.5mm jack | USD 5 | Since HDMI didn't work |
+|Ethernet cable| Quantum CAT5e | USD 10 | bye bye wifi |
+|USB 3.0 extension cable| Sabrent CB-3060 | USD 10 | Since the ports at the back of PC case are far away from the desk.|
 
 ## Introspection
 
