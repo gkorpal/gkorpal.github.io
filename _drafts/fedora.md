@@ -27,9 +27,13 @@ I installed Xfce Fedora via netinstall mode using [Network Installer](https://al
 
 Most of my Linux experience is based on Ubuntu. Following are some differences:
 
-1.  Users have the option of setting a root password in when installing a non-GNOME Fedora, but it is not required if the user creates an initial user account and selects the option to add it to the wheel group. If root password is set, then the <code>root</code> account is the account for the system admin. This account is disabled in Ubuntu. In Ubuntu, one performs actions that require <code>root</code> privileges using **sudo**, while in a Fedora spin, **sudo** is not the default method of gaining administrative permissions. Therefore, in Fedora Xfce spin with root password, <code>root</code> access can only be gained with `su`.  **su** will ask for the <code>root</code> password, not the regular user password. After logging in successfully as `root`, one has administrative rights until terminal is closed or logged out with `exit`. However, for [GNOME Fedora](https://getfedora.org/en/workstation/), it's just like Ubuntu i,e. [no root password set by default](https://fedoraproject.org/wiki/Changes/ReduceInitialSetupRedundancy#Root_Account) and user account is handled by gnome-initial-setup. Having a root password is [not useful for nontechnical users](https://www.howtogeek.com/111479/htg-explains-whats-the-difference-between-sudo-su/).
+## Administrator vs. User
+
+Users have the option of setting a root password in when installing a non-GNOME Fedora, but it is not required if the user creates an initial user account and selects the option to add it to the wheel group. If root password is set, then the <code>root</code> account is the account for the system admin. This account is disabled in Ubuntu. In Ubuntu, one performs actions that require <code>root</code> privileges using **sudo**, while in a Fedora spin, **sudo** is not the default method of gaining administrative permissions. Therefore, in Fedora Xfce spin with root password, <code>root</code> access can only be gained with `su`.  **su** will ask for the <code>root</code> password, not the regular user password. After logging in successfully as `root`, one has administrative rights until terminal is closed or logged out with `exit`. However, for [GNOME Fedora](https://getfedora.org/en/workstation/), it's just like Ubuntu i,e. [no root password set by default](https://fedoraproject.org/wiki/Changes/ReduceInitialSetupRedundancy#Root_Account) and user account is handled by gnome-initial-setup. Having a root password is [not useful for nontechnical users](https://www.howtogeek.com/111479/htg-explains-whats-the-difference-between-sudo-su/).
    
- 2.  Fedora uses different tools for package management to Debian. Here is a quick overview of how to accomplish common tasks in Fedora: ([source](https://fedoraproject.org/wiki/Differences_to_Ubuntu))
+## Package management
+
+Fedora uses different tools for package management to Debian. Here is a quick overview of how to accomplish common tasks in Fedora: ([source](https://fedoraproject.org/wiki/Differences_to_Ubuntu))
 
 | Debian command | Fedora command |
 |--------------- | --------------- |
@@ -43,7 +47,7 @@ Most of my Linux experience is based on Ubuntu. Following are some differences:
 
 In older versions, `apt-get` in Ubuntu corresponded to `yum` in Fedora.  To know if a reboot is needed after doing a `dnf update` use either [tracer](https://dnf-plugins-extras.readthedocs.io/en/latest/tracer.html) or [needs-restarting](https://dnf-plugins-core.readthedocs.io/en/latest/needs_restarting.html) plugin.
 
-3.  Like in Ubuntu we use `dpkg` for installing .deb files, we can use `rpm` in Fedora for installing .rpm files. Following is a comparison of commands:
+Moreover, like in Ubuntu we use `dpkg` for installing .deb files, we can use `rpm` in Fedora for installing .rpm files. Following is a comparison of commands:
 
 | Command Details | 	Fedora Command	| Ubuntu Command |
 | ---------------- | -----------------| --------------- |
@@ -60,9 +64,13 @@ In older versions, `apt-get` in Ubuntu corresponded to `yum` in Fedora.  To know
 
 You can also use `dnf` instead of `rpm`, just like we can use `apt` instead of `dpkg`. You can find an outdate but more extensive list in [Ubuntu Wiki](https://help.ubuntu.com/community/SwitchingToUbuntu/FromLinux/RedHatEnterpriseLinuxAndFedora).
 
-4.  Fedora's equivalent to Debian's Synaptic package manager is [dnfdragora](https://github.com/manatools/dnfdragora), unfortuately it's nowhere as good as Synaptic. However, in GNOME edition of Fedora there is GNOME Software Centre which makes things smoother, but requires [PC reboot for installing updates](https://ask.fedoraproject.org/t/gnome-software-center-wants-me-to-restart-to-install-updates/1283/5).  In the RPM world opeSUSE has YaST as a worthy competitor of Synaptic (but that feels too nosey, it is much more than just a package manager).
+## Finding packages using GUI
 
-5.  The equivalent of the Ubuntu <code>restricted</code> and <code>multiverse</code> repositories, that include patented and closed-source technologies and programs, is the [RPMFusion repository](https://docs.fedoraproject.org/en-US/quick-docs/setup_rpmfusion/). **free** is the equivalent of <code>universe</code> and contains potentially patent-encumbered software like <code>gstreamer-plugins-bad</code> or the <code>VLC media player</code>, while **nonfree** includes non-free software like proprietary 3D graphics drivers.
+Fedora's equivalent to Debian's Synaptic package manager is [dnfdragora](https://github.com/manatools/dnfdragora), unfortuately it's nowhere as good as Synaptic. However, in GNOME edition of Fedora there is GNOME Software Centre which makes things smoother, but requires [PC reboot for installing updates](https://ask.fedoraproject.org/t/gnome-software-center-wants-me-to-restart-to-install-updates/1283/5).  In the RPM world opeSUSE has YaST as a worthy competitor of Synaptic (but that feels too nosey, it is much more than just a package manager).
+
+## Installing packages not in repository
+
+The equivalent of the Ubuntu <code>restricted</code> and <code>multiverse</code> repositories, that include patented and closed-source technologies and programs, is the [RPMFusion repository](https://docs.fedoraproject.org/en-US/quick-docs/setup_rpmfusion/). **free** is the equivalent of <code>universe</code> and contains potentially patent-encumbered software like <code>gstreamer-plugins-bad</code> or the <code>VLC media player</code>, while **nonfree** includes non-free software like proprietary 3D graphics drivers.
 
 These repositories can easily be enabled by typing (as <code>root</code>):
 
@@ -71,7 +79,7 @@ dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$
 dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 </pre>
 
-6.  The equivalent of the PPAs in Ubuntu is [Copr](https://copr.fedorainfracloud.org/). This repository can be [added with](https://dnf-plugins-core.readthedocs.io/en/latest/copr.html)
+Moreover, the equivalent of the PPAs in Ubuntu is [Copr](https://copr.fedorainfracloud.org/). This repository can be [added with](https://dnf-plugins-core.readthedocs.io/en/latest/copr.html)
 
 <pre>
 dnf copr enable user/project.
