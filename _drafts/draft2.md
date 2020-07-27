@@ -87,7 +87,7 @@ All the system part recommendations were from [PC-Part-Picker](https://pcpartpic
 |***Input/Output Devices***| ***Total cost*** | ***USD 180***  |  ***minimalistic, nothing fancy. 28% of the total budget.*** |
 |Keyboard | Redragon K552-N| USD 30| Cheapest tenkeyless mechanical keyboard without any lighting. The next decent option was for around USD 100. |
 |Mouse | Logitech M310 | USD 20 | Wireless ambidextrous mouse which is not very small. Though would prefer a bigger mouse.|
-| Monitor+speakers | Asus VA229HR | USD 100 | This 1080p 21.5" IPS screen with 1.5W sterio speakers didn't meet my expectations. Its HDMI port doesn't work well with my motherboard/CPU. Also, stand was so bad that I has to buy a new stand. Would have bought HP VH240a if it had longer warranty period and a smaller screen size option.|
+| Monitor+speakers | Asus VA229HR | USD 100 | This 1080p 21.5" IPS screen with 1.5W sterio speakers didn't meet my expectations. Its HDMI port doesn't work well with my motherboard/GPU. Also, stand was so bad that I has to buy a new stand. Would have bought HP VH240a if it had longer warranty period and a smaller screen size option.|
 |Webcam+mic | Logitech C270 | USD 30 | Better than the HD camera laptop has. |
 |***Accesories*** | ***Total Cost*** | ***USD 100*** | ***Required to make PC setup comfortable. 15% of the total budget.*** 
 |Surge protector | Belkin BE108200-06 | USD 20 | Expected lifespan of 3 to 5 years. |
