@@ -94,20 +94,21 @@ From what I had read about Chromebook's lack of basic capabilities (can't run mo
 
 # Introspection
 
-One can easily get the latest version of software by adding [Debian Testing](https://wiki.debian.org/DebianTesting) to the source list [by adding following line to](https://nosarthur.github.io/coding/2019/09/05/crostini.html) `/etc/apt/sources.list`
+Crostini runs of Debian stable which tends to have outdated packages. However, one can easily get the latest version of software by adding [Debian Testing](https://wiki.debian.org/DebianTesting) to the source list [by adding following line to](https://nosarthur.github.io/coding/2019/09/05/crostini.html) `/etc/apt/sources.list` using Vim:
 
 `````
 deb http://deb.debian.org/debian testing main
 `````
-Also mark stable release as default: 
+Also mark stable release as default by using the following command in terminal: 
 ````
 echo 'APT::Default-Release "stable";' | sudo tee -a /etc/apt/apt.conf.d/00local`
 ````
-Then you can install latest package like `texlive` as
+Then one can install the latest package like `texlive` using
 `````
 sudo apt -t testing install texlive 
 `````
-Somethings that I overlooked because of branding of Intel is that m3 uses DDR3 RAM, whereas modern Intel Pentium, Intel Celeron and AMD A4 use DDR4. Moreover, getting rid of fan though makes the system lighter and quiter, bottlenecks the capabilities of the processor. Also, since the prices fluctuate a lot, if it wasn't an emergency I would have waited for better price on alternatives. If mobility was not a concern, then 15" windows laptops with Core i3 or Ryzen 3 dual core processors and SSD, like Acer Aspire 5, Asus VivoBook 15, Dell Inspiron and Lenovo Ideapad were good options. If I knew that we will be teaching for home then Apple iPad Mini would have been a better option.
+
+Somethings that I overlooked because of the Intel branding is that m3 uses DDR3 RAM, whereas modern Intel Pentium, Intel Celeron and AMD A4 use DDR4. Moreover, getting rid of fan though makes the system lighter and quiter, bottlenecks the capabilities of the processor. Also, since the prices fluctuate a lot, if it wasn't an emergency I would have waited for better price on alternatives. If mobility was not a concern, then 15" windows laptops with Core i3 or Ryzen 3 dual core processors and SSD, like Acer Aspire 5, Asus VivoBook 15, Dell Inspiron and Lenovo Ideapad were good options. If I knew that we will be teaching for home then Apple iPad Mini would have been a better option.
 
 I will end by quoting the reviews I read before buying this chromebook and ignored the warnings:
 
