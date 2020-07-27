@@ -19,32 +19,7 @@ All these three levels have emerging comeptitors like Manjaro and Solus competin
 
 The main use of my new PC is to write documents in LaTeX, hence I would really like to have easy access to the latest version of texlive and text-editor (like Vim, though you will always get some version of vim-minimal pre-installed). However, stable distros like Ubuntu LTS tend to have outdated repositories of both of these and try to mitigate this with untrusted PPAs, [unstable Snaps](https://jatan.blog/2020/05/02/ubuntu-snap-obsession-has-snapped-me-off-of-it/) and [useless Flatpaks](https://medium.com/@alex285/using-flatpak-vim-from-flathub-d876faa00d5b). Moreover, compiling them from sources can be a bit tricky (eg:  installing [TexLive](https://tex.stackexchange.com/q/1092/73743) and [Vim](https://vi.stackexchange.com/q/10817/30343)). Hence I felt the need to migrate to a distro which can give **easy access to latest version of these programs**. But I don't have enough time and knowledge to be able to maintain the stability and security of rolling-release distros like Arch, openSUSE TW and Gentoo. Therefore, since I don't need any proprietary drivers for my PC, I decided to take a middle ground and move to the [pseudo-rolling/stable-release distro](https://www.reddit.com/r/linux/comments/96dlhy/why_fedora_does_not_market_it_self_as_rolling/e40fhtu/) Fedora (13 month life cycle, new release every 6 months) which is the upstream source of the commercial Red Hat Enterprise Linux distribution. Another reason for choosing Fedora was that its community is more knowledgebable (RedHat is [one of the biggest contributer](https://www.redhat.com/en/blog/red-hat-leads-open-source-contributions-to-kernel) to Linux kernel) and the [bugs](https://docs.fedoraproject.org/en-US/quick-docs/howto-file-a-bug/) acutally get resolved (unlike Ubuntu, Red Hat has lot of financial interests in solving bugs detected in Fedora, eg: this an year old [initramfs bug](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1835660) with temporary solution in forums). One bug that has followed me in Ubuntu and Linux Mint is the momentary blackout of screen when some pop-up menu opens in applications like Google Chrome and TexMaker Settings, however I have no hope of it getting solved since there is this [similar three years old bug report](https://askubuntu.com/questions/911666/) in the forums.
 
-For the desktop environment I decided to go with Xfce because most of my programs use GTK (hence not KDE or LXQt), didn't want to waste RAM for customizability (hence not GNOME 3 or MATE which are resource heavy but still lack simple in-built customization options like desktop wallpaper slideshow) and needed stability (hence not Cinnamon which lacks proper documentation and bug resolving mechanism, eg: this an year old [zombie-windows bug](https://github.com/linuxmint/cinnamon/issues/8856) which occors everytime I use [Zoom app](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux)). Though Xfce is highly customizable and has a great [documentation](https://docs.xfce.org/start), it lacks GUI for basic things like system info viewer, usage percentage viewer for individual core, user login picture manager (though Fedora has [Whisker menu plugin](https://src.fedoraproject.org/rpms/xfce4-whiskermenu-plugin), it lacks the required [Mugshot](https://src.fedoraproject.org/rpms/mugshot) package) and [tablet pen-pressure settings](https://docs.xfce.org/xfce/xfce4-settings/mouse) (which is very nicely done for GNOME 3, Cinnamon and KDE). However, these can easily be done using manually via Terminal. For example, for system info we have CLI tools like `inxi` ([doc](https://smxi.org/docs/inxi-man.htm)), `neofetch` and `lshw`. Also, to view system usage infor we can use tool like `top` in terminal, and [get individual core usage](https://askubuntu.com/a/257258) by `top 1` ([doc](http://manpages.ubuntu.com/manpages/xenial/en/man1/top.1.html)). We can manually edit the [profile picture configuration](https://forums.fedoraforum.org/showthread.php?295285-Change-user-picture-in-login-manager-Fedora-19-XFCE)
-
-````
-$ sudo mkdir /var/lib/AccountsService/icons/<your_user_name>
-$ sudo cp ~/home/<my_picture_of_size_96x96>.png /var/lib/AccountsService/icons/<your_user_name>
-
-$ sudo mousepad /var/lib/AccountsService/users/<your_user_name>
-````
-
-Add the line: `Icon=/var/lib/AccountsService/icons/<your_user_name>/<my_picture_of_size_96x96>.png`. And for Wacom tablet pen-pressure on X Window System we can use `xsetwacom` ([doc](https://github.com/linuxwacom/xf86-input-wacom/wiki/xsetwacom))
-
-`````
-xsetwacom set "Wacom One by Wacom S Pen stylus" PressureCurve 0 75 25 100
-````` 
-
-However, any setting changed by `xsetwacom` will be reset to default (or a statically configured setting) whenever the device is unplugged, disabled or the X Server is restarted. One can make Linux [run the command automatically at startup](https://smallbusiness.chron.com/run-command-startup-linux-27796.html) or  change [xorg.conf](https://github.com/linuxwacom/xf86-input-wacom/wiki/Tablet-Configuration-1:-xsetwacom-and-xorg.conf), but they have limitations (like when hot-plugging the device). For more details refer to this [Arch wiki page](https://wiki.archlinux.org/index.php/wacom_tablet). Note that, these CLI methods [won't work when using Wayland](https://github.com/linuxwacom/xf86-input-wacom/wiki/Wayland-and-Wacom-devices) instead of Xorg. I could't make CLI work in Cinnamon, only GUI settings worked and provided the following options:
-
-````
-  0  75   25  100  # very soft
-  0  50   50  100  # soft
-  0  25   75  100  # little soft
-  0   0  100  100  # default
- 25   0  100   75  # little firm
- 50 100  100   50  # firm
- 75   0  100   25  # very firm
-````
+For the desktop environment I decided to go with Xfce because most of my programs use GTK (hence not KDE or LXQt), didn't want to waste RAM for customizability (hence not GNOME 3 or MATE which are resource heavy but still lack simple in-built customization options like desktop wallpaper slideshow) and needed stability (hence not Cinnamon which lacks proper documentation and bug resolving mechanism, eg: this an year old [zombie-windows bug](https://github.com/linuxmint/cinnamon/issues/8856) which occors everytime I use [Zoom app](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux)). 
 
 I installed Xfce Fedora via netinstall mode using [Network Installer](https://alt.fedoraproject.org/) since Fedora 32 and its [spins](https://spins.fedoraproject.org/en/xfce/) had [a bug](https://bugzilla.redhat.com/show_bug.cgi?id=1816787) during initial release which has been corrected with the latest updates. Fedora comes with Ubuntu's [LightDM display manager](https://github.com/canonical/lightdm) which manages the login screen, in the case of Xfce Fedora uses the Xubuntu's [LightDM GTK+ Greeter](https://github.com/Xubuntu/lightdm-gtk-greeter).
 
@@ -156,3 +131,31 @@ Xournal++, AbeWord, Gnumeric, Evince, SuperTuxKart, Cheese, texlive, Xarchiver
 # Introspection
 
 The plan is to [upgrade to next version of Fedora](https://docs.fedoraproject.org/en-US/quick-docs/dnf-system-upgrade/) three months after its release so that maximum bugs can be avoided. Hence I will get a system wide update twice a year. Fedora is going to change to [btrfs as default filesystem](https://fedoraproject.org/wiki/Changes/BtrfsByDefault) in Fedora 33. Currently for server/netinstall it [defaults to xfs filesystem](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-Server-22-XFS) which is [really good](https://www.phoronix.com/scan.php?page=article&item=linux-58-filesystems&num=4). One annoying thing is that you will have to install lots of updates everyday since Fedora pushes bug fixes as soon as they are found, irrespective of how important they are. Moreover, the supported releases are updated to the latest stable version of the Linux kernel, increasing the chances of unstability. 
+
+Though Xfce is highly customizable and has a great [documentation](https://docs.xfce.org/start), it lacks GUI for basic things like system info viewer, usage percentage viewer for individual core, user login picture manager (though Fedora has [Whisker menu plugin](https://src.fedoraproject.org/rpms/xfce4-whiskermenu-plugin), it lacks the required [Mugshot](https://src.fedoraproject.org/rpms/mugshot) package) and [tablet pen-pressure settings](https://docs.xfce.org/xfce/xfce4-settings/mouse) (which is very nicely done for GNOME 3, Cinnamon and KDE). However, these can easily be done using manually via Terminal. For example, for system info we have CLI tools like `inxi` ([doc](https://smxi.org/docs/inxi-man.htm)), `neofetch` and `lshw`. Also, to view system usage infor we can use tool like `top` in terminal, and [get individual core usage](https://askubuntu.com/a/257258) by `top 1` ([doc](http://manpages.ubuntu.com/manpages/xenial/en/man1/top.1.html)). We can manually edit the [profile picture configuration](https://forums.fedoraforum.org/showthread.php?295285-Change-user-picture-in-login-manager-Fedora-19-XFCE)
+
+````
+$ sudo mkdir /var/lib/AccountsService/icons/<your_user_name>
+$ sudo cp ~/home/<my_picture_of_size_96x96>.png /var/lib/AccountsService/icons/<your_user_name>
+
+$ sudo mousepad /var/lib/AccountsService/users/<your_user_name>
+````
+
+Add the line: `Icon=/var/lib/AccountsService/icons/<your_user_name>/<my_picture_of_size_96x96>.png`. And for Wacom tablet pen-pressure on X Window System we can use `xsetwacom` ([doc](https://github.com/linuxwacom/xf86-input-wacom/wiki/xsetwacom))
+
+`````
+xsetwacom set "Wacom One by Wacom S Pen stylus" PressureCurve 0 75 25 100
+````` 
+
+However, any setting changed by `xsetwacom` will be reset to default (or a statically configured setting) whenever the device is unplugged, disabled or the X Server is restarted. One can make Linux [run the command automatically at startup](https://smallbusiness.chron.com/run-command-startup-linux-27796.html) or  change [xorg.conf](https://github.com/linuxwacom/xf86-input-wacom/wiki/Tablet-Configuration-1:-xsetwacom-and-xorg.conf), but they have limitations (like when hot-plugging the device). For more details refer to this [Arch wiki page](https://wiki.archlinux.org/index.php/wacom_tablet). Note that, these CLI methods [won't work when using Wayland](https://github.com/linuxwacom/xf86-input-wacom/wiki/Wayland-and-Wacom-devices) instead of Xorg. I could't make CLI work in Cinnamon, only GUI settings worked and provided the following options:
+
+````
+  0  75   25  100  # very soft
+  0  50   50  100  # soft
+  0  25   75  100  # little soft
+  0   0  100  100  # default
+ 25   0  100   75  # little firm
+ 50 100  100   50  # firm
+ 75   0  100   25  # very firm
+````
+
