@@ -107,6 +107,8 @@ Few [panel plugins](https://docs.xfce.org/panel-plugins/start) like Datetime, Pl
 |Clipboard manager | Clipman | xfce4-clipman-plugin|
 |Weather indicator on taskbar | Weather | xfce4-weather-plugin|
 
+Note that the weather plugin has known bugs, like using forecast data from [Meteorologisk institutt](https://www.met.no/) instead of actual data from [OpenWeatherMap](https://openweathermap.org/) and co-ordinating day/night icon with [UTC instead of local time](https://bugzilla.xfce.org/show_bug.cgi?id=16091). None of these bugs are there in Cinnamon's weather plugin.
+
 ## Free and open source software
 
 Vim, PulseAudio Volume Control and dnfdragora are already available.
