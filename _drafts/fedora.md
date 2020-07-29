@@ -189,4 +189,3 @@ However, any setting changed by `xsetwacom` will be reset to default (or a stati
  50 100  100   50  # firm
  75   0  100   25  # very firm
 ````
-
