@@ -17,6 +17,7 @@ For normal consumer products like desktops and laptops, Microsoft Windows has th
   <img src="/images/redhat.jpg" alt="my alt text" style="width:534px;height:269px;"/>
   <figcaption> My understanding of RHEL development.</figcaption>
 </figure>
+
 The second most popular enterprise Linux distro is SUSE, its main target is the European market. In recent years, it has also [reorganized itself](https://www.admin-magazine.com/Archive/2017/38/An-exclusive-interview-with-openSUSE-Chairman-Richard-Brown) in a way similar to RHEL to speed up innovation:
 
 
