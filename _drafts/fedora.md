@@ -14,19 +14,24 @@ Free and open-source software are great because they allow transparency and tech
 
 For normal consumer products like desktops and laptops, Microsoft Windows has the monopoly because it comes pre-installed for free and is supported by all softwares (games) and latest hardware. However, in the enterprise world where mainframe computers and servers need to be really secure, Linux distributions like Ubuntu, RHEL, CentOS, SUSE and Debian tend to be more popular. Among these, Debian is the only one which is not owned by any specific company, but [companies can directly fund the long-term-support](https://wiki.debian.org/LTS/Funding). Ubuntu, which derives its source from Debian Sid, is [quite popular among tech start-ups](https://ubuntu.com/blog/ubuntu-startups-a-match-made-in-code) because of its freemium kind of business model where anyone can download it for free and one only needs to pay for extended service (similar to the extreme popularity of the free-to-play games like Fortnite and PUBG) . In fact, it was marketed so well that it is the most popular Linux distribution among people who just wants a better OS than Windows but can't afford to be a part of Mac ecosystem.
 
+<figure>
+  <img src="/images/ubuntu.jpg" alt="my alt text" style="width:534px;height:269px;"/>
+  <figcaption> My understanding of current Ubuntu development.</figcaption>
+</figure>
+
 Ubuntu's major contribution has been the [LightDM](https://wiki.ubuntu.com/LightDM) display manager. However, neither Ubuntu nor Debian is the market leader because they lack fast paced innovation. [RHEL has been the market leader](https://www.redhat.com/en/blog/red-hat-leading-enterprise-linux-server-market) for enterprise linux for a long time, mainly because it has [invested a lot in innovation](https://www.linuxfoundation.org/blog/2016/08/the-top-10-developers-and-companies-contributing-to-the-linux-kernel-in-2015-2016/). Following is a rough representation of how it works in present:
 <figure>
   <img src="/images/redhat2.jpg" alt="my alt text" style="width:534px;height:269px;"/>
   <figcaption> My understanding of current RHEL development.</figcaption>
 </figure>
 
-The second most popular enterprise Linux distro is SUSE, it is the oldest commercial Linux distro. In recent years, it has also [reorganized itself](https://www.admin-magazine.com/Archive/2017/38/An-exclusive-interview-with-openSUSE-Chairman-Richard-Brown) in a way similar to RHEL to speed up innovation:
+The second most popular enterprise Linux distro is SUSE, it is the oldest commercial Linux distro. In recent years, it has also [reorganized itself](https://www.admin-magazine.com/Archive/2017/38/An-exclusive-interview-with-openSUSE-Chairman-Richard-Brown) by starting community driven openSUSE project similar to the successful Fedora project to speed up innovation:
 <figure>
   <img src="/images/suse2.jpg" alt="my alt text" style="width:534px;height:269px;"/>
   <figcaption> My understanding of current SUSE development.</figcaption>
 </figure>
 
-This new Tumbleweed was a result of the [‘merger’ of Old Tumbleweed and Factory in November 2014](https://rootco.de/2016-03-28-why-use-tumbleweed/). Recently, AMD to complement its great technological advancements have [started making significant contributions to the Linux kernel](https://wiki.archlinux.org/index.php/AMDGPU). In fact, it is also [one of the primary sponsors of openSUSE project](https://en.opensuse.org/Sponsors). In my opinion, openSUSE Tumbleweed is a good comeptitor for Fedora since it strives to provide access to latest packages using rolling release instead of short lived point release. On the other hand, openSUSE Leap is a good competitor for Ubuntu since it gives an option for upgrading to much superior SUSE enterprise. 
+This new Tumbleweed was a result of the [‘merger’ of Old Tumbleweed and Factory in November 2014](https://rootco.de/2016-03-28-why-use-tumbleweed/). Recently, AMD to complement its great technological advancements have [started making significant contributions to the Linux kernel](https://wiki.archlinux.org/index.php/AMDGPU). In fact, it is also [one of the primary sponsors of openSUSE project](https://en.opensuse.org/Sponsors). In my opinion, openSUSE Tumbleweed is a good comeptitor for Fedora since it strives to provide access to latest packages using rolling release instead of short lived point release. On the other hand, openSUSE Leap is a good competitor for Ubuntu LTS since it gives an option for upgrading to much superior SUSE enterprise. 
 
 # Mix and Match
 
