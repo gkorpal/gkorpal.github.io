@@ -18,7 +18,7 @@ For normal consumer products like desktops and laptops, Microsoft Windows has th
 The second most popular enterprise Linux distro is SUSE, its main target is the European market. In recent years, it has also [reorganized itself](https://www.admin-magazine.com/Archive/2017/38/An-exclusive-interview-with-openSUSE-Chairman-Richard-Brown) in a way similar to RHEL to speed up innovation:
 
 
-Recently, AMD has been making great technological advancements and [started making significant contributions to open source](https://wiki.archlinux.org/index.php/AMDGPU). In fact, it is also [one of the primary sponsor of openSUSE](https://en.opensuse.org/Sponsors). Here, openSUSE Tumbleweed is a good comeptitor for Fedora since it provides access to latest packages using rolling release instead of short lived point release. On the other hand, openSUSE Leap is a good competitor for Ubuntu since it gives an option for upgrading to much superior SUSE enterprise. 
+Recently, AMD has been making great technological advancements and [started making significant contributions to open source](https://wiki.archlinux.org/index.php/AMDGPU). In fact, it is also [one of the primary sponsor of openSUSE](https://en.opensuse.org/Sponsors). In my opinion, openSUSE Tumbleweed is a good comeptitor for Fedora since it strives to provide access to latest packages using rolling release instead of short lived point release. On the other hand, openSUSE Leap is a good competitor for Ubuntu since it gives an option for upgrading to much superior SUSE enterprise. 
 
 # Mix and Match
 
