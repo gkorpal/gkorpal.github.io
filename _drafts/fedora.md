@@ -24,7 +24,7 @@ The second most popular enterprise Linux distro is SUSE, it is the oldest commer
   <figcaption> My understanding of current SUSE development.</figcaption>
 </figure>
 
-This new Tumbleweed was a result of the [‘merger’ of Old Tumbleweed and Factory in November 2014](https://rootco.de/2016-03-28-why-use-tumbleweed/). Recently, AMD has been making great technological advancements and [started making significant contributions to open source](https://wiki.archlinux.org/index.php/AMDGPU). In fact, it is also [one of the primary sponsor of openSUSE](https://en.opensuse.org/Sponsors). In my opinion, openSUSE Tumbleweed is a good comeptitor for Fedora since it strives to provide access to latest packages using rolling release instead of short lived point release. On the other hand, openSUSE Leap is a good competitor for Ubuntu since it gives an option for upgrading to much superior SUSE enterprise. 
+This new Tumbleweed was a result of the [‘merger’ of Old Tumbleweed and Factory in November 2014](https://rootco.de/2016-03-28-why-use-tumbleweed/). Recently, AMD to complement its great technological advancements have [started making significant contributions to the Linux kernel](https://wiki.archlinux.org/index.php/AMDGPU). In fact, it is also [one of the primary sponsors of openSUSE project](https://en.opensuse.org/Sponsors). In my opinion, openSUSE Tumbleweed is a good comeptitor for Fedora since it strives to provide access to latest packages using rolling release instead of short lived point release. On the other hand, openSUSE Leap is a good competitor for Ubuntu since it gives an option for upgrading to much superior SUSE enterprise. 
 
 # Mix and Match
 
