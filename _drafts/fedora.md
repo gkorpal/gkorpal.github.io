@@ -102,6 +102,9 @@ dnf copr enable user/project.
 
 Note that just like Ubuntu PPA and Arch AUR, there is no way to verify that a package in Copr does not contain anything malicious unless you review the source code.
 
+## Linux Security Modules
+
+Ubuntu uses AppArmor, whereas Fedora uses SELinux. AppAromor is said to be easier to maintain than SELinux.
 
 # Installing Fedora
 
