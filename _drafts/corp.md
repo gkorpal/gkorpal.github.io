@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Communities vs Corporations for Linux"
+title:  "aa"
 header:
 categories: 
   - Jekyll
