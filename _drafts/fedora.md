@@ -20,7 +20,7 @@ For normal consumer products like desktops and laptops, Microsoft Windows has th
 
 The second most popular enterprise Linux distro is SUSE, it is the oldest commercial Linux distro. In recent years, it has also [reorganized itself](https://www.admin-magazine.com/Archive/2017/38/An-exclusive-interview-with-openSUSE-Chairman-Richard-Brown) in a way similar to RHEL to speed up innovation:
 <figure>
-  <img src="/images/suse.jpg" alt="my alt text" style="width:534px;height:269px;"/>
+  <img src="/images/suse1.jpg" alt="my alt text" style="width:534px;height:269px;"/>
   <figcaption> My understanding of current SUSE development.</figcaption>
 </figure>
 
