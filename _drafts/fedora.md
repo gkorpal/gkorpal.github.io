@@ -109,7 +109,7 @@ Note that just like Ubuntu PPA and Arch AUR, there is no way to verify that a pa
 
 ## Linux Security Modules
 
-Ubuntu uses AppArmor, whereas Fedora uses SELinux. AppAromor is said to be easier to maintain than SELinux.
+Ubuntu uses AppArmor (which was earlier developed by SUSE), whereas Fedora uses SELinux. AppAromor is said to be easier to maintain than SELinux.
 
 # Installing Fedora
 
