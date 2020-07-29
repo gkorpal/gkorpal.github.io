@@ -31,7 +31,7 @@ Following is the comparison of my PC with the best laptop available in the marke
 This will certainly an upgrade from the desktop computer I used a decade ago with Intel Pentium 4 CPU and 512MB RAM (no idea what graphics card was there in that machine). Moreover, though on paper Intel Core i7 4702MQ (my old Thinkpad) is not much worse than AMD Ryzen 3 3200G in terms of CPU performance, the AMD iGPU much better. For instance,  with the best graphic settings of [SuperTuxKart](https://supertuxkart.net/Main_Page) (for 60FPS/1080p required to have min AMD Radeon RX 460 with 1 GB VRAM), AMD gives about 30 fps on an average whereas Intel only gives 10 fps.
 
 <figure>
-  <img src="/images/mint20.png" alt="my alt text" style="width:534px;height:269px;"/>
+  <img src="/images/mint.png" alt="my alt text" style="width:534px;height:269px;"/>
   <figcaption> Desktop screenshot showing neofetch output.</figcaption>
 </figure>
 
