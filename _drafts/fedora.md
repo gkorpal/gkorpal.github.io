@@ -132,7 +132,7 @@ Select Xfce Fedora without any extra software programs, we will manually install
 
 [system-upgrade](https://dnf-plugins-extras.readthedocs.io/en/latest/system-upgrade.html) and 
 
-## Xfce panel plugins
+## Xfce appearance
 
 Few [panel plugins](https://docs.xfce.org/panel-plugins/start) like Datetime, Places, PulseAudio and ScreenShooter are already installed.
 
@@ -142,6 +142,8 @@ Few [panel plugins](https://docs.xfce.org/panel-plugins/start) like Datetime, Pl
 |Weather indicator on taskbar | Weather | xfce4-weather-plugin|
 
 Note that the weather plugin has known bugs, like using inaccurate data from [Meteorologisk institutt](https://www.met.no/) instead of actual data from [OpenWeatherMap](https://openweathermap.org/) and co-ordinating day/night icon with [UTC instead of local time](https://bugzilla.xfce.org/show_bug.cgi?id=16091). None of these bugs are there in [Cinnamon's weather plugin](https://cinnamon-spices.linuxmint.com/applets/view/17).
+
+Themes: https://fedoramagazine.org/tweaking-the-look-of-fedora-workstation-with-themes/
 
 ## Free and open source software
 
