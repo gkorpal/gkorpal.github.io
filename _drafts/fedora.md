@@ -115,7 +115,7 @@ Ubuntu uses AppArmor (which was earlier developed by SUSE), whereas Fedora uses 
 
 # Installing Fedora
 
-Make bootable pendrive using [Fedora Media Writer](https://flathub.org/apps/details/org.fedoraproject.MediaWriter), unfortunately it requires KDE so will install that also. Select Xfce Fedora without any extra software programs, we will manually install the ones we want. Also reclaim the whole disk to remove the previously installed OS. To bypass creating root password in netinstall mode, just create a user account and mark it as administrator.
+Make bootable pendrive using the Qt app [Fedora Media Writer](https://flathub.org/apps/details/org.fedoraproject.MediaWriter), unfortunately it requires KDE so will install that also. Select Xfce Fedora without any extra software programs, we will manually install the ones we want. Also reclaim the whole disk to remove the previously installed OS. To bypass creating root password in netinstall mode, just create a user account and mark it as administrator.
 
 ## DNF plugins
 
