@@ -115,14 +115,15 @@ Ubuntu uses AppArmor (which was earlier developed by SUSE), whereas Fedora uses 
 
 Firstly download and verify the iso file. Then make a bootable pendrive using the Qt app [Fedora Media Writer](https://flathub.org/apps/details/org.fedoraproject.MediaWriter), unfortunately it requires KDE so will install that also. I decided to use ext4 file system, which is the current default file system for Workstation and Spins, instead of  the dfault file system [xfs for Server/Netinstall](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-Server-22-XFS) (there are benchmarks claiming either [xfs is better](https://www.phoronix.com/scan.php?page=article&item=linux-58-filesystems&num=4) or [ext4 is better](https://unix.stackexchange.com/questions/525613/xfs-vs-ext4-performance)). I followed [Fedora's recommended partitioning scheme](https://docs.fedoraproject.org/en-US/fedora/f32/install-guide/install/Installing_Using_Anaconda/#sect-installation-gui-manual-partitioning-recommended) and created the following [standard GUID partition table](https://docs.fedoraproject.org/en-US/fedora/f32/install-guide/install/Installing_Using_Anaconda/#sect-installation-gui-manual-partitioning-standard):
 
-| Mount Point | File System | Size |
-|-------------|-------------|------|
-| /boot/efi |  vfat | 500MB |
-| / | ext4 |  |
-| swap | swap |  12GB |
-|/home | ext4 | |
+| Mount Point | Parition Type |File System | Size |
+|-------------|----------------|-----------|------|
+|/boot | Standard | ext4 | 500 MB |
+| /boot/efi | Standard |  vfat/EFI System Partition | 200 MB |
+| / |  LVM  | ext4 | 20 GB |
+|/home | LVM |ext4 | remaining |
+| swap | LVM | swap |  4 GB |
 
-Note that separate `/boot` and `/boot/efi` were [needed for GRUB boot](https://fedoramagazine.org/learning-about-partitions-and-how-to-create-them-for-fedora/#comment-493223), however the [re-written GRUB2](https://fedoraproject.org/wiki/GRUB_2) which is default in most modern Linux OS [doesn't require that anymore](https://superuser.com/a/520088). However, Fedora somehow still insists on having [separate paritions](https://ask.fedoraproject.org/t/size-of-boot-efi-partition-needed-for-fedora-30/1891/3).
+Note that since modern Linux OS use GRUB2 they [don't require separate partitions](https://superuser.com/a/520088) for `/boot` and `/boot/efi` partitons. The only requirement is that `/boot` directory [must be on a plain ext4 or xfs partition](https://fedoraproject.org/wiki/Unified_Extensible_Firmware_Interface#Partitioning_for_UEFI) and `/boot/efi` must be [a plain vfat](https://fedoramagazine.org/learning-about-partitions-and-how-to-create-them-for-fedora/).  If one wants to install Fedora with only two paritions `/` and `/boot` then it is recommended to [use systemd-boot boot loader](https://fedoramagazine.org/learning-about-partitions-and-how-to-create-them-for-fedora/) instead. However, since we are following Fedora's [recommended partitoning scheme](https://docs.fedoraproject.org/en-US/fedora/f32/install-guide/install/Installing_Using_Anaconda/#sect-installation-gui-manual-partitioning-standard) we created a separate `/boot` parition also. 
 
 Select Xfce Fedora without any extra software programs, we will manually install the ones we want. Also reclaim the whole disk to remove the previously installed OS. To bypass creating root password in netinstall mode, just create a user account and mark it as administrator.
 
