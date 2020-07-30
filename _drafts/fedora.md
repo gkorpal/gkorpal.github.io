@@ -122,7 +122,7 @@ Firstly download and verify the iso file. Then make a bootable pendrive using th
 | swap | swap |  12GB |
 |/home | ext4 | |
 
-Note that we [don't need spearate](https://fedoramagazine.org/learning-about-partitions-and-how-to-create-them-for-fedora/#comment-493223) /boot and /boot/efi partition but GRUB boot loader prefers that.
+Note that separate `/boot` and `/boot/efi` were [needed for GRUB boot](https://fedoramagazine.org/learning-about-partitions-and-how-to-create-them-for-fedora/#comment-493223), however the [re-written GRUB2](https://fedoraproject.org/wiki/GRUB_2) which is default in most modern Linux OS [doesn't require that anymore](https://superuser.com/a/520088). However, Fedora somehow still insists on having [separate paritions](https://ask.fedoraproject.org/t/size-of-boot-efi-partition-needed-for-fedora-30/1891/3).
 
 Select Xfce Fedora without any extra software programs, we will manually install the ones we want. Also reclaim the whole disk to remove the previously installed OS. To bypass creating root password in netinstall mode, just create a user account and mark it as administrator.
 
