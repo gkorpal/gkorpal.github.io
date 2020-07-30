@@ -118,12 +118,12 @@ Firstly download and verify the iso file. Then make a bootable pendrive using th
 | Mount Point | Parition Type |File System | Size |
 |-------------|----------------|-----------|------|
 |/boot | Standard | ext4 | 500 MB |
-| /boot/efi | Standard |  vfat/EFI System Partition | 200 MB |
+| /boot/efi | Standard |  vfat | 200 MB |
 | / |  LVM  | ext4 | 20 GB |
 |/home | LVM |ext4 | remaining |
 | swap | LVM | swap |  4 GB |
 
-Note that since modern Linux OS use GRUB2 they [don't require separate partitions](https://superuser.com/a/520088) for `/boot` and `/boot/efi` partitons. The only requirement is that `/boot` directory [must be on a plain ext4 or xfs partition](https://fedoraproject.org/wiki/Unified_Extensible_Firmware_Interface#Partitioning_for_UEFI) and `/boot/efi` must be [a plain vfat](https://fedoramagazine.org/learning-about-partitions-and-how-to-create-them-for-fedora/).  If one wants to install Fedora with only two paritions `/` and `/boot` then it is recommended to [use systemd-boot boot loader](https://fedoramagazine.org/learning-about-partitions-and-how-to-create-them-for-fedora/) instead. However, since we are following Fedora's [recommended partitoning scheme](https://docs.fedoraproject.org/en-US/fedora/f32/install-guide/install/Installing_Using_Anaconda/#sect-installation-gui-manual-partitioning-standard) we created a separate `/boot` parition also. 
+Note that since modern Linux OS use GRUB2 they [don't require separate partitions](https://superuser.com/a/520088) for both `/boot` and `/boot/efi` (EFI System Partition) directories. The only requirement is that `/boot` directory [must be on a plain ext4 or xfs partition](https://fedoraproject.org/wiki/Unified_Extensible_Firmware_Interface#Partitioning_for_UEFI) and `/boot/efi` directory [must be a plain vfat partition](https://fedoramagazine.org/learning-about-partitions-and-how-to-create-them-for-fedora/).  If one wants to install Fedora with only two paritions `/` and `/boot` then it is recommended to [use systemd-boot boot loader](https://fedoramagazine.org/learning-about-partitions-and-how-to-create-them-for-fedora/) instead. However, since we are following Fedora's [recommended partitoning scheme](https://docs.fedoraproject.org/en-US/fedora/f32/install-guide/install/Installing_Using_Anaconda/#sect-installation-gui-manual-partitioning-standard) we created a separate `/boot` parition with standrd ext4 format and used LMV for others. 
 
 Select Xfce Fedora without any extra software programs, we will manually install the ones we want. Also reclaim the whole disk to remove the previously installed OS. To bypass creating root password in netinstall mode, just create a user account and mark it as administrator.
 
