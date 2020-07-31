@@ -121,7 +121,7 @@ Firstly download and verify the iso file. Then make a bootable pendrive using th
 | /boot/efi | Standard |  vfat | 200 MB | 0.04 % |
 | / |  LVM  | ext4 | 20 GB | 4 % |
 |/home | LVM |ext4 | 475.3 GB | 95.06 % |
-| swap | LVM | swap |  4 GB | | 0.8 % |
+| swap | LVM | swap |  4 GB |  0.8 % |
 
 Note that since modern Linux OS use GRUB2 they [don't require separate partitions](https://superuser.com/a/520088) for both `/boot` and `/boot/efi` (EFI System Partition) directories. The only requirement is that `/boot` directory [must be on a plain ext4 or xfs partition](https://fedoraproject.org/wiki/Unified_Extensible_Firmware_Interface#Partitioning_for_UEFI) and `/boot/efi` directory [must be a plain vfat partition](https://fedoramagazine.org/learning-about-partitions-and-how-to-create-them-for-fedora/).  If one wants to install Fedora with only two paritions `/` and `/boot` then it is recommended to [use systemd-boot boot loader](https://fedoramagazine.org/learning-about-partitions-and-how-to-create-them-for-fedora/) instead. However, since we were following Fedora's [recommended partitoning scheme](https://docs.fedoraproject.org/en-US/fedora/f32/install-guide/install/Installing_Using_Anaconda/#sect-installation-gui-manual-partitioning-standard) we created a separate `/boot` parition with standard ext4 format and used LMV for the others. 
 
