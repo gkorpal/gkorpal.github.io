@@ -121,7 +121,7 @@ Firstly download and verify the iso file. Then make a bootable pendrive using th
 | /boot/efi | Standard |  EFI System Partition | 200 MB | 0.04 % |
 | swap | Standard | swap |  4 GB |  0.8 % |
 | / |  Standard  | ext4 | 60 GB |  12 % |
-|/home | Standard |ext4 | 435 GB | 91 % |
+|/home | Standard |ext4 | 435 GB | 87 % |
 
 Note that since modern Linux OS [don't require separate partitions](https://superuser.com/a/520088) for both `/boot` and `/boot/efi` (EFI System Partition) directories. The only requirement for suing GRUB2 boot loader is that `/boot` directory [must be on a plain ext4 or xfs partition](https://fedoraproject.org/wiki/Unified_Extensible_Firmware_Interface#Partitioning_for_UEFI) and `/boot/efi` directory [must be on a plain vfat partition](https://fedoramagazine.org/learning-about-partitions-and-how-to-create-them-for-fedora/).  If one wants to install Fedora with only two paritions `/` and `/boot` then it is recommended to [use systemd-boot boot loader](https://fedoramagazine.org/learning-about-partitions-and-how-to-create-them-for-fedora/) instead. However, since we were following Fedora's [recommended partitoning scheme](https://docs.fedoraproject.org/en-US/fedora/f32/install-guide/install/Installing_Using_Anaconda/#sect-installation-gui-manual-partitioning-recommended) we created separate `/boot` and `/home` paritions with standard ext4 format instead of leaving them with `/`. Also, I alloted thrice the recommended size for 20 GB for `/` because I plan to use Tmeshift which saves snapshots in root directory itself.
 
