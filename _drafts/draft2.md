@@ -32,7 +32,7 @@ This will certainly an upgrade from the desktop computer I used a decade ago wit
 
 <figure>
   <img src="/images/mint.png" alt="my alt text" style="width:534px;height:269px;"/>
-  <figcaption> Desktop screenshot showing neofetch output.</figcaption>
+  <figcaption> Desktop screenshot showing neofetch output. (open image in new tab if it is too small)</figcaption>
 </figure>
 
 ## Cloud Backup Setup for Linux PC (tested in Linux Mint and Ubuntu)
