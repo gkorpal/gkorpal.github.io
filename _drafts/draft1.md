@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Pre-Covid Crisis Tech Remedies (Jan 2020)"
+title:  ""
 header:
 categories: 
   - Jekyll
@@ -84,17 +84,18 @@ From what I had read about Chromebook's lack of basic capabilities (can't run mo
 | Quality Parameter | Asus Chromebook C425 (C425T) | Lenovo ThinkPad E440 (Custom build) |
 | ------------- |:--------------------------------------:|:----------------------------:|
 | Chassis |  Metal flap with plastic body. The laptop looks stylish but the hinge design is really bad. Can't be open with just one hand and it flexes the whole machine a little bit putting strain on the plastic casing. Therefore, the frame started cracking within 2 months of usage and it is not covered under warranty. | Metal flap with plastic body. The laptop looks simple and can be easily openend with one hand. Only the fan grill plastic broke after 5 years of rough usage.|
-|Display |  |  |
-|Speakers|   |   |
-| Keyboard | Makes web browsing more comfortable.  When the Chromebook lid swings out for use, the hinge forces the back of the keyboard up, [increasing strain on hinge](https://www.androidcentral.com/asus-c425-best-chromebook-buy-black-friday). | |
-| Trackpad |   |  |
-| Thermals | Due to the lack of fan, multitasking and video calls can make the right side of keyboard really hot (about 55°C). |  |
-|Internals| Coil whining | easy to upgrade |
+|Display | It is a thin and dull display, but with good enough viewing angles. Most probably, because of the uneven distribution of weight on the display hinges the chasis developed cracks.| It was really disappointing. Low viewing angles anf resolution. The Windows 10 looks really horrible on this screen. |
+|Speakers| Really loud and surprisingly good.  | They were OK. Had to use over amplify using VLC to make it loud enough.  |
+| Keyboard | Makes web browsing very comfortable.  When the Chromebook lid swings out for use, the hinge forces the back of the keyboard up, [increasing strain on hinge](https://www.androidcentral.com/asus-c425-best-chromebook-buy-black-friday). | This was the best feature about the laptop. I wrote many on my project reports and the master's thesis on it. Very comfortable.|
+| Trackpad | It is large and responsive. But since it is plastic and the chassis flexes, it can be less responsive some times.  | It was ok, but it is the only part of the laptop which deteriorated over time. |
+| Ports | The microSD card slot is a bit inconvenient to use since it lacks cover. Therefore, one needs to remove the card before butting the laptop in the bag otherwise it can get stuck inside.  | USB ports became loose and other ports got rusted. Maybe it was because of my lack of care.  |
+| Thermals | Due to the lack of fan, multitasking and video calls can make the right side of keyboard really hot to touch (about 55°C). | The laptop had an annoyingly loud fan which ran almost always, but still was too hot to be kept on lap. |
+|Internals| There was coil whining which took some time to get used to. | Easy to upgrade internals, but they should have gone with a better WiFi card. |
 
 
 # Introspection
 
-Crostini runs of Debian stable which tends to have outdated packages. However, one can easily get the latest version of software by adding [Debian Testing](https://wiki.debian.org/DebianTesting) to the source list [by adding following line to](https://nosarthur.github.io/coding/2019/09/05/crostini.html) `/etc/apt/sources.list` using Vim:
+For Linux access, Crostini runs Debian stable which tends to have outdated packages. However, one can easily get the latest version of software by adding [Debian Testing to the source list](https://nosarthur.github.io/coding/2019/09/05/crostini.html) `/etc/apt/sources.list` using Vim:
 
 `````
 deb http://deb.debian.org/debian testing main
@@ -108,7 +109,7 @@ Then one can install the latest package like `texlive` using
 sudo apt -t testing install texlive 
 `````
 
-Somethings that I overlooked because of the Intel branding is that m3 uses DDR3 RAM, whereas modern Intel Pentium, Intel Celeron and AMD A4 use DDR4. Moreover, getting rid of fan though makes the system lighter and quiter, bottlenecks the capabilities of the processor. Also, since the prices fluctuate a lot, if it wasn't an emergency I would have waited for better price on alternatives. If mobility was not a concern, then 15" windows laptops with Core i3 or Ryzen 3 dual core processors and SSD, like Acer Aspire 5, Asus VivoBook 15, Dell Inspiron and Lenovo Ideapad were good options. If I knew that we will be teaching for home then Apple iPad Mini would have been a better option.
+Somethings that I overlooked because of the Intel branding is that m3 uses DDR3 RAM, whereas even the modern Intel Pentium, Intel Celeron and AMD A4 use DDR4. Moreover, though getting rid of fan makes the system lighter and quiter, it also bottlenecks the capabilities of the processor. One problem with buying Chromebooks (or other computer poarts) is that their price fluctuates a lot, hence if it wasn't an emergency I would have waited for better price on alternatives. If mobility was not a concern, then 15" windows laptops with Core i3 or Ryzen 3 dual core processors and SSD, like Acer Aspire 5, Asus VivoBook 15, Dell Inspiron and Lenovo Ideapad were good options. If I knew that we will be teaching for home then Apple iPad Mini would have been a better option.
 
 I will end by quoting the reviews I read before buying this chromebook and ignored the warnings:
 
