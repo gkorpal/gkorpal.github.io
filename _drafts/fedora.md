@@ -205,3 +205,4 @@ However, any setting changed by `xsetwacom` will be reset to default (or a stati
  50 100  100   50  # firm
  75   0  100   25  # very firm
 ````
+The default appearance editor can only edit GTK2 themes and icons. That is, to edit GTK3 themes either edit the `~/.config/gtk-3.0/settings.ini` or use the LXDE appearance editor `lxappearance`.
