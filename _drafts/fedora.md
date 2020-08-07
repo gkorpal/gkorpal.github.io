@@ -115,13 +115,13 @@ Ubuntu uses AppArmor (which was earlier developed by SUSE), whereas Fedora uses 
 
 Firstly download and verify the iso file. Then make a bootable pendrive using the Qt app [Fedora Media Writer](https://flathub.org/apps/details/org.fedoraproject.MediaWriter), unfortunately it requires KDE so will install that also. I decided to use ext4 file system, which is the current default file system for Workstation and Spins, instead of  the dfault file system [xfs for Server/Netinstall](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-Server-22-XFS) (there are benchmarks claiming either [xfs is better](https://www.phoronix.com/scan.php?page=article&item=linux-58-filesystems&num=4) or [ext4 is better](https://unix.stackexchange.com/questions/525613/xfs-vs-ext4-performance)). I followed [Fedora's recommended partitioning scheme](https://docs.fedoraproject.org/en-US/fedora/f32/install-guide/install/Installing_Using_Anaconda/#sect-installation-gui-manual-partitioning-recommended) and created the following [GUID partition table](https://docs.fedoraproject.org/en-US/fedora/f32/install-guide/install/Installing_Using_Anaconda/#sect-installation-gui-manual-partitioning-standard):
 
-| Mount Point | Parition Type |File System | Size | % of total space|
+| Mount Point | Parition Type |File System | Size | % of total space (500 GB)|
 |-------------|----------------|-----------|------| ----------------|
 |/boot | Standard | ext4 | 500 MB | 0.1% |
 | /boot/efi | Standard |  EFI System Partition | 200 MB | 0.04 % |
 | swap | Standard | swap |  4 GB |  0.8 % |
 | / |  Standard  | ext4 | 60 GB |  12 % |
-|/home | Standard |ext4 | 435 GB | 87 % |
+|/home | Standard |ext4 | 435.4 GB | 87 % |
 
 Note that modern Linux OS [don't require separate partitions](https://superuser.com/a/520088) for both `/boot` and `/boot/efi` (EFI System Partition) directories. The only requirement for suing GRUB2 boot loader is that `/boot` directory [must be on a plain ext4 or xfs partition](https://fedoraproject.org/wiki/Unified_Extensible_Firmware_Interface#Partitioning_for_UEFI) and `/boot/efi` directory [must be on a plain vfat partition](https://fedoramagazine.org/learning-about-partitions-and-how-to-create-them-for-fedora/).  If one wants to install Fedora with only two paritions `/` and `/boot` then it is recommended to [use systemd-boot boot loader](https://fedoramagazine.org/learning-about-partitions-and-how-to-create-them-for-fedora/) instead. However, since we were following Fedora's [recommended partitoning scheme](https://docs.fedoraproject.org/en-US/fedora/f32/install-guide/install/Installing_Using_Anaconda/#sect-installation-gui-manual-partitioning-recommended) we created separate `/boot` and `/home` paritions with standard ext4 format instead of leaving them with `/`. Also, I alloted thrice the recommended size for 20 GB for `/` because I plan to use Timeshift which saves snapshots in root directory itself and works only with GRUB2 ([very important tool](https://www.zdnet.com/article/boothole-fixes-causing-boot-problems-across-multiple-linux-distros/), was [fixed later](https://bugs.launchpad.net/ubuntu/+source/grub2/+bug/1889556)).
 
