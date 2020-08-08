@@ -146,6 +146,8 @@ Note that the weather plugin has known bugs, like using inaccurate data from [Me
 
 Themes: https://fedoramagazine.org/tweaking-the-look-of-fedora-workstation-with-themes/
 
+Wallpapers: https://fedoramagazine.org/installing-extra-wallpaper-packs-to-fedora-workstation/
+
 ## Free and open source software
 
 Vim, PulseAudio Volume Control and dnfdragora are already available.
