@@ -206,3 +206,12 @@ However, any setting changed by `xsetwacom` will be reset to default (or a stati
  75   0  100   25  # very firm
 ````
 The default appearance editor can only edit GTK2 themes/icons. That is, to edit GTK3 themes/icons either edit the `~/.config/gtk-3.0/settings.ini` or use the LXDE appearance editor `lxappearance`.
+
+Follwing three errors logged:
+
+1.  [AMD-Vi](https://bugzilla.kernel.org/show_bug.cgi?id=201753#c1): Most likely this is a [false alarm](https://bbs.archlinux.org/viewtopic.php?id=218140) from the [Linux kernel](https://www.phoronix.com/scan.php?page=news_item&px=AMD-Picasso-AMDGPU-Patches). However, turning off IOMMU in BIOS is not an option (which somehow is [suggested in forums](https://askubuntu.com/questions/1239149/)) since it is [needed for HSA](https://bugzilla.redhat.com/show_bug.cgi?id=1404139) used by [AMD for making GPU and CPU work together in its APUs](https://en.wikipedia.org/wiki/Heterogeneous_System_Architecture#AMD). If I end up with [black-screen during boot](https://www.stephenwagner.com/2019/05/05/ubuntu-linux-black-screen-frozen-system-after-upgrade-install/) then I will consider [updating AGESA drivers in the BIOS](https://forums.linuxmint.com/viewtopic.php?p=1850190#p1850190).
+
+2. [Watchdog](https://bugzilla.kernel.org/show_bug.cgi?id=170741#c59): Another AMD Ryzen related [bug in Linux Kernel](https://bugzilla.redhat.com/show_bug.cgi?id=1406844). We can [just silence it](https://forum.mxlinux.org/viewtopic.php?f=104&t=59063). If I end up with [black-screen during boot](https://www.stephenwagner.com/2019/05/05/ubuntu-linux-black-screen-frozen-system-after-upgrade-install/) then I will consider [updating AGESA drivers in the BIOS](https://forum.manjaro.org/t/sp5100-tco-sp5100-tco-watchdog-hardware-is-disabled-solved/90717/2). 
+
+3.  [GNOME key-ring](https://gitlab.gnome.org/GNOME/gnome-keyring/-/issues/28): Issue originating from GNOME which have crept into LightDM.
+
