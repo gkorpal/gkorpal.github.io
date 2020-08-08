@@ -125,36 +125,15 @@ Firstly download and verify the iso file. Then make a bootable pendrive using th
 
 Note that modern Linux OS [don't require separate partitions](https://superuser.com/a/520088) for both `/boot` and `/boot/efi` (EFI System Partition) directories. The only requirement for suing GRUB2 boot loader is that `/boot` directory [must be on a plain ext4 or xfs partition](https://fedoraproject.org/wiki/Unified_Extensible_Firmware_Interface#Partitioning_for_UEFI) and `/boot/efi` directory [must be on a plain vfat partition](https://fedoramagazine.org/learning-about-partitions-and-how-to-create-them-for-fedora/).  If one wants to install Fedora with only two paritions `/` and `/boot` then it is recommended to [use systemd-boot boot loader](https://fedoramagazine.org/learning-about-partitions-and-how-to-create-them-for-fedora/) instead. However, since we were following Fedora's [recommended partitoning scheme](https://docs.fedoraproject.org/en-US/fedora/f32/install-guide/install/Installing_Using_Anaconda/#sect-installation-gui-manual-partitioning-recommended) we created separate `/boot` and `/home` paritions with standard ext4 format instead of leaving them with `/`. Also, I alloted thrice the recommended size for 20 GB for `/` because I plan to use Timeshift which saves snapshots in root directory itself and works only with GRUB2 ([very important tool](https://www.zdnet.com/article/boothole-fixes-causing-boot-problems-across-multiple-linux-distros/), was [fixed later](https://bugs.launchpad.net/ubuntu/+source/grub2/+bug/1889556)).
 
-Select Xfce Fedora without any extra software programs, we will manually install the ones we want. Also reclaim the whole disk to remove the previously installed OS. To bypass creating root password in netinstall mode, just create a user account and mark it as administrator.
+Select Xfce Fedora without any extra software programs, we will manually install the ones we want. To bypass creating root password in netinstall mode, just create a user account and mark it as administrator.
 
-## DNF plugins
+## Free and open source softwares
 
-[tracer](https://dnf-plugins-extras.readthedocs.io/en/latest/tracer.html).
-
-[system-upgrade](https://dnf-plugins-extras.readthedocs.io/en/latest/system-upgrade.html) and 
-
-## Xfce appearance
-
-Few [panel plugins](https://docs.xfce.org/panel-plugins/start) like Datetime, Places, PulseAudio and ScreenShooter are already installed.
+Vim, PulseAudio Volume Control and dnfdragora are already installed.
 
 | Purpose | Software | dnf Package |
 |----------|----------|---------|
-|Clipboard manager | Clipman | xfce4-clipman-plugin|
-|Weather indicator on taskbar | Weather | xfce4-weather-plugin|
-
-Note that the weather plugin has known bugs, like using inaccurate data from [Meteorologisk institutt](https://www.met.no/) instead of actual data from [OpenWeatherMap](https://openweathermap.org/) and co-ordinating day/night icon with [UTC instead of local time](https://bugzilla.xfce.org/show_bug.cgi?id=16091). None of these bugs are there in [Cinnamon's weather plugin](https://cinnamon-spices.linuxmint.com/applets/view/17).
-
-Themes: https://fedoramagazine.org/tweaking-the-look-of-fedora-workstation-with-themes/
-
-Wallpapers: https://fedoramagazine.org/installing-extra-wallpaper-packs-to-fedora-workstation/
-
-## Free and open source software
-
-Vim, PulseAudio Volume Control and dnfdragora are already available.
-
-| Purpose | Software | dnf Package |
-|----------|----------|---------|
-|Login screen modification tool | [LightDM GTK+ Greeter settings](https://wiki.archlinux.org/index.php/LightDM#GTK_greeter) | lightdm-gtk-greeter-settings |
+|Login screen modification tool | [LightDM GTK+ Greeter settings](https://wiki.archlinux.org/index.php/LightDM#GTK_greeter) | `lightdm-gtk-greeter-settings` |
 |System Restore | [Timeshift](https://github.com/teejee2008/timeshift) | timeshift|
 |GUI for Systemd Journal |[GNOME Logs](https://wiki.gnome.org/Apps/Logs)| gnome-logs |
 |Web browser| Firefox | firefox |
@@ -175,6 +154,42 @@ Xournal++, AbeWord, Gnumeric, Evince, SuperTuxKart, Cheese, texlive, Xarchiver
 |Using streaming services like Netflix which require  h264/mp3/aac and widevine | Google Chrome | [fedora-workstation-repositories](https://fedoraproject.org/wiki/Workstation/Third_Party_Software_Repositories)|
 |Video conferencing | Zoom | [manual download](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux#h_b6ce9fba-dd38-4448-80c0-ac2e58db3acc)|
 
+## DNF plugins
+
+We will install the following two plugins:
+
+|Purpose | Plugin | dnf package |
+|--------|--------|-------------|
+|To check which services need to be restarted after update | [tracer](https://dnf-plugins-extras.readthedocs.io/en/latest/tracer.html) | `dnf-plugins-extras-tracer` |
+|To upgrade Fedora to the latest version| [system-upgrade](https://dnf-plugins-extras.readthedocs.io/en/latest/system-upgrade.html)| `system-upgrade` |  
+
+## Xfce panel plugins appearance
+
+Few [panel plugins](https://docs.xfce.org/panel-plugins/start) like Datetime, Places, PulseAudio and ScreenShooter are already installed.
+
+| Purpose | Plugin | dnf Package |
+|----------|----------|---------|
+|Clipboard manager | Clipman | `xfce4-clipman-plugin`|
+|Weather indicator on taskbar | Weather | `xfce4-weather-plugin`|
+
+Note that the weather plugin has known bugs, like using inaccurate data from [Meteorologisk institutt](https://www.met.no/) instead of actual data from [OpenWeatherMap](https://openweathermap.org/) and co-ordinating day/night icon with [UTC instead of local time](https://bugzilla.xfce.org/show_bug.cgi?id=16091). None of these bugs are there in [Cinnamon's weather plugin](https://cinnamon-spices.linuxmint.com/applets/view/17).
+
+## Appearance: Themes and Wallpapers
+
+We will install the following [themes](https://fedoramagazine.org/tweaking-the-look-of-fedora-workstation-with-themes/) and [wallpapers](https://fedoramagazine.org/installing-extra-wallpaper-packs-to-fedora-workstation/):
+
+| Purpose | Name | dnf Package |
+|----------|----------|---------|
+|GTK+ Theme | [Numix](https://github.com/numixproject/numix-gtk-theme) | `numix-gtk-theme` and `numix-icon-theme`|
+|Wallpapers | Fedora 32 Supplemental Wallpapers | `f32-backgrounds-extras-xfce` |
+
+To apply this theme select "Numix" in 
+*  Settings Manager > Window Manager > Style
+*  Settings Manager >  Appearance > Style
+*  Settings Manager >  Appearance > Icons
+*  Settings Manager > LightDM GTK+ Greeter settings > Appearance
+
+Note that the default appearance editor can only edit GTK2 themes/icons. Therefore, to edit GTK3 themes/icons either edit the `~/.config/gtk-3.0/settings.ini` or use the LXDE appearance editor `lxappearance`. To change background use "Settings Manager >  Desktop > Background" and select the folder `/usr/share/backgrounds/f32/extras/`.
 
 
 # Introspection
@@ -207,7 +222,6 @@ However, any setting changed by `xsetwacom` will be reset to default (or a stati
  50 100  100   50  # firm
  75   0  100   25  # very firm
 ````
-The default appearance editor can only edit GTK2 themes/icons. That is, to edit GTK3 themes/icons either edit the `~/.config/gtk-3.0/settings.ini` or use the LXDE appearance editor `lxappearance`.
 
 Follwing three errors logged:
 
