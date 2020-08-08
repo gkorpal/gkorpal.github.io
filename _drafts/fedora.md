@@ -37,15 +37,15 @@ This new Tumbleweed was a result of the [‘merger’ of Old Tumbleweed and Fact
 
 Now a days there are many emerging comeptitors like Manjaro and Solus competing with Ubuntu and its forks for the non-technical users. I was introduced to linux as a non-techincal user in 2006 when I ran Ubuntu in a virtual box on my Windows XP desktop PC, thanks to the free CD I got with the PC World magazine I had bought during summer vacations. I have been using Ubuntu-based distros (I replaced Windows 7 with Lubuntu on my Netbook) since Windows XP died in 2014, and it has been a nice journey. Whenever I ran into some trouble, I just copy-pasted codes from some blog/forum and ignored issues as long as work got done. For example, I chose not to use WiFi over using Windows 8 when Realtek drivers were breaking on Ubuntu (had no idea it has to do something with Linux Kernel). But now since I have built my own PC for the first time, I have a much better knowledge of the hardware and find it difficult to just shrug shoulders as long as system boots. Theorefore, Ubuntu can no more fulfill my needs and I will have to move to a little less stable distro.   
 
-The main use of my new PC is to write documents in LaTeX, hence I would really like to have easy access to the latest version of texlive and text-editor (like Vim, though you will always get some version of vim-minimal pre-installed). However, stable distros like Ubuntu LTS and openSUSE Leap tend to have outdated repositories of both of these and Ubuntu tries to mitigate this with untrusted PPAs, [unstable Snaps](https://jatan.blog/2020/05/02/ubuntu-snap-obsession-has-snapped-me-off-of-it/) and [useless Flatpaks](https://medium.com/@alex285/using-flatpak-vim-from-flathub-d876faa00d5b). Moreover, compiling them from sources can be a bit tricky (eg:  installing [TexLive](https://tex.stackexchange.com/q/1092/73743) and [Vim](https://vi.stackexchange.com/q/10817/30343)). Hence I felt the need to migrate to a distro which can give **easy access to latest version of these programs**. But I don't have enough time and knowledge to be able to maintain the stability and security of rolling-release distros like Arch, openSUSE TW and Gentoo. Therefore, since I don't need any proprietary drivers for my PC, I decided to take a middle ground and move to the [pseudo-rolling/stable-release distro](https://www.reddit.com/r/linux/comments/96dlhy/why_fedora_does_not_market_it_self_as_rolling/e40fhtu/) Fedora (13 month life cycle, new release every 6 months) which is the upstream source of the commercial Red Hat Enterprise Linux distribution. Another reason for choosing Fedora was that its community is more knowledgebable (RedHat is [one of the biggest contributer](https://www.redhat.com/en/blog/red-hat-leads-open-source-contributions-to-kernel) to Linux kernel) and the [bugs](https://docs.fedoraproject.org/en-US/quick-docs/howto-file-a-bug/) acutally get resolved (for Ubuntu there can exist an year old bugs like the [initramfs bug](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1835660) with temporary solution in forums). One bug that has followed me in Ubuntu and Linux Mint is the momentary blackout of screen when some pop-up menu opens in applications like Google Chrome and TexMaker Settings, however I have no hope of it getting solved since there is this [similar three years old bug report](https://askubuntu.com/questions/911666/) in the forums.
+The main use of my new PC is to write documents in LaTeX, hence I would really like to have easy access to the latest version of texlive and text-editor (like Vim, though you will always get some version of vim-minimal pre-installed). However, stable distros like Ubuntu LTS and openSUSE Leap tend to have outdated repositories of both of these and Ubuntu tries to mitigate this with untrusted PPAs, [unstable Snaps](https://jatan.blog/2020/05/02/ubuntu-snap-obsession-has-snapped-me-off-of-it/) and [useless Flatpaks](https://medium.com/@alex285/using-flatpak-vim-from-flathub-d876faa00d5b). Moreover, compiling them from sources can be a bit tricky (eg:  installing [TexLive](https://tex.stackexchange.com/q/1092/73743) and [Vim](https://vi.stackexchange.com/q/10817/30343)). Hence I felt the need to migrate to a distro which can give **easy access to latest version of these programs**. But I don't have enough time and knowledge to be able to maintain the stability and security of rolling-release distros like Arch, openSUSE TW and Gentoo. Therefore, since I don't need any proprietary drivers for my PC, I decided to take a middle ground and move to the [pseudo-rolling/stable-release distro](https://www.reddit.com/r/linux/comments/96dlhy/why_fedora_does_not_market_it_self_as_rolling/e40fhtu/) **Fedora** (13 month life cycle, new release every 6 months) which is the upstream source of the commercial Red Hat Enterprise Linux distribution. Another reason for choosing Fedora was that its community is more knowledgebable (RedHat is [one of the biggest contributer](https://www.redhat.com/en/blog/red-hat-leads-open-source-contributions-to-kernel) to Linux kernel) and the [bugs](https://docs.fedoraproject.org/en-US/quick-docs/howto-file-a-bug/) acutally get resolved (for Ubuntu there can exist an year old bugs like the [initramfs bug](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1835660) with temporary solution in forums). One bug that has followed me in Ubuntu and Linux Mint is the momentary blackout of screen when some pop-up menu opens in applications like Google Chrome and TexMaker Settings, however I have no hope of it getting solved since there is this [similar three years old bug report](https://askubuntu.com/questions/911666/) in the forums.
 
-For the desktop environment I decided to go with Xfce because most of my programs use GTK (hence not KDE or LXQt), didn't want to waste RAM for customizability (hence not GNOME 3 or MATE which are resource heavy but still lack simple in-built customization options like desktop wallpaper slideshow) and needed stability (hence not Cinnamon which lacks proper documentation and bug resolving mechanism, eg: this an year old [zombie-windows bug](https://github.com/linuxmint/cinnamon/issues/8856) which requires restarting cinnamon to troubleshoot, moreover most appearance tweaks depend on themes and applets created by volunteers which are not guaranteed to be actively maintained). Cinnamon is an attempt to mimic Xfce while staying close to GNOME, however its lack of documentation puts me off.
+For the desktop environment I decided to go with **Xfce** because most of my applications use GTK (hence not KDE or LXQt), didn't want to waste RAM for customizability (hence not GNOME 3 or MATE which are resource heavy but still lack simple in-built customization options like desktop wallpaper slideshow) and needed stability (hence not Cinnamon which lacks proper documentation and bug resolving mechanism, eg: this an year old [zombie-windows bug](https://github.com/linuxmint/cinnamon/issues/8856) which requires restarting cinnamon to troubleshoot, moreover most appearance tweaks depend on themes and applets created by volunteers which are not guaranteed to be actively maintained). Cinnamon is an attempt to mimic Xfce while staying close to GNOME, however its lack of documentation ability to tweak easily is a big negative.
 
-I installed Fedora Xfce using [Server Netinstall](https://alt.fedoraproject.org/) instead of the official [Spins](https://spins.fedoraproject.org/en/cinnamon/) since they tend to be bloated and will have to install lots of updates afterwards. Fedora comes with Ubuntu's [LightDM display manager](https://github.com/canonical/lightdm) which manages the login screen, in the case of Xfce Fedora uses the Xubuntu's [LightDM GTK+ Greeter](https://github.com/Xubuntu/lightdm-gtk-greeter).
+I installed Fedora Xfce using [Server Netinstall](https://alt.fedoraproject.org/) instead of the official [Spins](https://spins.fedoraproject.org/en/cinnamon/) since they tend to be bloated and will have to install lots of updates afterwards. Fedora comes with Ubuntu's [LightDM display manager](https://github.com/canonical/lightdm) which manages the login screen, in the case of Xfce Fedora uses the **Xubuntu's [LightDM GTK+ Greeter](https://github.com/Xubuntu/lightdm-gtk-greeter)**.
 
 # Differences between Ubuntu and Fedora
 
-Most of my Linux experience is based on Ubuntu. Following are some differences:
+Most of my Linux experience is based on Ubuntu. Following are some differences that I experienced:
 
 ## Administrator vs. User
 
@@ -65,7 +65,7 @@ Fedora uses different tools for package management to Debian. Here is a quick ov
 | apt purge | N/A |
 | apt-cache search | dnf search |
 
-In older versions, `apt-get` in Ubuntu corresponded to `yum` in Fedora.  To know if a reboot is needed after doing a `dnf update` use either [tracer](https://dnf-plugins-extras.readthedocs.io/en/latest/tracer.html) or [needs-restarting](https://dnf-plugins-core.readthedocs.io/en/latest/needs_restarting.html) plugin.
+In older versions, `apt-get` in Ubuntu corresponded to `yum` in Fedora.  To know if a reboot is needed after doing a `dnf update` use either [tracer](https://dnf-plugins-extras.readthedocs.io/en/latest/tracer.html) or [needs-restarting](https://dnf-plugins-core.readthedocs.io/en/latest/needs_restarting.html) plugin. Unlike Debian/ubuntu, I don't need to remeber to use `autoremove` after removing some package.
 
 Moreover, like in Ubuntu we use `dpkg` for installing .deb files, we can use `rpm` in Fedora for installing .rpm files. Following is a comparison of commands:
 
@@ -86,7 +86,7 @@ You can also use `dnf` instead of `rpm`, just like we can use `apt` instead of `
 
 ## Finding packages using GUI
 
-Fedora's equivalent to Debian's Synaptic package manager is [dnfdragora](https://github.com/manatools/dnfdragora), unfortuately it's nowhere as good as Synaptic. However, in GNOME edition of Fedora there is GNOME Software Centre which makes things smoother, but requires [PC reboot for installing updates](https://ask.fedoraproject.org/t/gnome-software-center-wants-me-to-restart-to-install-updates/1283/5).  In the RPM world opeSUSE has YaST as a worthy competitor of Synaptic (but that feels too nosey, it is much more than just a package manager).
+Fedora's equivalent to Debian's Synaptic package manager is [dnfdragora](https://github.com/manatools/dnfdragora), unfortuately it's nowhere as good as Synaptic. Moreover it is extremely RAM hungry. However, in GNOME edition of Fedora there is GNOME Software Centre which makes things smoother, but requires [PC reboot for installing updates](https://ask.fedoraproject.org/t/gnome-software-center-wants-me-to-restart-to-install-updates/1283/5).  In the RPM world opeSUSE has YaST as a worthy competitor of Synaptic (but that feels too nosey, it is much more than just a package manager).
 
 ## Installing packages not in repository
 
@@ -133,22 +133,29 @@ Vim, PulseAudio Volume Control and dnfdragora are already installed.
 
 | Purpose | Software | dnf Package |
 |----------|----------|---------|
+|Web browser| Firefox | `firefox` |
 |Login screen modification tool | [LightDM GTK+ Greeter settings](https://wiki.archlinux.org/index.php/LightDM#GTK_greeter) | `lightdm-gtk-greeter-settings` |
 |System Restore | [Timeshift](https://github.com/teejee2008/timeshift) | `timeshift`|
-|Web browser| Firefox | `firefox` |
 |Calculator | [Galculator](https://github.com/galculator/galculator) | `galculator` |
-|File searching tool | [Catfish](https://bluesabre.org/catfish/) | catfish |
+|File searching tool | [Catfish](https://bluesabre.org/catfish/) | `catfish` |
 |GUI Text Editor | [Mousepad](https://github.com/codebrainz/mousepad) | `mousepad` |
-|Viewing and editing images | [gThumb](https://wiki.gnome.org/Apps/Gthumb) | gthumb|
+|Archiving tool | [Xarchiver](http://xarchiver.sourceforge.net/) | `xarxhiver` |
+|PDF editor with tablet support | [Xournal++](https://github.com/xournalpp/xournalpp) | `xournalpp`|
+|PDF and DjVu viewer with poppler backend | [Evince](https://wiki.gnome.org/Apps/Evince) | `evince`|
+|Spreadsheet viewer and editor | [Gnumeric](http://gnumeric.org/) | `gnumeric` |
+|Word processor | AbiWord | `abiword`|
+|Image viewer and editor | [gThumb](https://wiki.gnome.org/Apps/Gthumb) | `gthumb`|
+|Webcam | [Cheese](https://wiki.gnome.org/Apps/Cheese) | `cheese` |
+|Game | [SuperTuxKart](https://supertuxkart.net/Main_Page) |  `supertuxkart` |
+|LaTeX| [TeX Live](https://docs.fedoraproject.org/en-US/neurofedora/latex/) | `texlive-scheme-full`|
+|Vim keybinding pdf viewer| [MuPDF](https://mupdf.com/) | `mupdf`|
 
-Xournal++, AbeWord, Gnumeric, Evince, SuperTuxKart, Cheese, texlive, Xarchiver
 
-
-## Restricted software
+## Restricted softwares
 
 | Purpose | Software | Installation guide |
 |---------|----------|--------------------|
-|Playing videos with patented multimedia codecs | Celluloid | [RPM Fusion Free Repository](https://admin.rpmfusion.org/pkgdb/package/free/celluloid/)|
+|Playing videos with patented multimedia codecs | [Celluloid](https://github.com/celluloid-player/celluloid) | [RPM Fusion Free Repository](https://admin.rpmfusion.org/pkgdb/package/free/celluloid/)|
 |Using streaming services like Netflix which require  h264/mp3/aac and widevine | Google Chrome | [fedora-workstation-repositories](https://fedoraproject.org/wiki/Workstation/Third_Party_Software_Repositories)|
 |Video conferencing | Zoom | [manual download](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux#h_b6ce9fba-dd38-4448-80c0-ac2e58db3acc)|
 
@@ -196,7 +203,13 @@ Finally, to change background use "Settings Manager >  Desktop > Background" and
 
 The plan is to [upgrade to next version of Fedora](https://docs.fedoraproject.org/en-US/quick-docs/dnf-system-upgrade/) three months after its release so that maximum bugs can be avoided (eg: initial release of Fedora 32 had [a bug](https://bugzilla.redhat.com/show_bug.cgi?id=1816787) which has been corrected later using system updates). Hence I will get a system wide update twice a year. Fedora is going to change to [btrfs as default filesystem](https://fedoraproject.org/wiki/Changes/BtrfsByDefault) in the next release of Fedora 33 (something [default in SUSE but abandoned by Red Hat](https://www.phoronix.com/scan.php?page=news_item&px=Red-Hat-Deprecates-Btrfs-Again)).  One annoying thing is that I have to install lots of updates everyday since Fedora pushes bug fixes as soon as they are found, irrespective of how important they are. Moreover, the supported releases are updated to the latest stable version of the Linux kernel, increasing the chances of unstability. 
 
-Though Xfce is highly customizable and has a great [documentation](https://docs.xfce.org/start), it lacks GUI for basic things like system info viewer, individual CPU core usage, user login picture manager (though Fedora has [Whisker menu plugin](https://src.fedoraproject.org/rpms/xfce4-whiskermenu-plugin), it lacks the required [Mugshot](https://src.fedoraproject.org/rpms/mugshot) package) and [tablet pen-pressure settings](https://docs.xfce.org/xfce/xfce4-settings/mouse) (which is very nicely done for GNOME 3, Cinnamon and KDE). However, these can easily be done using manually via Terminal. For example, for system info we have CLI tools like `inxi` ([doc](https://smxi.org/docs/inxi-man.htm)), `neofetch` and `lshw`. Also, to view system usage information we can use tool like `top` in terminal, and [get individual core usage](https://askubuntu.com/a/257258) by `top 1` ([doc](http://manpages.ubuntu.com/manpages/xenial/en/man1/top.1.html)). We can manually edit the [profile picture configuration](https://forums.fedoraforum.org/showthread.php?295285-Change-user-picture-in-login-manager-Fedora-19-XFCE)
+Though Xfce is highly customizable and has a great [documentation](https://docs.xfce.org/start), it lacks GUI for basic things like system info viewer, individual CPU core usage, user login picture manager (though Fedora has [Whisker menu plugin](https://src.fedoraproject.org/rpms/xfce4-whiskermenu-plugin), it lacks the required [Mugshot](https://src.fedoraproject.org/rpms/mugshot) package) and [tablet pen-pressure settings](https://docs.xfce.org/xfce/xfce4-settings/mouse) (which is very nicely done for GNOME 3, Cinnamon and KDE). However, these can easily be done using manually via Terminal: 
+
+* For system info we have CLI tools like `inxi` ([doc](https://smxi.org/docs/inxi-man.htm)), `neofetch` and `lshw`. 
+
+* To view system usage information we can use tool like `top` in terminal, and [get individual core usage](https://askubuntu.com/a/257258) by `top 1` ([doc](http://manpages.ubuntu.com/manpages/xenial/en/man1/top.1.html)). 
+
+* We can manually edit the [profile picture configuration](https://forums.fedoraforum.org/showthread.php?295285-Change-user-picture-in-login-manager-Fedora-19-XFCE)
 
 ````
 $ sudo mkdir /var/lib/AccountsService/icons/<your_user_name>
@@ -205,10 +218,12 @@ $ sudo cp ~/home/<my_picture_of_size_96x96>.png /var/lib/AccountsService/icons/<
 $ sudo mousepad /var/lib/AccountsService/users/<your_user_name>
 ````
 
-Add the line: `Icon=/var/lib/AccountsService/icons/<your_user_name>/<my_picture_of_size_96x96>.png`. And for Wacom tablet pen-pressure on X Window System we can use `xsetwacom` ([doc](https://github.com/linuxwacom/xf86-input-wacom/wiki/xsetwacom))
+Add the line: `Icon=/var/lib/AccountsService/icons/<your_user_name>/<my_picture_of_size_96x96>.png`. 
+
+* For Wacom tablet pen-pressure on X Window System we can use `xsetwacom` ([doc](https://github.com/linuxwacom/xf86-input-wacom/wiki/xsetwacom))
 
 `````
-xsetwacom set "Wacom One by Wacom S Pen stylus" PressureCurve 0 75 25 100
+xsetwacom set "Wacom One by Wacom S Pen stylus" PressureCurve 0 50 50 100
 ````` 
 
 However, any setting changed by `xsetwacom` will be reset to default (or a statically configured setting) whenever the device is unplugged, disabled or the X Server is restarted. One can make Linux [run the command automatically at startup](https://smallbusiness.chron.com/run-command-startup-linux-27796.html) or  change [xorg.conf](https://github.com/linuxwacom/xf86-input-wacom/wiki/Tablet-Configuration-1:-xsetwacom-and-xorg.conf), but they have limitations (like when hot-plugging the device). For more details refer to this [Arch wiki page](https://wiki.archlinux.org/index.php/wacom_tablet). Note that, these CLI methods [won't work when using Wayland](https://github.com/linuxwacom/xf86-input-wacom/wiki/Wayland-and-Wacom-devices) instead of Xorg. I could't make CLI work in Cinnamon, only GUI settings worked and provided the following options:
@@ -223,7 +238,7 @@ However, any setting changed by `xsetwacom` will be reset to default (or a stati
  75   0  100   25  # very firm
 ````
 
-Follwing three errors logged:
+Though main advantage of Fedora is that it is much more customizable. However, the following three errors were still logged:
 
 1.  [AMD-Vi](https://bugzilla.kernel.org/show_bug.cgi?id=201753#c1): Most likely this is a [false alarm](https://bbs.archlinux.org/viewtopic.php?id=218140) from the [Linux kernel](https://www.phoronix.com/scan.php?page=news_item&px=AMD-Picasso-AMDGPU-Patches). However, turning off IOMMU in BIOS is not an option (which somehow is [suggested in forums](https://askubuntu.com/questions/1239149/)) since it is [needed for HSA](https://bugzilla.redhat.com/show_bug.cgi?id=1404139) used by [AMD for making GPU and CPU work together in its APUs](https://en.wikipedia.org/wiki/Heterogeneous_System_Architecture#AMD). If I end up with [black-screen during boot](https://www.stephenwagner.com/2019/05/05/ubuntu-linux-black-screen-frozen-system-after-upgrade-install/) then I will consider [updating AGESA drivers in the BIOS](https://forums.linuxmint.com/viewtopic.php?p=1850190#p1850190).
 
