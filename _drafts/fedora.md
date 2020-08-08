@@ -134,14 +134,12 @@ Vim, PulseAudio Volume Control and dnfdragora are already installed.
 | Purpose | Software | dnf Package |
 |----------|----------|---------|
 |Login screen modification tool | [LightDM GTK+ Greeter settings](https://wiki.archlinux.org/index.php/LightDM#GTK_greeter) | `lightdm-gtk-greeter-settings` |
-|System Restore | [Timeshift](https://github.com/teejee2008/timeshift) | timeshift|
-|GUI for Systemd Journal |[GNOME Logs](https://wiki.gnome.org/Apps/Logs)| gnome-logs |
-|Web browser| Firefox | firefox |
-|Calculator | [Galculator](https://github.com/galculator/galculator) | galculator |
+|System Restore | [Timeshift](https://github.com/teejee2008/timeshift) | `timeshift`|
+|Web browser| Firefox | `firefox` |
+|Calculator | [Galculator](https://github.com/galculator/galculator) | `galculator` |
 |File searching tool | [Catfish](https://bluesabre.org/catfish/) | catfish |
-|GUI Text Editor | [Mousepad](https://github.com/codebrainz/mousepad) | mousepad |
+|GUI Text Editor | [Mousepad](https://github.com/codebrainz/mousepad) | `mousepad` |
 |Viewing and editing images | [gThumb](https://wiki.gnome.org/Apps/Gthumb) | gthumb|
-|Disk Usage Analyzer | [Baobab](https://wiki.gnome.org/Apps/DiskUsageAnalyzer) | baobab |
 
 Xournal++, AbeWord, Gnumeric, Evince, SuperTuxKart, Cheese, texlive, Xarchiver
 
@@ -189,7 +187,9 @@ To apply this theme select "Numix" in
 *  Settings Manager >  Appearance > Icons
 *  Settings Manager > LightDM GTK+ Greeter settings > Appearance
 
-Note that the default appearance editor can only edit GTK2 themes/icons. Therefore, to edit GTK3 themes/icons either edit the `~/.config/gtk-3.0/settings.ini` or use the LXDE appearance editor `lxappearance`. To change background use "Settings Manager >  Desktop > Background" and select the folder `/usr/share/backgrounds/f32/extras/`.
+Note that the default appearance editor can only edit GTK2 themes/icons. Therefore, to edit GTK3 themes/icons either edit the `~/.config/gtk-3.0/settings.ini` or use the LXDE appearance editor `lxappearance`. 
+
+Finally, to change background use "Settings Manager >  Desktop > Background" and select the folder `/usr/share/backgrounds/f32/extras/`.
 
 
 # Introspection
