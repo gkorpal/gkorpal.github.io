@@ -198,6 +198,10 @@ Note that the default appearance editor can only edit GTK2 themes/icons. Therefo
 
 Finally, to change background use "Settings Manager >  Desktop > Background" and select the folder `/usr/share/backgrounds/f32/extras/`.
 
+<figure>
+  <img src="/images/fedora.png" alt="my alt text" style="width:534px;height:269px;"/>
+  <figcaption> Desktop screenshot showing neofetch output. (open image in new tab if it is too small)</figcaption>
+</figure>
 
 # Introspection
 
