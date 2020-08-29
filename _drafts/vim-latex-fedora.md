@@ -22,14 +22,15 @@ We will need the following packages to begin with:
 
 If you want GUI version of Vim then can get gVim by installing the package `vim-X11`. For gVim you will have to [modify these steps](https://vi.stackexchange.com/questions/11484/) accordingly.
 
+# Vim configuration
+
+Once you finish learning basics using `vimtutor`, you are ready to start configuring Vim as per your requirements.
+
 ## .vimrc file creation and backup
 
 ## vimtex plugin installation and configuration
 
-
-## Inkscape usage for drawing diagrams
-
-
+# Usage instructions
 
 
 https://wikimatze.de/vimtex-the-perfect-tool-for-working-with-tex-and-vim/
