@@ -14,7 +14,7 @@ The plan is to use [Vim](https://www.vim.org/) as the text-editor and [MuPDF](ht
 We will need the following packages to begin with:
 
 | Software Program | dnf Package |
-|----------|----------|---------|
+|----------|----------|
 |[TeX Live](https://docs.fedoraproject.org/en-US/neurofedora/latex/) | `texlive-scheme-full`|
 |[Vim](https://fedoraproject.org/wiki/Vim) |`vim`|
 | [MuPDF](https://mupdf.com/) | `mupdf`|
