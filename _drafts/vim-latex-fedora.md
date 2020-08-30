@@ -28,6 +28,34 @@ Once you finish learning basics using `vimtutor`, you are ready to start configu
 
 ## .vimrc file creation and backup
 
+To start Vim with all the favorite option settings and mappings, one writes them in what is called the `vimrc` file. The `vimrc` file can contain all the commands that you type after a colon. Vim executes the commands in this file when it starts up. Read [the documentation](http://vimdoc.sourceforge.net/htmldoc/usr_05.html) for more details. Note that Vim 8.0 onwards, if Vim is started normally and no user vimrc file is found, the `defaults.vim` script is loaded.  This will set 'compatible' off, switch on syntax highlighting and a few more things.  See this [reddit post](https://www.reddit.com/r/vim/comments/66vjm8/a_rant_on_defaultsvim_in_vim_8/) for a discussion about this. To disable loading of `defaults.vim` completely add `let skip_defaults_vim=1` to `/etc/vimrc` ([see this](https://wiki.archlinux.org/index.php/Vim#Configuration)). 
+
+Since `vimrc` is something personal that evolves over times as per one's usage requirements, it's [not recommended to blindly copy](https://github.com/romainl/idiomatic-vimrc) it from the internet. I used [this example](https://vim.fandom.com/wiki/Example_vimrc) as reference for creating the following `~/.vimrc`
+
+`````
+set nocompatible          " get rid of Vi compatibility mode. 
+filetype plugin indent on " filetype detection[ON] plugin[ON] indent[ON]
+set t_Co=256              " enable 256-color mode.
+syntax enable             " enable syntax highlighting (can also use syntax on).
+colorscheme desert        " on a light terminal the default is peachpuff. on a dark terminal the default is ron.
+set hidden                " allows you to re-use the same window without saving it first and also keep an undo history for all the files using the same window.
+set number                " show line numbers
+set laststatus=2          " display the status line always so that you can see the current mode, file name, file status, ruler, etc. 
+filetype indent on        " activates indenting for files
+set nohlsearch            " Don't continue to highlight searched phrases.
+set incsearch             " But do highlight as you type your search.
+set ignorecase            " Make searches case-insensitive.
+set ruler                 " Always show info along bottom.
+set autoindent            " auto-indent
+set tabstop=4             " tab spacing
+set softtabstop=4         " unify
+set shiftwidth=4          " indent/outdent by 4 columns
+set shiftround            " always indent/outdent to the nearest tabstop
+set expandtab             " use spaces instead of tabs
+set smarttab              " use tabs at the start of a line, spaces elsewhere
+set nowrap                " don't wrap text
+`````
+
 ## vimtex plugin installation and configuration
 
 # Usage instructions
