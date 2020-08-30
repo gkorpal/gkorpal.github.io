@@ -70,7 +70,7 @@ Plug 'lervag/vimtex'               " Shorthand notation for fetching the vimtex 
 call plug#end()                    " To update &runtimepath and initialize plugin system
 `````
 
-Once the vimrc is properly configured, restart Vim or reload the vimrc file. Finally, run the `:PlugInstall` command to start the installation of `vimtex` plugin. Vim-plug will download all the packages directly from GitHub and put them into the `~/.vim/plugged` directory and load them whenever Vim is loaded. To update plugins use `:PlugUpdate` command and to remove them use `:PlugClean` command. Also, to update vim-plug itself, use `:PlugUpgrade` command.
+Once the vimrc is properly configured, restart Vim or reload the vimrc file (make sure that `git` is installed for this to work). Finally, run the `:PlugInstall` command to start the installation of `vimtex` plugin. Vim-plug will download all the packages directly from GitHub and put them into the `~/.vim/plugged` directory and load them whenever Vim is loaded. To update plugins use `:PlugUpdate` command and to remove them use `:PlugClean` command. Also, to update vim-plug itself, use `:PlugUpgrade` command.
 
 # Usage instructions
 
