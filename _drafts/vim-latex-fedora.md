@@ -40,12 +40,12 @@ syntax enable             " enable syntax highlighting (can also use syntax on).
 colorscheme desert        " on a light terminal the default is peachpuff. on a dark terminal the default is ron.
 set hidden                " allows you to re-use the same window without saving it first and also keep an undo history for all the files using the same window.
 set number                " show line numbers
-set laststatus=2          " display the status line always so that you can see the current mode, file name, file status, ruler, etc. 
+set ruler                 " Always show cursor position.
+set laststatus=2          " always display the status line so that you can see the current mode, file name, file status, ruler, etc. 
 filetype indent on        " activates indenting for files
-set nohlsearch            " Don't continue to highlight searched phrases.
-set incsearch             " But do highlight as you type your search.
+set hlsearch              " highlight searched phrases.
 set ignorecase            " Make searches case-insensitive.
-set ruler                 " Always show info along bottom.
+set smartcase             " Make search case-sesitive when using capital letters
 set autoindent            " auto-indent
 set tabstop=4             " tab spacing
 set softtabstop=4         " unify
