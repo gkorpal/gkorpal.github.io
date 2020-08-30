@@ -72,8 +72,30 @@ call plug#end()                    " To update &runtimepath and initialize plugi
 
 Once the vimrc is properly configured, restart Vim or reload the vimrc file (make sure that `git` is installed for this to work). Finally, run the `:PlugInstall` command to start the installation of `vimtex` plugin. Vim-plug will download all the packages directly from GitHub and put them into the `~/.vim/plugged` directory and load them whenever Vim is loaded. To update plugins use `:PlugUpdate` command and to remove them use `:PlugClean` command. Also, to update vim-plug itself, use `:PlugUpgrade` command.
 
+Now we will set it up following the [official documentation](https://github.com/lervag/vimtex/blob/master/doc/vimtex.txt) of `vimtex`, and adding the following to `~/.vimrc`:
+
+`````
+let g:tex_flavor = 'latex'           " Vim ships with some support for plain TeX, ConTeXt, and LaTeX files. This means that the `.tex` extension is ambiguous. Vimtex is only activated for LaTeX files with 'filetype' set to `tex`.
+let g:vimtex_view_method = 'mupdf'   "  Set the pdf viewer. MuPDF supports forward and backward search via xdotool. For backward search use :VimtexRSearch command. Forward search will only take you to the correct page.  Backward search will take you to the line in Vim that corresponds to the first line of the current page in MuPDF.
+
+`````
+Note that by default the following desired options are already there:
+* latexmk is the compiler which does continuous compilation
+* auto-completion is enabled, 
+* BibTex is used for bib files, 
+* fold types are enabled, 
+* intentation in both tex and bib are enabled, 
+* vimtex will open the pdf viewer automatically after compilation
+* forward search is enabled, i.e. it will perform a forward search to the current cursor position when the first invocation of the pdf viewer happens. It uses SyncTex and requires `xdotool` to work with MuPDF.
+
+You can further customize by adding snippets as demonstrated in various blog posts ([ex1](https://castel.dev/post/lecture-notes-1/), [ex2](https://www.dianacai.com/blog/2018/06/28/latex-vim-skim-setup/) and [ex3](http://tomchaplin.xyz/portfolio/Vim-for-LaTeX/)). 
+
 # Usage instructions
 
+|vimtex| supports most multi-file documents.  The main method uses a recursive
+search algorithm that should find the main LaTeX file in most cases.  For
+special cases, there are several alternative methods for specifying the main
+file. 
 
 https://wikimatze.de/vimtex-the-perfect-tool-for-working-with-tex-and-vim/
 
