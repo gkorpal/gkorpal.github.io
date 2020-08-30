@@ -26,7 +26,7 @@ If you want GUI version of Vim then can get gVim by installing the package `vim-
 
 Once you finish learning basics using `vimtutor`, you are ready to start configuring Vim as per your requirements.
 
-## .vimrc file creation and backup
+## .vimrc file creation
 
 To start Vim with all the favorite option settings and mappings, one writes them in what is called the `vimrc` file. The `vimrc` file can contain all the commands that you type after a colon. Vim executes the commands in this file when it starts up. Read [the documentation](http://vimdoc.sourceforge.net/htmldoc/usr_05.html) for more details. Note that Vim 8.0 onwards, if Vim is started normally and no user vimrc file is found, the `defaults.vim` script is loaded.  This will set 'compatible' off, switch on syntax highlighting and a few more things.  See this [reddit post](https://www.reddit.com/r/vim/comments/66vjm8/a_rant_on_defaultsvim_in_vim_8/) for a discussion about this. To disable loading of `defaults.vim` completely add `let skip_defaults_vim=1` to `/etc/vimrc` ([see this](https://wiki.archlinux.org/index.php/Vim#Configuration)). 
 
@@ -51,6 +51,8 @@ set backspace=indent,eol,start " Allow backspacing over autoindent, line breaks 
 set mouse=a                    " Enable use of the mouse for all modes
 set wrap linebreak nolist      " Soft wrapping text. To move the cursor up and down within wrapped line use the commands gk and gj.
 `````
+
+You can [use this guide](http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/) to create a backup of your `vimrc` file using GitHub so that you can easily configure Vim on any other computer. It will boil down to writing a [backup script](https://dev.to/jeffshomali/how-to-backup-sync-all-of-your-dotfiles-with-github-e1c).
 
 ## vimtex plugin installation and configuration
 
