@@ -9,7 +9,7 @@ tags:
 ---
 Arch way of doing stuff.
 
-The plan is to use [Vim](https://www.vim.org/) as the text-editor and [MuPDF](https://mupdf.com/) as the pdf-viewer since both can be accessed solely via keyboard, while keeping all the desired features from other LaTex editor like "live pdf preview" from GTK based [Gummi](https://github.com/alexandervdm/gummi) and "forward and backward search to switch between the sources and the PDF" from Qt based [TexMaker](https://www.xm1math.net/texmaker/).
+The plan is to use [Vim](https://www.vim.org/) as the text-editor and [MuPDF](https://mupdf.com/) as the pdf-viewer since both can be accessed solely via keyboard, while keeping all the desired features from other LaTex editor like "live pdf preview" and "compile using latexmk" from GTK based [Gummi](https://github.com/alexandervdm/gummi) and "forward and backward search to switch between the sources and the PDF" and "detailed compilation errors" from Qt based [TexMaker](https://www.xm1math.net/texmaker/).
 
 We will need the following packages to begin with:
 
@@ -55,6 +55,22 @@ set wrap linebreak nolist      " Soft wrapping text. To move the cursor up and d
 You can [use this guide](http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/) to create a backup of your `vimrc` file using GitHub so that you can easily configure Vim on any other computer. It will boil down to writing a [backup script](https://dev.to/jeffshomali/how-to-backup-sync-all-of-your-dotfiles-with-github-e1c).
 
 ## vimtex plugin installation and configuration
+ 
+You can install `vimtex` manually or using a plugin manager ([see this guide](https://linuxhint.com/vim_install_plugins/)). We will use the [vim-plug](https://github.com/junegunn/vim-plug) plugin manager to install `vimtex`. Firstly, we will download [plug.vim](https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim) and put it in the `~/.vim/autoload` directory using following code:
+
+`````
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+`````
+Next we will enable `vimtex` by  adding the following section to the `~/.vimrc` file:
+
+`````
+call plug#begin('~/.vim/plugged')  " Specify the directory ~/.vim/plugged for plugins. Avoid using standard Vim directory names like ~/.vim/plugin
+Plug 'lervag/vimtex'               " Shorthand notation for fetching the vimtex plugin from https://github.com/lervag/vimtex
+call plug#end()                    " To update &runtimepath and initialize plugin system
+`````
+
+Once the vimrc is properly configured, restart Vim or reload the vimrc file. Finally, run the `:PlugInstall` command to start the installation of `vimtex` plugin. Vim-plug will download all the packages directly from GitHub and put them into the `~/.vim/plugged` directory and load them whenever Vim is loaded. To update plugins use `:PlugUpdate` command and to remove them use `:PlugClean` command. Also, to update vim-plug itself, use `:PlugUpgrade` command.
 
 # Usage instructions
 
