@@ -33,27 +33,23 @@ To start Vim with all the favorite option settings and mappings, one writes them
 Since `vimrc` is something personal that evolves over times as per one's usage requirements, it's [not recommended to blindly copy](https://github.com/romainl/idiomatic-vimrc) it from the internet. I used [this example](https://vim.fandom.com/wiki/Example_vimrc) as reference for creating the following `~/.vimrc`
 
 `````
-set nocompatible          " get rid of Vi compatibility mode. 
-filetype plugin indent on " filetype detection[ON] plugin[ON] indent[ON]
-set t_Co=256              " enable 256-color mode.
-syntax enable             " enable syntax highlighting (can also use syntax on).
-colorscheme desert        " on a light terminal the default is peachpuff. on a dark terminal the default is ron.
-set hidden                " allows you to re-use the same window without saving it first and also keep an undo history for all the files using the same window.
-set number                " show line numbers
-set ruler                 " Always show cursor position.
-set laststatus=2          " always display the status line so that you can see the current mode, file name, file status, ruler, etc. 
-filetype indent on        " activates indenting for files
-set hlsearch              " highlight searched phrases.
-set ignorecase            " Make searches case-insensitive.
-set smartcase             " Make search case-sesitive when using capital letters
-set autoindent            " auto-indent
-set tabstop=4             " tab spacing
-set softtabstop=4         " unify
-set shiftwidth=4          " indent/outdent by 4 columns
-set shiftround            " always indent/outdent to the nearest tabstop
-set expandtab             " use spaces instead of tabs
-set smarttab              " use tabs at the start of a line, spaces elsewhere
-set nowrap                " don't wrap text
+set nocompatible               " get rid of Vi compatibility mode. 
+filetype plugin indent on      " filetype detection[ON] plugin[ON] indent[ON]
+set t_Co=256                   " enable 256-color mode.
+syntax enable                  " enable syntax highlighting (can also use syntax on).
+colorscheme desert             " on a light terminal the default is peachpuff. on a dark terminal the default is ron.
+set hidden                     " allows you to re-use the same window without saving it first and keep an undo history for all the files using the same window.
+set number                     " show line numbers to the left
+set ruler                      " Always show cursor position.
+set laststatus=2               " always display the status line so that you can see the current mode, file name, file status, ruler, etc. 
+filetype indent on             " activates indenting for files
+set hlsearch                   " highlight searched phrases.
+set ignorecase                 " Make searches case-insensitive.
+set smartcase                  " Make search case-sesitive when using capital letters
+set autoindent                 " When opening a new line and no filetype-specific indenting is enabled, keep " the same indent as the line you're currently on.
+set backspace=indent,eol,start " Allow backspacing over autoindent, line breaks and start of insert action
+set mouse=a                    " Enable use of the mouse for all modes
+set wrap linebreak nolist      " Soft wrapping text. To move the cursor up and down within wrapped line use the commands gk and gj.
 `````
 
 ## vimtex plugin installation and configuration
