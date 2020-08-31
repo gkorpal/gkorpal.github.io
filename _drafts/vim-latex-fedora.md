@@ -126,8 +126,47 @@ We have many other shorthand keymaps like:
 
 Note that vimtex supports most multi-file documents. The main method uses a recursive search algorithm that should find the main LaTeX file in most cases. Read [the documentation](https://github.com/lervag/vimtex/blob/master/doc/vimtex.txt) for more details. 
 
-Finally, to draw diagrams we will use Inkscape as follows:
-1. Draw the desired diagram in Inkscape. If you don't know how to use Inkscape then just go to `Help > Tutorials > Inkscape: Basic` and you will be ready to use.
-2. 
+# Drawing for LaTeX
+
+## GeoGebra
+
+GeoGebra gives you an option of exporting the Graphics View as PGF/TikZ code. Installing [GeoGebra Classic 6](https://wiki.geogebra.org/en/Reference:GeoGebra_Installation) is a dependecy hell ([ex1](https://ask.fedoraproject.org/t/dnf-reports-geogebra-gpg-key-not-found/3376) and [ex2](https://help.geogebra.org/topic/geogebra-classic-and-fedora-32)). Therefore, we will just use the online version: https://www.geogebra.org/classic 
+
+Now to insert the exported PGF/TikZ image just add the relevant parts of the LaTeX code from the export file.
+
+## Inkscape
+
+To draw complicated diagrams we can use Inkscape as follows:
+1. Draw the desired diagram in Inkscape, and enclose mathematical symbols in `$...$`. If you don't know how to use Inkscape then just go to `Help > Tutorials > Inkscape: Basic` and you will be ready to use.
+2. Create a folder called "pictures" inside the folder containg the main tex file and save the diagram as `svg` so that you can edit it in the future if needed. Then also save [PDF+LaTeX](https://wiki.inkscape.org/wiki/index.php/LaTeX) output to the same "pictures" folder: `File > Save As... > Select PDF from the drow-down menu > Click Save > Choose the Text Output option as "Omit text in PDF and create LaTeX file".
+3. Add the following code to the preamble of your main tex file ([source1](https://en.wikibooks.org/wiki/LaTeX/Importing_Graphics#Vector_graphics) and [source2](https://gkorpal.github.io/files/InkscapePDFLaTeX.pdf)):
+`````
+\usepackage{import} % it will enable us to access images without keeping them in the document's directory
+\usepackage{calc} % enable usage of \svgscale
+\usepackage{graphicx} % for insrting images
+\usepackage{xcolor} % for adding colors
+\usepackage{transparent} % enables usage of separate color stack for transparency
+`````
+4. Now we can add "image.svg" in the following ways:
+
+````
+\begin{figure}
+ \centering
+\def\svgwidth{\columnwidth}
+\import{./figures/}{image.pdf_tex}
+\caption{Your figure}
+\label{figure:example}
+\end{figure}
+
+
+\begin{figure}
+\centering
+\def\svgscale{1.5}
+\import{./figures/}{image.pdf_tex}
+\caption{Your figure}
+\label{figure:example}
+\end{figure}
+````
+
 
 You can also [write scripts](https://castel.dev/post/lecture-notes-2/) to make this process easier. The main advantage of Inkscape is that there's hardly any command or action that is impossible to do from keyboard. Linux users may not get the expected results with the key combinations starting with `Alt` key if the Window Manager catches those key events before they reach the inkscape application. One solution would be to change the WM's configuration accordingly.
