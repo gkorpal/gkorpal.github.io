@@ -37,7 +37,7 @@ set nocompatible               " get rid of Vi compatibility mode.
 filetype plugin indent on      " filetype detection[ON] plugin[ON] indent[ON]
 set t_Co=256                   " enable 256-color mode.
 syntax enable                  " enable syntax highlighting (can also use syntax on).
-colorscheme desert             " on a light terminal the default is peachpuff. on a dark terminal the default is ron. I am using it with solarized (dark) color pallet in xfce4-terminal, with Cyan (#2AA198) replaced by #EEE8D5 for highlighting
+colorscheme desert             " on a light terminal the default is peachpuff. on a dark terminal the default is ron. I am using it with solarized (dark) color pallet in xfce4-terminal, with Cyan (#2AA198) replaced by #EEE8D5 for highlighting and textcolor white.
 set hidden                     " allows you to re-use the same window without saving it first and keep an undo history for all the files using the same window.
 set number                     " show line numbers to the left
 set ruler                      " Always show cursor position.
