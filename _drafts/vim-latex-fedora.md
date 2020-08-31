@@ -168,5 +168,6 @@ To draw complicated diagrams we can use Inkscape as follows:
 \end{figure}
 ````
 
+https://tex.stackexchange.com/questions/151232/exporting-from-inkscape-to-latex-via-tikz
 
 You can also [write scripts](https://castel.dev/post/lecture-notes-2/) to make this process easier. The main advantage of Inkscape is that there's hardly any command or action that is impossible to do from keyboard. Linux users may not get the expected results with the key combinations starting with `Alt` key if the Window Manager catches those key events before they reach the inkscape application. One solution would be to change the WM's configuration accordingly.
