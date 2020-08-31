@@ -97,8 +97,8 @@ Following are the useful key mappings for the various vimtex commands:
 |----------|----------|----------|
 | `\\ll` | :VimtexCompile | Run latexmk compiler in continuous mode which complies the saved tex file and shows the pdf. This command works as a compiler toggle.|
 | `\\lv` | :VimtexView  |  View pdf for current project and perform forward search if available.|
-| `\\lr` | :VimtexRSearch |  Do reverse search (only available for MuPDF viewer).|
-| `\\le` | :VimtexErrors  | Open `quickfix` window if there are errors or warnings. Press `:q` to exit. |
+| `\\lr` | :VimtexRSearch |  Do reverse search (only available for MuPDF viewer with `xdotool` installed).|
+| `\\le` | :VimtexErrors  | Open `quickfix` window if there are errors or warnings. Press `:ccl` to close it. |
 | `\\lk` | :VimtexStop    | Stop compilation for the current project.|
 | `\\li` | :VimtexInfo    | Show information that is stored by vimtex about the current LaTeX project. Press `q` to exit|
 | `\\lt` | :VimtexTocOpen    | Open table of contents. Press `q` to exit |
@@ -130,7 +130,7 @@ Note that vimtex supports most multi-file documents. The main method uses a recu
 
 ## GeoGebra
 
-GeoGebra gives you an option of exporting the Graphics View as PGF/TikZ code. Installing [GeoGebra Classic 6](https://wiki.geogebra.org/en/Reference:GeoGebra_Installation) is a dependecy hell ([ex1](https://ask.fedoraproject.org/t/dnf-reports-geogebra-gpg-key-not-found/3376) and [ex2](https://help.geogebra.org/topic/geogebra-classic-and-fedora-32)). Therefore, we will just use the online version: https://www.geogebra.org/classic 
+GeoGebra gives you an option of exporting the Graphics View as PGF/TikZ code. Installing [GeoGebra Classic 6](https://wiki.geogebra.org/en/Reference:GeoGebra_Installation) is a dependency hell ([ex1](https://ask.fedoraproject.org/t/dnf-reports-geogebra-gpg-key-not-found/3376) and [ex2](https://help.geogebra.org/topic/geogebra-classic-and-fedora-32)). Therefore, we will just use the online version: https://www.geogebra.org/classic 
 
 Now to insert the exported PGF/TikZ image just add the relevant parts of the LaTeX code from the export file.
 
