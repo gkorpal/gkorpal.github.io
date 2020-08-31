@@ -139,6 +139,7 @@ Now to insert the exported PGF/TikZ image just add the relevant parts of the LaT
 To draw complicated diagrams we can use Inkscape as follows:
 1. Draw the desired diagram in Inkscape, and enclose mathematical symbols in `$...$`. If you don't know how to use Inkscape then just go to `Help > Tutorials > Inkscape: Basic` and you will be ready to use.
 2. Create a folder called "pictures" inside the folder containg the main tex file and save the diagram as `svg` so that you can edit it in the future if needed. Then also save [PDF+LaTeX](https://wiki.inkscape.org/wiki/index.php/LaTeX) output to the same "pictures" folder: `File > Save As... > Select PDF from the drow-down menu > Click Save > Choose the following options`
+
 ![alt text](https://gkorpal.github.io/images/options.png)
 
 You can also [use command-line](https://graphicdesign.stackexchange.com/a/56792) to achieve the same result:
