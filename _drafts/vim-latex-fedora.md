@@ -37,7 +37,7 @@ set nocompatible               " get rid of Vi compatibility mode.
 filetype plugin indent on      " filetype detection[ON] plugin[ON] indent[ON]
 set t_Co=256                   " enable 256-color mode.
 syntax enable                  " enable syntax highlighting (can also use syntax on).
-colorscheme desert             " on a light terminal the default is peachpuff. on a dark terminal the default is ron. I am using it with dark-pastel color pallet in xfce4-terminal
+colorscheme desert             " on a light terminal the default is peachpuff. on a dark terminal the default is ron. I am using it with solarized (dark) color pallet in xfce4-terminal
 set hidden                     " allows you to re-use the same window without saving it first and keep an undo history for all the files using the same window.
 set number                     " show line numbers to the left
 set ruler                      " Always show cursor position.
@@ -87,7 +87,7 @@ Note that by default the following desired options are already there:
 * vimtex will open the pdf viewer automatically after compilation
 * forward search is enabled, i.e. it will perform a forward search to the current cursor position when the first invocation of the pdf viewer happens. It uses SyncTex and requires `xdotool` to work with MuPDF.
 
-You can further customize by adding snippets as demonstrated in various blog posts ([ex1](https://castel.dev/post/lecture-notes-1/), [ex2](https://www.dianacai.com/blog/2018/06/28/latex-vim-skim-setup/) and [ex3](http://tomchaplin.xyz/portfolio/Vim-for-LaTeX/)). 
+You can further customize by adding snippets as demonstrated in various blog posts ([ex1](https://castel.dev/post/lecture-notes-1/), [ex2](https://www.dianacai.com/blog/2018/06/28/latex-vim-skim-setup/), [ex3](http://tomchaplin.xyz/portfolio/Vim-for-LaTeX/) and [ex4](https://jdhao.github.io/2019/03/26/nvim_latex_write_preview/)). 
 
 # Usage instructions
 
@@ -95,42 +95,36 @@ Following are the useful key mappings for the various vimtex commands:
 
 | Key mapping | Vimtex command  (normal mode)| Output |
 |----------|----------|----------|
-| \\ll | :VimtexCompile | Run latexmk compiler in continuous mode which complies the saved tex file and shows the pdf. This command works as a compiler toggle.|
-| \\lv | :VimtexView  |  View pdf for current project and perform forward search if available.|
-| \\lr | :VimtexRSearch |  Do reverse search (only available for MuPDF viewer).|
-| \\le | :VimtexErrors  | Open `quickfix` window if there are errors or warnings |
-| \\lk | :VimtexStop    | Stop compilation for the current project.|
-| \\li | :VimtexInfo    | Show information that is stored by vimtex about the current LaTeX project. Press `q` to exit|
-| \\lt | :VimtexTocOpen    | Open table of contents. Press `q` to exit |
-| \\lg | :VimtexStatus     |     Show compilation status for current project.|
-| \\ls | :VimtexToggleMain | If you are working with multiple tex files may want to change the main file for the project |
+| `\\ll` | :VimtexCompile | Run latexmk compiler in continuous mode which complies the saved tex file and shows the pdf. This command works as a compiler toggle.|
+| `\\lv` | :VimtexView  |  View pdf for current project and perform forward search if available.|
+| `\\lr` | :VimtexRSearch |  Do reverse search (only available for MuPDF viewer).|
+| `\\le` | :VimtexErrors  | Open `quickfix` window if there are errors or warnings. Press `q` to exit. |
+| `\\lk` | :VimtexStop    | Stop compilation for the current project.|
+| `\\li` | :VimtexInfo    | Show information that is stored by vimtex about the current LaTeX project. Press `q` to exit|
+| `\\lt` | :VimtexTocOpen    | Open table of contents. Press `q` to exit |
+| `\\lg` | :VimtexStatus     |     Show compilation status for current project.|
+| `\\ls` | :VimtexToggleMain | If you are working with multiple tex files may want to change the main file for the project |
 
 We have many other shorthand keymaps like:
 
 | Key mapping | Vim mode| Output |
 |-------------|---------|--------|
-| ]]          | insert | Closes the current environment or delimiter, i.e adds \end{foo} for the corresponding \begin{foo}|
-| dse | normal | Delete the surrounding environment, i.e delete both \begin{foo} and \end{foo}. |
-| dsc | normal | Delete surrounding command like \begin{} deleted from \begin{foo}|
-| cse | normal | Change the surrounding environment, i.e change both \begin{foo} and \end{foo} to \begin{too} and \end{too} |
-| csc | normal | Change surrounding command like \begin{} changed from \begin{foo} to \end{foo}|
+| `]]`  | insert | Closes the current environment or delimiter, i.e adds `\end{foo}` for the corresponding `\begin{foo}`|
+| `]]`  | normal | Go to next end of a section. |
+| `][`  | normal | Go to next beginning of a section. |
+| `[]`  | normal | Go to previous end of a section. |
+| `[[`  | normal | Go to previous beginning of a section.|
+| `]m`  | normal | Go to next start of an environment `\begin`. |
+| `]M`  | normal | Go to next end of an environment `\end`. |
+| `[m`  | normal | Go to previous start of an environment `\begin`.|
+| `[M`  | normal | Go to previous end of an environment `\end`.|
+| `dse` | normal | Delete the surrounding environment, i.e delete both `\begin{foo}` and `\end{foo}`. |
+| `dsc` | normal | Delete surrounding command like `\begin{}` deleted from `\begin{foo}`|
+| `cse` | normal | Change the surrounding environment, i.e change both `\begin{foo}` and `\end{foo}` to `\begin{too}` and `\end{too}` |
+| `csc` | normal | Change surrounding command like `\begin{foo}` changed to `\end{foo}`|
 
 
-
-Another useful key mapping is to use `]]`  for 
-
-Note that vimtex supports most multi-file documents. The main method uses a recursive search algorithm that should find the main LaTeX file in most cases. Read [the documentation](https://github.com/lervag/vimtex/blob/master/doc/vimtex.txt) for more details.
-
-
-https://wikimatze.de/vimtex-the-perfect-tool-for-working-with-tex-and-vim/
-
-https://jdhao.github.io/2019/03/26/nvim_latex_write_preview/
-
-https://medium.com/rahasak/vim-as-my-latex-editor-f0c5d60c66fa
-
-http://tomchaplin.xyz/portfolio/Vim-for-LaTeX/
-
-https://www.dianacai.com/blog/2018/06/28/latex-vim-skim-setup/
+Note that vimtex supports most multi-file documents. The main method uses a recursive search algorithm that should find the main LaTeX file in most cases. Read [the documentation](https://github.com/lervag/vimtex/blob/master/doc/vimtex.txt) for more details. 
 
 
 
