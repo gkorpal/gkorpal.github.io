@@ -17,7 +17,9 @@ We will need the following packages to begin with:
 |----------|----------|
 |[TeX Live](https://docs.fedoraproject.org/en-US/neurofedora/latex/) | `texlive-scheme-full`|
 |[Vim](https://fedoraproject.org/wiki/Vim) |`vim`|
+|[Git](https://src.fedoraproject.org/rpms/git) | `git`|
 | [MuPDF](https://mupdf.com/) | `mupdf`|
+| [command-line X11 automation tool](https://manned.org/xdotool/95401223) | `xdotool`|
 | [Inkscape](https://inkscape.org/) | `inkscape`|
 
 If you want GUI version of Vim then can get gVim by installing the package `vim-X11`. For gVim you will have to [modify these steps](https://vi.stackexchange.com/questions/11484/) accordingly.
