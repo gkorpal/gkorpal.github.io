@@ -126,5 +126,8 @@ We have many other shorthand keymaps like:
 
 Note that vimtex supports most multi-file documents. The main method uses a recursive search algorithm that should find the main LaTeX file in most cases. Read [the documentation](https://github.com/lervag/vimtex/blob/master/doc/vimtex.txt) for more details. 
 
+Finally, to draw diagrams we will use Inkscape as follows:
+1. Draw the desired diagram in Inkscape. If you don't know how to use Inkscape then just go to `Help > Tutorials > Inkscape: Basic` and you will be ready to use.
+2. 
 
-
+You can also [write scripts](https://castel.dev/post/lecture-notes-2/) to make this process easier. The main advantage of Inkscape is that there's hardly any command or action that is impossible to do from keyboard. Linux users may not get the expected results with the key combinations starting with `Alt` key if the Window Manager catches those key events before they reach the inkscape application. One solution would be to change the WM's configuration accordingly.
