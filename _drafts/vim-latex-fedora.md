@@ -126,7 +126,7 @@ We have many other shorthand keymaps like:
 
 Note that vimtex supports most multi-file documents. The main method uses a recursive search algorithm that should find the main LaTeX file in most cases. Read [the documentation](https://github.com/lervag/vimtex/blob/master/doc/vimtex.txt) for more details. 
 
-# Drawing for LaTeX
+# Drawing graphs and diagrams in LaTeX documents
 
 ## GeoGebra
 
@@ -138,7 +138,14 @@ Now to insert the exported PGF/TikZ image just add the relevant parts of the LaT
 
 To draw complicated diagrams we can use Inkscape as follows:
 1. Draw the desired diagram in Inkscape, and enclose mathematical symbols in `$...$`. If you don't know how to use Inkscape then just go to `Help > Tutorials > Inkscape: Basic` and you will be ready to use.
-2. Create a folder called "pictures" inside the folder containg the main tex file and save the diagram as `svg` so that you can edit it in the future if needed. Then also save [PDF+LaTeX](https://wiki.inkscape.org/wiki/index.php/LaTeX) output to the same "pictures" folder: `File > Save As... > Select PDF from the drow-down menu > Click Save > Choose the Text Output option as "Omit text in PDF and create LaTeX file".
+2. Create a folder called "pictures" inside the folder containg the main tex file and save the diagram as `svg` so that you can edit it in the future if needed. Then also save [PDF+LaTeX](https://wiki.inkscape.org/wiki/index.php/LaTeX) output to the same "pictures" folder: `File > Save As... > Select PDF from the drow-down menu > Click Save > Choose the following options`
+![alt text](https://gkorpal.github.io/images/options.png)
+
+You can also [use command-line](https://graphicdesign.stackexchange.com/a/56792) to achieve the same result:
+````
+inkscape mySVGinputFile.svg --export-area-drawing --batch-process --export-type=pdf --export-filename=output.pdf
+````
+
 3. Add the following code to the preamble of your main tex file ([source1](https://en.wikibooks.org/wiki/LaTeX/Importing_Graphics#Vector_graphics) and [source2](https://gkorpal.github.io/files/InkscapePDFLaTeX.pdf)):
 `````
 \usepackage{import} % it will enable us to access images without keeping them in the document's directory
@@ -147,19 +154,27 @@ To draw complicated diagrams we can use Inkscape as follows:
 \usepackage{xcolor} % for adding colors
 \usepackage{transparent} % enables usage of separate color stack for transparency
 `````
-4. Now we can add "image.svg" in the following ways:
+4. Now we can add "image.svg" in one of the following ways ([source1](https://tex.stackexchange.com/questions/151232/) and [source2](https://tex.stackexchange.com/questions/46312/)):
 
 ````
-\begin{figure}
+\begin{figure}[h]
+\centering
+\resizebox{75mm}{!}{\import{./figures/}{image.pdf_tex}}
+\caption{Your figure}
+\label{figure:example}
+\end{figure}
+
+
+\begin{figure}[h]
  \centering
-\def\svgwidth{\columnwidth}
+\def\svgwidth{0.75\columnwidth}                 %Using \def\svgwidth{desired width} instead of \resizebox will preserve the font size
 \import{./figures/}{image.pdf_tex}
 \caption{Your figure}
 \label{figure:example}
 \end{figure}
 
 
-\begin{figure}
+\begin{figure}[h]
 \centering
 \def\svgscale{1.5}
 \import{./figures/}{image.pdf_tex}
@@ -167,7 +182,5 @@ To draw complicated diagrams we can use Inkscape as follows:
 \label{figure:example}
 \end{figure}
 ````
-
-https://tex.stackexchange.com/questions/151232/exporting-from-inkscape-to-latex-via-tikz
 
 You can also [write scripts](https://castel.dev/post/lecture-notes-2/) to make this process easier. The main advantage of Inkscape is that there's hardly any command or action that is impossible to do from keyboard. Linux users may not get the expected results with the key combinations starting with `Alt` key if the Window Manager catches those key events before they reach the inkscape application. One solution would be to change the WM's configuration accordingly.
