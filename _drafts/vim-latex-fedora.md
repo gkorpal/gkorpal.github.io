@@ -7,8 +7,6 @@ categories:
 tags:
   - edge case
 ---
-Arch way of doing stuff.
-
 The plan is to use [Vim](https://www.vim.org/) as the text-editor and [MuPDF](https://mupdf.com/) as the pdf-viewer since both can be accessed solely via keyboard, while keeping all the desired features from other LaTex editor like "live pdf preview" and "compile using latexmk" from GTK based [Gummi](https://github.com/alexandervdm/gummi) and "forward and backward search to switch between the sources and the PDF" and "detailed compilation errors" from Qt based [TexMaker](https://www.xm1math.net/texmaker/).
 
 We will need the following packages to begin with:
