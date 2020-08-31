@@ -98,7 +98,7 @@ Following are the useful key mappings for the various vimtex commands:
 | `\\ll` | :VimtexCompile | Run latexmk compiler in continuous mode which complies the saved tex file and shows the pdf. This command works as a compiler toggle.|
 | `\\lv` | :VimtexView  |  View pdf for current project and perform forward search if available.|
 | `\\lr` | :VimtexRSearch |  Do reverse search (only available for MuPDF viewer).|
-| `\\le` | :VimtexErrors  | Open `quickfix` window if there are errors or warnings. Press `q` to exit. |
+| `\\le` | :VimtexErrors  | Open `quickfix` window if there are errors or warnings. Press `:q` to exit. |
 | `\\lk` | :VimtexStop    | Stop compilation for the current project.|
 | `\\li` | :VimtexInfo    | Show information that is stored by vimtex about the current LaTeX project. Press `q` to exit|
 | `\\lt` | :VimtexTocOpen    | Open table of contents. Press `q` to exit |
