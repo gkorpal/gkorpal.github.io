@@ -146,13 +146,15 @@ Note that vimtex supports most multi-file documents. The main method uses a recu
 
 ## PGF/TikZ
 
-Easiest way is to use a program like GeoGebra. GeoGebra gives you an option of exporting the Graphics View as PGF/TikZ code. Installing [GeoGebra Classic 6](https://wiki.geogebra.org/en/Reference:GeoGebra_Installation) is a dependency hell ([ex1](https://ask.fedoraproject.org/t/dnf-reports-geogebra-gpg-key-not-found/3376) and [ex2](https://help.geogebra.org/topic/geogebra-classic-and-fedora-32)). Therefore, we will just use the online version: https://www.geogebra.org/classic Finally, to insert the exported PGF/TikZ image just add the relevant parts of the LaTeX code from the export file.
+The easiest way to include simple 2D graphs and diagrams is to use GeoGebra, since it gives us the option of exporting the Graphics View as PGF/TikZ code. Installing [GeoGebra Classic 6](https://wiki.geogebra.org/en/Reference:GeoGebra_Installation) is a dependency hell ([ex1](https://ask.fedoraproject.org/t/dnf-reports-geogebra-gpg-key-not-found/3376) and [ex2](https://help.geogebra.org/topic/geogebra-classic-and-fedora-32)). Therefore, we will just use the online version: https://www.geogebra.org/classic Finally, to insert the exported PGF/TikZ image just add the relevant parts of the LaTeX code from the export file.
 
-Another useful package is `pgfplots` example: https://tex.stackexchange.com/questions/28766/how-to-draw-a-circular-cone
+Moreover, for including 2D and 3D plots, we can use the `pgfplots` package. https://tex.stackexchange.com/a/28775/
 
-## Inkscape
+Apart from all these tools, one can directly use TikZ package to manually draw things like flowcharts and commutative diagrams.
 
-To draw complicated diagrams we can use Inkscape as follows:
+## Vector Graphics
+
+It is possible to include vector graphics using Inkscape as follows:
 1. Draw the desired diagram in Inkscape, and enclose mathematical symbols in `$...$`. If you don't know how to use Inkscape then just go to `Help > Tutorials > Inkscape: Basic` and you will be ready to use.
 2. Create a folder called "pictures" inside the folder containg the main tex file and save the diagram as `svg` so that you can edit it in the future if needed. Then also save [PDF+LaTeX](https://wiki.inkscape.org/wiki/index.php/LaTeX) output to the same "pictures" folder: `File > Save As... > Select PDF from the drop-down menu > Click Save > Choose the following options`
 
