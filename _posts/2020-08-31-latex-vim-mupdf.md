@@ -144,11 +144,11 @@ Note that vimtex supports most multi-file documents. The main method uses a recu
 
 # Drawing graphs and diagrams in LaTeX documents
 
-## GeoGebra
+## PGF/TikZ
 
-GeoGebra gives you an option of exporting the Graphics View as PGF/TikZ code. Installing [GeoGebra Classic 6](https://wiki.geogebra.org/en/Reference:GeoGebra_Installation) is a dependency hell ([ex1](https://ask.fedoraproject.org/t/dnf-reports-geogebra-gpg-key-not-found/3376) and [ex2](https://help.geogebra.org/topic/geogebra-classic-and-fedora-32)). Therefore, we will just use the online version: https://www.geogebra.org/classic 
+Easiest way is to use a program like GeoGebra. GeoGebra gives you an option of exporting the Graphics View as PGF/TikZ code. Installing [GeoGebra Classic 6](https://wiki.geogebra.org/en/Reference:GeoGebra_Installation) is a dependency hell ([ex1](https://ask.fedoraproject.org/t/dnf-reports-geogebra-gpg-key-not-found/3376) and [ex2](https://help.geogebra.org/topic/geogebra-classic-and-fedora-32)). Therefore, we will just use the online version: https://www.geogebra.org/classic Finally, to insert the exported PGF/TikZ image just add the relevant parts of the LaTeX code from the export file.
 
-Now to insert the exported PGF/TikZ image just add the relevant parts of the LaTeX code from the export file.
+Another useful package is `pgfplots` example: https://tex.stackexchange.com/questions/28766/how-to-draw-a-circular-cone
 
 ## Inkscape
 
@@ -201,4 +201,3 @@ inkscape mySVGinputFile.svg --export-area-drawing --batch-process --export-type=
 ````
 
 You can also [write scripts](https://castel.dev/post/lecture-notes-2/) to make this process easier. The main advantage of Inkscape is that there's hardly any command or action that is impossible to do from keyboard. Linux users may not get the expected results with the key combinations starting with `Alt` key if the Window Manager catches those key events before they reach the inkscape application. One solution would be to change the WM's configuration accordingly.
-
