@@ -204,9 +204,81 @@ For example, we can plot 3D surfaces by following methods:
 
 ![alt text](https://gkorpal.github.io/images/cone.png)
 
-The con of this method is that it will increase the compliation time (since pdfLaTeX is limited to single CPU thread).
+The downside of this method is that it will increase the compliation time (since pdfLaTeX is limited to single CPU thread).
 
-3. Apart from all these tools, one can directly use TikZ package to manually draw things like flowcharts and commutative diagrams.
+3. We can draw commutative diagrams using `tikz-cd` package. Read its [documentation](https://ctan.org/pkg/tikz-cd?lang=en) for details. Firstly you will have to add the following to the preamble:
+
+````
+\usepackage{tikz-cd}
+
+%%homebrewcommands
+
+\newcommand{\delbar}{\overline{\partial}}
+\newcommand{\Om}{\Omega}
+\newcommand{\mz}{\mathcal{Z}}
+
+\DeclareMathOperator{\ceco}{\check{H}}
+````
+
+Then add the following code:
+
+````
+\[\begin{tikzcd}[column sep = 1.5em]
+0\arrow{r} & \mz^{p,\ell}(M) \arrow[hookrightarrow]{r} & \Om^{p,\ell}(M) \arrow{r}{\delbar} & \mz^{p,\ell+1}(M) \arrow{r}{\Delta} & \ceco^1(M,\mz^{p,\ell}) \arrow{r} & 0 \arrow{r} & \ceco^1(M,\mz^{p,\ell+1}) \arrow{d}{\Delta}\\
+& \cdots & 0\arrow{l} & \ceco^3(M,\mz^{p,\ell}) \arrow{l}& \ceco^2(M,\mz^{p,\ell+1})\arrow{l}[swap]{\Delta} & 0 \arrow{l} & \ceco^2(M,\mz^{p,\ell})\arrow{l}
+\end{tikzcd}\]
+````
+
+to get
+
+![alt text](https://gkorpal.github.io/images/exact.png)
+
+4. Apart from all these tools, one can directly use TikZ package to manually draw things like flowcharts. Read the [documentation](https://pgf-tikz.github.io/pgf/pgfmanual.pdf) for details. For example, we can add the following to the preamble:
+
+`````
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows, chains, matrix, calc, trees, positioning, fit}
+`````
+
+Then we can draw function mapping:
+
+`````
+\begin{tikzpicture}[line width=1pt,>=latex]
+			\node (a1) {$\mathbb{Q}_p(\sqrt{u}) \ \bullet$};
+			\node[below=of a1] (a2) {$\mathbb{Q}_p(\sqrt{-p})\ \bullet$} ;
+			\node[below=of a2] (a3) {$\mathbb{Q}_p(\sqrt{-p\cdot u})\ \bullet$};
+
+			\node[right=4cm of a1] (b1) {$ \bullet \ \mu_p$};
+			\node[right=4cm of a2] (b2) {$ \bullet \ \lambda_p$};
+			\node[right=4cm of a3] (b3) {$ \bullet \ \mu_p\lambda_p$};
+
+			\node[shape=ellipse, draw, minimum size=3cm,fit={(a1) (a3)}] {};
+			\node[shape=ellipse, draw, minimum size=3cm,fit={(b1) (b3)}] {};
+
+			\node[below=1cm of a3] {$\mathcal{E}$};
+			\node[below=1cm of b3] {$\mathcal{Q}$};
+
+			\draw[->] (a1) -- (b1);
+			\draw[->] (a2) -- (b2);
+			\draw[->] (a3) -- (b3);
+\end{tikzpicture}
+`````
+
+![alt text](https://gkorpal.github.io/images/function.png)
+
+and flowcharts
+
+`````
+\begin{tikzpicture}[>=latex']
+\node[left] at (0,0) (input) {$p$};
+\node[block] at (4,0) (block) [text=white]{\textbf{Reciprocity Law}};
+\node at (9,0) (output) {$\chi_\tau(\Frob_p)$};
+\draw[very thick, ->] (input) -- (block);
+\draw[very thick, ->] (block) -- (output);
+\end{tikzpicture}
+`````
+
+![alt text](https://gkorpal.github.io/images/flow.png)
 
 ## Vector Graphics
 
@@ -259,3 +331,7 @@ inkscape mySVGinputFile.svg --export-area-drawing --batch-process --export-type=
 ````
 
 You can also [write scripts](https://castel.dev/post/lecture-notes-2/) to make this process easier. The main advantage of Inkscape is that there's hardly any command or action that is impossible to do from keyboard. Linux users may not get the expected results with the key combinations starting with `Alt` key if the Window Manager catches those key events before they reach the inkscape application. One solution would be to change the WM's configuration accordingly.
+
+## Images
+
+We can use simple drawing programs like Google Drawing or complex mathematical programs like Octave and SageMath, to draw a diagram and then export it as png or jpg. Finally, we can insert it using `graphicx` package. 
