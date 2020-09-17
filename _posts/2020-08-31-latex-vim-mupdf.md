@@ -146,15 +146,67 @@ Note that vimtex supports most multi-file documents. The main method uses a recu
 
 ## PGF/TikZ
 
-The easiest way to include simple 2D graphs and diagrams is to use GeoGebra, since it gives us the option of exporting the Graphics View as PGF/TikZ code. Installing [GeoGebra Classic 6](https://wiki.geogebra.org/en/Reference:GeoGebra_Installation) is a dependency hell ([ex1](https://ask.fedoraproject.org/t/dnf-reports-geogebra-gpg-key-not-found/3376) and [ex2](https://help.geogebra.org/topic/geogebra-classic-and-fedora-32)). Therefore, we will just use the online version: https://www.geogebra.org/classic Finally, to insert the exported PGF/TikZ image just add the relevant parts of the LaTeX code from the export file.
+1. The easiest way to include simple 2D graphs and diagrams is to use GeoGebra, since it gives us the option of exporting the Graphics View as PGF/TikZ code. Installing [GeoGebra Classic 6](https://wiki.geogebra.org/en/Reference:GeoGebra_Installation) is a dependency hell ([ex1](https://ask.fedoraproject.org/t/dnf-reports-geogebra-gpg-key-not-found/3376) and [ex2](https://help.geogebra.org/topic/geogebra-classic-and-fedora-32)). Therefore, we will just use the online version: https://www.geogebra.org/classic For example, add the following to the preamble:
 
-Moreover, for including 2D and 3D plots, we can use the `pgfplots` package. https://tex.stackexchange.com/a/28775/
+`````
+\usepackage{pgf,tikz}
+\usetikzlibrary{arrows}%you can see what extra packages are needed by going through the exported tex file
+\usetikzlibrary{decorations.markings}
+`````
 
-https://tex.stackexchange.com/questions/359902/simple-tikz-hyperbola
+Then draw the following diagram in GeoGebra
 
-https://tex.stackexchange.com/questions/66536/pgfplots-quadrics
+![alt text](https://gkorpal.github.io/images/geogebra.png)
 
-Apart from all these tools, one can directly use TikZ package to manually draw things like flowcharts and commutative diagrams.
+And add the following corresponding code in the tex file:
+
+`````
+\begin{tikzpicture}[line cap=round,line join=round, x=0.7cm,y=0.7cm]
+\draw[->,color=black] (-5,0) -- (10,0);
+\draw[->,color=black] (0,-5) -- (0,5);
+\clip(-5,-5) rectangle (10,5);
+\draw [line width=1.6pt,domain=3.0:10.0] plot(\x,{(-0-0*\x)/8});
+\draw [decoration={markings, mark=at position 0.125 with {\arrow{>}}},
+        postaction={decorate}, line width=1.6pt] (0,0) circle (2.1cm);
+\draw (3.09,0.70) node[anchor=north west] {$\delta$};
+\begin{scriptsize}
+\fill [color=black] (3,0) circle (2pt);
+\end{scriptsize}
+\end{tikzpicture}
+`````
+
+2. For including 2D and 3D plots, we can use the `pgfplots` package. Read the [documentation](http://pgfplots.sourceforge.net/). First include the following in the preamble:
+
+````
+\usepackage{pgfplots} %draws function plots using pgf/tikz
+\pgfplotsset{compat=1.16}%running latest version of pgfplots
+````
+
+For example, we can plot 3D surfaces by following methods:
+`````
+ \begin{tikzpicture} %https://tex.stackexchange.com/a/359914/
+ \begin{axis}[title=$f^{-1}(-1)$: Hyperboloid of 1 sheet,axis equal]
+ \addplot3[surf,domain=0:360,y domain=-2:2] ({cosh(y)*cos(x)},{cosh(y)*sin(x)},{sinh(y)});
+ \end{axis}
+ \end{tikzpicture}
+`````
+
+![alt text](https://gkorpal.github.io/images/hy1.png)
+
+`````
+  \begin{tikzpicture}%https://tex.stackexchange.com/a/28775/
+  \begin{axis}[title=$f^{-1}(0)$: Double cone, domain=0:5, y domain=0:2*pi,xmin=-10, xmax=10, ymin=-10, ymax=10, samples=20]
+  \addplot3 [surf,z buffer=sort] ({x*cos(deg(y))}, {x*sin(deg(y))}, {x});
+  \addplot3 [surf,z buffer=sort] ({x*cos(deg(y))}, {x*sin(deg(y))}, {-x});
+  \end{axis}
+  \end{tikzpicture}
+`````
+
+![alt text](https://gkorpal.github.io/images/cone.png)
+
+The con of this method is that it will increase the compliation time (since pdfLaTeX is limited to single CPU thread).
+
+3. Apart from all these tools, one can directly use TikZ package to manually draw things like flowcharts and commutative diagrams.
 
 ## Vector Graphics
 
