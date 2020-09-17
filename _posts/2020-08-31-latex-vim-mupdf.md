@@ -150,6 +150,10 @@ The easiest way to include simple 2D graphs and diagrams is to use GeoGebra, sin
 
 Moreover, for including 2D and 3D plots, we can use the `pgfplots` package. https://tex.stackexchange.com/a/28775/
 
+https://tex.stackexchange.com/questions/359902/simple-tikz-hyperbola
+
+https://tex.stackexchange.com/questions/66536/pgfplots-quadrics
+
 Apart from all these tools, one can directly use TikZ package to manually draw things like flowcharts and commutative diagrams.
 
 ## Vector Graphics
