@@ -47,10 +47,10 @@ Since `vimrc` is something personal that evolves over times as per one's usage r
 
 `````
 set nocompatible               " get rid of Vi compatibility mode. 
-filetype plugin indent on      " filetype detection[ON] plugin[ON] indent[ON]
+filetype plugin indent on      " filetype detection[ON] plugin[ON] auto-indent[ON] depending on filetype
 set t_Co=256                   " enable 256-color mode.
 syntax enable                  " enable syntax highlighting (can also use syntax on).
-colorscheme morning             " on a light terminal the default is peachpuff. on a dark terminal the default is ron. I am using it with solarized (dark) color pallet in xfce4-terminal, with Cyan (#2AA198) replaced by #EEE8D5 for highlighting and textcolor white.
+colorscheme morning            " I am using it with solarized (dark) color pallet in xfce4-terminal.
 set hidden                     " allows you to re-use the same window without saving it first and keep an undo history for all the files using the same window.
 set number                     " show line numbers to the left
 set ruler                      " Always show cursor position.
@@ -61,9 +61,10 @@ set ignorecase                 " Make searches case-insensitive.
 set smartcase                  " Make search case-sesitive when using capital letters
 set autoindent                 " When opening a new line and no filetype-specific indenting is enabled, keep " the same indent as the line you're currently on.
 set backspace=indent,eol,start " Allow backspacing over autoindent, line breaks and start of insert action
-set tabstop=4                  " show existing tab with 4 spaces width
-set shiftwidth=4               " when indenting with '>', use 4 spaces width
-set expandtab                  " when indenting with '>', use 4 spaces width
+set tabstop=8                  " sets tab stops to 8 characters wide
+set softtabstop=4              " makes the Tab key intent by 4 spaces
+set shiftwidth=4               " width of autointents set to 4 spaces
+set expandtab                  " converts tabs to white space
 set mouse=a                    " Enable use of the mouse for all modes
 set wrap linebreak nolist      " Soft wrapping text. To move the cursor up and down within wrapped line use the commands gk and gj.
 `````
