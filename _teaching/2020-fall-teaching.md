@@ -16,7 +16,7 @@ The following is some information regarding the 15 week iCourse section (103/203
 
 **Instructor:** [Michael Rossetti](https://www.math.arizona.edu/people/mrrossetti)
 
-**Teaching Assistant:** Gaurish Korpal, Tristan Phillips
+**Teaching Assistants:** Gaurish Korpal, Tristan Phillips
 
 
 * **Course syllabus and background needed for the course:** Topics include properties of functions and graphs, linear and quadratic equations, polynomial functions, exponential and logarithmic functions with applications. For this course we will be using Desmos Test Mode as graphing calculator. The textbook for the course is provided as an electronic textbook in [ALEKS](https://gkorpal.github.io/files/curriculum.pdf). Another recommended reading material is the "Math 112 Guided Workbook" (can download pdf from [D2L](https://d2l.arizona.edu/d2l/loginh/). The syllabus includes the following topics: Linear functions, piecewise linear functions, transformation of functions, combining functions, inverse functions, quadratic functions, polynomial functions, rational functions, exponenetial functions and logarithmic functions. For this class you will need daily access to a laptop or web-enabled device with webcam and microphone, and regular access to reliable internet signal. The course work will take place in Microsoft Teams, D2L and Gradescope.  For lecture recordings, students will access content in D2L and Microsoft Teams.
