@@ -22,8 +22,8 @@ Education
 Work experience
 ------
 * August 2019 - present: Graduate Teaching Assistant - Department of Mathematics (The University of Arizona College of Science)
-  * Fall 2019: MATH 112 - College Algebra Concepts and Applications ([Job Guideliines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))
-  * Spring 2020: MATH 112 - College Algebra Concepts and Applications ([Job Guideliines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))
+  * Fall 2019: MATH 112 - College Algebra Concepts and Applications ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))
+  * Spring 2020: MATH 112 - College Algebra Concepts and Applications ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))
   * Fall 2020: Math 112 (Tutoring, Grading HW and Proctoring exams), Math 113 (Exam proctor)
   
 Awards and Fellowships
