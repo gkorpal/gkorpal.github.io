@@ -32,7 +32,9 @@ Following are the good book lists:
 
 * **Fun and Fundamentals of Mathematics** by *J. V. Narlikar and M. Narlikar*: This was the first book I bought through flipkart (when it used to sell only books). Have read it many times since April 2011.
 * **Euclid’s Window** by *Leonard Mlodinow*: I loved reading this book (Mlodinow has co-authored "The Grand Design" by Stephen Hawking).
-*  **Euler's Gem** by *David Richeson*: 2+E=F+V was my favourite formula in school and this was the first book I read in college.
+* **Euler's Gem** by *David Richeson*: 2+E=F+V was my favourite formula in school and this was the first book I read in college.
+* **Mathematics: A very Short Introduction** by *T. Gowers*: A broad overview of research carrier in mathematics.
+* **What is Mathematics ?** by *Richard Courant and Herbert Robbins* : This is must read book for all students serious towards mathematics. This book will be your life long friend.
 * **Fermat’s Last Theorem** by *Simon Singh*: A very detailed account on Fermat's Theorem with a good number of references.
 * **The Poincare Conjecture** by *Donal O'Shea*: It was nice to see how the different branches of topology were developed to solve this conjecture.
 * **Prime Obsession** by *John Derbyshire*: I finally understood the  meaning of "analytic continuation" from this book.
@@ -44,10 +46,9 @@ Following are the good book lists:
 * **The Penguin Dictionary of Curious and Interesting Geometry** by *David Wells*: My favourite entry is "pursuit curves".
 * **Flatland** by *Abbott*: It's a short and sweet book.
 * **The Number Devil** by *Hans Magnus Enzensberge*: Though the author is not a mathematician, he is a well-known and respected European intellectual and author with wide-ranging interests. This book is similar to George Gamow’s book "Mr Tompkins". Plus it's a colourful maths book!
-* **The Curious Incident of the Dog in the Night-Time** by *Mark Haddon*: An autistic boy who loves prime numbers.
+* **The Curious Incident of the Dog in the Night-Time** by *Mark Haddon*: The protagonist is an autistic boy who loves prime numbers and aloo gobi.
 * **The Devotion of Suspect X** by *Keigo Higashino*: The protagonist is a brilliant but lonely mathematician.
-* **Mathematics: A very Short Introduction** by *T. Gowers*: A broad overview of research carrier in mathematics.
-* **What is Mathematics ?** by *Richard Courant and Herbert Robbins* : This is must read book for all students serious towards mathematics. This book will be your life long friend.
+* **A Man Called Ove** by *Fredrik Backman*: The protagonist is an autistic old man who liked maths when he was a kid.
 
 ## Biographies and Autobiographies ##
 ------
