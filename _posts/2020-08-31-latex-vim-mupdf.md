@@ -145,9 +145,50 @@ Note that vimtex supports most multi-file documents. The main method uses a recu
 
 # Drawing graphs and diagrams in LaTeX documents using pdfLaTeX
 
-## Vector Graphics
+We can always use simple mathematical programs like GeoGebra for 2D and 3D graphs and drawing programs like Google Drawing for diagrams. These graphs and diagrams can be exported as png or jpg (raster graphics) and then inserted in pdf using `graphicx` package. However, for better integration into the pdf document we should be using vector graphics and it can be done with the help of following programs/packages:
 
-### TikZ
+## Graphs
+
+### pgfplots
+
+For including 2D and 3D plots, we can use the `pgfplots` package. Read the [documentation](http://pgfplots.sourceforge.net/). First include the following in the preamble:
+
+````
+\usepackage{pgfplots} %draws function plots using pgf/tikz
+\pgfplotsset{compat=1.16}%running latest version of pgfplots
+````
+
+For example, we can plot 3D surfaces by following methods:
+`````
+ \begin{tikzpicture} %https://tex.stackexchange.com/a/359914/
+ \begin{axis}[title=$f^{-1}(-1)$: Hyperboloid of 1 sheet,axis equal]
+ \addplot3[surf,domain=0:360,y domain=-2:2] ({cosh(y)*cos(x)},{cosh(y)*sin(x)},{sinh(y)});
+ \end{axis}
+ \end{tikzpicture}
+`````
+
+![alt text](https://gkorpal.github.io/images/hy1.png)
+
+`````
+  \begin{tikzpicture}%https://tex.stackexchange.com/a/28775/
+  \begin{axis}[title=$f^{-1}(0)$: Double cone, domain=0:5, y domain=0:2*pi,xmin=-10, xmax=10, ymin=-10, ymax=10, samples=20]
+  \addplot3 [surf,z buffer=sort] ({x*cos(deg(y))}, {x*sin(deg(y))}, {x});
+  \addplot3 [surf,z buffer=sort] ({x*cos(deg(y))}, {x*sin(deg(y))}, {-x});
+  \end{axis}
+  \end{tikzpicture}
+`````
+
+![alt text](https://gkorpal.github.io/images/cone.png)
+
+The downside of this method is that it will increase the compliation time (since pdfLaTeX is limited to single CPU thread).  We can also use `contour gnuplot` and `\addplot gnuplot` to extend the built-in capabilities of `pgfplots` by means of `gnuplot`’s math library, although their use is optional.
+
+### matplotlib
+
+https://timodenk.com/blog/exporting-matplotlib-plots-to-latex/
+
+## Diagrams
+
+### PGF/TikZ
 
 Apart from all these tools, one can directly use TikZ package to manually draw things like flowcharts. Read the [documentation](https://pgf-tikz.github.io/pgf/pgfmanual.pdf) for details. For example, we can add the following to the preamble:
 
@@ -312,46 +353,3 @@ You can also [write scripts](https://castel.dev/post/lecture-notes-2/) to make t
 ### Asymptote
 
 https://tex.stackexchange.com/questions/167164/inserting-graphics-into-asymptote-or-pgfplots
-
-
-### pgfplots
-
-For including 2D and 3D plots, we can use the `pgfplots` package. Read the [documentation](http://pgfplots.sourceforge.net/). First include the following in the preamble:
-
-````
-\usepackage{pgfplots} %draws function plots using pgf/tikz
-\pgfplotsset{compat=1.16}%running latest version of pgfplots
-````
-
-For example, we can plot 3D surfaces by following methods:
-`````
- \begin{tikzpicture} %https://tex.stackexchange.com/a/359914/
- \begin{axis}[title=$f^{-1}(-1)$: Hyperboloid of 1 sheet,axis equal]
- \addplot3[surf,domain=0:360,y domain=-2:2] ({cosh(y)*cos(x)},{cosh(y)*sin(x)},{sinh(y)});
- \end{axis}
- \end{tikzpicture}
-`````
-
-![alt text](https://gkorpal.github.io/images/hy1.png)
-
-`````
-  \begin{tikzpicture}%https://tex.stackexchange.com/a/28775/
-  \begin{axis}[title=$f^{-1}(0)$: Double cone, domain=0:5, y domain=0:2*pi,xmin=-10, xmax=10, ymin=-10, ymax=10, samples=20]
-  \addplot3 [surf,z buffer=sort] ({x*cos(deg(y))}, {x*sin(deg(y))}, {x});
-  \addplot3 [surf,z buffer=sort] ({x*cos(deg(y))}, {x*sin(deg(y))}, {-x});
-  \end{axis}
-  \end{tikzpicture}
-`````
-
-![alt text](https://gkorpal.github.io/images/cone.png)
-
-The downside of this method is that it will increase the compliation time (since pdfLaTeX is limited to single CPU thread).  We can also use `contour gnuplot` and `\addplot gnuplot` to extend the built-in capabilities of `pgfplots` by means of `gnuplot`’s math library, although their use is optional.
-
-### matplotlib
-
-https://timodenk.com/blog/exporting-matplotlib-plots-to-latex/
-
-
-## Raster graphics
-
-We can use simple drawing programs like Google Drawing or complex mathematical programs like SageMath, to draw a diagram and then export it as png or jpg. Finally, we can insert it using `graphicx` package. 
