@@ -143,98 +143,13 @@ We have many other shorthand keymaps like:
 
 Note that vimtex supports most multi-file documents. The main method uses a recursive search algorithm that should find the main LaTeX file in most cases. Read [the documentation](https://github.com/lervag/vimtex/blob/master/doc/vimtex.txt) for more details. 
 
-# Drawing graphs and diagrams in LaTeX documents
+# Drawing graphs and diagrams in LaTeX documents using pdfLaTeX
 
-## PGF/TikZ
+## Vector Graphics
 
-1. The easiest way to include simple 2D graphs and diagrams is to use GeoGebra, since it gives us the option of exporting the Graphics View as PGF/TikZ code. Installing [GeoGebra Classic 6](https://wiki.geogebra.org/en/Reference:GeoGebra_Installation) is a dependency hell ([ex1](https://ask.fedoraproject.org/t/dnf-reports-geogebra-gpg-key-not-found/3376) and [ex2](https://help.geogebra.org/topic/geogebra-classic-and-fedora-32)). Therefore, we will just use the online version: https://www.geogebra.org/classic For example, add the following to the preamble:
+### TikZ
 
-`````
-\usepackage{pgf,tikz}
-\usetikzlibrary{arrows}%you can see what extra packages are needed by going through the exported tex file
-\usetikzlibrary{decorations.markings}
-`````
-
-Then draw the following diagram in GeoGebra
-
-![alt text](https://gkorpal.github.io/images/geogebra.png)
-
-And add the following corresponding code in the tex file:
-
-`````
-\begin{tikzpicture}[line cap=round,line join=round, x=0.7cm,y=0.7cm]
-\draw[->,color=black] (-5,0) -- (10,0);
-\draw[->,color=black] (0,-5) -- (0,5);
-\clip(-5,-5) rectangle (10,5);
-\draw [line width=1.6pt,domain=3.0:10.0] plot(\x,{(-0-0*\x)/8});
-\draw [decoration={markings, mark=at position 0.125 with {\arrow{>}}},
-        postaction={decorate}, line width=1.6pt] (0,0) circle (2.1cm);
-\draw (3.09,0.70) node[anchor=north west] {$\delta$};
-\begin{scriptsize}
-\fill [color=black] (3,0) circle (2pt);
-\end{scriptsize}
-\end{tikzpicture}
-`````
-
-2. For including 2D and 3D plots, we can use the `pgfplots` package. Read the [documentation](http://pgfplots.sourceforge.net/). First include the following in the preamble:
-
-````
-\usepackage{pgfplots} %draws function plots using pgf/tikz
-\pgfplotsset{compat=1.16}%running latest version of pgfplots
-````
-
-For example, we can plot 3D surfaces by following methods:
-`````
- \begin{tikzpicture} %https://tex.stackexchange.com/a/359914/
- \begin{axis}[title=$f^{-1}(-1)$: Hyperboloid of 1 sheet,axis equal]
- \addplot3[surf,domain=0:360,y domain=-2:2] ({cosh(y)*cos(x)},{cosh(y)*sin(x)},{sinh(y)});
- \end{axis}
- \end{tikzpicture}
-`````
-
-![alt text](https://gkorpal.github.io/images/hy1.png)
-
-`````
-  \begin{tikzpicture}%https://tex.stackexchange.com/a/28775/
-  \begin{axis}[title=$f^{-1}(0)$: Double cone, domain=0:5, y domain=0:2*pi,xmin=-10, xmax=10, ymin=-10, ymax=10, samples=20]
-  \addplot3 [surf,z buffer=sort] ({x*cos(deg(y))}, {x*sin(deg(y))}, {x});
-  \addplot3 [surf,z buffer=sort] ({x*cos(deg(y))}, {x*sin(deg(y))}, {-x});
-  \end{axis}
-  \end{tikzpicture}
-`````
-
-![alt text](https://gkorpal.github.io/images/cone.png)
-
-The downside of this method is that it will increase the compliation time (since pdfLaTeX is limited to single CPU thread).
-
-3. We can draw commutative diagrams using `tikz-cd` package. Read its [documentation](https://ctan.org/pkg/tikz-cd?lang=en) for details. Firstly you will have to add the following to the preamble:
-
-````
-\usepackage{tikz-cd}
-
-%%homebrewcommands
-
-\newcommand{\delbar}{\overline{\partial}}
-\newcommand{\Om}{\Omega}
-\newcommand{\mz}{\mathcal{Z}}
-
-\DeclareMathOperator{\ceco}{\check{H}}
-````
-
-Then add the following code:
-
-````
-\[\begin{tikzcd}[column sep = 1.5em]
-0\arrow{r} & \mz^{p,\ell}(M) \arrow[hookrightarrow]{r} & \Om^{p,\ell}(M) \arrow{r}{\delbar} & \mz^{p,\ell+1}(M) \arrow{r}{\Delta} & \ceco^1(M,\mz^{p,\ell}) \arrow{r} & 0 \arrow{r} & \ceco^1(M,\mz^{p,\ell+1}) \arrow{d}{\Delta}\\
-& \cdots & 0\arrow{l} & \ceco^3(M,\mz^{p,\ell}) \arrow{l}& \ceco^2(M,\mz^{p,\ell+1})\arrow{l}[swap]{\Delta} & 0 \arrow{l} & \ceco^2(M,\mz^{p,\ell})\arrow{l}
-\end{tikzcd}\]
-````
-
-to get
-
-![alt text](https://gkorpal.github.io/images/exact.png)
-
-4. Apart from all these tools, one can directly use TikZ package to manually draw things like flowcharts. Read the [documentation](https://pgf-tikz.github.io/pgf/pgfmanual.pdf) for details. For example, we can add the following to the preamble:
+Apart from all these tools, one can directly use TikZ package to manually draw things like flowcharts. Read the [documentation](https://pgf-tikz.github.io/pgf/pgfmanual.pdf) for details. For example, we can add the following to the preamble:
 
 `````
 \usepackage{tikz}
@@ -281,9 +196,70 @@ and flowcharts
 
 ![alt text](https://gkorpal.github.io/images/flow.png)
 
-## Vector Graphics
+### tikz-cd
 
-It is possible to include vector graphics using Inkscape as follows:
+We can draw commutative diagrams using `tikz-cd` package. Read its [documentation](https://ctan.org/pkg/tikz-cd?lang=en) for details. Firstly you will have to add the following to the preamble:
+
+````
+\usepackage{tikz-cd}
+
+%%homebrewcommands
+
+\newcommand{\delbar}{\overline{\partial}}
+\newcommand{\Om}{\Omega}
+\newcommand{\mz}{\mathcal{Z}}
+
+\DeclareMathOperator{\ceco}{\check{H}}
+````
+
+Then add the following code:
+
+````
+\[\begin{tikzcd}[column sep = 1.5em]
+0\arrow{r} & \mz^{p,\ell}(M) \arrow[hookrightarrow]{r} & \Om^{p,\ell}(M) \arrow{r}{\delbar} & \mz^{p,\ell+1}(M) \arrow{r}{\Delta} & \ceco^1(M,\mz^{p,\ell}) \arrow{r} & 0 \arrow{r} & \ceco^1(M,\mz^{p,\ell+1}) \arrow{d}{\Delta}\\
+& \cdots & 0\arrow{l} & \ceco^3(M,\mz^{p,\ell}) \arrow{l}& \ceco^2(M,\mz^{p,\ell+1})\arrow{l}[swap]{\Delta} & 0 \arrow{l} & \ceco^2(M,\mz^{p,\ell})\arrow{l}
+\end{tikzcd}\]
+````
+
+to get
+
+![alt text](https://gkorpal.github.io/images/exact.png)
+
+
+### GeoGebra Classic
+
+The easiest way to include simple 2D graphs and diagrams is to use GeoGebra, since it gives us the option of exporting the Graphics View as PGF/TikZ code. Installing [GeoGebra Classic 6](https://wiki.geogebra.org/en/Reference:GeoGebra_Installation) is a dependency hell ([ex1](https://ask.fedoraproject.org/t/dnf-reports-geogebra-gpg-key-not-found/3376) and [ex2](https://help.geogebra.org/topic/geogebra-classic-and-fedora-32)). Therefore, we will just use the online version: https://www.geogebra.org/classic For example, add the following to the preamble:
+
+`````
+\usepackage{pgf,tikz}
+\usetikzlibrary{arrows}%you can see what extra packages are needed by going through the exported tex file
+\usetikzlibrary{decorations.markings}
+`````
+
+Then draw the following diagram in GeoGebra
+
+![alt text](https://gkorpal.github.io/images/geogebra.png)
+
+And add the following corresponding code in the tex file:
+
+`````
+\begin{tikzpicture}[line cap=round,line join=round, x=0.7cm,y=0.7cm]
+\draw[->,color=black] (-5,0) -- (10,0);
+\draw[->,color=black] (0,-5) -- (0,5);
+\clip(-5,-5) rectangle (10,5);
+\draw [line width=1.6pt,domain=3.0:10.0] plot(\x,{(-0-0*\x)/8});
+\draw [decoration={markings, mark=at position 0.125 with {\arrow{>}}},
+        postaction={decorate}, line width=1.6pt] (0,0) circle (2.1cm);
+\draw (3.09,0.70) node[anchor=north west] {$\delta$};
+\begin{scriptsize}
+\fill [color=black] (3,0) circle (2pt);
+\end{scriptsize}
+\end{tikzpicture}
+`````
+
+### Inkscape
+
+The easiest way to include vector graphics using Inkscape as follows:
 1. Draw the desired diagram in Inkscape, and enclose mathematical symbols in `$...$`. If you don't know how to use Inkscape then just go to `Help > Tutorials > Inkscape: Basic` and you will be ready to use.
 2. Create a folder called "pictures" inside the folder containg the main tex file and save the diagram as `svg` so that you can edit it in the future if needed. Then also save [PDF+LaTeX](https://wiki.inkscape.org/wiki/index.php/LaTeX) output to the same "pictures" folder: `File > Save As... > Select PDF from the drop-down menu > Click Save > Choose the following options`
 
@@ -333,6 +309,49 @@ inkscape mySVGinputFile.svg --export-area-drawing --batch-process --export-type=
 
 You can also [write scripts](https://castel.dev/post/lecture-notes-2/) to make this process easier. The main advantage of Inkscape is that there's hardly any command or action that is impossible to do from keyboard. Linux users may not get the expected results with the key combinations starting with `Alt` key if the Window Manager catches those key events before they reach the inkscape application. One solution would be to change the WM's configuration accordingly.
 
-## Images
+### Asymptote
 
-We can use simple drawing programs like Google Drawing or complex mathematical programs like Octave and SageMath, to draw a diagram and then export it as png or jpg. Finally, we can insert it using `graphicx` package. 
+https://tex.stackexchange.com/questions/167164/inserting-graphics-into-asymptote-or-pgfplots
+
+
+### pgfplots
+
+For including 2D and 3D plots, we can use the `pgfplots` package. Read the [documentation](http://pgfplots.sourceforge.net/). First include the following in the preamble:
+
+````
+\usepackage{pgfplots} %draws function plots using pgf/tikz
+\pgfplotsset{compat=1.16}%running latest version of pgfplots
+````
+
+For example, we can plot 3D surfaces by following methods:
+`````
+ \begin{tikzpicture} %https://tex.stackexchange.com/a/359914/
+ \begin{axis}[title=$f^{-1}(-1)$: Hyperboloid of 1 sheet,axis equal]
+ \addplot3[surf,domain=0:360,y domain=-2:2] ({cosh(y)*cos(x)},{cosh(y)*sin(x)},{sinh(y)});
+ \end{axis}
+ \end{tikzpicture}
+`````
+
+![alt text](https://gkorpal.github.io/images/hy1.png)
+
+`````
+  \begin{tikzpicture}%https://tex.stackexchange.com/a/28775/
+  \begin{axis}[title=$f^{-1}(0)$: Double cone, domain=0:5, y domain=0:2*pi,xmin=-10, xmax=10, ymin=-10, ymax=10, samples=20]
+  \addplot3 [surf,z buffer=sort] ({x*cos(deg(y))}, {x*sin(deg(y))}, {x});
+  \addplot3 [surf,z buffer=sort] ({x*cos(deg(y))}, {x*sin(deg(y))}, {-x});
+  \end{axis}
+  \end{tikzpicture}
+`````
+
+![alt text](https://gkorpal.github.io/images/cone.png)
+
+The downside of this method is that it will increase the compliation time (since pdfLaTeX is limited to single CPU thread).  We can also use `contour gnuplot` and `\addplot gnuplot` to extend the built-in capabilities of `pgfplots` by means of `gnuplot`’s math library, although their use is optional.
+
+### matplotlib
+
+https://timodenk.com/blog/exporting-matplotlib-plots-to-latex/
+
+
+## Raster graphics
+
+We can use simple drawing programs like Google Drawing or complex mathematical programs like SageMath, to draw a diagram and then export it as png or jpg. Finally, we can insert it using `graphicx` package. 
