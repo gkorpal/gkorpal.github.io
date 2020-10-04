@@ -186,6 +186,12 @@ The downside of this method is that it will increase the compliation time (since
 
 https://timodenk.com/blog/exporting-matplotlib-plots-to-latex/
 
+### SageMath
+
+For number theory related stuff.
+
+http://people.cst.cmich.edu/chan1cj/gss/tikzsage_demo.pdf
+
 ## Diagrams
 
 ### PGF/TikZ
