@@ -21,10 +21,15 @@ Following are the good book lists:
   * [Topology](#topology)
   * [Geometry](#geometry)
   * [Discrete Mathematics](#discrete-mathematics)
-* [My Interests](#my-interests)
-  * [Number Theory](#number-theory)
-  * [Algebraic Geometry](#algebraic-geometry)
-
+* [Special Interests](#my-interests)
+  * [Complex Geometry](#complex-geometry)
+  * [Elementary Number Theory](#elementary-number-theory)
+  * [Diophantine Approximation](#diophantine-approximation)
+  * [Analytic Number Theory](#analytic-number-theory)
+  * [Modular Forms](#modular-forms)
+  * [Algebraic Number Theory](#algebraic-number-theory)
+  * [Arithmetic Geometry](#arithmetic-geometry)
+  
 # Popular Maths and Fiction #
 ------
 
@@ -50,7 +55,7 @@ Following are the good book lists:
 * **The Devotion of Suspect X** by *Keigo Higashino*: The protagonist is a brilliant but lonely mathematician.
 * **A Man Called Ove** by *Fredrik Backman*: The protagonist is an autistic old man who liked maths when he was a kid.
 
-## Biographies and Autobiographies ##
+# Biographies and Autobiographies #
 ------
 
 <img src="/images/book5.jpg" alt="">
@@ -63,7 +68,7 @@ Following are the good book lists:
 
 *What happened to the women mathematicians? Sophie Germain, Sofia Kovalevskaya, Emmy Noether, Julia Robinson,...*
 
-## Olympiad-style Problem Solving ##
+# Olympiad-style Problem Solving #
 --------
 
 <img src="/images/book1.jpg" alt="">
@@ -82,7 +87,7 @@ These books should be accessible to the students in class VIII (final year of Pr
 
 *[Here](https://gkorpal.github.io/files/old-olympiad.pdf) is an outdated list of olympiad preparation books.*
 
-## High School Maths ##
+# High School Maths #
 ------
 
 <img src="/images/book3.jpg" alt="">
@@ -99,7 +104,7 @@ The High School constitutes of class IX-XII (Secondary and Senior Secondary educ
 * **The Cartoon Guide to Calculus** by *Larry Gonick*:  A Fantastic book ! Everyone will love calculus after reading this. An illustrative guide to elementary calculus.
 * **Calculus: Basic Concepts for High Schools** by *Lev Tarasov*: Among the many calculus textbooks I read, this was the one which gave me the most clarity. Re-written in [LaTeX](https://archive.org/details/LevTarasovCalculusBasicConceptsForHighSchools/page/n101) by [The Mitr](https://wp.me/p13GRc-RX).
 
-## Undergraduate Maths Textbooks ##
+# Undergraduate Maths Textbooks #
 -----
 
 <img src="/images/book4.jpg" alt="">
@@ -150,36 +155,57 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 *I never came across a good introductory book on graph theory.*
 
-## My Interests ##
+# Special Interests #
 --------------
 
 <img src="/images/book6.jpg" alt="">
 
-## Number Theory ##
+## Complex Geometry ##
+
+* **Algebraic Curves and Riemann Surfaces** by *Rick Miranda*: Chapter IX for the definiton and basic properties of Cech cohomology.
+  * **Functions of One Complex Variable** by *J. B. Conway*: I really like the proofs given in this book (Runge's theorem, Mittag-Leffler's theorem and Weierstrass factorization theorem) which are critical for understanding Riemann surfaces.
+* **Differential Analysis on Complex Manifolds** by *R. O. Wells*: For understanding vector bundles and more.
+* **From Holomorphic Functions to Complex Manifolds** by *Fritzsche and Grauert*: For analytic subvariety properties.
+* **Analytic Functions of Several Complex Variables** by *Gunning and Rossi*: The necessary background about several variable complex valued functions, and a detailed proof of $\overline{\partial}$-Poincare lemma.
+* **Function Theory of Several Complex Variables** by *S. G. Krantz*: The proof of Dolbeault theorem for $\mathbb{C}^n$ is discussed in section 6.3.
+* **Principles of Algebraic Geometry** by *Joe Harris and Phillip Griffiths*: The only available introductory text on complex algebraic geometry. Not at all a good book for self study, my whole master's thesis was an attempt to understand 14 pages of this book (pp. 34-47). However, the collection of ideas is worth the effort.
+  * **Complex Geometry** by *Daniel Huybrechts*: The first two chapters of this book cover the necessary complex analysis and complex manifolds background needed for Griffiths-Harris. Especially the proof of $\overline{\partial}$-Poincare lemma. The proof of Poincare lemma can be found in Munkres' "Analysis on Manifolds".
+  * **Foundations of Differentiable Manifolds and Lie Groups** by *W. F. Warner*: Chapter 5 where the equivalence of Cech cohomology to sheaf cohomology is discussed.
+  * **Topological Methods in Algebraic Geometry** by *Friedrich Hirzebruch*: Section 2 for the relation between Cech and de Rham cohomology.
+ 
+## Elementary Number Theory ##
 
 * **An Introduction to Diophantine Equations** by *Dorin Andrica, Ion Cucurezeanu, and Titu Andreescu*: A really nice place to learn elementary methods for solving various types of Diophantine equations.
 * **A Friendly Introduction to Number Theory** by *Joseph H. Silverman*: A modern introduction to elementary number theory.
+* **The  Higher  Arithmetic** by *H.  Davenport*: It is written in prose form, many interesting things to learn.
+
+## Diophantine Approximation ##
+
 * **Topics in Number Theory (Volumes I and II)** by *William J. LeVeque*: The best place to understand the proof of Roth's theorem and Delaunay-Nagell theorem (discussed in the volume 2 part). The volume 1 part can also be used as an introduction to elementary number theory. If you want to see the proof of Roth's theorem in terms of exercises, have a look at the book "An Invitation to Modern Number Theory" by Steven J. Miller and Ramin Takloo-Bighash.
-* **Number Fields** by *Daniel Marcus*: The best introductory text on algeraic number theory, where most big proofs are in the form of exercises. When I read this book in 2016, it was available only in old typewriter font but fortunately in 2018 Springer released its LaTeX edition!
-* **Algebraic Number Theory** by *Jürgen Neukirch*: A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. This book nicely interlaces algebraic geometry with algebraic number theory. It serves the purpose of standard reference.
-* **Multiplicative Number Theory** by *Harold Davenport*: This is a tough book for introducing analytic number theory, but worth the hardwork since the proof of Prime Number Theorem with a good extimate has been discussed. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!). Also, Davenport's book "Higher Arithmetic" is a nice second reading in elementary number theory. Also, for a straighforward proof of Dirichlet's theorem on infinite primes arithmetic progressions see the chapter 16 of the book "A Classical Introduction to Modern Number Theory" by Kenneth Ireland and Michael Rosen.
+* **Diophantine Approximation** by *W. M. Schmidt*: Standard reference for the general thery and Geometry of Numbers.
+
+## Analytic Number Theory ##
+
+* **Multiplicative Number Theory** by *Harold Davenport*: This is a tough book for introducing analytic number theory, but worth the hardwork since the proof of Prime Number Theorem with a good extimate has been discussed. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!). Also, for a straighforward proof of Dirichlet's theorem on infinite primes arithmetic progressions see the chapter 16 of the book "A Classical Introduction to Modern Number Theory" by Kenneth Ireland and Michael Rosen.
+* **An Introduction to the Theory of Numbers** by *G. H. Hardy* and *E. M. Wright*: It is a classic textbook with lot of interesting stuff using elementary analytic methods. 
 * **Elementary Methods in Number Theory** by *M. B. Nathanson*: The part 3 of this book gives a good introduction to additive aspects of analytic number theory. I haven't spent much time on this book since I don't enjoy analysis in general.
+
+
+## Modular Forms ##
+
 * **Introduction to Elliptic Curves and Modular Forms** by *Neal Koblitz*: A great introduction to modular forms, which basically adds details and exercises to Serre's condense one chapter introduction in his classic book "A Course in Arithmetic". The study of modular forms is motivated via congruent number problem, and a brief discussion of analytic theory of elliptic curves.
+
+## Algebraic Number Theory ##
+
+* **Number Fields** by *Daniel Marcus*: The best introductory text on algeraic number theory, where most big proofs are in the form of exercises. When I read this book in 2016, it was available only in old typewriter font but fortunately in 2018 Springer released its LaTeX edition! Also, have a look at the books: (1) "Algebraic Theory of Numbers" by Pierre Samuel, and (2) "Algebraic number theory and Fermat's last theorem" by Ian Stewart and David Tall. 
+* **Algebraic Number Theory** by *Jürgen Neukirch*: A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. This book nicely interlaces algebraic geometry with algebraic number theory. It serves the purpose of standard reference.
+* **Class Field Theory** by *J.S. Milne*: Standard textbook. I haven't read it properly.
+
+## Arithmetic Geometry ##
+
 * **Rational Points on Elliptic Curves** by *J. H. Silverman and John Tate*: One of the most accessible introduction to the world of elliptic curves. I read the chapters I to III of this book a while ago for Mordell’s theorem (the special case of elliptic curves with a rational point of order two). The appendix on projective geometry is also great. 
 * **The Arithmetic of Elliptic Curves** by *J. H. Silverman*: The standard text introductory text about elliptic curves using techniques from algebraic geometry (varieties in projective spaces). Make sure to buy the 2nd edition corrected in 2016 printing, since earlier versions have lot of typos.
-    * **Basic Algebraic Geometry** by *Igor Shafarevich* (translated from Russian by K. A. Hirsch): This is a reference for many proofs skipped in the first two chapters by Silverman. Note that this is quiet different, in terms of notations and organization, from the newer expanded translation by Miles Reid.
-
-## Algebraic Geometry ##
-
-* **Principles of Algebraic Geometry** by *Joe Harris and Phillip Griffiths*: The only available introductory text on complex algebraic geometry. Not at all a good book for self study, my whole master's thesis was an attempt to understand 14 pages of this book (pp. 34-47). However, the collection of ideas is worth the effort. The following texts were useful for supplementary reading:
-  * **Foundations of Differentiable Manifolds and Lie Groups** by *W. F. Warner*: Chapter 5 where the equivalence of Cech cohomology to sheaf cohomology is discussed.
-  * **Algebraic Curves and Riemann Surfaces** by *Rick Miranda*: Chapter IX for the definiton and basic properties of Cech cohomology.
-  * **Functions of One Complex Variable** by *J. B. Conway*: I really like the proofs given in this book (Runge's theorem, Mittag-Leffler's theorem and Weierstrass factorization theorem) which are critical for understanding Riemann surfaces.
-  * **Topological Methods in Algebraic Geometry** by *Friedrich Hirzebruch*: Section 2 for the relation between Cech and de Rham cohomology.
-  * **Complex Geometry** by *Daniel Huybrechts*: The first two chapters of this book cover the necessary complex analysis and complex manifolds background needed for Griffiths-Harris. Especially the proof of $\overline{\partial}$-Poincare lemma. The proof of Poincare lemma can be found in Munkres' "Analysis on Manifolds".
-  * **Differential Analysis on Complex Manifolds** by *R. O. Wells*: For understanding vector bundles and more.
-  * **From Holomorphic Functions to Complex Manifolds** by *Fritzsche and Grauert*: For analytic subvariety properties.
-  * **Analytic Functions of Several Complex Variables** by *Gunning and Rossi*: The necessary background about several variable complex valued functions, and a detailed proof of $\overline{\partial}$-Poincare lemma.
-  * **Function Theory of Several Complex Variables** by *S. G. Krantz*: The proof of Dolbeault theorem for $\mathbb{C}^n$ is discussed in section 6.3.
-* **Algebraic Geometry** by *Hartshorne*: This standard text introducing algebraic geometry via the theory of schemes. Not at all a good book for self study, since most of the important ideas in the book are contained in the exercises. The following texts were useful for supplementary reading:
+   * **Basic Algebraic Geometry** by *Igor Shafarevich* (translated from Russian by K. A. Hirsch): This is a reference for many proofs skipped in the first two chapters by Silverman. Note that this is quiet different, in terms of notations and organization, from the newer expanded translation by Miles Reid.
+* **Abelian Varieties** by *David Mumford*: To read list.
+  * **Algebraic Geometry** by *Hartshorne*: This standard text introducing algebraic geometry via the theory of schemes. 
   * **The Geometry of Schemes** by *Eisenbud and Harris*: This book acts as a bridge between the first chapter and rest of the chapters of Hartshorne. 
