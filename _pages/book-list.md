@@ -26,8 +26,9 @@ Following are the good book lists:
   * [Transcendental Number Theory](#transcendental-number-theory)
   * [Analytic Number Theory](#analytic-number-theory)
   * [Algebraic Number Theory](#algebraic-number-theory)
-  * [Arithmetic Geometry](#arithmetic-geometry)
   * [Complex Algebraic Geometry](#complex-algebraic-geometry)
+  * [Enumerative Geometry](#enumerative-geometry)
+  * [Arithmetic Geometry](#arithmetic-geometry)
   
 # Popular Maths and Fiction #
 ------
@@ -184,14 +185,6 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Algebraic Number Theory** by *Jürgen Neukirch* (translated from German by Norbert Schappacher): A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. This book nicely interlaces algebraic geometry with algebraic number theory. It serves the purpose of standard reference. I have read parts of Chapter I, II and VII.
 * **Class Field Theory** by *J.S. Milne*: Standard textbook. I haven't read it properly.
 
-## Arithmetic Geometry ##
-
-* **Rational Points on Elliptic Curves** by *J. H. Silverman and John Tate*: One of the most accessible introduction to the world of elliptic curves. I read the chapters I to III of this book a while ago for Mordell’s theorem (the special case of elliptic curves with a rational point of order two). The appendix on projective geometry is also great. 
-* **The Arithmetic of Elliptic Curves** by *J. H. Silverman*: The standard text introductory text about elliptic curves using techniques from algebraic geometry (varieties in projective spaces). Make sure to buy the 2nd edition corrected in 2016 printing, since earlier versions have lot of typos.
-   * **Basic Algebraic Geometry** by *Igor Shafarevich* (translated from Russian by K. A. Hirsch): This is a reference for many proofs skipped in the first two chapters by Silverman. Note that this is quiet different, in terms of notations and organization, from the newer expanded translation by Miles Reid.
-* **Abelian Varieties** by *David Mumford*: To read list.
-  * **Algebraic Geometry** by *Hartshorne*: This standard text introducing algebraic geometry via the theory of schemes. Also, the book "The Geometry of Schemes" by Eisenbud and Harris acts as a bridge between the first chapter and rest of the chapters of Hartshorne. 
-  
 ## Complex Algebraic Geometry ##
 
 * **Algebraic Curves and Riemann Surfaces** by *Rick Miranda*: Chapter IX for the definiton and basic properties of Cech cohomology.
@@ -205,4 +198,20 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
   * **Complex Geometry** by *Daniel Huybrechts*: The first two chapters of this book cover the necessary complex analysis and complex manifolds background needed for Griffiths-Harris. Especially the proof of $\overline{\partial}$-Poincare lemma. The proof of Poincare lemma can be found in Munkres' "Analysis on Manifolds".
   * **Foundations of Differentiable Manifolds and Lie Groups** by *W. F. Warner*: Chapter 5 where the equivalence of Cech cohomology to sheaf cohomology is discussed.
   * **Topological Methods in Algebraic Geometry** by *Friedrich Hirzebruch*: Section 2 for the relation between Cech and de Rham cohomology.
+  
+## Enumerative Geometry ##
+
+* **Enumerative Geometry and String Theory** by *Sheldon Katz*: Standard introductory text. Can be supplemented with the articles: (1) "Enumerative Algebraic Geometry of Conics" by Bashelor, Ksir, and Traves ([MAA](https://www.maa.org/programs/maa-awards/writing-awards/enumerative-algebraic-geometry-of-conics)), (2) "Introduction to Moduli Spaces" by Renzo Cavalieri ([combined pdf](https://gkorpal.github.io/files/Introduction-to-Moduli-Spaces.pdf))
+* **Mirror Symmetry and Algebraic Geometry** by *David A. Cox and Sheldon Katz*: Standard reference for learning about Gromov-Witten Invariants (chapter 7). Not an easy read. 
+  * **Algebraic Geometry** by *A. Gathmann*: A gentle introduction to algebraic geometry with lots of computational exercises.
+  * **Mirror symmetry** by *Hori, et. al.*: For a more gentle introduction to Gromov-Witten Invariants, try reading Chapter 21 to 23 of this book.
+* **An Invitation to Quantum Cohomology: Kontsevich's Formula for Rational Plane Curves** by *Kock and Vainsencher*: A good place to learn teachiniques involved in calculations (haven't read it myself). You can supplement it with the article "Counting Plane Rational Curves: Old and New Approaches" by Aleksey Zinger ([arXiv](https://arxiv.org/abs/math/0507105)) and the Ph.D. thesis "Gromov-Witten and degeneration invariants: computation and enumerative significance" by Andreas Gathmann.
+
+## Arithmetic Geometry ##
+
+* **Rational Points on Elliptic Curves** by *J. H. Silverman and John Tate*: One of the most accessible introduction to the world of elliptic curves. I read the chapters I to III of this book a while ago for Mordell’s theorem (the special case of elliptic curves with a rational point of order two). The appendix on projective geometry is also great. 
+* **The Arithmetic of Elliptic Curves** by *J. H. Silverman*: The standard text introductory text about elliptic curves using techniques from algebraic geometry (varieties in projective spaces). Make sure to buy the 2nd edition corrected in 2016 printing, since earlier versions have lot of typos.
+   * **Basic Algebraic Geometry** by *Igor Shafarevich* (translated from Russian by K. A. Hirsch): This is a reference for many proofs skipped in the first two chapters by Silverman. Note that this is quiet different, in terms of notations and organization, from the newer expanded translation by Miles Reid.
+* **Abelian Varieties** by *David Mumford*: To read list.
+  * **Algebraic Geometry** by *Hartshorne*: This standard text introducing algebraic geometry via the theory of schemes. Also, the book "The Geometry of Schemes" by Eisenbud and Harris acts as a bridge between the first chapter and rest of the chapters of Hartshorne. 
  
