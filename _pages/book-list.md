@@ -22,12 +22,12 @@ Following are the good book lists:
   * [Geometry](#geometry)
   * [Discrete Mathematics](#discrete-mathematics)
 * [Special Interests](#my-interests)
-  * [Complex Algebraic Geometry](#complex-algebraic-geometry)
   * [Elementary Number Theory](#elementary-number-theory)
   * [Transcendental Number Theory](#transcendental-number-theory)
   * [Analytic Number Theory](#analytic-number-theory)
   * [Algebraic Number Theory](#algebraic-number-theory)
   * [Arithmetic Geometry](#arithmetic-geometry)
+  * [Complex Algebraic Geometry](#complex-algebraic-geometry)
   
 # Popular Maths and Fiction #
 ------
@@ -159,20 +159,6 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 <img src="/images/book6.jpg" alt="">
 
-## Complex Algebraic Geometry ##
-
-* **Algebraic Curves and Riemann Surfaces** by *Rick Miranda*: Chapter IX for the definiton and basic properties of Cech cohomology.
-  * **Functions of One Complex Variable** by *J. B. Conway*: I really like the proofs given in this book (Runge's theorem, Mittag-Leffler's theorem and Weierstrass factorization theorem) which are critical for understanding Riemann surfaces.
-* **From Holomorphic Functions to Complex Manifolds** by *Fritzsche and Grauert*: For analytic subvariety properties.
-  * **Analytic Functions of Several Complex Variables** by *Gunning and Rossi*: The necessary background about several variable complex valued functions, and a detailed proof of $\overline{\partial}$-Poincare lemma.
-  * **Function Theory of Several Complex Variables** by *S. G. Krantz*: The proof of Dolbeault theorem for $\mathbb{C}^n$ is discussed in section 6.3.
-  * **Differential Analysis on Complex Manifolds** by *R. O. Wells*: For understanding vector bundles and more.
-
-* **Principles of Algebraic Geometry** by *Joe Harris and Phillip Griffiths*: The only available introductory text on complex algebraic geometry. Not at all a good book for self study, my whole master's thesis was an attempt to understand 14 pages of this book (pp. 34-47). However, the collection of ideas is worth the effort.
-  * **Complex Geometry** by *Daniel Huybrechts*: The first two chapters of this book cover the necessary complex analysis and complex manifolds background needed for Griffiths-Harris. Especially the proof of $\overline{\partial}$-Poincare lemma. The proof of Poincare lemma can be found in Munkres' "Analysis on Manifolds".
-  * **Foundations of Differentiable Manifolds and Lie Groups** by *W. F. Warner*: Chapter 5 where the equivalence of Cech cohomology to sheaf cohomology is discussed.
-  * **Topological Methods in Algebraic Geometry** by *Friedrich Hirzebruch*: Section 2 for the relation between Cech and de Rham cohomology.
- 
 ## Elementary Number Theory ##
 
 * **An Introduction to Diophantine Equations** by *Dorin Andrica, Ion Cucurezeanu, and Titu Andreescu*: A really nice place to learn elementary methods for solving various types of Diophantine equations.
@@ -204,5 +190,19 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **The Arithmetic of Elliptic Curves** by *J. H. Silverman*: The standard text introductory text about elliptic curves using techniques from algebraic geometry (varieties in projective spaces). Make sure to buy the 2nd edition corrected in 2016 printing, since earlier versions have lot of typos.
    * **Basic Algebraic Geometry** by *Igor Shafarevich* (translated from Russian by K. A. Hirsch): This is a reference for many proofs skipped in the first two chapters by Silverman. Note that this is quiet different, in terms of notations and organization, from the newer expanded translation by Miles Reid.
 * **Abelian Varieties** by *David Mumford*: To read list.
-  * **Algebraic Geometry** by *Hartshorne*: This standard text introducing algebraic geometry via the theory of schemes. 
-  * **The Geometry of Schemes** by *Eisenbud and Harris*: This book acts as a bridge between the first chapter and rest of the chapters of Hartshorne. 
+  * **Algebraic Geometry** by *Hartshorne*: This standard text introducing algebraic geometry via the theory of schemes. Also, the book "The Geometry of Schemes" by Eisenbud and Harris acts as a bridge between the first chapter and rest of the chapters of Hartshorne. 
+  
+## Complex Algebraic Geometry ##
+
+* **Algebraic Curves and Riemann Surfaces** by *Rick Miranda*: Chapter IX for the definiton and basic properties of Cech cohomology.
+  * **Functions of One Complex Variable** by *J. B. Conway*: I really like the proofs given in this book (Runge's theorem, Mittag-Leffler's theorem and Weierstrass factorization theorem) which are critical for understanding Riemann surfaces.
+* **From Holomorphic Functions to Complex Manifolds** by *Fritzsche and Grauert*: For analytic subvariety properties.
+  * **Analytic Functions of Several Complex Variables** by *Gunning and Rossi*: The necessary background about several variable complex valued functions, and a detailed proof of $\overline{\partial}$-Poincare lemma.
+  * **Function Theory of Several Complex Variables** by *S. G. Krantz*: The proof of Dolbeault theorem for $\mathbb{C}^n$ is discussed in section 6.3.
+  * **Differential Analysis on Complex Manifolds** by *R. O. Wells*: For understanding vector bundles and more.
+
+* **Principles of Algebraic Geometry** by *Joe Harris and Phillip Griffiths*: The only available introductory text on complex algebraic geometry. Not at all a good book for self study, my whole master's thesis was an attempt to understand 14 pages of this book (pp. 34-47). However, the collection of ideas is worth the effort.
+  * **Complex Geometry** by *Daniel Huybrechts*: The first two chapters of this book cover the necessary complex analysis and complex manifolds background needed for Griffiths-Harris. Especially the proof of $\overline{\partial}$-Poincare lemma. The proof of Poincare lemma can be found in Munkres' "Analysis on Manifolds".
+  * **Foundations of Differentiable Manifolds and Lie Groups** by *W. F. Warner*: Chapter 5 where the equivalence of Cech cohomology to sheaf cohomology is discussed.
+  * **Topological Methods in Algebraic Geometry** by *Friedrich Hirzebruch*: Section 2 for the relation between Cech and de Rham cohomology.
+ 
