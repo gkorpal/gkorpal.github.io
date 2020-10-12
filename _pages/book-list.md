@@ -14,7 +14,7 @@ Following are the good book lists:
 * [Biographies and Autobiographies](#biographies-and-autobiographies)
 * [Olympiad-style Problem Solving](#olympiad-style-problem-solving)
 * [High School Maths](#high-school-maths)
-* [Undergraduate Maths Textbooks](#undergraduate-maths-textbooks)
+* [Undergraduate Maths](#undergraduate-maths)
   * [Basics](#basics)
   * [Algebra](#algebra)
   * [Analysis](#analysis)
@@ -104,7 +104,7 @@ The High School constitutes of class IX-XII (Secondary and Senior Secondary educ
 * **The Cartoon Guide to Calculus** by *Larry Gonick*:  A Fantastic book ! Everyone will love calculus after reading this. An illustrative guide to elementary calculus.
 * **Calculus: Basic Concepts for High Schools** by *Lev Tarasov*: Among the many calculus textbooks I read, this was the one which gave me the most clarity. Re-written in [LaTeX](https://archive.org/details/LevTarasovCalculusBasicConceptsForHighSchools/page/n101) by [The Mitr](https://wp.me/p13GRc-RX).
 
-# Undergraduate Maths Textbooks #
+# Undergraduate Maths #
 -----
 
 <img src="/images/book4.jpg" alt="">
