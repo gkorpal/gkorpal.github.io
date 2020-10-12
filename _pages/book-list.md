@@ -21,7 +21,7 @@ Following are the good book lists:
   * [Topology](#topology)
   * [Geometry](#geometry)
   * [Discrete Mathematics](#discrete-mathematics)
-* [Special Interests](#my-interests)
+* [Special Interests](#special-interests)
   * [Elementary Number Theory](#elementary-number-theory)
   * [Transcendental Number Theory](#transcendental-number-theory)
   * [Analytic Number Theory](#analytic-number-theory)
