@@ -177,7 +177,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 * **An Introduction to Diophantine Equations** by *Dorin Andrica, Ion Cucurezeanu, and Titu Andreescu*: A really nice place to learn elementary methods for solving various types of Diophantine equations.
 * **A Friendly Introduction to Number Theory** by *Joseph H. Silverman*: A modern introduction to elementary number theory.
-* **The  Higher  Arithmetic** by *H.  Davenport*: It is written in prose form, many interesting things to learn.
+* **The  Higher  Arithmetic** by *Harold  Davenport*: It is written in prose form, many interesting things to learn.
 
 ## Diophantine Approximation ##
 
@@ -198,7 +198,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 ## Algebraic Number Theory ##
 
 * **Number Fields** by *Daniel Marcus*: The best introductory text on algeraic number theory, where most big proofs are in the form of exercises. When I read this book in 2016, it was available only in old typewriter font but fortunately in 2018 Springer released its LaTeX edition! Also, have a look at the books: (1) "Algebraic Theory of Numbers" by Pierre Samuel, and (2) "Algebraic number theory and Fermat's last theorem" by Ian Stewart and David Tall. 
-* **Algebraic Number Theory** by *Jürgen Neukirch*: A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. This book nicely interlaces algebraic geometry with algebraic number theory. It serves the purpose of standard reference.
+* **Algebraic Number Theory** by *Jürgen Neukirch* (translated from German by Norber Schappacher): A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. This book nicely interlaces algebraic geometry with algebraic number theory. It serves the purpose of standard reference.
 * **Class Field Theory** by *J.S. Milne*: Standard textbook. I haven't read it properly.
 
 ## Arithmetic Geometry ##
