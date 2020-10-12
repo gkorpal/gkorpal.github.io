@@ -22,11 +22,10 @@ Following are the good book lists:
   * [Geometry](#geometry)
   * [Discrete Mathematics](#discrete-mathematics)
 * [Special Interests](#my-interests)
-  * [Complex Geometry](#complex-geometry)
+  * [Complex Algebraic Geometry](#complex-algebraic-geometry)
   * [Elementary Number Theory](#elementary-number-theory)
-  * [Diophantine Approximation](#diophantine-approximation)
+  * [Transcendental Number Theory](#transcendental-number-theory)
   * [Analytic Number Theory](#analytic-number-theory)
-  * [Modular Forms](#modular-forms)
   * [Algebraic Number Theory](#algebraic-number-theory)
   * [Arithmetic Geometry](#arithmetic-geometry)
   
@@ -160,7 +159,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 <img src="/images/book6.jpg" alt="">
 
-## Complex Geometry ##
+## Complex Algebraic Geometry ##
 
 * **Algebraic Curves and Riemann Surfaces** by *Rick Miranda*: Chapter IX for the definiton and basic properties of Cech cohomology.
   * **Functions of One Complex Variable** by *J. B. Conway*: I really like the proofs given in this book (Runge's theorem, Mittag-Leffler's theorem and Weierstrass factorization theorem) which are critical for understanding Riemann surfaces.
@@ -179,26 +178,23 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **A Friendly Introduction to Number Theory** by *Joseph H. Silverman*: A modern introduction to elementary number theory.
 * **The  Higher  Arithmetic** by *Harold  Davenport*: It is written in prose form, many interesting things to learn.
 
-## Diophantine Approximation ##
+## Transcendental Number Theory ##
 
 * **Topics in Number Theory (Volumes I and II)** by *William J. LeVeque*: The best place to understand the proof of Roth's theorem and Delaunay-Nagell theorem (discussed in the volume 2 part). The volume 1 part can also be used as an introduction to elementary number theory. If you want to see the proof of Roth's theorem in terms of exercises, have a look at the book "An Invitation to Modern Number Theory" by Steven J. Miller and Ramin Takloo-Bighash.
 * **Diophantine Approximation** by *W. M. Schmidt*: Standard reference for the general thery and Geometry of Numbers.
+* **Making Transcendence Transparent** by *E.B. Burger and R. Tubbs*: Very nice introductory text for learning the techniques used in transcedental number theory.
 
 ## Analytic Number Theory ##
 
 * **Multiplicative Number Theory** by *Harold Davenport*: This is a tough book for introducing analytic number theory, but worth the hardwork since the proof of Prime Number Theorem with a good extimate has been discussed. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!). Also, for a straighforward proof of Dirichlet's theorem on infinite primes arithmetic progressions see the chapter 16 of the book "A Classical Introduction to Modern Number Theory" by Kenneth Ireland and Michael Rosen.
 * **An Introduction to the Theory of Numbers** by *G. H. Hardy* and *E. M. Wright*: It is a classic textbook with lot of interesting stuff using elementary analytic methods. 
 * **Elementary Methods in Number Theory** by *M. B. Nathanson*: The part 3 of this book gives a good introduction to additive aspects of analytic number theory. I haven't spent much time on this book since I don't enjoy analysis in general.
-
-
-## Modular Forms ##
-
 * **Introduction to Elliptic Curves and Modular Forms** by *Neal Koblitz*: A great introduction to modular forms, which basically adds details and exercises to Serre's condense one chapter introduction in his classic book "A Course in Arithmetic". The study of modular forms is motivated via congruent number problem, and a brief discussion of analytic theory of elliptic curves.
 
 ## Algebraic Number Theory ##
 
 * **Number Fields** by *Daniel Marcus*: The best introductory text on algeraic number theory, where most big proofs are in the form of exercises. When I read this book in 2016, it was available only in old typewriter font but fortunately in 2018 Springer released its LaTeX edition! Also, have a look at the books: (1) "Algebraic Theory of Numbers" by Pierre Samuel, and (2) "Algebraic number theory and Fermat's last theorem" by Ian Stewart and David Tall. 
-* **Algebraic Number Theory** by *Jürgen Neukirch* (translated from German by Norbert Schappacher): A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. This book nicely interlaces algebraic geometry with algebraic number theory. It serves the purpose of standard reference.
+* **Algebraic Number Theory** by *Jürgen Neukirch* (translated from German by Norbert Schappacher): A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. This book nicely interlaces algebraic geometry with algebraic number theory. It serves the purpose of standard reference. I have read parts of Chapter I, II and VII.
 * **Class Field Theory** by *J.S. Milne*: Standard textbook. I haven't read it properly.
 
 ## Arithmetic Geometry ##
