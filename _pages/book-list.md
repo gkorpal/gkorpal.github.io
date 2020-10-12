@@ -25,7 +25,7 @@ Following are the good book lists:
   * [Number Theory](#number-theory)
   * [Algebraic Geometry](#algebraic-geometry)
 
-## Popular Maths and Fiction ##
+# Popular Maths and Fiction #
 ------
 
 <img src="/images/book2.jpg" alt="">
