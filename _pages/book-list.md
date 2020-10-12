@@ -169,7 +169,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 ## Transcendental Number Theory ##
 
 * **Topics in Number Theory (Volumes I and II)** by *William J. LeVeque*: The best place to understand the proof of Roth's theorem and Delaunay-Nagell theorem (discussed in the volume 2 part). The volume 1 part can also be used as an introduction to elementary number theory. If you want to see the proof of Roth's theorem in terms of exercises, have a look at the book "An Invitation to Modern Number Theory" by Steven J. Miller and Ramin Takloo-Bighash.
-* **Diophantine Approximation** by *W. M. Schmidt*: Standard reference for the general thery and Geometry of Numbers.
+* **Diophantine Approximation** by *W. M. Schmidt*: Standard reference for the general theory. Also contains proofs of theorems belonging to "Geometry of Numbers".
 * **Making Transcendence Transparent** by *E.B. Burger and R. Tubbs*: Very nice introductory text for learning the techniques used in transcedental number theory.
 
 ## Analytic Number Theory ##
