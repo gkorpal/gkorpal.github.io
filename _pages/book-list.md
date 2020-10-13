@@ -199,7 +199,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
   
 ## Enumerative Geometry ##
 
-* **Enumerative Geometry and String Theory** by *Sheldon Katz*: Standard introductory text. Can be supplemented with the articles: (1) "Enumerative Algebraic Geometry of Conics" by Bashelor, Ksir, and Traves ([MAA](https://www.maa.org/programs/maa-awards/writing-awards/enumerative-algebraic-geometry-of-conics)), (2) "Introduction to Moduli Spaces" by Renzo Cavalieri ([combined pdf](https://gkorpal.github.io/files/Introduction-to-Moduli-Spaces.pdf))
+* **Enumerative Geometry and String Theory** by *Sheldon Katz*: Standard introductory text. Can be supplemented with the articles: (1) "Enumerative Algebraic Geometry of Conics" by Bashelor, Ksir, and Traves ([MAA](https://www.maa.org/programs/maa-awards/writing-awards/enumerative-algebraic-geometry-of-conics)), (2) "Introduction to Moduli Spaces: A cycle of lectures at Universidad de Costa Rica" by Renzo Cavalieri ([combined pdf](https://gkorpal.github.io/files/Introduction-to-Moduli-Spaces.pdf))
 * **Mirror Symmetry and Algebraic Geometry** by *David A. Cox and Sheldon Katz*: Standard reference for learning about Gromov-Witten Invariants (chapter 7). Not an easy read. 
   * **Algebraic Geometry** by *A. Gathmann*: A gentle introduction to algebraic geometry with lots of computational exercises. There are many editions available, but I have read the ([2002 edition](https://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2002/alggeom-2002.pdf)).
   * **Mirror symmetry** by *Hori, et. al.*: For a more gentle introduction to Gromov-Witten Invariants, try reading Chapter 21 to 23 of this book.
