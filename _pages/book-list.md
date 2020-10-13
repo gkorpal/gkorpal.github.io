@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Following are the good book lists:
+Following are some of the books that I would recommend reading:
 
 * [Popular Maths and Fiction](#popular-maths-and-fiction)
 * [Biographies and Autobiographies](#biographies-and-autobiographies)
@@ -145,8 +145,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Vector Calculus, Linear Algebra And Differential Forms: A unified approach** by *J. H. Hubbard and B. B. Hubbard*: A visual introduction to manifolds in $\mathbb{R}^n$. Also discusses the geometry of curves and surfaces in $\mathbb{R}^3$. Focus is to rigorously prove the stuff learned in Calculus III and extend those ideas. In real analysis we extend the scope of Riemann integration by using Lebesgue integration (complete normed linear space). However, as per Lebesgue integration, integration over a curve will be zero since a curve is of measure zero. Therefore, here we first mimic the usual Riemann integration for functions over higher dimensions, and then extend the scope using differential forms (like we used cross product in $\mathbb{R}^3$). But still, the theory of improper Riemann integrals over $\mathbb{R}^n$ is not as powerful as was in the case of functions over $\mathbb{R}$ (improper Riemann integral is more powerful than Legesgue integration over $\mathbb{R}$). The book is available on <a href="https://archive.org/details/HubbardJ.H.HubbardB.B.VectorCalculusLinearAlgebraAndDifferentialFormsAUnifiedApp" target="_blank">Internet Archive</a>.
 * **Analysis on Manifolds** by *J. Munkres*: A rigorous introduction to manifolds in $\mathbb{R}^n$ (de Rham cohomology). He provides better notations for differentaition and integration, hence clearing the confusion caused due to Calculus notations like "dx" etc. 
 * **An Introduction to Manifolds** by *Loring  W. Tu*: The best possible introduction to smooth manifolds (de Rham cohomology). Can skip the Lie group, Lie algebra and Lie derivative during the first reading. 
-* **Undergraduate Algebraic Geometry** by *Miles Reid*: There are many explicit examples. Also have a look at Reid's book "Undergraduate commutative algebra".
-* **An Invitation to Algebraic Geometry** by *Karen E. Smith, Lauri Kahanpää, Pekka Kekäläinen, and William Traves*: This book nicely complements the first chapter of Hartshorne. Lots of solved examples.
+* **An Invitation to Algebraic Geometry** by *Karen E. Smith, Lauri Kahanpää, Pekka Kekäläinen, and William Traves*: This book nicely complements the first chapter of Hartshorne. Lots of solved examples. You can also have a look at the book "Undergraduate Algebraic Geometry" by Miles Reid which is a good sequel to the author's book "Undergraduate commutative algebra".
 
 ## Discrete Mathematics ##
 
@@ -202,7 +201,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 * **Enumerative Geometry and String Theory** by *Sheldon Katz*: Standard introductory text. Can be supplemented with the articles: (1) "Enumerative Algebraic Geometry of Conics" by Bashelor, Ksir, and Traves ([MAA](https://www.maa.org/programs/maa-awards/writing-awards/enumerative-algebraic-geometry-of-conics)), (2) "Introduction to Moduli Spaces" by Renzo Cavalieri ([combined pdf](https://gkorpal.github.io/files/Introduction-to-Moduli-Spaces.pdf))
 * **Mirror Symmetry and Algebraic Geometry** by *David A. Cox and Sheldon Katz*: Standard reference for learning about Gromov-Witten Invariants (chapter 7). Not an easy read. 
-  * **Algebraic Geometry** by *A. Gathmann*: A gentle introduction to algebraic geometry with lots of computational exercises.
+  * **Algebraic Geometry** by *A. Gathmann*: A gentle introduction to algebraic geometry with lots of computational exercises. There are many editions available, but I have read the ([2002 edition](https://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2002/alggeom-2002.pdf)).
   * **Mirror symmetry** by *Hori, et. al.*: For a more gentle introduction to Gromov-Witten Invariants, try reading Chapter 21 to 23 of this book.
 * **An Invitation to Quantum Cohomology: Kontsevich's Formula for Rational Plane Curves** by *Kock and Vainsencher*: A good place to learn teachiniques involved in calculations (haven't read it myself). You can supplement it with the article "Counting Plane Rational Curves: Old and New Approaches" by Aleksey Zinger ([arXiv](https://arxiv.org/abs/math/0507105)) and the Ph.D. thesis "Gromov-Witten and degeneration invariants: computation and enumerative significance" by Andreas Gathmann.
 
