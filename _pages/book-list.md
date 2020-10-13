@@ -182,7 +182,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 * **Number Fields** by *Daniel Marcus*: The best introductory text on algeraic number theory, where most big proofs are in the form of exercises. When I read this book in 2016, it was available only in old typewriter font but fortunately in 2018 Springer released its LaTeX edition! Also, have a look at the books: (1) "Algebraic Theory of Numbers" by Pierre Samuel, and (2) "Algebraic number theory and Fermat's last theorem" by Ian Stewart and David Tall. 
 * **Algebraic Number Theory** by *Jürgen Neukirch* (translated from German by Norbert Schappacher): A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. This book nicely interlaces algebraic geometry with algebraic number theory. It serves the purpose of standard reference. I have read parts of Chapter I, II and VII.
-* **Class Field Theory** by *J.S. Milne*: Standard textbook. I haven't read it properly.
+* **Class Field Theory** by *J.S. Milne*: Standard textbook ([available online](https://www.jmilne.org/math/CourseNotes/cft.html)). I haven't read it properly.
 
 ## Complex Geometry ##
 
@@ -192,7 +192,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
   * **Analytic Functions of Several Complex Variables** by *Gunning and Rossi*: The necessary background about several variable complex valued functions, and a detailed proof of $\overline{\partial}$-Poincare lemma.
   * **Function Theory of Several Complex Variables** by *S. G. Krantz*: The proof of Dolbeault theorem for $\mathbb{C}^n$ is discussed in section 6.3.
   * **Differential Analysis on Complex Manifolds** by *R. O. Wells*: For understanding vector bundles and more.
-* **Principles of Algebraic Geometry** by *Joe Harris and Phillip Griffiths*: The only available introductory text on complex algebraic geometry. Not at all a good book for self study, my whole master's thesis was an attempt to understand 14 pages of this book (pp. 34-47). However, the collection of ideas is worth the effort.
+* **Principles of Algebraic Geometry** by *Joe Harris and Phillip Griffiths*: The only available introductory text on complex algebraic geometry. Not at all a good book for self study, my whole master's thesis was an attempt to understand 14 pages of this book (pp. 34-47). However, trying to understand the given collection of ideas is worth the effort.
   * **Complex Geometry** by *Daniel Huybrechts*: The first two chapters of this book cover the necessary complex analysis and complex manifolds background needed for Griffiths-Harris. Especially the proof of $\overline{\partial}$-Poincare lemma. The proof of Poincare lemma can be found in Munkres' "Analysis on Manifolds".
   * **Foundations of Differentiable Manifolds and Lie Groups** by *W. F. Warner*: Chapter 5 where the equivalence of Cech cohomology to sheaf cohomology is discussed.
   * **Topological Methods in Algebraic Geometry** by *Friedrich Hirzebruch*: Section 2 for the relation between Cech and de Rham cohomology.
