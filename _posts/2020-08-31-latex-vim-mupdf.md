@@ -193,11 +193,11 @@ The downside of this method is that it will increase the compliation time (since
 
 https://timodenk.com/blog/exporting-matplotlib-plots-to-latex/
 
-### SageMath
+https://ercanozturk.org/2017/12/16/python-matplotlib-plots-in-latex/
 
-For number theory related stuff.
+https://matplotlib.org/tutorials/text/usetex.html
 
-http://people.cst.cmich.edu/chan1cj/gss/tikzsage_demo.pdf
+<!--- ### SageMath  For number theory related stuff. http://people.cst.cmich.edu/chan1cj/gss/tikzsage_demo.pdf --->
 
 ## Diagrams
 
@@ -367,6 +367,4 @@ inkscape mySVGinputFile.svg --export-area-drawing --batch-process --export-type=
 
 You can also [write scripts](https://castel.dev/post/lecture-notes-2/) to make this process easier. The main advantage of Inkscape is that there's hardly any command or action that is impossible to do from keyboard. Linux users may not get the expected results with the key combinations starting with `Alt` key if the Window Manager catches those key events before they reach the inkscape application. One solution would be to change the WM's configuration accordingly.
 
-### Asymptote
-
-https://tex.stackexchange.com/questions/167164/inserting-graphics-into-asymptote-or-pgfplots
+<!--- ### Asymptote https://tex.stackexchange.com/questions/167164/inserting-graphics-into-asymptote-or-pgfplots --->
