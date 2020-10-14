@@ -23,6 +23,14 @@ If you want GUI version of Python development environment then can get [IDLE](ht
 
 # SymPy
 
+http://www.math.umbc.edu/~campbell/Computers/Python/numbthy.html
+
+https://docs.sympy.org/latest/modules/ntheory.html
+
+https://docs.sympy.org/latest/modules/polys/agca.html
+
+http://illustratedtheoryofnumbers.com/prog.html
+
 ## Matplotlib
 
 ## NumPy
