@@ -144,7 +144,7 @@ We have many other shorthand keymaps like:
 
 Note that vimtex supports most multi-file documents. The main method uses a recursive search algorithm that should find the main LaTeX file in most cases. Read [the documentation](https://github.com/lervag/vimtex/blob/master/doc/vimtex.txt) for more details. 
 
-# Drawing graphs and diagrams in LaTeX documents using pdfLaTeX
+# Drawing graphs and diagrams using pdfLaTeX
 
 We can always use simple mathematical programs like GeoGebra for 2D and 3D graphs and drawing programs like Google Drawing for diagrams. These graphs and diagrams can be exported as png or jpg (raster graphics) and then inserted in pdf using `graphicx` package. However, for better integration into the pdf document we should be using vector graphics and it can be done with the help of following programs/packages:
 
