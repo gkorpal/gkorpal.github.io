@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Following are some of the books that I would recommend reading:
+Following are some of the books that I would recommend reading (hopefully people would be able to find them in libraries since many of them are out-of-print) :
 
 * [Popular Maths and Fiction](#popular-maths-and-fiction)
 * [Biographies and Autobiographies](#biographies-and-autobiographies)
