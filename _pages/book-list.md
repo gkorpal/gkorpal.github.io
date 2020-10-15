@@ -132,7 +132,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Introduction to Topology and Modern Analysis** by *G. F. Simmons*: This book should be renamed as "An Introduction to Functional Analysis". Here we talk about normed linear spaces over $\mathbb{R}$ and $\mathbb{C}$.
 * **Differential Equations** by *S. L. Ross*: Nothing special, any other text like Simmons and Krantz's book "Differential Equations: Theory, Technique and Practice" is also good. We will see the proofs of facts learned in Calculus II.
 
-*I never came across a good introductory book on numerical analysis.*
+*I never came across a good introductory book on numerical analysis. In general, you can pick some notes which use GNU Octave or Python for implementing the algorithms.*
 
 ## Topology ##
 
@@ -153,7 +153,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Introductory Combinatorics** by *R. A. Brualdi*: There are some typos, but there some really interesting discussions like an interesting theorem by Erdős and Szekeres (pp. 76, 5th ed).
 * **An Introduction to the Theory of Numbers** by *Ivan Niven, Herbert S. Zuckerman and Hugh L. Montgomery*: Covers all flavours of number theory in adequate detail. For a more gentle introduction, see Silverman's book "A Friendly Introduction to Number Theory".
 
-*I never came across a good introductory book on graph theory.*
+*I never came across a good introductory book on graph theory. In general, you can pick some notes which use C++ or Python for implementing the algorithms.**
 
 # Special Interests #
 --------------
