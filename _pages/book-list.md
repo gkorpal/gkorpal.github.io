@@ -198,6 +198,8 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
   * **Foundations of Differentiable Manifolds and Lie Groups** by *W. F. Warner*: Chapter 5 where the equivalence of Cech cohomology to sheaf cohomology is discussed.
   * **Topological Methods in Algebraic Geometry** by *Friedrich Hirzebruch*: Section 2 for the relation between Cech and de Rham cohomology.
   
+*Initially the plan was to learn Hodge Theory, but I found this preliminary stuff to be too difficult to grasp. A good reference for that would be the book "Hodge Theory and Complex Algebraic Geometry" by Claire Voisin.* 
+  
 ## Enumerative Geometry ##
 
 * **Enumerative Geometry and String Theory** by *Sheldon Katz*: Standard introductory text. Can be supplemented with the articles: (1) "Enumerative Algebraic Geometry of Conics" by Bashelor, Ksir, and Traves ([MAA](https://www.maa.org/programs/maa-awards/writing-awards/enumerative-algebraic-geometry-of-conics)), (2) "Introduction to Moduli Spaces: A cycle of lectures at Universidad de Costa Rica" by Renzo Cavalieri ([combined pdf](https://gkorpal.github.io/files/Introduction-to-Moduli-Spaces.pdf))
@@ -205,6 +207,8 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
   * **Algebraic Geometry** by *A. Gathmann*: A gentle introduction to algebraic geometry with lots of computational exercises oriented towards the useful "intersection theory". There are many editions available, but I have read only the [2002 edition](https://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2002/alggeom-2002.pdf).
   * **Mirror symmetry** by *Hori, et. al.*: For a more gentle introduction to Gromov-Witten Invariants, try reading Chapter 21 to 23 of this book.
 * **An Invitation to Quantum Cohomology: Kontsevich's Formula for Rational Plane Curves** by *Kock and Vainsencher*: A good place to learn teachiniques involved in calculations (haven't read it myself). You can supplement it with the article "Counting Plane Rational Curves: Old and New Approaches" by Aleksey Zinger ([arXiv](https://arxiv.org/abs/math/0507105)) and the Ph.D. thesis "Gromov-Witten and degeneration invariants: computation and enumerative significance" by Andreas Gathmann.
+
+*I made an attempt to learn this topic, but didn't make much progress due to lack of my interest.*
 
 ## Arithmetic Geometry ##
 
