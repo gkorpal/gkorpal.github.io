@@ -16,11 +16,11 @@ Following are some of the books that I would recommend reading (hopefully people
 * [High School Maths](#high-school-maths)
 * [Undergraduate Maths](#undergraduate-maths)
   * [Basics](#basics)
+  * [Discrete Mathematics](#discrete-mathematics)
   * [Algebra](#algebra)
   * [Analysis](#analysis)
   * [Topology](#topology)
   * [Geometry](#geometry)
-  * [Discrete Mathematics](#discrete-mathematics)
 * [Special Interests](#special-interests)
   * [Elementary Number Theory](#elementary-number-theory)
   * [Transcendental Number Theory](#transcendental-number-theory)
@@ -116,6 +116,13 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Calculus I, II, III** by *Jerrold E. Marsden and Alan Weinstein*:  These books are old fashioned version of Calculus I, II and II (US Education System). The books are available <a href="https://aimath.org/textbooks/approved-textbooks/marsden-weinstein/" target="_blank">here</a>. This topic is an amalgamation of analysis, topology and geometry. We use geometric and topological properties of the Euclidean space to find some logic behind analytic facts about functions defined on Euclidean space. This is the "maths" needed for most of the undergraduate Physics courses.
 * **Linear Algebra** by *Friedberg, Insel and Spence*: To avoid typos, use 1999 reprint of the third edition, or more recent editions. It is a good book to learn basic stuff used in algebra (modules over PID, representation of finite groups, etc.), analysis (Banach space, numerical analysis, differential equations, etc.),  geometry (coordinate change, orientation, multilinear maps, etc.) and discrete mathematics (incidence matrix etc.). 
 
+## Discrete Mathematics ##
+
+* **Introductory Combinatorics** by *R. A. Brualdi*: There are some typos, but there some really interesting discussions like an interesting theorem by Erdős and Szekeres (pp. 76, 5th ed).
+* **An Introduction to the Theory of Numbers** by *Ivan Niven, Herbert S. Zuckerman and Hugh L. Montgomery*: Covers all flavours of number theory in adequate detail. For a more gentle introduction, see Silverman's book "A Friendly Introduction to Number Theory".
+
+*I never came across a good introductory book on graph theory. In general, you can pick some notes which use C++ or Python for implementing the algorithms.*
+
 ## Algebra ##
 
 * **Abstract Algebra** by *Dummit and Foote*: For an introduction to group theory, ring theory, modules over PID, field theory and Galois theory (answers to straight edge & compass construction questions we encountered in high-school). Has lots of solved examples. Beginners might find the books by Fraleigh (A First Course in Abstract Algebra) and Gallian (Contemporary Abstract Algebra) more useful for learning basic group theory. 
@@ -138,7 +145,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 * **Topology** by *James Munkres*: For point-set topology and introductory algebraic topology (fundamental groups). The focus is on generalizing the properties of continuous funtions learned in Calculus I and III.
 * **An Introduction to Algebraic Topology** by *Joseph Rotman*: A good introductory text with a good number of examples about homology. Can read Munkres' "Elements of Algebraic Topology" for a more detailed discussion about both homology and cohomology.
-* **Differential Topology** by *Amiya Mukherjee*: This text nicely complements the study of smooth manifolds.
+* **Differential Topology** by *Amiya Mukherjee*: This text nicely complements the study of smooth manifolds. A good reference for Sard's theorem, Whitney's embedding theorem, and Morse theory.
 
 ## Geometry ##
 
@@ -149,13 +156,6 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Projective Geometry** by *Pierre Samuel* (translated from French by Silvio Levy): The purpose of this book is to give an algebraic introduction to projective spaces. Keep in mind that "projective space" we encounter in algebraic topology/differential geometry and projective geometry/algebraic geometry is different because of the underlying topology ([discussion](https://math.stackexchange.com/q/2826053/)). A good follow-up read would be either the book "Algebraic Curves" by Fulton ([available online](http://www.math.lsa.umich.edu/~wfulton/CurveBook.pdf)) for those who want to dig deeper into algebraic geometry concepts (Riemann-Roch theorem) or the book "An Introduction to Incidence Geometry" by Bart De Bruyn for those who want to dig deeper into discrete mathematics stuff. 
   * **Geometry** by *M. Audin*: This book will help to bridge the gap between high-school geometry (Euclidean plane, Cartesian 2D and 3D, and Argand plane) and university geometry (differential geometry and algebraic geometry). Also, the chapters V and VI of this book supplement the contents of Samuel's book.
 * **An Invitation to Algebraic Geometry** by *Karen E. Smith, Lauri Kahanpää, Pekka Kekäläinen, and William Traves*: This book nicely complements the first chapter of Hartshorne (rest of that book is about scheme theory). Lots of solved examples. You can also have a look at the book "Undergraduate Algebraic Geometry" by Miles Reid which is a good sequel to the author's book "Undergraduate commutative algebra".
-
-## Discrete Mathematics ##
-
-* **Introductory Combinatorics** by *R. A. Brualdi*: There are some typos, but there some really interesting discussions like an interesting theorem by Erdős and Szekeres (pp. 76, 5th ed).
-* **An Introduction to the Theory of Numbers** by *Ivan Niven, Herbert S. Zuckerman and Hugh L. Montgomery*: Covers all flavours of number theory in adequate detail. For a more gentle introduction, see Silverman's book "A Friendly Introduction to Number Theory".
-
-*I never came across a good introductory book on graph theory. In general, you can pick some notes which use C++ or Python for implementing the algorithms.*
 
 # Special Interests #
 --------------
