@@ -38,7 +38,7 @@ Following are some of the books that I would recommend reading (hopefully people
 * **Fun and Fundamentals of Mathematics** by *J. V. Narlikar and M. Narlikar*: This was the first book I bought through flipkart (when it used to sell only books). Have read it many times since April 2011.
 * **Euclid’s Window** by *Leonard Mlodinow*: I loved reading this book (Mlodinow has co-authored "The Grand Design" by Stephen Hawking).
 * **Euler's Gem** by *David Richeson*: 2+E=F+V was my favourite formula in school and this was the first book I read in college.
-* **Mathematics: A very Short Introduction** by *T. Gowers*: A broad overview of research carrier in mathematics.
+* **Mathematics: A very Short Introduction** by *T. Gowers*: A broad overview of research career in mathematics.
 * **What is Mathematics ?** by *Richard Courant and Herbert Robbins* : This is must read book for all students serious towards mathematics. This book will be your life long friend.
 * **Fermat’s Last Theorem** by *Simon Singh*: A very detailed account on Fermat's Theorem with a good number of references.
 * **The Poincare Conjecture** by *Donal O'Shea*: It was nice to see how the different branches of topology were developed to solve this conjecture.
