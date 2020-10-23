@@ -185,6 +185,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 * **Number Fields** by *Daniel Marcus*: The best introductory text on algeraic number theory, where most big proofs are in the form of exercises. When I read this book in 2016, it was available only in old typewriter font but fortunately in 2018 Springer released its LaTeX edition! Also, have a look at the books: (1) "Algebraic Theory of Numbers" by Pierre Samuel, and (2) "Algebraic number theory and Fermat's last theorem" by Ian Stewart and David Tall. 
 * **Algebraic Number Theory** by *Jürgen Neukirch* (translated from German by Norbert Schappacher): A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. This book nicely interlaces algebraic geometry with algebraic number theory. It serves the purpose of standard reference. I have read parts of Chapter I, II and VII.
+  * **p-adic Numbers: An Introduction** by *Fernando Q. Gouvêa*: A good supplementary text for basic facts about $p$-adic numbers.
 * **Class Field Theory** by *J.S. Milne*: Standard textbook ([available online](https://www.jmilne.org/math/CourseNotes/cft.html)). I haven't read it properly.
 
 ## Complex Geometry ##
