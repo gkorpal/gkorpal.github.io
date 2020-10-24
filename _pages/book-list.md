@@ -192,13 +192,13 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 ## Complex Geometry ##
 
-* **Algebraic Curves and Riemann Surfaces** by *Rick Miranda*: It is a nice introductory text. It Chapter IX is a good source for learning about Cech cohomology.
+* **Algebraic Curves and Riemann Surfaces** by *Rick Miranda*: It is a nice introductory text. Its Chapter IX is a good source for learning about Cech cohomology.
   * **Functions of One Complex Variable** by *J. B. Conway*: I really like the proofs given in this book (Runge's theorem, Mittag-Leffler's theorem and Weierstrass factorization theorem) which are critical for understanding Riemann surfaces.
 * **From Holomorphic Functions to Complex Manifolds** by *Fritzsche and Grauert*: For analytic subvariety properties. Didn't spend much time on it.
   * **Analytic Functions of Several Complex Variables** by *Gunning and Rossi*: The necessary background about several variable complex valued functions, and a detailed proof of $\overline{\partial}$-Poincare lemma.
   * **Function Theory of Several Complex Variables** by *S. G. Krantz*: The proof of Dolbeault theorem for $\mathbb{C}^n$ is discussed in section 6.3.
   * **Differential Analysis on Complex Manifolds** by *R. O. Wells*: For understanding vector bundles and more.
-* **Principles of Algebraic Geometry** by *Joe Harris and Phillip Griffiths*: The only available introductory text on complex algebraic geometry. Not at all a good book for self study, my whole master's thesis was an attempt to understand 14 pages of this book (pp. 34-47):"Any analytic subvariety of $\mathbb{C}^n$ is the zero-locus of some global holomorphic functions." However, trying to understand the given collection of ideas is worth the effort.
+* **Principles of Algebraic Geometry** by *Joe Harris and Phillip Griffiths*: The only available introductory text on complex algebraic geometry. Not at all a good book for self study, my whole master's thesis was an attempt to understand 14 pages of this book (pp. 34-47): "Any analytic hypersurface in $\mathbb{C}^n$ is the zero-locus of a global holomorphic function." However, trying to understand the given collection of ideas is worth the effort.
   * **Complex Geometry** by *Daniel Huybrechts*: The first two chapters of this book cover the necessary complex analysis and complex manifolds background needed for Griffiths-Harris. Especially the proof of $\overline{\partial}$-Poincare lemma. The proof of Poincare lemma can be found in Munkres' "Analysis on Manifolds".
   * **Foundations of Differentiable Manifolds and Lie Groups** by *W. F. Warner*: Chapter 5 where the equivalence of Cech cohomology to sheaf cohomology is discussed.
   * **Topological Methods in Algebraic Geometry** by *Friedrich Hirzebruch*: Section 2 for the relation between Cech and de Rham cohomology.
