@@ -146,7 +146,14 @@ Note that vimtex supports most multi-file documents. The main method uses a recu
 
 # Drawing graphs and diagrams using pdfLaTeX
 
-We can always use simple mathematical programs like GeoGebra for 2D and 3D graphs and drawing programs like Google Drawing for diagrams. These graphs and diagrams can be exported as png or jpg (raster graphics) and then inserted in pdf using `graphicx` package. However, for better integration into the pdf document we should be using vector graphics and it can be done with the help of following programs/packages:
+We can always use simple mathematical programs like GeoGebra for 2D and 3D graphs and drawing programs like Google Drawing for diagrams. These graphs and diagrams can be exported as png or jpg (raster graphics) and then inserted in pdf using `graphicx` package. 
+
+````
+\usepackage{graphicx} %add images
+\graphicspath{ {./figures/} } %images are kept in a folder under the directory of the main document.
+\usepackage{subcaption} %to add multiple subfigures.
+````
+However, for better integration into the pdf document we should be using vector graphics and it can be done with the help of following programs/packages:
 
 ## Graphs
 
@@ -158,13 +165,11 @@ For including 2D and 3D plots, we can use the `pgfplots` package. Read the [docu
 \usepackage{pgfplots} %draws function plots using pgf/tikz
 \pgfplotsset{compat=1.16} %running latest version of pgfplots
 \usepgfplotslibrary{external} %avoid recompiling unchanged graphs
-\tikzexternalize %enabling externalize class
+\tikzexternalize[prefix=./figures/] %images will be stored in a folder under the working directory to avoid recompling unchanged files
 ````
 
 For example, we can plot 3D surfaces by following methods:
 `````
-\tikzsetexternalprefix{./figs/}
-
 \begin{tikzpicture} %https://tex.stackexchange.com/a/359914/
 \begin{axis}[title=$f^{-1}(-1)$: Hyperboloid of 1 sheet,axis equal]
 \addplot3[surf,domain=0:360,y domain=-2:2] ({cosh(y)*cos(x)},{cosh(y)*sin(x)},{sinh(y)});
@@ -175,8 +180,6 @@ For example, we can plot 3D surfaces by following methods:
 ![alt text](https://gkorpal.github.io/images/hy1.png)
 
 `````
-  \tikzsetexternalprefix{./figs/}
-
   \begin{tikzpicture}%https://tex.stackexchange.com/a/28775/
   \begin{axis}[title=$f^{-1}(0)$: Double cone, domain=0:5, y domain=0:2*pi,xmin=-10, xmax=10, ymin=-10, ymax=10, samples=20]
   \addplot3 [surf,z buffer=sort] ({x*cos(deg(y))}, {x*sin(deg(y))}, {x});
@@ -187,7 +190,7 @@ For example, we can plot 3D surfaces by following methods:
 
 ![alt text](https://gkorpal.github.io/images/cone.png)
 
-The downside of this method is that it will increase the compliation time (since pdfLaTeX is limited to single CPU thread).  We can also use `contour gnuplot` and `\addplot gnuplot` to extend the built-in capabilities of `pgfplots` by means of `gnuplot`’s math library, although their use is optional.
+The downside of this method is that it will increase the compliation time if `prefix` option is not used (since pdfLaTeX is limited to single CPU thread).  We can also use `contour gnuplot` and `\addplot gnuplot` to extend the built-in capabilities of `pgfplots` by means of `gnuplot`’s math library, although their use is optional.
 
 ### matplotlib
 
@@ -209,14 +212,12 @@ Apart from all these tools, one can directly use TikZ package to manually draw t
 \usepackage{tikz}
 \usetikzlibrary{shapes,arrows, chains, matrix, calc, trees, positioning, fit}
 \usetikzlibrary{external}
-\tikzexternalize
+\tikzexternalize[prefix=./figures/] %images will be stored in a folder under the working directory
 `````
 
 Then we can draw function mapping:
 
 `````
-\tikzsetexternalprefix{./figs/}
-
 \begin{tikzpicture}[line width=1pt,>=latex]
 			\node (a1) {$\mathbb{Q}_p(\sqrt{u}) \ \bullet$};
 			\node[below=of a1] (a2) {$\mathbb{Q}_p(\sqrt{-p})\ \bullet$} ;
