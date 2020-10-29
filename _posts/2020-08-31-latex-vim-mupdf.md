@@ -194,6 +194,12 @@ The downside of this method is that it will increase the compliation time if `pr
 
 ### matplotlib
 
+ https://krajit.github.io/sympy/vectorFields/vectorFields.html 
+ 
+https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.15-Quiver-and-Stream-Plots/
+
+https://www.sbillaudelle.de/2015/02/23/seamlessly-embedding-matplotlib-output-into-latex.html
+
 https://timodenk.com/blog/exporting-matplotlib-plots-to-latex/
 
 https://ercanozturk.org/2017/12/16/python-matplotlib-plots-in-latex/
@@ -333,7 +339,7 @@ inkscape mySVGinputFile.svg --export-area-drawing --batch-process --export-type=
 `````
 \usepackage{import} % it will enable us to access images without keeping them in the document's directory
 \usepackage{calc} % enable usage of \svgscale
-\usepackage{graphicx} % for insrting images
+\usepackage{graphicx} % for inserting images
 \usepackage{xcolor} % for adding colors
 \usepackage{transparent} % enables usage of separate color stack for transparency
 `````
