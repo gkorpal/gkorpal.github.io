@@ -307,7 +307,7 @@ and flowcharts
 \end{tikzpicture}
 `````
 
-![alt text](https://gkorpal.github.io/images/flow.png)
+![alt text](https://gkorpal.github.io/images/flow-chart.png)
 
 ### tikz-cd
 
