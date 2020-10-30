@@ -235,7 +235,7 @@ plt.savefig('flow.pgf')
 \usepackage{import} %import images from different folder 
 `````
 
-3. Finally, to include these plots in the document, use:
+3. Finally, to include `pgf` version of these plots in the document, use:
 
 ````
 \resizebox{0.75\textwidth}{!}{\import{./figures/}{field.pgf}}
