@@ -31,6 +31,7 @@ We will need the following packages to begin with:
 |[Git](https://src.fedoraproject.org/rpms/git) | `git`|
 | [MuPDF](https://mupdf.com/) | `mupdf`|
 | [command-line X11 automation tool](https://manned.org/xdotool/95401223) | `xdotool`|
+| [Mathplotlib](https://developer.fedoraproject.org/tech/languages/python/scipy.html) |`python3-matplotlib`|
 | [Inkscape](https://inkscape.org/) | `inkscape`|
 
 If you want GUI version of Vim then can get gVim by installing the package `vim-X11`. For gVim you will have to [modify these steps](https://vi.stackexchange.com/questions/11484/) accordingly.
