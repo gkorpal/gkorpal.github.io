@@ -31,7 +31,7 @@ We will need the following packages to begin with:
 |[Git](https://src.fedoraproject.org/rpms/git) | `git`|
 | [MuPDF](https://mupdf.com/) | `mupdf`|
 | [command-line X11 automation tool](https://manned.org/xdotool/95401223) | `xdotool`|
-| [Mathplotlib](https://developer.fedoraproject.org/tech/languages/python/scipy.html) |`python3-matplotlib`|
+| [Matplotlib](https://developer.fedoraproject.org/tech/languages/python/scipy.html) |`python3-matplotlib`|
 | [Inkscape](https://inkscape.org/) | `inkscape`|
 
 If you want GUI version of Vim then can get gVim by installing the package `vim-X11`. For gVim you will have to [modify these steps](https://vi.stackexchange.com/questions/11484/) accordingly.
@@ -195,7 +195,7 @@ The downside of this method is that it will increase the compliation time if `pr
 
 ### Matplotlib
 
-Another way of including 2D and 3D plots is to use the Python library `Mathplotlib`. Read this [guide](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/). I will illustrate the steps involved by the following plotting the 2D vector field $X=-y\frac{\partial}{\partial x} + x\frac{\partial}{\partial y} and its flow lines:
+Another way of including 2D and 3D plots is to use the Python library `Matplotlib`. Read this [guide](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/). I will illustrate the steps involved by the following plotting the 2D vector field $X=-y\frac{\partial}{\partial x} + x\frac{\partial}{\partial y} and its flow lines:
 1. Save and run the following Python scripts in the "figures" subfolder inside the folder containg the main LaTeX file ([source1](https://krajit.github.io/sympy/vectorFields/vectorFields.html), [source2](https://www.sbillaudelle.de/2015/02/23/seamlessly-embedding-matplotlib-output-into-latex.html)):
 
 ````
