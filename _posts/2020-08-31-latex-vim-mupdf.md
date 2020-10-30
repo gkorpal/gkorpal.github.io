@@ -192,20 +192,67 @@ For example, we can plot 3D surfaces by following methods:
 
 The downside of this method is that it will increase the compliation time if `prefix` option is not used (since pdfLaTeX is limited to single CPU thread).  We can also use `contour gnuplot` and `\addplot gnuplot` to extend the built-in capabilities of `pgfplots` by means of `gnuplot`’s math library, although their use is optional.
 
-### matplotlib
+### Matplotlib
 
- https://krajit.github.io/sympy/vectorFields/vectorFields.html 
+Another way of including 2D and 3D plots is to use the Python library `Mathplotlib`. Read this [guide](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/). I will illustrate the steps involved by the following plotting the 2D vector field $X=-y\frac{\partial}{\partial x} + x\frac{\partial}{\partial y} and its flow lines:
+1. Save and run the following Python scripts in the "figures" subfolder inside the folder containg the main LaTeX file ([source1](https://krajit.github.io/sympy/vectorFields/vectorFields.html), ([source2](https://www.sbillaudelle.de/2015/02/23/seamlessly-embedding-matplotlib-output-into-latex.html))):
+
+````
+import numpy as np
+import matplotlib.pyplot as plt
+
+#use quiver plot to plot the vector field
+x,y = np.meshgrid(np.linspace(-5,5,10),np.linspace(-5,5,10))
+u = -y
+v = x
+plt.quiver(x,y,u,v)
+
+#save as pdg and pgf
+plt.savefig('field.pdf')
+plt.savefig('field.pgf')
+````
+
+````
+import numpy as np
+import matplotlib.pyplot as plt
+
+#use stream plot to create the flow lines
+x,y = np.meshgrid(np.linspace(-5,5,10),np.linspace(-5,5,10))
+u = -y
+v = x
+plt.streamplot(x,y,u,v)
+
+#save as pdg and pgf
+plt.savefig('flow.pdf')
+plt.savefig('flow.pgf')
+````
+
+2. Add the following lines in the preamble of the main LaTeX file:
+
+`````
+\usepackage{pgf}
+\usepackage{import} %import images from different folder 
+`````
+
+3. Finally, to include these plots in the document, use:
+
+````
+\resizebox{0.75\textwidth}{!}{\import{./figures/}{field.pgf}}
+
+\resizebox{0.75\textwidth}{!}{\import{./figures/}{flow.pgf}}
+````
+
+You can also use `figure` or `center` environment as per your needs.
+
+4. We will get the following plots with proper font and resolution:
+
+![alt text](https://gkorpal.github.io/images/field.png)
+
+![alt text](https://gkorpal.github.io/images/flow.png)
+
+
+Alternatively, you can insert the `pdf` file by following [this guide](https://ercanozturk.org/2017/12/16/python-matplotlib-plots-in-latex/).
  
-https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.15-Quiver-and-Stream-Plots/
-
-https://www.sbillaudelle.de/2015/02/23/seamlessly-embedding-matplotlib-output-into-latex.html
-
-https://timodenk.com/blog/exporting-matplotlib-plots-to-latex/
-
-https://ercanozturk.org/2017/12/16/python-matplotlib-plots-in-latex/
-
-https://matplotlib.org/tutorials/text/usetex.html
-
 <!--- ### SageMath  For number theory related stuff. http://people.cst.cmich.edu/chan1cj/gss/tikzsage_demo.pdf --->
 
 ## Diagrams
@@ -324,7 +371,7 @@ And add the following corresponding code in the tex file:
 
 ### Inkscape
 
-The easiest way to include vector graphics using Inkscape as follows:
+The easiest way to include diagrams as vector graphics is by using Inkscape as follows:
 1. Draw the desired diagram in Inkscape, and enclose mathematical symbols in `$...$`. If you don't know how to use Inkscape then just go to `Help > Tutorials > Inkscape: Basic` and you will be ready to use.
 2. Create a folder called "pictures" inside the folder containg the main tex file and save the diagram as `svg` so that you can edit it in the future if needed. Then also save [PDF+LaTeX](https://wiki.inkscape.org/wiki/index.php/LaTeX) output to the same "pictures" folder: `File > Save As... > Select PDF from the drop-down menu > Click Save > Choose the following options`
 
