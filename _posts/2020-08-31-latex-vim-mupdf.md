@@ -208,7 +208,7 @@ u = -y
 v = x
 plt.quiver(x,y,u,v)
 
-#save as pdg and pgf
+#save as pdf and pgf
 plt.savefig('field.pdf')
 plt.savefig('field.pgf')
 ````
@@ -223,7 +223,7 @@ u = -y
 v = x
 plt.streamplot(x,y,u,v)
 
-#save as pdg and pgf
+#save as pdf and pgf
 plt.savefig('flow.pdf')
 plt.savefig('flow.pgf')
 ````
