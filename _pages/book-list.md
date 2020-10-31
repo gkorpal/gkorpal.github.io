@@ -12,7 +12,7 @@ Following are some of the books that I would recommend reading (hopefully people
 
 * [Popular Maths and Fiction](#popular-maths-and-fiction)
 * [Biographies and Autobiographies](#biographies-and-autobiographies)
-* [Olympiad-style Problem Solving](#olympiad-style-problem-solving)
+* [Math Olympiad Preparation](#math-olympiad-preparation)
 * [High School Maths](#high-school-maths)
 * [Undergraduate Maths](#undergraduate-maths)
   * [Basics](#basics)
@@ -68,7 +68,7 @@ Following are some of the books that I would recommend reading (hopefully people
 
 *What happened to the women mathematicians? Sophie Germain, Sofia Kovalevskaya, Emmy Noether, Julia Robinson,...*
 
-# Olympiad-style Problem Solving #
+# Math Olympiad Preparation #
 --------
 
 <img src="/images/book1.jpg" alt="">
