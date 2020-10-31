@@ -188,7 +188,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Elementary Methods in Number Theory** by *M. B. Nathanson*: The part 3 of this book gives a good introduction to additive aspects of analytic number theory. I haven't spent much time on this book since I don't enjoy analysis in general.
 * **Introduction to Elliptic Curves and Modular Forms** by *Neal Koblitz*: A great introduction to modular forms, which basically adds details and exercises to Serre's condense one chapter introduction in his classic book "A Course in Arithmetic". The study of modular forms is motivated via congruent number problem, and a brief discussion of analytic theory of elliptic curves.
   * **Complex Analysis** by *Elias M. Stein and Rami Shakarchi*: A good reference for the facts from complex analysis needed for understanding the proofs by Koblitz.
-  * **Fuchsian groups** by *S. Katok: A good reference for understanding the shapes of fundamental domains.
+  * **Fuchsian groups** by *S. Katok*: A good reference for understanding the shapes of fundamental domains.
 
 ## Algebraic Number Theory ##
 
