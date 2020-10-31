@@ -180,11 +180,15 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 ## Analytic Number Theory ##
 
-* **Multiplicative Number Theory** by *Harold Davenport*: This is a tough book for introducing analytic number theory, but worth the hardwork since you get to prove Prime Number Theorem with a good estimate. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!). 
-  * **A Classical Introduction to Modern Number Theory** by *Kenneth Ireland and Michael Rosen*: Provides a straighforward proof of Dirichlet's theorem on infinite primes arithmetic progressions in chapter 16.
 * **An Introduction to the Theory of Numbers** by *G. H. Hardy* and *E. M. Wright*: It is a classic textbook with lot of interesting stuff using elementary analytic methods. 
+* **Multiplicative Number Theory** by *Harold Davenport*: This is a tough book for introducing analytic number theory, but worth the hardwork since you get to prove Prime Number Theorem with a good estimate. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!). 
+  * **The  Theory  of  Functions** by *E. C. Titchmarsh*. A good reference for the complex analysis used by Davenport. Available on [internet Archive](https://archive.org/details/TheTheoryOfFunctions). Might also be worth looking at Titchmarsh's other book "The Theory of the Riemann Zeta-Function."
+  * **An  Introduction  to  the  Analytic  Theory  of  Numbers** by *R. Ayoub*: A good supplementary text for the methods and estimates used by Davenport.
+  * **A Classical Introduction to Modern Number Theory** by *Kenneth Ireland and Michael Rosen*: Provides a straighforward proof of Dirichlet's theorem on infinite primes arithmetic progressions in chapter 16.
 * **Elementary Methods in Number Theory** by *M. B. Nathanson*: The part 3 of this book gives a good introduction to additive aspects of analytic number theory. I haven't spent much time on this book since I don't enjoy analysis in general.
 * **Introduction to Elliptic Curves and Modular Forms** by *Neal Koblitz*: A great introduction to modular forms, which basically adds details and exercises to Serre's condense one chapter introduction in his classic book "A Course in Arithmetic". The study of modular forms is motivated via congruent number problem, and a brief discussion of analytic theory of elliptic curves.
+  * **Complex Analysis** by *Elias M. Stein and Rami Shakarchi*: A good reference for the facts from complex analysis needed for understanding the proofs by Koblitz.
+  * **Fuchsian groups** by *S. Katok: A good reference for understanding the shapes of fundamental domains.
 
 ## Algebraic Number Theory ##
 
