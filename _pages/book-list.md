@@ -175,7 +175,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 * **An Introduction to the Theory of Numbers** by *G. H. Hardy* and *E. M. Wright*: It is a classic textbook with lot of interesting stuff using elementary analytic methods. 
 * **Diophantine Approximation** by *W. M. Schmidt*: Standard reference for the general theory. Also contains proofs of theorems belonging to "Geometry of Numbers."
-  * **Topics in Number Theory (Volumes I and II)** by *William J. LeVeque*: The best place to understand the proof of Roth's theorem and Delaunay-Nagell theorem (discussed in the volume 2 part). The volume 1 part can also be used as an introduction to elementary number theory.
+  * **Topics in Number Theory (Volumes I and II)** by *William J. LeVeque*: The best place to understand the proof of Roth's theorem and Delaunay-Nagell theorem (discussed in the volume 2 part). The volume 1 part can be used as an introduction to elementary number theory.
 * **Making Transcendence Transparent** by *E.B. Burger and R. Tubbs*: Very nice introductory text for learning the techniques used in transcedental number theory.
 * **Multiplicative Number Theory** by *Harold Davenport*: This is a tough book for introducing analytic number theory, but worth the hardwork since you get to prove Prime Number Theorem with a good estimate. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!). 
   * **The  Theory  of  Functions** by *E. C. Titchmarsh*. A good reference for the complex analysis used by Davenport. Available on [internet Archive](https://archive.org/details/TheTheoryOfFunctions). Might also be worth looking at Titchmarsh's other book "The Theory of the Riemann Zeta-Function."
@@ -186,7 +186,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
   * **Complex Analysis** by *Elias M. Stein and Rami Shakarchi*: A good reference for the facts from complex analysis needed for understanding the proofs by Koblitz.
   * **Fuchsian groups** by *S. Katok*: A good reference for understanding the shapes of fundamental domains.
 
-*I didn't continue in this field since I couldn't like the arithmetic functions that keep popping up when finding estimations.*
+*I didn't continue in this field since I couldn't like the arithmetic functions that keep popping up when finding estimations. If you enjoy this estimation related stuff, next step would be to learn about circle methods. Have a look at the book "An Invitation to Modern Number Theory" by S. J. Miller and R. Takloo-Bighash.*
 
 ## Algebraic Number Theory ##
 
