@@ -120,7 +120,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Introductory Combinatorics** by *R. A. Brualdi*: There are some typos, but there some really interesting discussions like an interesting theorem by Erdős and Szekeres (pp. 76, 5th ed).
 * **An Introduction to the Theory of Numbers** by *Ivan Niven, Herbert S. Zuckerman and Hugh L. Montgomery*: Covers all flavours of number theory in adequate detail. For a more gentle introduction, see Silverman's book "A Friendly Introduction to Number Theory".
 
-*I never came across a good introductory book on graph theory. In general, you can pick some notes which use C++ or Python for implementing the algorithms.*
+*I never came across a good introductory book on graph theory. The books are in general filled with definitions and algorithms. In my opinion, one can pick some notes which teach by using C++ or Python for implementing the algorithms.*
 
 ## Algebra ##
 
@@ -139,7 +139,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Introduction to Topology and Modern Analysis** by *G. F. Simmons*: This book should be renamed as "An Introduction to Functional Analysis". Here we talk about normed linear spaces over $\mathbb{R}$ and $\mathbb{C}$.
 * **Differential Equations** by *S. L. Ross*: Nothing special, any other text like Simmons and Krantz's book "Differential Equations: Theory, Technique and Practice" is also good. We will see the proofs of facts learned in Calculus II.
 
-*I never came across a good introductory book on numerical analysis. In general, you can pick some notes which use GNU Octave or Python for implementing the algorithms.*
+*I never came across a good introductory book on numerical analysis, since like graph theory it involves lots of definitions and algorithms. In general, you can pick some notes which use GNU Octave or Python for implementing the algorithms.*
 
 ## Topology ##
 
@@ -191,6 +191,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 ## Algebraic Number Theory ##
 
 * **Number Fields** by *Daniel Marcus*: The best introductory text on algeraic number theory, where most big proofs are in the form of exercises. When I read this book in 2016, it was available only in old typewriter font but fortunately in 2018 Springer released its LaTeX edition! Also, have a look at the books: (1) "Algebraic Theory of Numbers" by Pierre Samuel, and (2) "Algebraic number theory and Fermat's last theorem" by Ian Stewart and David Tall. 
+  * **Algebraic Number Theory, a Computational Approach** by *William Stein*: The chapters 2 to 8 complement Marcus' book by providing many examples solved using SageMath. It is freely [available online](https://wstein.org/books/ant/).
 * **Algebraic Number Theory** by *Jürgen Neukirch* (translated from German by Norbert Schappacher): A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. This book nicely interlaces algebraic geometry with algebraic number theory. It serves the purpose of standard reference. I have read parts of Chapter I, II and VII.
   * **p-adic Numbers: An Introduction** by *Fernando Q. Gouvêa*: A good supplementary text for basic facts about $p$-adic numbers.
 * **Class Field Theory** by *J.S. Milne*: Standard textbook ([available online](https://www.jmilne.org/math/CourseNotes/cft.html)). I haven't read it properly.
