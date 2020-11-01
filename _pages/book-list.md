@@ -23,7 +23,6 @@ Following are some of the books that I would recommend reading (hopefully people
   * [Geometry](#geometry)
 * [Special Interests](#special-interests)
   * [Elementary Number Theory](#elementary-number-theory)
-  * [Transcendental Number Theory](#transcendental-number-theory)
   * [Analytic Number Theory](#analytic-number-theory)
   * [Algebraic Number Theory](#algebraic-number-theory)
   * [Complex Geometry](#complex-geometry)
@@ -172,15 +171,12 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **A Friendly Introduction to Number Theory** by *Joseph H. Silverman*: A modern introduction to elementary number theory.
 * **The  Higher  Arithmetic** by *Harold  Davenport*: It is written in prose form, many interesting things to learn.
 
-## Transcendental Number Theory ##
-
-* **Topics in Number Theory (Volumes I and II)** by *William J. LeVeque*: The best place to understand the proof of Roth's theorem and Delaunay-Nagell theorem (discussed in the volume 2 part). The volume 1 part can also be used as an introduction to elementary number theory. If you want to see the proof of Roth's theorem in terms of exercises, have a look at the book "An Invitation to Modern Number Theory" by Steven J. Miller and Ramin Takloo-Bighash.
-* **Diophantine Approximation** by *W. M. Schmidt*: Standard reference for the general theory. Also contains proofs of theorems belonging to "Geometry of Numbers".
-* **Making Transcendence Transparent** by *E.B. Burger and R. Tubbs*: Very nice introductory text for learning the techniques used in transcedental number theory.
-
 ## Analytic Number Theory ##
 
 * **An Introduction to the Theory of Numbers** by *G. H. Hardy* and *E. M. Wright*: It is a classic textbook with lot of interesting stuff using elementary analytic methods. 
+* **Diophantine Approximation** by *W. M. Schmidt*: Standard reference for the general theory. Also contains proofs of theorems belonging to "Geometry of Numbers."
+  * **Topics in Number Theory (Volumes I and II)** by *William J. LeVeque*: The best place to understand the proof of Roth's theorem and Delaunay-Nagell theorem (discussed in the volume 2 part). The volume 1 part can also be used as an introduction to elementary number theory.
+* **Making Transcendence Transparent** by *E.B. Burger and R. Tubbs*: Very nice introductory text for learning the techniques used in transcedental number theory.
 * **Multiplicative Number Theory** by *Harold Davenport*: This is a tough book for introducing analytic number theory, but worth the hardwork since you get to prove Prime Number Theorem with a good estimate. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!). 
   * **The  Theory  of  Functions** by *E. C. Titchmarsh*. A good reference for the complex analysis used by Davenport. Available on [internet Archive](https://archive.org/details/TheTheoryOfFunctions). Might also be worth looking at Titchmarsh's other book "The Theory of the Riemann Zeta-Function."
   * **An  Introduction  to  the  Analytic  Theory  of  Numbers** by *R. Ayoub*: A good supplementary text for the methods and estimates used by Davenport.
@@ -189,6 +185,8 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Introduction to Elliptic Curves and Modular Forms** by *Neal Koblitz*: A great introduction to modular forms, which basically adds details and exercises to Serre's condense one chapter introduction in his classic book "A Course in Arithmetic". The study of modular forms is motivated via congruent number problem, and a brief discussion of analytic theory of elliptic curves.
   * **Complex Analysis** by *Elias M. Stein and Rami Shakarchi*: A good reference for the facts from complex analysis needed for understanding the proofs by Koblitz.
   * **Fuchsian groups** by *S. Katok*: A good reference for understanding the shapes of fundamental domains.
+
+*I didn't continue in this field since I couldn't like the arithmetic functions that keep popping up when finding estimations.*
 
 ## Algebraic Number Theory ##
 
