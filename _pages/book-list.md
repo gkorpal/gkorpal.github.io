@@ -195,7 +195,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
   * **Algebraic Number Theory, a Computational Approach** by *William Stein*: The chapters 2 to 8 complement Marcus' book by providing many examples solved using SageMath. It is freely [available online](https://wstein.org/books/ant/).
 * **Algebraic Number Theory** by *Jürgen Neukirch* (translated from German by Norbert Schappacher): A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. This book nicely interlaces algebraic geometry with algebraic number theory. It serves the purpose of standard reference. I have read parts of Chapter I, II and VII.
   * **p-adic Numbers: An Introduction** by *Fernando Q. Gouvêa*: A good supplementary text for basic facts about $p$-adic numbers.
-* **Class Field Theory** by *J.S. Milne*: This is good for learning local class field theory from the perspective of Galois cohomology. I have read parts of Chapter I, II, III and V. It is freely ([available online](https://www.jmilne.org/math/CourseNotes/cft.html)).
+* **Class Field Theory** by *J.S. Milne*: This is good for learning local class field theory from the perspective of Galois cohomology. I have read parts of Chapter I, II, III and V. It is freely [available online](https://www.jmilne.org/math/CourseNotes/cft.html).
   * **Primes of the Form $x^2 + ny^2$** by *D. Cox*: For a working knowledge of the important results of global class field theory I should read this as per [this advice](https://mathoverflow.net/a/6940/).
 
 *I don't know why any proof of quadratic reciprocity makes me feel uncomfortable.*
