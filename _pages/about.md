@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second year mathematics graduate student at the University of Arizona. My mathematical interests lie at the intersection of number theory and algebraic geometry (arithmetic geometry). 
+Hi! I am a second year mathematics graduate student at the University of Arizona. My mathematical interests lie in arithmetic geometry. 
 
 **Office:** Zoom <!-- ENR2 S390GG ([Environment and Natural Resources 2 Building](https://enr2tour.arizona.edu/)) -->
 
