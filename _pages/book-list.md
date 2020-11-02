@@ -231,8 +231,5 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Rational Points on Elliptic Curves** by *J. H. Silverman and John Tate*: One of the most accessible introduction to the world of elliptic curves. I read the chapters I to III of this book a while ago for Mordell’s theorem (the special case of elliptic curves with a rational point of order two). The appendix on projective geometry is also great. 
 * **The Arithmetic of Elliptic Curves** by *J. H. Silverman*: The standard text introductory text about elliptic curves using techniques from algebraic geometry (varieties in projective spaces). Make sure to buy the 2nd edition corrected in 2016 printing, since earlier versions have lot of typos.
    * **Basic Algebraic Geometry** by *Igor Shafarevich* (translated from Russian by K. A. Hirsch): This is a reference for many proofs skipped in the first two chapters by Silverman. Note that this is quiet different, in terms of notations and organization, from the newer expanded translation by Miles Reid.
-<!--- 
-* **Abelian Varieties** by *David Mumford*: To read list.
-  * **Algebraic Geometry** by *Hartshorne*: This standard text introducing algebraic geometry via the theory of schemes. Also, the book "The Geometry of Schemes" by Eisenbud and Harris acts as a bridge between the first chapter and rest of the chapters of Hartshorne. 
---->
+<!--- Abelian Varieties** by David Mumford: To read list. Algebraic Geometry by Hartshorne: This standard text introducing algebraic geometry via the theory of schemes. Also, the book "The Geometry of Schemes" by Eisenbud and Harris acts as a bridge between the first chapter and rest of the chapters of Hartshorne. --->
  
