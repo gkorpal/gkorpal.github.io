@@ -25,9 +25,9 @@ Following are some of the books that I would recommend reading (hopefully people
   * [Elementary Number Theory](#elementary-number-theory)
   * [Analytic Number Theory](#analytic-number-theory)
   * [Algebraic Number Theory](#algebraic-number-theory)
+  * [Arithmetic Geometry](#arithmetic-geometry)
   * [Complex Geometry](#complex-geometry)
   * [Enumerative Geometry](#enumerative-geometry)
-  * [Arithmetic Geometry](#arithmetic-geometry)
   
 # Popular Maths and Fiction #
 ------
@@ -200,6 +200,14 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 *I don't know why any proof of quadratic reciprocity makes me feel uncomfortable.*
 
+## Arithmetic Geometry ##
+
+* **Rational Points on Elliptic Curves** by *J. H. Silverman and John Tate*: One of the most accessible introduction to the world of elliptic curves. I read the chapters I to III of this book a while ago for Mordell’s theorem (the special case of elliptic curves with a rational point of order two). The appendix on projective geometry is also great. 
+* **The Arithmetic of Elliptic Curves** by *J. H. Silverman*: The standard introductory text about elliptic curves using techniques from algebraic geometry (varieties in projective spaces). Make sure to buy the 2nd edition corrected in 2016 printing, since earlier versions have lot of typos.
+   * **Basic Algebraic Geometry** by *Igor Shafarevich* (translated from Russian by K. A. Hirsch): This is a reference for many proofs skipped in the first two chapters by Silverman. Note that this is quiet different, in terms of notations and organization, from the newer expanded translation by Miles Reid.
+
+<!--- Abelian Varieties** by David Mumford: To read list. Algebraic Geometry by Hartshorne: This standard text introducing algebraic geometry via the theory of schemes. Also, the book "The Geometry of Schemes" by Eisenbud and Harris acts as a bridge between the first chapter and rest of the chapters of Hartshorne. --->
+ 
 ## Complex Geometry ##
 
 * **Algebraic Curves and Riemann Surfaces** by *Rick Miranda*: It is a nice introductory text. Its Chapter IX is a good source for learning about Cech cohomology.
@@ -225,12 +233,3 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **An Invitation to Quantum Cohomology: Kontsevich's Formula for Rational Plane Curves** by *Kock and Vainsencher*: A good place to learn teachiniques involved in calculations (haven't read it myself). You can supplement it with the article "Counting Plane Rational Curves: Old and New Approaches" by Aleksey Zinger ([arXiv](https://arxiv.org/abs/math/0507105)) and the Ph.D. thesis "Gromov-Witten and degeneration invariants: computation and enumerative significance" by Andreas Gathmann.
 
 *I made an attempt to learn this topic to build upon the skills gained while learning complex geometry, but didn't make much progress due to the lack of my interest.*
-
-## Arithmetic Geometry ##
-
-* **Rational Points on Elliptic Curves** by *J. H. Silverman and John Tate*: One of the most accessible introduction to the world of elliptic curves. I read the chapters I to III of this book a while ago for Mordell’s theorem (the special case of elliptic curves with a rational point of order two). The appendix on projective geometry is also great. 
-* **The Arithmetic of Elliptic Curves** by *J. H. Silverman*: The standard text introductory text about elliptic curves using techniques from algebraic geometry (varieties in projective spaces). Make sure to buy the 2nd edition corrected in 2016 printing, since earlier versions have lot of typos.
-   * **Basic Algebraic Geometry** by *Igor Shafarevich* (translated from Russian by K. A. Hirsch): This is a reference for many proofs skipped in the first two chapters by Silverman. Note that this is quiet different, in terms of notations and organization, from the newer expanded translation by Miles Reid.
-
-<!--- Abelian Varieties** by David Mumford: To read list. Algebraic Geometry by Hartshorne: This standard text introducing algebraic geometry via the theory of schemes. Also, the book "The Geometry of Schemes" by Eisenbud and Harris acts as a bridge between the first chapter and rest of the chapters of Hartshorne. --->
- 
