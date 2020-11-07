@@ -341,31 +341,136 @@ to get
 
 ### GeoGebra Classic
 
-The easiest way to include simple 2D graphs and diagrams is to use GeoGebra, since it gives us the option of exporting the Graphics View as PGF/TikZ code. Installing [GeoGebra Classic 6](https://wiki.geogebra.org/en/Reference:GeoGebra_Installation) is a dependency hell ([ex1](https://ask.fedoraproject.org/t/dnf-reports-geogebra-gpg-key-not-found/3376) and [ex2](https://help.geogebra.org/topic/geogebra-classic-and-fedora-32)). Therefore, we will just use the online version: https://www.geogebra.org/classic For example, add the following to the preamble:
+The easiest way to include simple diagrams is to use GeoGebra, since it gives us the option of exporting the Graphics View as PGF/TikZ code. Installing [GeoGebra Classic 6](https://wiki.geogebra.org/en/Reference:GeoGebra_Installation) is a dependency hell ([ex1](https://ask.fedoraproject.org/t/dnf-reports-geogebra-gpg-key-not-found/3376) and [ex2](https://help.geogebra.org/topic/geogebra-classic-and-fedora-32)). Therefore, we will just use the online version: https://www.geogebra.org/classic For example, add the following to the preamble:
 
 `````
 \usepackage{pgf,tikz}
 \usetikzlibrary{arrows}%you can see what extra packages are needed by going through the exported tex file
-\usetikzlibrary{decorations.markings}
 `````
 
 Then draw the following diagram in GeoGebra
 
-![alt text](https://gkorpal.github.io/images/geogebra.png)
+![alt text](https://gkorpal.github.io/images/gg1.png)
 
 And add the following corresponding code in the tex file:
 
 `````
-\begin{tikzpicture}[line cap=round,line join=round, x=0.7cm,y=0.7cm]
-\draw[->,color=black] (-5,0) -- (10,0);
-\draw[->,color=black] (0,-5) -- (0,5);
-\clip(-5,-5) rectangle (10,5);
-\draw [line width=1.6pt,domain=3.0:10.0] plot(\x,{(-0-0*\x)/8});
-\draw [decoration={markings, mark=at position 0.125 with {\arrow{>}}},
-        postaction={decorate}, line width=1.6pt] (0,0) circle (2.1cm);
-\draw (3.09,0.70) node[anchor=north west] {$\delta$};
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=2.1cm,y=2.1cm]
+\clip(1.5,-0.5) rectangle (10,3);
+\draw (2,0)-- (4.83,0);
+\draw (2,0)-- (3.41,1.41);
+\draw (3.41,1.41)-- (4.83,0);
+\draw (2,0.91) node[anchor=north west] {\scriptsize{$\overline{CA} \, = \, 2$}};
+\draw (4.15,0.92) node[anchor=north west] {\scriptsize{$\overline{CB} \, = \, 2$}};
+\draw (3.18,0) node[anchor=north west] {\scriptsize{$\overline{AB} \, = \, 2.83$}};
+\draw (6,0)-- (6,1);
+\draw (6,1)-- (7,1);
+\draw (7,1)-- (7,0);
+\draw (7,0)-- (6,0);
+\draw (5.35,0.66) node[anchor=north west] {\scriptsize{$\overline{DE} \, = \, 1$}};
+\draw (6.25,1.25) node[anchor=north west] {\scriptsize{$\overline{EF} \, = \, 1$}};
+\draw (7.04,0.66) node[anchor=north west] {\scriptsize{$\overline{FG} \, = \, 1$}};
+\draw (6.34,0) node[anchor=north west] {\scriptsize{$\overline{GD} \, = \, 1$}};
+\draw (4.5,1.5)-- (5.5,1.5);
+\draw (5.5,1.5)-- (5.5,2.5);
+\draw (5.5,2.5)-- (4.5,1.5);
+\draw (4.86,1.52) node[anchor=north west] {\scriptsize{$\overline{HI} \, = \, 1$}};
+\draw (5.54,2.19) node[anchor=north west] {\scriptsize{$\overline{IJ} \, = \, 1$}};
+\draw (4.25,2.2) node[anchor=north west] {\scriptsize{$\overline{JH} \, = \, 1.41$}};
+\draw (7.5,1.5)-- (8.5,1.5);
+\draw (8.5,1.5)-- (9.5,2.5);
+\draw (9.5,2.5)-- (8.5,2.5);
+\draw (8.5,2.5)-- (7.5,1.5);
+\draw (8.7,2.73) node[anchor=north west] {\scriptsize{$\overline{NM} \, = \, 1$}};
+\draw (9,2.08) node[anchor=north west] {\scriptsize{$\overline{ML} \, = \, 1.41$}};
+\draw (7.83,1.5) node[anchor=north west] {\scriptsize{$\overline{LK} \, = \, 1$}};
+\draw (7.2,2.22) node[anchor=north west] {\scriptsize{$\overline{KN} \, = \, 1.41$}};
+\draw (1.94,2.51)-- (2.94,1.51);
+\draw (2.94,1.51)-- (3.94,2.51);
+\draw (3.94,2.51)-- (1.94,2.51);
+\draw (2.8,2.76) node[anchor=north west] {\scriptsize{$\overline{OQ} \, = \, 2$}};
+\draw (3.3,2) node[anchor=north west] {\scriptsize{$\overline{QP} \, = \, 1.41$}};
+\draw (1.75,2) node[anchor=north west] {\scriptsize{$\overline{PO} \, = \, 1.41$}};
 \begin{scriptsize}
-\fill [color=black] (3,0) circle (2pt);
+\fill [color=black] (2,0) circle (1.5pt);
+\draw[color=black] (1.9,-0.08) node {$A$};
+\fill [color=black] (4.83,0) circle (1.5pt);
+\draw[color=black] (4.88,-0.08) node {$B$};
+\fill [color=black] (3.41,1.41) circle (1.5pt);
+\draw[color=black] (3.46,1.5) node {$C$};
+\fill [color=black] (6,0) circle (1.5pt);
+\draw[color=black] (6.05,-0.08) node {$D$};
+\fill [color=black] (6,1) circle (1.5pt);
+\draw[color=black] (6.05,1.09) node {$E$};
+\fill [color=black] (7,1) circle (1.5pt);
+\draw[color=black] (7.04,1.09) node {$F$};
+\fill [color=black] (7,0) circle (1.5pt);
+\draw[color=black] (7.05,-0.08) node {$G$};
+\fill [color=black] (4.5,1.5) circle (1.5pt);
+\draw[color=black] (4.4,1.4) node {$H$};
+\fill [color=black] (5.5,1.5) circle (1.5pt);
+\draw[color=black] (5.63,1.4) node {$I$};
+\fill [color=black] (5.5,2.5) circle (1.5pt);
+\draw[color=black] (5.53,2.6) node {$J$};
+\fill [color=black] (7.5,1.5) circle (1.5pt);
+\draw[color=black] (7.45,1.4) node {$K$};
+\fill [color=black] (8.5,1.5) circle (1.5pt);
+\draw[color=black] (8.65,1.4) node {$L$};
+\fill [color=black] (9.5,2.5) circle (1.5pt);
+\draw[color=black] (9.6,2.58) node {$M$};
+\fill [color=black] (8.5,2.5) circle (1.5pt);
+\draw[color=black] (8.45,2.58) node {$N$};
+\fill [color=black] (1.99,2.51) circle (1.5pt);
+\draw[color=black] (1.99,2.59) node {$O$};
+\fill [color=black] (2.94,1.51) circle (1.5pt);
+\draw[color=black] (2.99,1.45) node {$P$};
+\fill [color=black] (3.94,2.51) circle (1.5pt);
+\draw[color=black] (3.99,2.59) node {$Q$};
+\fill [color=black] (2.94,2.51) circle (1.5pt);
+\fill [color=black] (2.71,0.71) circle (1.5pt);
+\fill [color=black] (4.12,0.71) circle (1.5pt);
+\fill [color=black] (3.41,0) circle (1.5pt);
+\end{scriptsize}
+\end{tikzpicture}
+`````
+
+Another example, where this approach makes the job easy is the following:
+
+![alt text](https://gkorpal.github.io/images/gg2.png)
+
+Just add this code generated by GeoGebra:
+
+`````
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=0.75cm,y=0.75cm]
+\clip(2.5,-5.5) rectangle (13.5,5.5);
+\draw [shift={(8,0)},fill=black,fill opacity=0.1] (0,0) -- (0:1.2) arc (0:289.87:1.2) -- cycle;
+\draw [shift={(8,0)},fill=black,fill opacity=0.1] (0,0) -- (0:0.7) arc (0:197.97:0.7) -- cycle;
+\draw(8,0) circle (3.75cm);
+\draw(6,0) circle (1.95cm);
+\draw (8,0)-- (3.24,-1.54);
+\draw (3.24,-1.54)-- (9.7,-4.7);
+\draw (9.7,-4.7)-- (8,0);
+\draw [dash pattern=on 3pt off 3pt] (6,0)-- (4.93,-2.37);
+\draw [dash pattern=on 3pt off 3pt] (6,0)-- (13,0);
+\draw [shift={(8,0)},->] (0:1.2) arc (0:289.87:1.2);
+\draw [shift={(8,0)},->] (0:0.7) arc (0:197.97:0.7);
+\begin{scriptsize}
+\fill [color=black] (8,0) circle (1.5pt);
+\draw[color=black] (7.8,-0.2) node {$O$};
+\fill [color=black] (13,0) circle (1.5pt);
+\draw[color=black] (13.18,-0.12) node {$B$};
+\fill [color=black] (6,0) circle (1.5pt);
+\draw[color=black] (5.98,0.25) node {$O'$};
+\fill [color=black] (8.6,-0.08) circle (1.5pt);
+\draw[color=black] (8.74,-0.22) node {$D$};
+\fill [color=black] (3.24,-1.54) circle (1.5pt);
+\draw[color=black] (2.94,-1.4) node {$E'$};
+\fill [color=black] (9.7,-4.7) circle (1.5pt);
+\draw[color=black] (9.84,-4.44) node {$E_1'$};
+\fill [color=black] (4.93,-2.37) circle (1.5pt);
+\draw[color=black] (4.82,-2.08) node {$G'$};
+\draw[color=black] (7.5,0.8) node {$2\theta_1'$};
+\draw[color=black] (8.1,0.4) node {$2\theta_0'$};
 \end{scriptsize}
 \end{tikzpicture}
 `````
