@@ -9,8 +9,6 @@ tags:
   - xfce4-terminal
   - fedora
   - terminal-emulator
-  - inkscpae
-  - geogrbra
   - vimtex
   - vim
   - vim plug
