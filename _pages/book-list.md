@@ -65,7 +65,7 @@ Following are some of the books that I would recommend reading (hopefully people
 * **A Beautiful Mind** by *Sylvia Nasar*: This is the biography of John Nash, a mathematician whose personality is quite the opposite of mine.
 * **The Strangest Man** by *Graham Farmelo*: This is the biography of Paul Dirac, whose life I wanted to know about because he is believed to be autistic.
 
-*What happened to the women mathematicians? Sophie Germain, Sofia Kovalevskaya, Emmy Noether, Julia Robinson,...*
+*Why no good books about the women mathematicians? Sophie Germain, Sofia Kovalevskaya, Emmy Noether, Julia Robinson,...*
 
 # Olympiad Maths #
 --------
