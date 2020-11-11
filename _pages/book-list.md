@@ -170,7 +170,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 ## Analytic Number Theory ##
 
 * **An Introduction to the Theory of Numbers** by *G. H. Hardy* and *E. M. Wright*: It is a classic textbook with lot of interesting stuff using elementary analytic methods.
-  * **Fourier Analysis: An Introduction** by *E. M. Stein & R. Shakarchi*: It is a good reference for "Weyl’s Equidistribution Theorem" (section 4.2) which is in some sense related to "Kronecker’s Theorem in one dimension" discussed in Hardy & Wright's book (section 23.3, latest edition).
+  * **Fourier Analysis: An Introduction** by *E. M. Stein & R. Shakarchi*: It is a good reference for "Weyl’s Equidistribution Theorem" (section 4.2) which is closely related to "Kronecker’s Theorem in one dimension" discussed in Hardy & Wright's book (section 23.3, latest edition).
 * **Diophantine Approximation** by *W. M. Schmidt*: Standard reference for the general theory. Also contains proofs of theorems belonging to "Geometry of Numbers."
   * **Topics in Number Theory (Volumes I and II)** by *William J. LeVeque*: The best place to understand the proof of Roth's theorem and Delaunay-Nagell theorem (discussed in the volume 2 part). The volume 1 part can be used as an introduction to elementary number theory.
 * **Making Transcendence Transparent** by *E.B. Burger and R. Tubbs*: Very nice introductory text for learning the techniques used in transcedental number theory.
