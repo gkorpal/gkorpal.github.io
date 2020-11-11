@@ -16,9 +16,8 @@ Following are some of the books that I would recommend reading (hopefully people
 * [High School Maths](#high-school-maths)
 * [Undergraduate Maths](#undergraduate-maths)
   * [Basics](#basics)
-  * [Discrete Mathematics](#discrete-mathematics)
-  * [Algebra](#algebra)
   * [Analysis](#analysis)
+  * [Algebra](#algebra)
   * [Topology](#topology)
   * [Geometry](#geometry)
 * [Special Interests](#special-interests)
@@ -114,19 +113,10 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 * **Calculus I, II, III** by *Jerrold E. Marsden and Alan Weinstein*:  These books are old fashioned version of Calculus I, II and II (US Education System). The books are available <a href="https://aimath.org/textbooks/approved-textbooks/marsden-weinstein/" target="_blank">here</a>. This topic is an amalgamation of analysis, topology and geometry. We use geometric and topological properties of the Euclidean space to find some logic behind analytic facts about functions defined on Euclidean space. This is the "maths" needed for most of the undergraduate Physics courses.
 * **Linear Algebra** by *Friedberg, Insel and Spence*: To avoid typos, use 1999 reprint of the third edition, or more recent editions. It is a good book to learn basic stuff used in algebra (modules over PID, representation of finite groups, etc.), analysis (Banach space, numerical analysis, differential equations, etc.),  geometry (coordinate change, orientation, multilinear maps, etc.) and discrete mathematics (incidence matrix etc.). 
-
-## Discrete Mathematics ##
-
-* **Introductory Combinatorics** by *R. A. Brualdi*: There are some typos, but there some really interesting discussions like an interesting theorem by Erdős and Szekeres (pp. 76, 5th ed).
+* **Introductory Combinatorics** by *R. A. Brualdi*: There are some typos, but there some really interesting discussions like an interesting theorem by Erdős and Szekeres (p. 76, 5th ed).
 * **An Introduction to the Theory of Numbers** by *Ivan Niven, Herbert S. Zuckerman and Hugh L. Montgomery*: Covers all flavours of number theory in adequate detail. For a more gentle introduction, see Silverman's book "A Friendly Introduction to Number Theory".
 
 *I never came across a good introductory book on graph theory. The books are in general filled with definitions and algorithms. In my opinion, one can pick some notes ([like these](https://code.google.com/archive/p/graphbook/)) which illustrate algorithms by implementing them using C++ or Python.*
-
-## Algebra ##
-
-* **Abstract Algebra** by *Dummit and Foote*: For an introduction to group theory, ring theory, modules over PID, field theory and Galois theory (answers to straight edge & compass construction questions we encountered in high-school). Has lots of solved examples. Beginners might find the books by Fraleigh (A First Course in Abstract Algebra) and Gallian (Contemporary Abstract Algebra) more useful for learning basic group theory. 
-* **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's book "Algebraic Geometry". For a more gentle introduction, you can read the book by N S Gopalakrishnan.
-* **Representation Theory of Finite Groups** by *Martin Burrow*: Must read the introduction to the first chapter. Notations are a bit outdated, but not as [bad](https://math.stackexchange.com/a/192728) as in Gordon James and Martin Liebeck's book "Representation and Characters of Groups". 
 
 ## Analysis ##
 
@@ -140,6 +130,12 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Differential Equations** by *S. L. Ross*: Nothing special, any other text like Simmons and Krantz's book "Differential Equations: Theory, Technique and Practice" is also good. We will see the proofs of facts learned in Calculus II.
 
 *I never came across a good introductory book on numerical analysis, since like graph theory it involves lots of definitions and algorithms. In general, you can pick some notes ([like these](https://open.umn.edu/opentextbooks/textbooks/first-semester-in-numerical-analysis-with-julia)) which use GNU Octave or Python for implementing the algorithms.*
+
+## Algebra ##
+
+* **Abstract Algebra** by *Dummit and Foote*: For an introduction to group theory, ring theory, modules over PID, field theory and Galois theory (answers to straight edge & compass construction questions we encountered in high-school). Has lots of solved examples. Beginners might find the books by Fraleigh (A First Course in Abstract Algebra) and Gallian (Contemporary Abstract Algebra) more useful for learning basic group theory. 
+* **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's book "Algebraic Geometry". For a more gentle introduction, you can read the book by N S Gopalakrishnan.
+* **Representation Theory of Finite Groups** by *Martin Burrow*: Must read the introduction to the first chapter. Notations are a bit outdated, but not as [bad](https://math.stackexchange.com/a/192728) as in Gordon James and Martin Liebeck's book "Representation and Characters of Groups". 
 
 ## Topology ##
 
