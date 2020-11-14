@@ -1,5 +1,5 @@
 ---
-title: "MATH 112 - College Algebra Concepts and Applications"
+title: "Math 112 - College Algebra Concepts and Applications"
 collection: teaching
 type: "Lower Division Undergraduate Course"
 permalink: /teaching/2020-fall-teaching
@@ -7,7 +7,7 @@ venue: "University of Arizona"
 date: 2020-08-25
 location: "iCourse"
 ---
-The following is some information regarding the 15 week iCourse section (103/203/403) of the course MATH 112 that I will be assisting with during Fall 2020. 
+The following is some information regarding the 15 week iCourse section (103/203/403) of the course Math 112 that I will be assisting with during Fall 2020. 
 
 *Our section has about 114 students. The full course has about 1700 students.*
 
