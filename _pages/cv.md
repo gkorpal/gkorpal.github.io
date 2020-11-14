@@ -16,15 +16,15 @@ Education
 
 * M.Sc. (5-year integrated) in Mathematics, 2019
   * University: <em>[Homi Bhabha National Institute, Mumbai](http://www.hbni.ac.in/).</em>
-  * Constituent Institution: <em>[National Institute of Science Education and Research, Bhubaneswar](http://www.niser.ac.in/) </em> (An [off-campus centre of HBNI](http://www.hbni.ac.in/cis/niser.html) and [autonomous institution under DAE, Govt. of India](https://dae.nic.in/?q=node/81)).
+  * Constituent Institution: <em>[National Institute of Science Education and Research, Bhubaneswar](http://www.niser.ac.in/) </em> (An [off-campus centre of HBNI](http://www.hbni.ac.in/cis/niser.html) and [autonomous institution under DAE, Govt. of India](https://dae.nic.in/)).
   * Thesis: <em>[Sheaf, Cohomology and Geometry](http://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf)</em> (Supervisor: <em>[Dr. Ritwik Mukherjee](https://www.sites.google.com/site/ritwik371/home)</em>).
 
 Work experience
 ------
 * August 2019 - present: Graduate Teaching Assistant - Department of Mathematics (The University of Arizona College of Science)
-  * Fall 2020: TA for Math 112 - Michael Rossetti (Drop-in Tutoring via Zoom, Grading HW and Proctoring exams) and Zoom exam proctor for Math 113 (Janet Sipes), Math 112 (Mary Lawler), Math 116 (Erzebet Lugosi) and Math 122A (Tynan Lazarus).
-  * Spring 2020: TA for MATH 112 - Heonmi Kim ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))
-  * Fall 2019: TA for MATH 112 - Mitchell James Wilson ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))
+  * Fall 2020: <em>TA for Math 112 - Michael Rossetti (Drop-in Tutoring via Zoom, Grading HW and Proctoring exams) and Zoom exam proctor for Math 113 (Janet Sipes), Math 112 (Mary Lawler), Math 116 (Erzebet Lugosi) and Math 122A (Tynan Lazarus).</em>
+  * Spring 2020: <em>TA for MATH 112 - Heonmi Kim ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))</em>
+  * Fall 2019: <em>TA for MATH 112 - Mitchell James Wilson ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))</em>
   
 Awards and Fellowships
 ------
