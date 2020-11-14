@@ -22,9 +22,9 @@ Education
 Work experience
 ------
 * August 2019 - present: Graduate Teaching Assistant - Department of Mathematics (The University of Arizona College of Science)
-  * Fall 2019: TA for MATH 112 - Mitchell James Wilson ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))
-  * Spring 2020: TA for MATH 112 - Heonmi Kim ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))
   * Fall 2020: TA for Math 112 - Michael Rossetti (Drop-in Tutoring via Zoom, Grading HW and Proctoring exams) and Zoom exam proctor for Math 113 (Janet Sipes), Math 112 (Mary Lawler), Math 116 (Erzebet Lugosi) and Math 122A (Tynan Lazarus).
+  * Spring 2020: TA for MATH 112 - Heonmi Kim ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))
+  * Fall 2019: TA for MATH 112 - Mitchell James Wilson ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))
   
 Awards and Fellowships
 ------
