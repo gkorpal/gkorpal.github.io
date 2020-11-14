@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ---------
-* Ph.D. in Mathematics, 2019-present
+* Ph.D. in Mathematics, ongoing
   * University: <em>[The University of Arizona, Tucson](https://www.arizona.edu/).</em>
     * College: <em>[College of Science](https://science.arizona.edu/).</em>
   
