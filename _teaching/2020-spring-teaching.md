@@ -1,5 +1,5 @@
 ---
-title: "MATH 112 - College Algebra Concepts and Applications"
+title: "Math 112 - College Algebra Concepts and Applications"
 collection: teaching
 type: "Lower Division Undergraduate Course"
 permalink: /teaching/2020-spring-teaching
@@ -7,7 +7,7 @@ venue: "University of Arizona"
 date: 2020-01-15
 location: "SAGHA 202"
 ---
-The following is some information regarding the section 023 of the course MATH 112 that I will be assisting with during Spring 2020. 
+The following is some information regarding the section 023 of the course Math 112 that I will be assisting with during Spring 2020. 
 
 *Our section has about 60 students. The full course has about 1300 students.*
 
