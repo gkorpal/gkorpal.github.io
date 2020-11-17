@@ -10,3 +10,6 @@ author_profile: true
 {% for post in site.technical reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+> Young man, in mathematics you don't understand things. You just get used to them.
+> -[John von Neumann](https://en.wikiquote.org/wiki/John_von_Neumann)
