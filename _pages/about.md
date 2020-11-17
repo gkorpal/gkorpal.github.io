@@ -15,6 +15,3 @@ Hi! I am a second year mathematics graduate student at the University of Arizona
 **Office Hours:**  On Sundays from 2:00 pm to 3:00 pm, on Tuesdays and Thursdays from 4:00 pm to 5:00 pm
 
 **email:** gkorpal at math dot arizona dot edu
-
-> Young man, in mathematics you don't understand things. You just get used to them.
-> -[John von Neumann](https://en.wikiquote.org/wiki/John_von_Neumann)
