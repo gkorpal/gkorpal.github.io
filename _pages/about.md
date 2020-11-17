@@ -17,4 +17,4 @@ Hi! I am a second year mathematics graduate student at the University of Arizona
 **email:** gkorpal at math dot arizona dot edu
 
 > Young man, in mathematics you don't understand things. You just get used to them.
-> - [John von Neumann](https://en.wikiquote.org/wiki/John_von_Neumann)
+> -[John von Neumann](https://en.wikiquote.org/wiki/John_von_Neumann)
