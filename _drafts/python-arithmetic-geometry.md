@@ -42,6 +42,12 @@ https://www.johannes-bauer.com/compsci/ecc/
 
 # CyPARI2
  
+online textbooks
 
+http://math.gordon.edu/ntic/
+http://linear.pugetsound.edu/
+http://abstract.pugetsound.edu/
+http://linear.ups.edu/eagts/eagts.html
+https://pretextbook.org/catalog.html
 
 
