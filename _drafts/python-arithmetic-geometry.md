@@ -31,6 +31,11 @@ https://docs.sympy.org/latest/modules/polys/agca.html
 
 http://illustratedtheoryofnumbers.com/prog.html
 
+http://math.gordon.edu/ntic/
+
+https://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/index.html
+https://www.johannes-bauer.com/compsci/ecc/
+
 ## Matplotlib
 
 ## NumPy
