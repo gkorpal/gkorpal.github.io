@@ -7,6 +7,15 @@ categories:
 tags:
   - edge case
 ---
+
+
+| Proprietary Software | Speciality | Open source alternative |
+|----------|----------| ---------- |
+|SAS | Statistics | R |
+|MATLAB | Numerical Analysis | GNU Octave |
+|Mathematica/Maple | Symbolic Computations (UG analysis and algebra) | Maxima ([Macsyma](https://en.wikipedia.org/wiki/Macsyma) |
+|Magma | Algebraic Number Theory, Algebraic Geometry and Combinatorics | PARI/GP + GAP + Macaulay2 |
+
 The plan is to move away from [SageMath](https://sagemath.blogspot.com/2014/08/what-is-sagemathcloud-lets-clear-some.html) and instead use the relevant [Python](https://www.python.org/) libraries for doing some calculations in arithmetic geometry.
 
 # Python configuration
