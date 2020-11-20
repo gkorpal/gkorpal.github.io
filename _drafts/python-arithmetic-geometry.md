@@ -11,10 +11,10 @@ tags:
 
 | Proprietary Software | Speciality | Open source alternative |
 |----------|----------| ---------- |
-|SAS/SPSS | Statistics | R |
-|MATLAB | Numerical Analysis | GNU Octave/SciPy (NumPy + Matplotlib + Pandas) |
+|SAS/SPSS | Statistics | R/Anaconda |
+|MATLAB | Numerical Analysis | GNU Octave/NumPy |
 |Mathematica/Maple ([Macsyma](https://en.wikipedia.org/wiki/Macsyma))| Symbolic Computations (UG analysis and algebra) | SymPy/Maxima  |
-|Magma | Algebraic Number Theory, Algebraic Geometry and Combinatorics | SageMath (FLINT + PARI/GP + GAP + Singular) |
+|Magma | Algebraic Number Theory, Algebraic Geometry and Combinatorics | SageMath (FLINT + PARI/GP + GAP + Singular + ...) |
 
 The plan is to move away from [SageMath](https://sagemath.blogspot.com/2014/08/what-is-sagemathcloud-lets-clear-some.html) and instead use the relevant [Python](https://www.python.org/) libraries for doing some calculations in arithmetic geometry.
 
