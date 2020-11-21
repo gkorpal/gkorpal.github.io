@@ -16,7 +16,7 @@ tags:
 |Mathematica/Maple ([Macsyma](https://en.wikipedia.org/wiki/Macsyma))| Symbolic Computations (UG mathematics) | Maxima  | NumPy + Matplotlib + SymPy |
 |Magma | Algebraic Number Theory, Algebraic Geometry and Combinatorics | SageMath (FLINT + PARI/GP + GAP + Singular + ...) | ?? |
 
-However, RStudio is the only open source alternative which has been able to overtake the proprietary software. This is because other alternatives [don't have any industry backing](https://gkorpal.github.io/files/bp.pdf). Moreover, SageMath's [motto](https://gkorpal.github.io/files/icms_2010.pdf) "building the car instead of reinventing the wheel" [overcomplicated things](https://sagemath.blogspot.com/2014/08/what-is-sagemathcloud-lets-clear-some.html) by trying to [integrate "all" open source programs](https://www.sagemath.org/links-components.html) using Python, instead of just building the relevant Python libraries which would act as an alternative to Magma. However, SageMath evolved into [CoCalc](https://cocalc.com/index.html) to become more user-friendly and is able to support further development via [LMFDB project](https://www.lmfdb.org/acknowledgment). 
+However, RStudio is the only open source alternative which has been able to overtake the proprietary software. This is because other alternatives [don't have any industry backing](https://gkorpal.github.io/files/bp.pdf). Moreover, SageMath's [motto](https://gkorpal.github.io/files/icms_2010.pdf) "building the car instead of reinventing the wheel" [overcomplicated things](https://sagemath.blogspot.com/2014/08/what-is-sagemathcloud-lets-clear-some.html) by trying to [integrate "all" open source programs](https://www.sagemath.org/links-components.html) using Python, instead of just building the relevant Python libraries (like, [CyPARI2](https://github.com/sagemath/cypari2))  which would act as an alternative to Magma. However, SageMath evolved into [CoCalc](https://cocalc.com/index.html) to become more user-friendly and is able to support further development via [LMFDB project](https://www.lmfdb.org/acknowledgment). 
 
 # Python configuration
 
@@ -26,7 +26,7 @@ We will need the following packages to begin with:
 |----------|----------|
 |[Python3](https://fedoralovespython.org/) |`python3`|
 |[SymPy](https://developer.fedoraproject.org/tech/languages/python/scipy.html) | `python3-sympy`|
-|[CyPARI2](https://github.com/sagemath/cypari2) | `python3-cypari2`|
+|[CyPARI2](https://pari.math.u-bordeaux.fr/Events/PARI2019/talks/jeroen.html) | `python3-cypari2`|
 
 If you want GUI version of Python development environment then can get [IDLE](https://docs.python.org/3/library/idle.html) by installing the package `python3-idle`. Once you finish learning basics using the free ["Hands-on Python Tutorial" by Andrew N. Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/) or the [tutorial available in the official documentation](https://docs.python.org/3/tutorial/), you will be ready to start using Python for solving math problems.
 
