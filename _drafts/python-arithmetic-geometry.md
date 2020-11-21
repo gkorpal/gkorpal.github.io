@@ -16,7 +16,7 @@ tags:
 |Mathematica/Maple ([Macsyma](https://en.wikipedia.org/wiki/Macsyma))| Symbolic Computations (UG analysis and algebra) | Maxima  |
 |Magma | Algebraic Number Theory, Algebraic Geometry and Combinatorics | SageMath (FLINT + PARI/GP + GAP + Singular + ...) |
 
-However, only R is an open source alternative which has been able to overtake the proprietary software because others [don't have any industry backing](https://gkorpal.github.io/files/bp.pdf). Moreover, SageMath's [motto](https://gkorpal.github.io/files/icms_2010.pdf) "building the car instead of reinventing the wheel," overcomplicated things instead of the anticipated simplification leading to the [failure](https://sagemath.blogspot.com/2014/08/what-is-sagemathcloud-lets-clear-some.html). SymPy. Anaconda. CoCalc.
+However, only R is an open source alternative which has been able to overtake the proprietary software because others [don't have any industry backing](https://gkorpal.github.io/files/bp.pdf). Moreover, SageMath's [motto](https://gkorpal.github.io/files/icms_2010.pdf) "building the car instead of reinventing the wheel," overcomplicated things instead of the anticipated simplification leading to the [failure](https://sagemath.blogspot.com/2014/08/what-is-sagemathcloud-lets-clear-some.html). However, SageMath evolved into [CoCalc](https://cocalc.com/index.html) to become more user-friendly and is able to support further development via [LMFDB project](https://www.lmfdb.org/acknowledgment). 
 
 # Python configuration
 
