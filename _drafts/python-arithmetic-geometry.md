@@ -11,12 +11,12 @@ tags:
 
 | Proprietary Software | Speciality | Open source alternative |
 |----------|----------| ---------- |
-|SAS/SPSS | Statistics | R/Anaconda |
-|MATLAB | Numerical Analysis | GNU Octave/NumPy |
-|Mathematica/Maple ([Macsyma](https://en.wikipedia.org/wiki/Macsyma))| Symbolic Computations (UG analysis and algebra) | SymPy/Maxima  |
+|SAS/SPSS | Statistics | R |
+|MATLAB | Numerical Analysis | GNU Octave |
+|Mathematica/Maple ([Macsyma](https://en.wikipedia.org/wiki/Macsyma))| Symbolic Computations (UG analysis and algebra) | Maxima  |
 |Magma | Algebraic Number Theory, Algebraic Geometry and Combinatorics | SageMath (FLINT + PARI/GP + GAP + Singular + ...) |
 
-The plan is to move away from [SageMath](https://sagemath.blogspot.com/2014/08/what-is-sagemathcloud-lets-clear-some.html) and instead use the relevant [Python](https://www.python.org/) libraries for doing some calculations in arithmetic geometry.
+However, only R is an open source alternative which has been able to overtake the proprietary software because others [don't have any industry backing](https://gkorpal.github.io/files/bp.pdf). Moreover, SageMath's [motto](https://gkorpal.github.io/files/icms_2010.pdf) "building the car instead of reinventing the wheel," overcomplicated things instead of the anticipated simplification leading to the [failure](https://sagemath.blogspot.com/2014/08/what-is-sagemathcloud-lets-clear-some.html). SymPy. Anaconda. CoCalc.
 
 # Python configuration
 
