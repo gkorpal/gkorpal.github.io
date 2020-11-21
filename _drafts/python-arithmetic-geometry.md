@@ -9,7 +9,7 @@ tags:
 ---
 
 
-| Proprietary Software | Speciality | Open source alternative | Equivalent/Complementary Python libraries |
+| Proprietary software | Speciality | Open source alternative | Equivalent/complementary Python libraries |
 |----------|----------| ---------- | --------- |
 |SAS/SPSS | Statistics | RStudio | NumPy + SciPy + Matplotlib + pandas + Statsmodels + Patsy|
 |MATLAB | Numerical Analysis | GNU Octave | NumPy + SciPy + Matplotlib |
