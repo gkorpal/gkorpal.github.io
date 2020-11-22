@@ -13,7 +13,7 @@ tags:
 |----------|----------| ---------- | --------- |
 |SAS/SPSS | Statistical computations | RStudio | NumPy + SciPy + Matplotlib + pandas + Statsmodels + Patsy|
 |MATLAB | Numerical computations (applied maths) | GNU Octave/Scilab | NumPy + SciPy + Matplotlib |
-|Mathematica/Maple ([Macsyma](https://en.wikipedia.org/wiki/Macsyma))| Symbolic computations (undergraduate mathematics) | Maxima  | NumPy + Matplotlib + SymPy |
+|Mathematica/Maple ([Macsyma](https://en.wikipedia.org/wiki/Macsyma))| Symbolic computations (UG level maths) | Maxima  | NumPy + Matplotlib + SymPy |
 |Magma | Algebra, number theory, algebraic geometry and algebraic combinatorics computations | SageMath (FLINT + PARI/GP + GAP + Singular + ...) | ?? |
 
 However, RStudio is the only open source alternative which has been able to overtake the proprietary software. This is because other alternatives [don't have any industry backing](https://gkorpal.github.io/files/bp.pdf). Moreover, SageMath's [motto](https://gkorpal.github.io/files/icms_2010.pdf) "building the car instead of reinventing the wheel" turned it into a bloatware since they [integrated other well developed open source programs](https://www.sagemath.org/links-components.html) like R, SymPy and Maxima using Python, instead of just building the Python libraries (like [CyPari2](https://github.com/sagemath/cypari2)) which would act as an alternative to Magma. To overcome this [organizational failure](https://sagemath.blogspot.com/2014/08/what-is-sagemathcloud-lets-clear-some.html), SageMath has evolved into [CoCalc](https://cocalc.com/index.html) to become more market-friendly and is able to support further development via [LMFDB project](https://www.lmfdb.org/acknowledgment). 
