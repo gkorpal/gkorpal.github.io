@@ -200,6 +200,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 ## Arithmetic Geometry ##
 
 * **Rational Points on Elliptic Curves** by *J. H. Silverman and John Tate*: One of the most accessible introduction to the world of elliptic curves. I read the chapters I to III of this book a while ago for Mordell’s theorem (the special case of elliptic curves with a rational point of order two). The appendix on projective geometry is also great. 
+  * **Topics in Algebra** by *I. N. Herstein*: This is a reference for the group theory needed to understand the proof of Mordell's theorem discussed in the text.
 * **The Arithmetic of Elliptic Curves** by *J. H. Silverman*: The standard introductory text about elliptic curves using techniques from algebraic geometry (varieties in projective spaces). Make sure to use the 2nd edition corrected in 2016 printing, since earlier versions have lot of typos. Also, keeping Neukirch's Algebraic Number Theory handy will be of great help (expecially, when reading sections II.2, II.3 and III.7).
    * **Basic Algebraic Geometry** by *Igor Shafarevich* (translated from Russian by K. A. Hirsch): This is a reference for many proofs skipped in the first two chapters by Silverman. Note that this is quiet different, in terms of notations and organization, from the newer expanded translation by Miles Reid.
    * **Galois Representations** by *Gabor Wiese*: These notes complement the discussion in section III.7 of Silverman's text. They are [available online](https://math.uni.lu/~wiese/notes/GalRep.pdf).
