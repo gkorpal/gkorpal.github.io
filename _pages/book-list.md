@@ -232,4 +232,4 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
   * **Mirror symmetry** by *Hori, et. al.*: For a more gentle introduction to Gromov-Witten Invariants, try reading Chapter 21 to 23 of this book.
 * **An Invitation to Quantum Cohomology: Kontsevich's Formula for Rational Plane Curves** by *Kock and Vainsencher*: A good place to learn teachiniques involved in calculations (haven't read it myself). You can supplement it with the article "Counting Plane Rational Curves: Old and New Approaches" by Aleksey Zinger ([arXiv](https://arxiv.org/abs/math/0507105)) and the Ph.D. thesis "Gromov-Witten and degeneration invariants: computation and enumerative significance" by Andreas Gathmann.
 
-*I made an attempt to learn this topic to build upon the skills gained while learning complex geometry, but didn't make much progress due to the lack of my interest.*
+*I made an attempt to learn this topic so that I could build upon the skills gained while learning complex geometry. However I didn't make much progress due to the lack of my interest.*
