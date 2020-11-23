@@ -107,7 +107,7 @@ The High School constitutes of class IX-XII (Secondary and Senior Secondary educ
 
 <img src="/images/book4.jpg" alt="">
 
-The Undergraduate constitutes of 4-year bachelor's degree program in mathematics (Tertiary education in India), i.e. students aged 18 to 22.
+The Undergraduate constitutes of 4-year bachelor's degree program in mathematics (Tertiary education in India), i.e. students aged 18 to 22. I have arranged the topics and books in the order of increasing requirement for mathematical maturity.
 
 ## Basics ##
 
@@ -161,6 +161,8 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 --------------
 
 <img src="/images/book6.jpg" alt="">
+
+The topics and books are arranged in the order I would recommend learning them.
 
 ## Elementary Number Theory ##
 
