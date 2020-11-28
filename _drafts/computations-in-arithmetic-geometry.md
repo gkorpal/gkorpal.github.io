@@ -7,6 +7,7 @@ categories:
 tags:
   - edge case
 ---
+In this post I discuss the options available for doing computational experimentation in arithmetic geometry.
 
 # The free rein of proprietary softwares
 
