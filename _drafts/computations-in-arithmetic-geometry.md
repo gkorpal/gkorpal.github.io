@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Python for Arithmetic Geometry"
+title:  "Computations in Arithmetic Geometry"
 header:
 categories: 
   - Jekyll
@@ -16,7 +16,7 @@ tags:
 |Mathematica/Maple ([Macsyma](https://en.wikipedia.org/wiki/Macsyma))| Symbolic computations (UG level maths) | Maxima  | NumPy + Matplotlib + SymPy |
 |Magma | [Structural computations](http://magma.maths.usyd.edu.au/magma/overview/2/19/1/#subsection_1_1) (structures from algebra, algebraic geometry and  finite incidence geometry are included) | SageMath (FLINT + PARI/GP + GAP + Singular + ...) | ?? |
 
-However, RStudio is the only open source alternative which has been able to overtake the proprietary software. This is because other alternatives [don't have any industry backing](https://gkorpal.github.io/files/bp.pdf). Moreover, SageMath's [motto](https://gkorpal.github.io/files/icms_2010.pdf) "building the car instead of reinventing the wheel" turned it into a bloatware since they [integrated other well developed open source programs](https://www.sagemath.org/links-components.html) like R, SymPy and Maxima using Python, instead of just building the Python libraries (like [CyPari2](https://github.com/sagemath/cypari2)) which would act as an alternative to Magma. To overcome this [organizational failure](https://sagemath.blogspot.com/2014/08/what-is-sagemathcloud-lets-clear-some.html), SageMath has evolved into [CoCalc](https://cocalc.com/index.html) to become more market-friendly and is able to support further development via [LMFDB project](https://www.lmfdb.org/acknowledgment). 
+However, RStudio is the only open source alternative which has been able to overtake the proprietary software. This is because other alternatives [don't have any industry backing](https://gkorpal.github.io/files/bp.pdf). Moreover, SageMath's [motto](https://gkorpal.github.io/files/icms_2010.pdf) "building the car instead of reinventing the wheel" turned it into a bloatware since they [integrated other well developed open source programs](https://www.sagemath.org/links-components.html) like R, SymPy and Maxima using Python, instead of just building the Python libraries (like [CyPari2](https://github.com/sagemath/cypari2)) which would act as an [alternative to Magma](https://wiki.sagemath.org/magma), which was [the original goal](https://gkorpal.github.io/files/focm11.pdf). To overcome this [organizational failure](https://sagemath.blogspot.com/2014/08/what-is-sagemathcloud-lets-clear-some.html), SageMath has evolved into [CoCalc](https://cocalc.com/index.html) to become more market-friendly and is able to support further development via [LMFDB project](https://www.lmfdb.org/acknowledgment). 
 
 # Python configuration
 
