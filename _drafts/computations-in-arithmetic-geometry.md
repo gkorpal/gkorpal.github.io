@@ -26,7 +26,7 @@ I must point out that RStudio is the only open source alternative which has been
 
 Open source softwares have been a life saver for students in countries like India, where our universities couldn't afford these proprietary softwares. I learned numerical analysis on GNU Octave and number theory on SageMath.
 
-## General-purpose programming language (Open-source)
+## General-purpose programming language (open-source)
 
 I would recommend learning Python since it gives you access to all the Python libraries mentioned above. Moreover, SageMath closely follows Python syntax. We will need the following packages to begin with:
 
@@ -67,7 +67,7 @@ http://abstract.pugetsound.edu/
 http://linear.ups.edu/eagts/eagts.html
 https://pretextbook.org/catalog.html
 
-## Domain-specific language (proprietary)
+## Domain-specific programming language (proprietary)
 
 Since open source alternative is not sufficient, it would be a good idea to also learn Magma.
 
