@@ -26,7 +26,9 @@ I must point out that RStudio is the only open source alternative which has been
 
 Open source softwares have been a life saver for students in countries like India, where our universities couldn't afford these proprietary softwares. I learned numerical analysis on GNU Octave and number theory on SageMath.
 
-We will need the following packages to begin with:
+## General-purpose programming language (Open-source)
+
+I would recommend learning Python since it gives you access to all the Python libraries mentioned above. Moreover, SageMath closely follows Python syntax. We will need the following packages to begin with:
 
 | Software Program | dnf Package |
 |----------|----------|
@@ -36,7 +38,7 @@ We will need the following packages to begin with:
 
 If you want GUI version of Python development environment then can get [IDLE](https://docs.python.org/3/library/idle.html) by installing the package `python3-idle`. Once you finish learning basics using the free ["Hands-on Python Tutorial" by Andrew N. Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/) or the [tutorial available in the official documentation](https://docs.python.org/3/tutorial/), you will be ready to start using Python for solving math problems.
 
-# SymPy
+### SymPy
 
 http://www.math.umbc.edu/~campbell/Computers/Python/numbthy.html
 
@@ -51,11 +53,11 @@ http://math.gordon.edu/ntic/
 https://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/index.html
 https://www.johannes-bauer.com/compsci/ecc/
 
-## Matplotlib
+### Matplotlib
 
-## NumPy
+### NumPy
 
-# CyPARI2
+### CyPARI2
  
 online textbooks
 
@@ -65,4 +67,7 @@ http://abstract.pugetsound.edu/
 http://linear.ups.edu/eagts/eagts.html
 https://pretextbook.org/catalog.html
 
+## Domain-specific language (proprietary)
+
+Since open source alternative is not sufficient, it would be a good idea to also learn Magma.
 
