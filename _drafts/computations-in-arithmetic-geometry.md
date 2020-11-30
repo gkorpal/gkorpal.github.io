@@ -17,7 +17,7 @@ In the world of mathematical computations, proprietary softwares tend to more ad
 |----------|----------| ---------- | --------- |
 |SAS/SPSS | Statistical computations | RStudio | NumPy + SciPy + Matplotlib + pandas + Statsmodels + Patsy|
 |MATLAB | Numerical computations (applied maths) | GNU Octave/Scilab | NumPy + SciPy + Matplotlib |
-|Mathematica/Maple ([Macsyma](https://en.wikipedia.org/wiki/Macsyma))| Symbolic computations (UG level maths) | Maxima  | NumPy + Matplotlib + SymPy |
+|Mathematica/Maple ([Macsyma](https://en.wikipedia.org/wiki/Macsyma))| Symbolic computations (UG level maths) | Maxima  | SymPy + matplotlib + mpmath|
 |Magma | [Structural computations](http://magma.maths.usyd.edu.au/magma/overview/2/19/1/#subsection_1_1) (structures from algebra, algebraic geometry and  finite incidence geometry are included) | SageMath (FLINT + PARI/GP + GAP + Singular + ...) | ?? |
 
 I must point out that RStudio is the only open source alternative which has been able to overtake the proprietary software, mainly because [statistical computatiuons can help you make money](https://gkorpal.github.io/files/bp.pdf). Moreover, though Cython has become the standard open-source alternative to all properitary computational softwares, there still isn't any Python library for "structural computations" (Galois representations, isomorphisms, counting points on varieties, etc.). I believe that this is because SageMath's [motto](https://gkorpal.github.io/files/icms_2010.pdf) "building the car instead of reinventing the wheel" turned it into a bloatware since they [integrated other well developed open source programs](https://www.sagemath.org/links-components.html) like R, SymPy and Maxima using Python, instead of just building the Python libraries (like [CyPari2](https://github.com/sagemath/cypari2)) which would act as an [alternative to Magma](https://wiki.sagemath.org/magma), which was [the original goal](https://gkorpal.github.io/files/focm11.pdf). To overcome this [failure](https://sagemath.blogspot.com/2014/08/what-is-sagemathcloud-lets-clear-some.html), SageMath evolved into cloud based subscription service called [CoCalc](https://cocalc.com/index.html) to generate revenue for funding the massive project. Howevever, the main contributions seem to be coming from the developments related to the [LMFDB project](https://www.lmfdb.org/acknowledgment). 
@@ -33,8 +33,10 @@ I would recommend learning Python since it gives you access to all the Python li
 | Software Program | dnf Package |
 |----------|----------|
 |[Python3](https://fedoralovespython.org/) |`python3`|
-|[SymPy](https://developer.fedoraproject.org/tech/languages/python/scipy.html) | `python3-sympy`|
+|[SymPy*](https://developer.fedoraproject.org/tech/languages/python/scipy.html) | `python3-sympy`|
 |[CyPARI2](https://pari.math.u-bordeaux.fr/Events/PARI2019/talks/jeroen.html) | `python3-cypari2`|
+
+\*Note that Fedora will automatically install the required dependecies like `mpmath`, `scipy` (for NumPy) and `matplotlib`.
 
 If you want GUI version of Python development environment then can get [IDLE](https://docs.python.org/3/library/idle.html) by installing the package `python3-idle`. Once you finish learning basics using the free ["Hands-on Python Tutorial" by Andrew N. Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/) or the [tutorial available in the official documentation](https://docs.python.org/3/tutorial/), you will be ready to start using Python for solving math problems.
 
@@ -53,9 +55,8 @@ http://math.gordon.edu/ntic/
 https://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/index.html
 https://www.johannes-bauer.com/compsci/ecc/
 
-### Matplotlib
+https://blog.christianperone.com/2010/02/riemann-zeta-function-visualizations-with-python/
 
-### NumPy
 
 ### CyPARI2
  
