@@ -42,6 +42,20 @@ If you want GUI version of Python development environment then can get [IDLE](ht
 
 ### SymPy
 
+zeta function
+
+https://blog.christianperone.com/2010/02/riemann-zeta-function-visualizations-with-python/
+
+
+### CyPARI2
+ 
+idealfactor
+
+https://cypari2.readthedocs.io/en/latest/pari_instance.html
+
+<!--- http://math.gordon.edu/ntic/ http://linear.pugetsound.edu/ http://abstract.pugetsound.edu/ http://linear.ups.edu/eagts/eagts.html https://pretextbook.org/catalog.html --->
+
+
 http://www.math.umbc.edu/~campbell/Computers/Python/numbthy.html
 
 https://docs.sympy.org/latest/modules/ntheory.html
@@ -54,19 +68,6 @@ http://math.gordon.edu/ntic/
 
 https://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/index.html
 https://www.johannes-bauer.com/compsci/ecc/
-
-https://blog.christianperone.com/2010/02/riemann-zeta-function-visualizations-with-python/
-
-
-### CyPARI2
- 
-online textbooks
-
-http://math.gordon.edu/ntic/
-http://linear.pugetsound.edu/
-http://abstract.pugetsound.edu/
-http://linear.ups.edu/eagts/eagts.html
-https://pretextbook.org/catalog.html
 
 ## Domain-specific programming language (proprietary)
 
