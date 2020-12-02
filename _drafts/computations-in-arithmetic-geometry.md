@@ -72,3 +72,7 @@ https://pretextbook.org/catalog.html
 
 Since open source alternative is not sufficient, it would be a good idea to also learn Magma.
 
+https://stackoverflow.com/questions/14030306/lib-ld-linux-so-2-bad-elf-interpreter-no-such-file-or-directory
+https://unix.stackexchange.com/questions/75054/ldd-tells-me-my-app-is-not-a-dynamic-executable
+https://stackoverflow.com/questions/3949161/no-such-file-or-directory-but-it-exists
+
