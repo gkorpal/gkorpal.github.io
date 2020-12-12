@@ -197,7 +197,7 @@ The topics and books are arranged in the order I would recommend learning them.
   * **p-adic Numbers: An Introduction** by *Fernando Q. Gouvêa*: A good supplementary text for basic facts about $p$-adic numbers.
 * **Class Field Theory** by *J.S. Milne*: This is good for learning local class field theory from the perspective of Galois cohomology. I have read parts of Chapter I, II, III and V. It is freely [available online](https://www.jmilne.org/math/CourseNotes/cft.html).
   * **Primes of the Form $x^2 + ny^2$** by *D. Cox*: For a working knowledge of the important results of global class field theory I should read this as per [this advice](https://mathoverflow.net/a/6940/).
-* **Algebraic number theory: Papers from the conference held at the University of Sussex (Sep 1 - Sep 17, 1965)** edited by *J. W. S. Cassels and A. Fröhlich*: The reference for most of the advanced topics in algebraic number theory. Contains Tate's doctoral thesis.
+* **Algebraic Number Theory: Papers from the conference held at the University of Sussex (Sep 1 - Sep 17, 1965)** edited by *J. W. S. Cassels and A. Fröhlich*: The reference for most of the advanced topics in algebraic number theory. Contains Tate's doctoral thesis.
 
 *I don't know why any proof of quadratic reciprocity makes me feel uncomfortable.*
 
@@ -212,7 +212,7 @@ The topics and books are arranged in the order I would recommend learning them.
   * **Algebraic geometry and arithmetic curves** by *Q. Liu* (Translated from the French by R. Erné): An introduction to the language of schemes (chapter 2 to 7), without assuming the base field to be algebraically closed, or of characteristic zero.
 * **Abelian Varieties** by *D. Mumford*: A scheme-theoretic treatment of most of the basic theory of abelian varieties. However, all ground fields are assumed to be algebraically closed, which limits the usefulness of the book as a reference for arithmetic geometers.
   * **Algebraic Geometry** by *R. Hartshorne*: The chapter II and III of this book provide an introduction to algebraic geometry via the theory of schemes over algebraically closed field. Good reference for the cohomology of schemes.
-* **Arithmetic geometry: Papers from the conference held at the University of Connecticut (Jul 30 - Aug 10, 1984)** edited by *G. Cornell and J. H. Silverman*: The reference for most of the advanced topics in arithmetic geometry. Most of the articles are intended as expositions of the tools used in the proof of Faltings' theorem. 
+* **Arithmetic Geometry: Papers from the conference held at the University of Connecticut (Jul 30 - Aug 10, 1984)** edited by *G. Cornell and J. H. Silverman*: The reference for most of the advanced topics in arithmetic geometry. Most of the articles are intended as expositions of the tools used in the proof of Faltings' theorem. 
 
 ## Complex Geometry ##
 
