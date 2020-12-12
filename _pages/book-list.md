@@ -197,19 +197,23 @@ The topics and books are arranged in the order I would recommend learning them.
   * **p-adic Numbers: An Introduction** by *Fernando Q. Gouvêa*: A good supplementary text for basic facts about $p$-adic numbers.
 * **Class Field Theory** by *J.S. Milne*: This is good for learning local class field theory from the perspective of Galois cohomology. I have read parts of Chapter I, II, III and V. It is freely [available online](https://www.jmilne.org/math/CourseNotes/cft.html).
   * **Primes of the Form $x^2 + ny^2$** by *D. Cox*: For a working knowledge of the important results of global class field theory I should read this as per [this advice](https://mathoverflow.net/a/6940/).
+* **Algebraic number theory: Papers from the conference held at the University of Sussex (Sep 1 - Sep 17, 1965)** edited by *J. W. S. Cassels and A. Fröhlich*: The reference for most of the advanced topics in agebraic number theory. Contains Tate's doctoral thesis.
 
 *I don't know why any proof of quadratic reciprocity makes me feel uncomfortable.*
 
 ## Arithmetic Geometry ##
 
-* **Rational Points on Elliptic Curves** by *J. H. Silverman and John Tate*: One of the most accessible introduction to the world of elliptic curves. I read the chapters I to III of this book a while ago for Mordell’s theorem (the special case of elliptic curves with a rational point of order two). The appendix on projective geometry is also great. 
+* **Rational Points on Elliptic Curves** by *J. H. Silverman and John Tate*: One of the most accessible introduction to the world of elliptic curves, especially the theory of heights (major part of Diophantine geometry). I read the chapters I to III of this book a while ago for Mordell’s theorem (the special case of elliptic curves with a rational point of order two). The appendix on projective geometry is also great. 
   * **Topics in Algebra** by *I. N. Herstein*: This is a reference for the group theory needed to understand the proof of Mordell's theorem discussed in the text.
-* **The Arithmetic of Elliptic Curves** by *J. H. Silverman*: The standard introductory text about elliptic curves using techniques from algebraic geometry (varieties in projective spaces). Make sure to use the 2nd edition corrected in 2016 printing, since earlier versions have lot of typos. Also, keeping Neukirch's Algebraic Number Theory handy will be of great help (expecially, when reading sections II.2, II.3 and III.7).
+* **The Arithmetic of Elliptic Curves** by *J. H. Silverman*: The standard introductory text about elliptic curves using techniques from algebraic geometry (varieties in projective spaces). Make sure to use the 2nd edition corrected in 2016 printing, since earlier versions have lot of typos. Neukirch's Algebraic Number Theory might be helpful when reading sections II.2, II.3 and III.7. Also, it would be useful to recall stuff from analyic number theory, like Riemann zeta function (for section V.2), Diophantine approximation (for section IX.1) and transcendental number theory (for section IX.5).
    * **Basic Algebraic Geometry** by *Igor Shafarevich* (translated from Russian by K. A. Hirsch): This is a reference for many proofs skipped in the first two chapters by Silverman. Note that this is quiet different, in terms of notations and organization, from the newer expanded translation by Miles Reid.
    * **Galois Representations** by *Gabor Wiese*: These notes complement the discussion in section III.7 of Silverman's text. They are [available online](https://math.uni.lu/~wiese/notes/GalRep.pdf).
+* **Rational points on varieties** by *B. Poonen*: I provides a good introduction to the theory of Brauer groups and the Brauer-Manin obstruction, while briefly discussing other useful tools like etale cohomology.
+  * **Algebraic geometry and arithmetic curves** by *Q. Liu* (Translated from the French by R. Erné): An introduction to the language of schemes, without assuming the base field to be algebraically closed, or of characteristic zero.
+* **Abelian Varieties** by *D. Mumford*: A scheme-theoretic treatment of most of the basic theory of abelian varieties. OHowever, all ground fields are assumed to be algebraically closed, which limits the usefulness of the book as a reference for arithmetic geometers.
+  * **Algebraic Geometry** by *R. Hartshorne*: The chapter II and III of this book provide an introduction to algebraic geometry via the theory of schemes over algebraically closed field. Good reference for the cohomology of schemes.
+* **Arithmetic geometry: Papers from the conference held at the University of Connecticut (Jul 30 - Aug 10, 1984)** edited by *G. Cornell and J. H. Silverman*: The reference for most of the advanced topics in arithmetic geometry. Most of the articles are intended as expositions of the tools used in the proof of Faltings' theorem. 
 
-<!--- Abelian Varieties** by David Mumford: To read list. Algebraic Geometry by Hartshorne: This standard text introducing algebraic geometry via the theory of schemes. Also, the book "The Geometry of Schemes" by Eisenbud and Harris acts as a bridge between the first chapter and rest of the chapters of Hartshorne. --->
- 
 ## Complex Geometry ##
 
 * **Algebraic Curves and Riemann Surfaces** by *Rick Miranda*: It is a nice introductory text. Its Chapter IX is a good source for learning about Cech cohomology.
