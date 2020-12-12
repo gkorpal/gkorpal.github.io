@@ -20,7 +20,7 @@ Following are some of the books that I would recommend reading (hopefully people
   * [Algebra](#algebra)
   * [Topology](#topology)
   * [Geometry](#geometry)
-* [Special Interests](#special-interests)
+* [Special Topics](#special-topics)
   * [Elementary Number Theory](#elementary-number-theory)
   * [Analytic Number Theory](#analytic-number-theory)
   * [Algebraic Number Theory](#algebraic-number-theory)
@@ -157,7 +157,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
   * **Geometry** by *M. Audin*: This book will help to bridge the gap between high-school geometry (Euclidean plane, Cartesian 2D and 3D, and Argand plane) and university geometry (differential geometry and algebraic geometry). Also, the chapters V and VI of this book supplement the contents of Samuel's book.
 * **An Invitation to Algebraic Geometry** by *Karen E. Smith, et. al.*: This book nicely complements the first chapter of Hartshorne (rest of that book is about scheme theory). Lots of solved examples. Note that, though "genus" of a curve (Riemann surface) is defined in algebraic topology via Euler charateristic and in (complex) algebraic geometry via Riemann-Roch theorem, there is a close correspondence between "divisors" (algebraic geometry) and holomorphic "line bundles" (algebriac topology) on a Riemann surface. You can find more about this in the last chapter (Chapter 8) of this book. A good follow-up read would be the book "Algebraic Curves" by Fulton ([available online](http://www.math.lsa.umich.edu/~wfulton/CurveBook.pdf)) where a proof of Riemann-Roch theorem for cruves is discussed.
 
-# Special Interests #
+# Special Topics #
 --------------
 
 <img src="/images/book6.jpg" alt="">
