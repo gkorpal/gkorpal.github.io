@@ -197,7 +197,7 @@ The topics and books are arranged in the order I would recommend learning them.
   * **p-adic Numbers: An Introduction** by *Fernando Q. Gouvêa*: A good supplementary text for basic facts about $p$-adic numbers.
 * **Class Field Theory** by *J.S. Milne*: This is good for learning local class field theory from the perspective of Galois cohomology. I have read parts of Chapter I, II, III and V. It is freely [available online](https://www.jmilne.org/math/CourseNotes/cft.html).
   * **Primes of the Form $x^2 + ny^2$** by *D. Cox*: For a working knowledge of the important results of global class field theory I should read this as per [this advice](https://mathoverflow.net/a/6940/).
-* **Algebraic number theory: Papers from the conference held at the University of Sussex (Sep 1 - Sep 17, 1965)** edited by *J. W. S. Cassels and A. Fröhlich*: The reference for most of the advanced topics in agebraic number theory. Contains Tate's doctoral thesis.
+* **Algebraic number theory: Papers from the conference held at the University of Sussex (Sep 1 - Sep 17, 1965)** edited by *J. W. S. Cassels and A. Fröhlich*: The reference for most of the advanced topics in algebraic number theory. Contains Tate's doctoral thesis.
 
 *I don't know why any proof of quadratic reciprocity makes me feel uncomfortable.*
 
