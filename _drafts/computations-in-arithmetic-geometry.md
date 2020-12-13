@@ -18,7 +18,7 @@ In the world of mathematical computations, proprietary softwares tend to more ad
 |SAS/SPSS | Statistical computations | RStudio | statsmodels (NumPy + SciPy + pandas + Patsy + Matplotlib +...)|
 |MATLAB | Numerical computations (applied maths) | GNU Octave/Scilab | SciPy (NumPy + Matplotlib + ...) |
 |Mathematica/Maple ([Macsyma](https://en.wikipedia.org/wiki/Macsyma))| Symbolic computations (UG level maths) | Maxima  | SymPy (NumPy + Matplotlib + mpmath + ...)|
-|Magma | [Structural computations](http://magma.maths.usyd.edu.au/magma/overview/2/19/1/#subsection_1_1) (structures from algebra, algebraic geometry and  finite incidence geometry are included) | SageMath (FLINT + PARI/GP + GAP + Singular + ...) | ?? |
+|Magma | [Structural computations](http://magma.maths.usyd.edu.au/magma/overview/2/19/1/#subsection_1_1) (structures from algebra, algebraic geometry and  finite incidence geometry are included) | SageMath (FLINT + PARI/GP + GAP + Singular + ...) | CyPari2 + ?? |
 
 I must point out that RStudio is the only open source alternative which has been able to overtake the proprietary software, mainly because [statistical computatiuons can help you make money](https://gkorpal.github.io/files/bp.pdf). Moreover, though the [Anaconda distribution](https://www.anaconda.com/products/individual) has become the standard open-source alternative to all properitary computational softwares, there still isn't any Python library for "structural computations" (Galois representations, isomorphisms, counting points on varieties, etc.). I believe that this is because SageMath's [motto](https://gkorpal.github.io/files/icms_2010.pdf) "building the car instead of reinventing the wheel" turned it into a bloatware since they [integrated other well developed open source programs](https://www.sagemath.org/links-components.html) like R, SymPy and Maxima using Python, instead of just building the Python libraries (like [CyPari2](https://github.com/sagemath/cypari2)) which would act as an [alternative to Magma](https://wiki.sagemath.org/magma), which was [the original goal](https://gkorpal.github.io/files/focm11.pdf). To overcome this [failure](https://sagemath.blogspot.com/2014/08/what-is-sagemathcloud-lets-clear-some.html), SageMath evolved into cloud based subscription service called [CoCalc](https://cocalc.com/index.html) to generate revenue for funding the massive project. Howevever, the main contributions seem to be coming from the developments related to the [LMFDB project](https://www.lmfdb.org/acknowledgment). 
 
@@ -68,6 +68,8 @@ http://math.gordon.edu/ntic/
 
 https://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/index.html
 https://www.johannes-bauer.com/compsci/ecc/
+
+Write your own script: https://arxiv.org/abs/2004.09046
 
 ## Domain-specific programming language (proprietary)
 
