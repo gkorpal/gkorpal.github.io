@@ -210,8 +210,10 @@ The topics and books are arranged in the order I would recommend learning them.
    * **Galois Representations** by *Gabor Wiese*: These notes complement the discussion in section III.7 of Silverman's text. They are [available online](https://math.uni.lu/~wiese/notes/GalRep.pdf).
 * **Rational Points on Varieties** by *B. Poonen*: It provides a good introduction to the theory of Brauer groups and the Brauer-Manin obstruction, while briefly discussing other useful tools like etale cohomology.
   * **Algebraic geometry and arithmetic curves** by *Q. Liu* (translated from the French by R. Erné): An introduction to the language of schemes (chapter 2 to 7), without assuming the base field to be algebraically closed, or of characteristic zero.
-* **Abelian Varieties** by *D. Mumford*: A scheme-theoretic treatment of most of the basic theory of abelian varieties. However, all ground fields are assumed to be algebraically closed, which limits the usefulness of the book as a reference for arithmetic geometers.
-  * **Algebraic Geometry** by *R. Hartshorne*: The chapter II and III of this book provide an introduction to algebraic geometry via the theory of schemes over algebraically closed field. Good reference for the cohomology of schemes.
+
+<!--- * **Abelian Varieties** by *D. Mumford*: A scheme-theoretic treatment of most of the basic theory of abelian varieties. However, all ground fields are assumed to be algebraically closed, which limits the usefulness of the book as a reference for arithmetic geometers.
+  * **Algebraic Geometry** by *R. Hartshorne*: The chapter II and III of this book provide an introduction to algebraic geometry via the theory of schemes over algebraically closed field. Good reference for the cohomology of schemes. --->
+ 
 * **Arithmetic Geometry: Papers from the conference held at the University of Connecticut (Jul 30 - Aug 10, 1984)** edited by *G. Cornell and J. H. Silverman*: The reference for most of the advanced topics in arithmetic geometry. Most of the articles are intended as expositions of the tools used in the proof of Faltings' theorem. 
 
 ## Complex Geometry ##
