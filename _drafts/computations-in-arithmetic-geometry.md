@@ -40,6 +40,13 @@ I would recommend learning Python since it gives you access to all the Python li
 
 If you want GUI version of Python development environment then can get [IDLE](https://docs.python.org/3/library/idle.html) by installing the package `python3-idle`. Once you finish learning basics using the free ["Hands-on Python Tutorial" by Andrew N. Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/) or the [tutorial available in the official documentation](https://docs.python.org/3/tutorial/), you will be ready to start using Python for solving math problems.
 
+We will use Vim as the text editor for Python. To be able to compile the python code without having to leave the text editor, add the following to `.vimrc` file ([source](https://stackoverflow.com/questions/18948491/running-python-code-in-vim)):
+
+`````
+autocmd FileType python map <buffer> <F9> :w<CR>:exec '!python3' shellescape(@%, 1)<CR> "once you press <F9> in normal mode, it first saves your file and then run the file with python.
+autocmd FileType python imap <buffer> <F9> <esc>:w<CR>:exec '!python3' shellescape(@%, 1)<CR> "once you press <F9> in insert mode, it first leaves insert mode, then saves the file and then run the file with python.
+`````
+
 ### SymPy
 
 zeta function
