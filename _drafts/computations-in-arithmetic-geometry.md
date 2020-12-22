@@ -40,7 +40,7 @@ I would recommend learning Python since it gives you access to all the Python li
 
 If you want GUI version of Python development environment then can get [IDLE](https://docs.python.org/3/library/idle.html) by installing the package `python3-idle`. Once you finish learning basics using the free ["Hands-on Python Tutorial" by Andrew N. Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/) or the [tutorial available in the official documentation](https://docs.python.org/3/tutorial/), you will be ready to start using Python for solving math problems.
 
-We will use Vim as the text editor for Python. To be able to run Python scripts without having to leave the text editor, add the following to `.vimrc` file ([source](https://stackoverflow.com/questions/18948491/running-python-code-in-vim)):
+We will use Vim as the text editor for Python. To be able to run Python scripts (`.py` files) without having to leave the text editor, add the following to `.vimrc` file ([source](https://stackoverflow.com/questions/18948491/running-python-code-in-vim)):
 
 `````
 autocmd FileType python map <buffer> <F9> :w<CR>:exec '!python3' shellescape(@%, 1)<CR> "once you press <F9> in normal mode, it first saves your file and then run the file with python.
@@ -82,7 +82,7 @@ Write your own script: https://arxiv.org/abs/2004.09046
 
 Since open source alternative is not sufficient, it would be a good idea to also learn Magma.
 
-We will use Vim as the text editor for Magma. To be able to run Magma scripts without having to leave the text editor, add the following to `.vimrc` file ([source](https://stackoverflow.com/questions/3166413/execute-a-script-directly-within-vim-mvim-gvim)):
+We will use Vim as the text editor for Magma. To be able to run Magma scripts (`.m` files) without having to leave the text editor, add the following to `.vimrc` file ([source](https://stackoverflow.com/questions/3166413/execute-a-script-directly-within-vim-mvim-gvim)):
 
 `````
 map <F2> :w<CR>:!magma %<CR> "once you press <F2> in normal mode, it first saves your file and then run the file with magma.
