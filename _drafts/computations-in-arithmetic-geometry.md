@@ -45,7 +45,7 @@ We will use Vim as the text editor for Python. Therefore, it would be helpful to
 | Key mapping | Python-mode command  (normal mode)| Output |
 |----------|----------|----------|
 | `\\r` | :PymodeRun | Run current code script buffer or selection |
-| <kbd>Ctrl</kbd>+<kbd>w</kbd> + <kbd>z</kbd> | :pclose | Close the code preview window ([not in doc](https://stackoverflow.com/a/52464433/))|
+| (<kbd>Ctrl</kbd>+<kbd>w</kbd>) + <kbd>z</kbd> | :pclose | Close the code preview window ([not in doc](https://stackoverflow.com/a/52464433/))|
 | <kbd>Shift</kbd> + <kbd>k</kbd> | :PymodeDoc | Sow documentation for current word|
 
 
