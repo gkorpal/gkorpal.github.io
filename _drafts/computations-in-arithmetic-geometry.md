@@ -42,7 +42,7 @@ If you want GUI version of Python development environment then can get [IDLE](ht
 
 We will use Vim as the text editor for Python. Therefore, it would be helpful to install the `python-mode` plugin ([instructions](https://github.com/python-mode/python-mode)). Following are the useful key mappings for the various `python-mode` commands ([documentation)[https://github.com/python-mode/python-mode/blob/develop/doc/pymode.txt]):
 
-| Key mapping | Vimtex command  (normal mode)| Output |
+| Key mapping | Python-mode command  (normal mode)| Output |
 |----------|----------|----------|
 | `\\r` | :PymodeRun | Run current code script buffer or selection |
 | <kbd>Ctrl</kbd>+<kbd>w</kbd> + <kbd>z</kbd> | :pclose | Close the code preview window ([not in doc](https://stackoverflow.com/a/52464433/))|
