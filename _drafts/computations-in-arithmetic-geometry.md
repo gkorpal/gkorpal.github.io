@@ -26,7 +26,7 @@ I must point out that RStudio is the only open source alternative which has been
 
 Open source softwares have been a life saver for students in countries like India, where our universities couldn't afford these proprietary softwares. I learned numerical analysis on GNU Octave and number theory on SageMath.
 
-## General-purpose programming language (open-source)
+## Python: General-purpose programming language (open-source)
 
 I would recommend learning Python since it gives you access to all the Python libraries mentioned above. Moreover, SageMath closely follows Python syntax. We will need the following packages to begin with:
 
@@ -40,12 +40,7 @@ I would recommend learning Python since it gives you access to all the Python li
 
 If you want GUI version of Python development environment then can get [IDLE](https://docs.python.org/3/library/idle.html) by installing the package `python3-idle`. Once you finish learning basics using the free ["Hands-on Python Tutorial" by Andrew N. Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/) or the [tutorial available in the official documentation](https://docs.python.org/3/tutorial/), you will be ready to start using Python for solving math problems.
 
-We will use Vim as the text editor for Python. To be able to run Python scripts (`.py` files) without having to leave the text editor, add the following to `.vimrc` file ([source](https://stackoverflow.com/questions/18948491/running-python-code-in-vim)):
-
-`````
-autocmd FileType python map <buffer> <F9> :w<CR>:exec '!python3' shellescape(@%, 1)<CR> "once you press <F9> in normal mode, it first saves your file and then run the file with python.
-autocmd FileType python imap <buffer> <F9> <esc>:w<CR>:exec '!python3' shellescape(@%, 1)<CR> "once you press <F9> in insert mode, it first leaves insert mode, then saves the file and then run the file with python.
-`````
+We will use Vim as the text editor for Python. Therefore, it would be helpful to install the `python-mode` plugin ([instructions](https://github.com/python-mode/python-mode)). Following are the useful key mappings for the various `python-mode` commands:
 
 ### SymPy
 
@@ -78,7 +73,7 @@ https://www.johannes-bauer.com/compsci/ecc/
 
 Write your own script: https://arxiv.org/abs/2004.09046
 
-## Domain-specific programming language (proprietary)
+## Magma: Domain-specific programming language (proprietary)
 
 Since open source alternative is not sufficient, it would be a good idea to also learn Magma.
 
@@ -89,6 +84,9 @@ map <F2> :w<CR>:!magma %<CR> "once you press <F2> in normal mode, it first saves
 imap <F2> <Esc>:w<CR>:!magma %<CR> "once you press <F2> in insert mode, it first leaves insert mode, then saves the file and then run the file with magma.
 `````
 
+https://github.com/petRUShka/vim-magma
+
+http://magma.maths.usyd.edu.au/magma/handbook/text/53
 
 
 https://stackoverflow.com/questions/14030306/lib-ld-linux-so-2-bad-elf-interpreter-no-such-file-or-directory
