@@ -40,7 +40,13 @@ I would recommend learning Python since it gives you access to all the Python li
 
 If you want GUI version of Python development environment then can get [IDLE](https://docs.python.org/3/library/idle.html) by installing the package `python3-idle`. Once you finish learning basics using the free ["Hands-on Python Tutorial" by Andrew N. Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/) or the [tutorial available in the official documentation](https://docs.python.org/3/tutorial/), you will be ready to start using Python for solving math problems.
 
-We will use Vim as the text editor for Python. Therefore, it would be helpful to install the `python-mode` plugin ([instructions](https://github.com/python-mode/python-mode)). Following are the useful key mappings for the various `python-mode` commands:
+We will use Vim as the text editor for Python. Therefore, it would be helpful to install the `python-mode` plugin ([instructions](https://github.com/python-mode/python-mode)). Following are the useful key mappings for the various `python-mode` commands ([documentation)[https://github.com/python-mode/python-mode/blob/develop/doc/pymode.txt]):
+
+| Key mapping | Vimtex command  (normal mode)| Output |
+|----------|----------|----------|
+| `\\r` | :PymodeRun | Run current code script buffer or selection |
+| <kbd>Ctrl</kbd>+<kbd>w</kbd> + <kbd>z</kbd> | :pclose | Close the code preview window ([not in doc](https://stackoverflow.com/a/52464433/))|
+
 
 ### SymPy
 
