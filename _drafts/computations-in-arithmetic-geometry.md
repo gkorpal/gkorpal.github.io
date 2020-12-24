@@ -46,9 +46,10 @@ We will use Vim as the text editor for Python. Therefore, it would be helpful to
 |----------|----------|----------|
 | `\\r` | :PymodeRun | Run current code script buffer or selection |
 | (<kbd>Ctrl</kbd>+<kbd>w</kbd>) + <kbd>z</kbd> | :pclose | Close the code preview window ([not in doc](https://stackoverflow.com/a/52464433/))|
-| <kbd>Shift</kbd> + <kbd>k</kbd> | :PymodeDoc | Sow documentation for current word|
+| <kbd>Shift</kbd> + <kbd>k</kbd> | :PymodeDoc | Show documentation for current word|
+| <kbd>Ctrl</kbd> + <kbd>p</kbd> | N/A | Auto-complete a word that has already been typed once in the document|
 
-Note that the text-wrap is disabled by default, with the maximum line length of 79 characters.
+Note that the text-wrap is disabled by default, with the maximum line length of 79 characters. Moreover, it uses `pylint` to check code at every save. I couldn't figureout how to use code completion via "Rope".
 
 ### SymPy
 
