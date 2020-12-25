@@ -88,7 +88,7 @@ Write your own script: https://arxiv.org/abs/2004.09046
 
 There exist individual C/C++ libraries, like [FLINT](http://www.flintlib.org/) and [m4ri](https://bitbucket.org/malb/m4ri/wiki/Performance), which are much more efficient than Magma. However, there aren't enough libraries available to help SageMath replace Magma completely. In fact, as per SageMath's [October 2008 Bordeaux meeting](https://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/introduction.html#the-sage-pari-magma-ecosystem):
 
-> Any mathematician who is serious about doing extensive computational work in algebraic number theory and arithmetic geometry is strongly urged to become familiar with all three systems, since they all have their pros and cons. Pari is sleek and small, Magma has much unique functionality for computations in arithmetic geometry, and Sage has a wide range of functionality in most areas of mathematics, a large developer community, and much unique new code.
+> Any mathematician who is serious about doing extensive computational work in algebraic number theory and arithmetic geometry is strongly urged to become familiar with all three systems [Sage, Pari and Magma], since they all have their pros and cons. Pari is sleek and small, Magma has much unique functionality for computations in arithmetic geometry, and Sage has a wide range of functionality in most areas of mathematics, a large developer community, and much unique new code.
 
 We will use Vim as the text editor for Magma. To be able to run Magma scripts (`.m` files) without having to leave the text editor, add the following to `.vimrc` file ([source](https://stackoverflow.com/questions/3166413/execute-a-script-directly-within-vim-mvim-gvim)):
 
