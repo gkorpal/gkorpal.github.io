@@ -92,7 +92,7 @@ There exist individual C/C++ libraries, like [FLINT](http://www.flintlib.org/) a
 
 > Any mathematician who is serious about doing extensive computational work in algebraic number theory and arithmetic geometry is strongly urged to become familiar with all three systems [Sage, Pari and Magma], since they all have their pros and cons. Pari is sleek and small, Magma has much unique functionality for computations in arithmetic geometry, and Sage has a wide range of functionality in most areas of mathematics, a large developer community, and much unique new code.
 
-We will use Vim as the text editor for writing Magma scripts. Note that we don't need to add any specific filename extensions to the text files in order to be able to compile them using Magma. However, one can use filename extension `.m` to get Objective-C syntax highlighting (`objc.vim`). Moreover, we can run the code without having to leave the text editor by adding the following to `.vimrc` file ([source](https://stackoverflow.com/questions/3166413/execute-a-script-directly-within-vim-mvim-gvim)):
+We will use Vim as the text editor for writing Magma scripts. Note that we don't need to add any specific filename extensions to the text files in order to be able to compile them using Magma. However, one can use filename extension `.m` to get Objective-C syntax highlighting (`objc.vim`) and to be consistent with the extension used for magma packages located in `/usr/local/magma/package`. Moreover, we can run the code without having to leave the text editor by adding the following to `.vimrc` file ([source](https://stackoverflow.com/questions/3166413/execute-a-script-directly-within-vim-mvim-gvim)):
 
 `````
 map <F2> :w<CR>:!magma %<CR> "once you press <F2> in normal mode, it first saves your file and then run the file with magma.
@@ -110,3 +110,7 @@ https://stackoverflow.com/questions/3949161/no-such-file-or-directory-but-it-exi
 
 points on elliptic curve
 https://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/index.html#explicit-methods-in-number-theory
+
+
+http://brauer.math.harvard.edu/computing/magma/index.html
+
