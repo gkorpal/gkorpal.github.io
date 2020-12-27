@@ -13,7 +13,7 @@ In this post I discuss the options available for doing computational experimenta
 
 In the world of mathematical computations, proprietary softwares tend to more adavnced than the open source alternatives. This is mainly because of the lack of industrial support, i.e. nobody can make money by having a better abstract math computation system. Following is the list of current market leaders and their open-source competitors/clones:
 
-| Proprietary software | Speciality | Open source alternative | Equivalent/complementary Python libraries |
+| Proprietary software | Speciality | Open source alternative | Equivalent/complementary [Python libraries](https://wiki.python.org/moin/Libraries) |
 |----------|----------| ---------- | --------- |
 |SAS/SPSS | Statistical computations | RStudio | statsmodels (NumPy + SciPy + pandas + Patsy + Matplotlib +...)|
 |MATLAB | Numerical computations (applied maths) | GNU Octave/Scilab | SciPy (NumPy + Matplotlib + ...) |
