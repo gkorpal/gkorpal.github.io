@@ -82,7 +82,7 @@ p.save('ec.pdf')
 
 - Plotting elliptic curve modulo prime
 
-    - SagemAth code and output
+    - SageMath code and output
     
     ```` sage
     E=EllipticCurve(GF(1021),[0,-1,-1,0,0])
@@ -93,7 +93,29 @@ p.save('ec.pdf')
     
     ![ec2](https://gkorpal.github.io/images/sage2.png)
     
-- zeta function
+- Plotting Riemann zeta function for real inputs (trivial zeros)
+
+    - SageMath code and output
+    
+    ```` sage
+    p=plot(zeta(x), (x,-13,-1), legend_label='$\\zeta(x)$')
+    show(p)
+    ````
+    
+    ![ec3](https://gkorpal.github.io/images/sage3.png)
+    
+- Plotting  the  real  and  imaginary  parts  of  the  Riemann  zeta  function $\zeta(1/2 + it)$  for $0 < t < 30$
+
+    - SageMath code and output
+    
+    ````sage
+    i = CDF.gen()
+    v = [zeta(0.5 + n/10 * i) for n in range(300)]
+    L = [(z.real(), z.imag()) for z in v]
+    line(L)
+    ````
+    
+    ![ec4](https://gkorpal.github.io/images/sage4.png)
 
 https://blog.christianperone.com/2010/02/riemann-zeta-function-visualizations-with-python/
 
