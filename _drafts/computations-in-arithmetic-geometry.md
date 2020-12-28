@@ -80,7 +80,20 @@ p.save('ec.pdf')
 ![ec](https://gkorpal.github.io/images/sage1.png)
 
 
-zeta function
+- Plotting elliptic curve modulo prime
+
+    - SagemAth code and output
+    
+    ```` sage
+    E=EllipticCurve(GF(1021),[0,-1,-1,0,0])
+    A=E.plot()
+    show(A)
+    A.save('v1.pdf')
+    ````
+    
+    ![ec2](https://gkorpal.github.io/images/sage2.png)
+    
+- zeta function
 
 https://blog.christianperone.com/2010/02/riemann-zeta-function-visualizations-with-python/
 
