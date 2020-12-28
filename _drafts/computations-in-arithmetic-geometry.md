@@ -59,9 +59,9 @@ Note that the text-wrap is disabled by default, with the maximum line length of 
 
 We will take some examples from SageMath and solve them using Python libraries:
 
--  Plotting ellipric curves over affine plane
+-  Plotting elliptic curves over affine plane
 
-  - SageMath code and output
+    - SageMath code and output
   
 ```` sage
 p=plot(EllipticCurve([0,0,0,3,0]), gridlines='true', color=hue(0.7),xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3+3x$')
