@@ -55,7 +55,30 @@ We will use Vim as the text editor for writing [Python scripts](https://docs.pyt
 
 Note that the text-wrap is disabled by default, with the maximum line length of 79 characters. Moreover, it uses `pylint` to check code at every save. I couldn't figureout how to use code completion via `rope`.
 
-### SymPy
+### Examples
+
+We will take some examples from SageMath and solve them using Python libraries:
+
+1.  Plotting ellipric curves over affine plane
+
+  a. SageMath code and output
+  
+```` sage
+p=plot(EllipticCurve([0,0,0,3,0]), gridlines='true', color=hue(0.7),xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3+3x$')
+p+=plot(EllipticCurve([0,0,0,2,0]), gridlines='true', color='cornflowerblue',xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3+2x$')
+p+=plot(EllipticCurve([0,0,0,1,0]), gridlines='true', color='red',xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3+x$')
+p+=plot(EllipticCurve([0,0,0,-1,0]), gridlines='true', color='orange',xmin=-4, xmax=4, ymin=-3, ymax=3)
+p+=plot(EllipticCurve([0,0,0,-2,0]), gridlines='true', color=hue(0.2),xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3-2x$')
+p+=plot(EllipticCurve([0,0,0,-3,0]), gridlines='true', color=hue(0.3),xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3-3x$')
+
+p.set_legend_options(shadow=False, loc=2)
+show(p)
+p.axes_labels(['$x$','$y$'])
+p.save('ec.pdf')
+````
+
+![ec](https://gkorpal.github.io/images/sage1.png)
+
 
 zeta function
 
