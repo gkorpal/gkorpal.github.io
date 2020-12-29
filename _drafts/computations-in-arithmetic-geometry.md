@@ -175,6 +175,7 @@ https://cypari2.readthedocs.io/en/latest/pari_instance.html
 
 <!--- http://math.gordon.edu/ntic/ http://linear.pugetsound.edu/ http://abstract.pugetsound.edu/ http://linear.ups.edu/eagts/eagts.html https://pretextbook.org/catalog.html --->
 
+https://docs.sympy.org/latest/modules/functions/special.html#module-sympy.functions.special.zeta_functions
 
 http://www.math.umbc.edu/~campbell/Computers/Python/numbthy.html
 
@@ -187,6 +188,7 @@ http://illustratedtheoryofnumbers.com/prog.html
 http://math.gordon.edu/ntic/
 
 https://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/index.html
+
 https://www.johannes-bauer.com/compsci/ecc/
 
 Write your own script: https://arxiv.org/abs/2004.09046
