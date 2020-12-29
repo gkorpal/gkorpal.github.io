@@ -93,6 +93,19 @@ p.save('ec.pdf')
     
     ![ec2](https://gkorpal.github.io/images/sage2.png)
     
+ - Comparing the prime counting functions
+ 
+    - SageMath code and output
+    
+    ```` sage
+    P = plot(Li(x), (x,2,10000), linestyle="--", thickness=2, rgbcolor=(0,0,0), legend_label='$\\mathrm{Li}(x)$')
+    Q = plot(prime_pi(x), (x,2,10000),thickness=2, rgbcolor=(0,0,0), legend_label='$\\pi(x)$')
+    R = plot(x/log(x), (x,2,10000), linestyle=":", thickness=3, rgbcolor=(0,0,0), legend_label='$x/\\log(x)$')
+    (P+Q+R)
+    ````
+    
+    ![prime](https://gkorpal.github.io/images/sage5.png)
+    
 - Plotting Riemann zeta function for real inputs (trivial zeros)
 
     - SageMath code and output
@@ -117,19 +130,6 @@ p.save('ec.pdf')
     
     ![ec4](https://gkorpal.github.io/images/sage4.png)
 
- - Comparing the prime counting functions
- 
-    - SageMath code and output
-    
-    ```` sage
-    P = plot(Li(x), (x,2,10000), linestyle="--", thickness=2, rgbcolor=(0,0,0), legend_label='$\\mathrm{Li}(x)$')
-    Q = plot(prime_pi(x), (x,2,10000),thickness=2, rgbcolor=(0,0,0), legend_label='$\\pi(x)$')
-    R = plot(x/log(x), (x,2,10000), linestyle=":", thickness=3, rgbcolor=(0,0,0), legend_label='$x/\\log(x)$')
-    (P+Q+R)
-    ````
-    
-    ![prime](https://gkorpal.github.io/images/sage5.png)
-    
 - Comparing the argument and absolute values of Riemann zeta function
 
     - SageMath code and output
