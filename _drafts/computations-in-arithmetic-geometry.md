@@ -130,7 +130,7 @@ p.save('ec.pdf')
     
     ![ec4](https://gkorpal.github.io/images/sage4.png)
 
-- Comparing the argument and absolute values of Riemann zeta function
+- Comparing the argument and absolute values of Riemann zeta function $\zeta(1/2 + it)$  for $0 \leq  t \leq 50$
 
     - SageMath code and output
     
