@@ -117,12 +117,59 @@ p.save('ec.pdf')
     
     ![ec4](https://gkorpal.github.io/images/sage4.png)
 
+ - Comparing the prime counting functions
+ 
+    - SageMath code and output
+    
+    ```` sage
+    P = plot(Li(x), (x,2,10000), linestyle="--", thickness=2, rgbcolor=(0,0,0), legend_label='$\\mathrm{Li}(x)$')
+    Q = plot(prime_pi(x), (x,2,10000),thickness=2, rgbcolor=(0,0,0), legend_label='$\\pi(x)$')
+    R = plot(x/log(x), (x,2,10000), linestyle=":", thickness=3, rgbcolor=(0,0,0), legend_label='$x/\\log(x)$')
+    (P+Q+R)
+    ````
+    
+    ![prime](https://gkorpal.github.io/images/sage5.png)
+    
+- Comparing the argument and absolute values of Riemann zeta function
+
+    - SageMath code and output
+    
+    ````sage
+    i = CDF.0
+    p1 = plot(lambda t:  arg(zeta(0.5+t*i)), 1, 50,linestyle="--", rgbcolor=(0,0,0), legend_label='$\\mathrm{arg}(\\zeta(0.5+it))$')
+    p2 = plot(lambda t:  abs(zeta(0.5+t*i)), 1, 50, rgbcolor=(0,0,0), legend_label='$|\\zeta(0.5+it)|$')
+    p1+p2
+    ````
+    ![prime](https://gkorpal.github.io/images/sage6a.png)
+
+- Plotting complex valued functions
+
+    - SageMath code and output
+    
+    ```` sage
+    complex_plot(x^4-1,(-5,5),(-5,5))
+    ````
+   ![prime](https://gkorpal.github.io/images/sage7.png)
+
+    
+- Ideal factorization
+
+    - SageMath code and output
+    
+    ````sage
+    K.<a>=NumberField(x^3-19)
+    I = K.ideal(3)
+    F = I.factor()
+    F
+    ````
+    
+    ````
+    (Fractional ideal (3, 1/3*a^2 + 1/3*a + 1/3))^2 * (Fractional ideal (3, 1/3*a^2 + 1/3*a - 2/3))
+    ````
+    
+    
 https://blog.christianperone.com/2010/02/riemann-zeta-function-visualizations-with-python/
 
-
-### CyPARI2
- 
-idealfactor
 
 https://cypari2.readthedocs.io/en/latest/pari_instance.html
 
