@@ -29,8 +29,11 @@ I must point out that RStudio is the only open source alternative which has been
 Open source softwares have been a life saver for students in countries like India, where our universities couldn't afford the proprietary softwares. I myself learned numerical analysis on [GNU Octave](https://www.gnu.org/software/octave/) and number theory on [SageMath](https://www.sagemath.org/). However, keep in mind the various limitations of these computational experiments, like the [floating point arithmetic limitations](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html):
 
 ````python
->>> 3.3 - 1.1
+# Python3 examples
+>>> 3.3 - 1.1  # Do not depend on the exactness of floating point arithmetic, even for apparently simple expressions!
 2.1999999999999997
+>>> format(.1, '.20f')  # Python stores the numbers correctly to about 16 or 17 digits.
+'0.10000000000000000555'
 ````
 
 ## Python: General-purpose programming language (open-source)
