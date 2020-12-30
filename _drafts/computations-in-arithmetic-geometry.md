@@ -34,6 +34,10 @@ Open source softwares have been a life saver for students in countries like Indi
 2.1999999999999997
 >>> format(.1, '.20f')  # Python stores the numbers correctly to about 16 or 17 digits.
 '0.10000000000000000555'
+>>> format(.1 + .2, '.20f')
+'0.30000000000000004441'
+>>> format(.3, '.20f')  # so here 0.3 is not equal to 0.1 + 0.2
+'0.29999999999999998890'
 ````
 
 ## Python: General-purpose programming language (open-source)
