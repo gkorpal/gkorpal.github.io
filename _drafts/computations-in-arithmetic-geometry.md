@@ -26,21 +26,22 @@ I must point out that RStudio is the only open source alternative which has been
 
 # Mix and match
 
-Open source softwares have been a life saver for students in countries like India, where our universities couldn't afford the proprietary softwares. I myself learned numerical analysis on [GNU Octave](https://www.gnu.org/software/octave/) and number theory on [SageMath](https://www.sagemath.org/). However, keep in mind the various limitations of these computational experiments, like the [floating point arithmetic limitations](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html):
-
-````python
-# Python3 examples
->>> 3.3 - 1.1  # Do not depend on the exactness of floating point arithmetic, even for apparently simple expressions!
-2.1999999999999997
->>> 0.1+0.2  # so here 0.3 is not equal to 0.1 + 0.2
-0.30000000000000004
->>> format(.1, '.20f')  # Python stores the numbers correctly to about 16 or 17 digits.
-'0.10000000000000000555'
-````
+Open source softwares have been a life saver for students in countries like India, where our universities couldn't afford the proprietary softwares. I myself learned numerical analysis on [GNU Octave](https://www.gnu.org/software/octave/) and number theory on [SageMath](https://www.sagemath.org/).
 
 ## Python: General-purpose programming language (open-source)
 
-When I was an undergraduate student, C++ was the langauge promoted for scientific computations. In fact, there are many C/C++ libraries for scientific computations, like [NTL](https://libntl.org), [FLINT](http://www.flintlib.org/), [eclib](http://homepages.warwick.ac.uk/staff/J.E.Cremona/mwrank/), [gf2x](https://gitlab.inria.fr/gf2x/gf2x), [Givaro](https://casys.gricad-pages.univ-grenoble-alpes.fr/givaro/), [GMP](https://gmplib.org/), [GNU MPFR](https://www.mpfr.org/), [GNU MPC](http://www.multiprecision.org/mpc/), [ARB](https://arblib.org/), [CMH](https://gitlab.inria.fr/cmh/cmh#cmh-computation-of-genus-2-class-polynomials), [LinBox](https://linalg.org/), [PARI](http://pari.math.u-bordeaux.fr/), [Symmetrica](http://www.algorithm.uni-bayreuth.de/en/research/SYMMETRICA/), [zn_poly](https://web.maths.unsw.edu.au/~davidharvey/code/zn_poly/), and [m4ri](https://bitbucket.org/malb/m4ri/). However, with the advent of Cython (not to be confused with CPython, which is the original [Python implementation](https://wiki.python.org/moin/PythonImplementations)), Python has become the new langauge for scientific computations. Moreover, Python provides better code readability than C++ (like using whitespaces instead of curly braces). In fact, all these C/C++ libraries can now be [accessed via SageMath](https://www.sagemath.org/links-components.html) using Python-based syntax. 
+The following has been my journey of learning programming languages so far:
+
+| Education level | Programming language |
+| --------------- | -------------------- |
+|Primary School (Classes I to IV) | Logo (MSWLogo on Windows 98)
+|Middle School (Classes V to VIII) | BASIC (Microsoft Small Basic on Windows XP)
+|High school (Classes IX to XII) | Java (NetBeans on Windows 7))
+|Undergraduate school | C++ (Code::Blocks on Ubuntu 14.04)|
+|Graduate school | Python (Vim on Fedora 33) |
+
+
+During my undergraduate studies, I had the perception that C++ is "the langauge" for scientific computations. In fact, there are many C/C++ libraries for scientific computations, like [NTL](https://libntl.org), [FLINT](http://www.flintlib.org/), [eclib](http://homepages.warwick.ac.uk/staff/J.E.Cremona/mwrank/), [gf2x](https://gitlab.inria.fr/gf2x/gf2x), [Givaro](https://casys.gricad-pages.univ-grenoble-alpes.fr/givaro/), [GMP](https://gmplib.org/), [GNU MPFR](https://www.mpfr.org/), [GNU MPC](http://www.multiprecision.org/mpc/), [ARB](https://arblib.org/), [CMH](https://gitlab.inria.fr/cmh/cmh#cmh-computation-of-genus-2-class-polynomials), [LinBox](https://linalg.org/), [PARI](http://pari.math.u-bordeaux.fr/), [Symmetrica](http://www.algorithm.uni-bayreuth.de/en/research/SYMMETRICA/), [zn_poly](https://web.maths.unsw.edu.au/~davidharvey/code/zn_poly/), and [m4ri](https://bitbucket.org/malb/m4ri/). However, with the advent of Cython (not to be confused with CPython, which is the original [Python implementation](https://wiki.python.org/moin/PythonImplementations)), Python has become "the new langauge" for scientific computations. Moreover, Python provides better code readability than C++ (like using whitespaces instead of curly braces). In fact, all these C/C++ libraries can now be [accessed via SageMath](https://www.sagemath.org/links-components.html) using Python-based syntax. 
 
 We will need the following packages to begin with:
 
@@ -52,7 +53,17 @@ We will need the following packages to begin with:
 
 \*Note that Fedora will automatically install the required dependecies like `mpmath`, `Cython`, `matplotlib` etc.
 
-If you want GUI version of Python development environment then can get [IDLE](https://docs.python.org/3/library/idle.html) by installing the package `python3-idle`. Once you finish learning basics using the free ["Hands-on Python Tutorial" by Andrew N. Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/) or the [tutorial available in the official documentation](https://docs.python.org/3/tutorial/), you will be ready to start using Python for solving math problems.
+If you want GUI version of Python development environment then can get [IDLE](https://docs.python.org/3/library/idle.html) by installing the package `python3-idle`. Once you finish learning basics using the free ["Hands-on Python Tutorial" by Andrew N. Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/) or the [tutorial available in the official documentation](https://docs.python.org/3/tutorial/), you will be ready to start using Python for solving math problems.  Also, keep in mind the various limitations of these computational experiments, like the [floating point arithmetic limitations](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html):
+
+````python
+# Python3 examples
+>>> 3.3 - 1.1  # Do not depend on the exactness of floating point arithmetic, even for apparently simple expressions!
+2.1999999999999997
+>>> 0.1+0.2  # so here 0.3 is not equal to 0.1 + 0.2
+0.30000000000000004
+>>> format(.1, '.20f')  # Python stores the numbers correctly to about 16 or 17 digits.
+'0.10000000000000000555'
+````
 
 We will use Vim as the text editor for writing [Python scripts](https://docs.python.org/3/tutorial/modules.html). Note that [we don't need](https://unix.stackexchange.com/a/27795/420307) to add a file extension, however for proper syntax highlighting we will use the file extension `.py`. Therefore, it would be helpful to install the `python-mode` plugin ([instructions](https://github.com/python-mode/python-mode)). Following are some the key mappings for some of the `python-mode` commands ([documentation](https://github.com/python-mode/python-mode/blob/develop/doc/pymode.txt)):
 
@@ -209,7 +220,7 @@ There exist individual C/C++ libraries, like [FLINT](http://www.flintlib.org/) a
 
 > Any mathematician who is serious about doing extensive computational work in algebraic number theory and arithmetic geometry is strongly urged to become familiar with all three systems [Sage, Pari and Magma], since they all have their pros and cons. Pari is sleek and small, Magma has much unique functionality for computations in arithmetic geometry, and Sage has a wide range of functionality in most areas of mathematics, a large developer community, and much unique new code.
 
-Note that Magma follows the outdated procedural programming paradigm, unlike Python and SageMath which follow the modern object-oriented programming paradigm. The only reason we need to learn Magma is offers more functionality than SageMath for structural computations.
+Note that Magma is based on the old-school procedural programming paradigm, unlike Python (and SageMath) which is based on the modern object-oriented programming paradigm ([details](https://cs.lmu.edu/~ray/notes/paradigms/)).
 
 In the USA, because of the [Simons Foundation Agreement](http://magma.maths.usyd.edu.au/magma/simons_details), you can get access to Magma for free by contacting your department's IT support staff. You should be able to access its full-version on your department's computer clusters and student-version on your personal computer ([installation steps](http://magma.maths.usyd.edu.au/magma/faq/install)). Note that the student-version is available only for the outdated [32-bit architecture](http://magma.maths.usyd.edu.au/magma/download/all/), therefore you might also need to [install additonal packages](https://unix.stackexchange.com/q/75054/) like `glibc.i686` in Fedora ([details](https://stackoverflow.com/a/25269017/)) or `ia32-libs-multiarch` in Ubuntu ([details](https://stackoverflow.com/a/3949268/)). 
 
