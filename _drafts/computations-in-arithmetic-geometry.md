@@ -32,13 +32,13 @@ Open source softwares have been a life saver for students in countries like Indi
 
 The following has been my journey of learning programming languages so far:
 
-| Education level | Programming language |
-| --------------- | -------------------- |
-|Primary School (Classes I to IV) | Logo (MSWLogo on Windows 98)
-|Middle School (Classes V to VIII) | BASIC (Microsoft Small Basic on Windows XP)
-|High school (Classes IX to XII) | Java (NetBeans on Windows 7))
-|Undergraduate school | C++ (Code::Blocks on Ubuntu 14.04)|
-|Graduate school | Python (Vim on Fedora 33) |
+| Education level | Programming language | IDE/Editor (Operating System) |
+| --------------- | -------------------- | ---------------------------- |
+|Primary School (Classes I to IV) | Logo | MSWLogo (Windows 98)|
+|Middle School (Classes V to VIII) | BASIC | Microsoft Small Basic (Windows XP)|
+|High school (Classes IX to XII) | Java | NetBeans (Windows 7)|
+|Undergraduate school | C++ |Code::Blocks (Ubuntu 14.04)|
+|Graduate school | Python | Vim (Fedora 33) |
 
 
 During my undergraduate studies, I had the perception that C++ is "the langauge" for scientific computations. In fact, there are many C/C++ libraries for scientific computations, like [NTL](https://libntl.org), [FLINT](http://www.flintlib.org/), [eclib](http://homepages.warwick.ac.uk/staff/J.E.Cremona/mwrank/), [gf2x](https://gitlab.inria.fr/gf2x/gf2x), [Givaro](https://casys.gricad-pages.univ-grenoble-alpes.fr/givaro/), [GMP](https://gmplib.org/), [GNU MPFR](https://www.mpfr.org/), [GNU MPC](http://www.multiprecision.org/mpc/), [ARB](https://arblib.org/), [CMH](https://gitlab.inria.fr/cmh/cmh#cmh-computation-of-genus-2-class-polynomials), [LinBox](https://linalg.org/), [PARI](http://pari.math.u-bordeaux.fr/), [Symmetrica](http://www.algorithm.uni-bayreuth.de/en/research/SYMMETRICA/), [zn_poly](https://web.maths.unsw.edu.au/~davidharvey/code/zn_poly/), and [m4ri](https://bitbucket.org/malb/m4ri/). However, with the advent of Cython (not to be confused with CPython, which is the original [Python implementation](https://wiki.python.org/moin/PythonImplementations)), Python has become "the new langauge" for scientific computations. Moreover, Python provides better code readability than C++ (like using whitespaces instead of curly braces). In fact, all these C/C++ libraries can now be [accessed via SageMath](https://www.sagemath.org/links-components.html) using Python-based syntax. 
