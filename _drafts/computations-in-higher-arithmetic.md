@@ -53,7 +53,7 @@ We will need the following packages to begin with:
 
 \*Note that Fedora will automatically install the required dependecies like `mpmath`, `Cython`, `matplotlib` etc.
 
-If you want GUI version of Python development environment then can get [IDLE](https://docs.python.org/3/library/idle.html) by installing the package `python3-idle`. Once you finish learning basics using the free ["Hands-on Python Tutorial" by Andrew N. Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/) or the [tutorial available in the official documentation](https://docs.python.org/3/tutorial/), you will be ready to start using Python for solving math problems.  Also, keep in mind the various limitations of these computational experiments, like the [floating point arithmetic limitations](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html):
+If you want GUI version of Python development environment then can get [IDLE](https://docs.python.org/3/library/idle.html) by installing the package `python3-idle`. Once you finish learning basics using the free ["Hands-on Python Tutorial" by Andrew N. Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/) or the [tutorial available in the official documentation](https://docs.python.org/3/tutorial/), you will be ready to start using Python for solving math problems. Keep in mind the various limitations of these computational experiments, like the [floating point arithmetic limitations](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html):
 
 ````python
 # Python3 examples
