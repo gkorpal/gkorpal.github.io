@@ -18,7 +18,7 @@ In this post I have collected the options available for embedding vector graphic
 
 We can always use simple mathematical programs like GeoGebra for 2D and 3D graphs and drawing programs like Google Drawing for diagrams. These graphs and diagrams can be exported as png or jpg (raster graphics) and then inserted in pdf using `graphicx` package. 
 
-````
+````latex
 \usepackage{graphicx} %add images
 \graphicspath{ {./figures/} } %images are kept in a folder under the directory of the main document.
 \usepackage{subcaption} %to add multiple subfigures.
@@ -36,7 +36,7 @@ However, for better integration into the pdf document we should be using vector 
 
 For including 2D and 3D plots, we can use the `pgfplots` package. Read the [documentation](http://pgfplots.sourceforge.net/). First include the following in the preamble:
 
-````
+````latex
 \usepackage{pgfplots} %draws function plots using pgf/tikz
 \pgfplotsset{compat=1.16} %running latest version of pgfplots
 \usepgfplotslibrary{external} %avoid recompiling unchanged graphs
@@ -44,7 +44,8 @@ For including 2D and 3D plots, we can use the `pgfplots` package. Read the [docu
 ````
 
 For example, we can plot 3D surfaces by following methods:
-`````
+
+`````latex
 \begin{tikzpicture} %https://tex.stackexchange.com/a/359914/
 \begin{axis}[title=$f^{-1}(-1)$: Hyperboloid of 1 sheet,axis equal]
 \addplot3[surf,domain=0:360,y domain=-2:2] ({cosh(y)*cos(x)},{cosh(y)*sin(x)},{sinh(y)});
@@ -54,7 +55,7 @@ For example, we can plot 3D surfaces by following methods:
 
 ![alt text](https://gkorpal.github.io/images/hy1.png)
 
-`````
+`````latex
   \begin{tikzpicture}%https://tex.stackexchange.com/a/28775/
   \begin{axis}[title=$f^{-1}(0)$: Double cone, domain=0:5, y domain=0:2*pi,xmin=-10, xmax=10, ymin=-10, ymax=10, samples=20]
   \addplot3 [surf,z buffer=sort] ({x*cos(deg(y))}, {x*sin(deg(y))}, {x});
@@ -72,7 +73,7 @@ The downside of this method is that it will increase the compliation time if `pr
 Another way of including 2D and 3D plots is to use the Python library `Matplotlib`. Read this [guide](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.00-Introduction/). I will illustrate the steps involved by the following plotting the 2D vector field $X=-y\frac{\partial}{\partial x} + x\frac{\partial}{\partial y} and its flow lines:
 1. Save and run the following Python scripts in the "figures" subfolder inside the folder containg the main LaTeX file ([source1](https://krajit.github.io/sympy/vectorFields/vectorFields.html), [source2](https://www.sbillaudelle.de/2015/02/23/seamlessly-embedding-matplotlib-output-into-latex.html)):
 
-````
+````python
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -87,7 +88,7 @@ plt.savefig('field.pdf')
 plt.savefig('field.pgf')
 ````
 
-````
+````python
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -104,14 +105,14 @@ plt.savefig('flow.pgf')
 
 2. Add the following lines in the preamble of the main LaTeX file:
 
-`````
+`````latex
 \usepackage{pgf}
 \usepackage{import} %import images from different folder 
 `````
 
 3. Finally, to include `pgf` version of these plots in the document, use:
 
-````
+````latex
 \resizebox{0.75\textwidth}{!}{\import{./figures/}{field.pgf}}
 
 \resizebox{0.75\textwidth}{!}{\import{./figures/}{flow.pgf}}
@@ -138,7 +139,7 @@ Alternatively, you can insert the `pdf` file by following [this guide](https://e
 
 Apart from all these tools, one can directly use TikZ package to manually draw things like flowcharts. Read the [documentation](https://pgf-tikz.github.io/pgf/pgfmanual.pdf) for details. For example, we can add the following to the preamble:
 
-`````
+`````latex
 \usepackage{tikz}
 \usetikzlibrary{shapes,arrows, chains, matrix, calc, trees, positioning, fit}
 \usetikzlibrary{external}
@@ -147,7 +148,7 @@ Apart from all these tools, one can directly use TikZ package to manually draw t
 
 Then we can draw function mapping:
 
-`````
+`````latex
 \begin{tikzpicture}[line width=1pt,>=latex]
 			\node (a1) {$\mathbb{Q}_p(\sqrt{u}) \ \bullet$};
 			\node[below=of a1] (a2) {$\mathbb{Q}_p(\sqrt{-p})\ \bullet$} ;
@@ -173,7 +174,7 @@ Then we can draw function mapping:
 
 and flowcharts
 
-`````
+`````latex
 \begin{tikzpicture}[>=latex']
 \node[left] at (0,0) (input) {$p$};
 \node[block] at (4,0) (block) [text=white]{\textbf{Reciprocity Law}};
@@ -189,7 +190,7 @@ and flowcharts
 
 The easiest way to include simple diagrams is to use GeoGebra, since it gives us the option of exporting the Graphics View as PGF/TikZ code. Installing [GeoGebra Classic 6](https://wiki.geogebra.org/en/Reference:GeoGebra_Installation) is a dependency hell ([ex1](https://ask.fedoraproject.org/t/dnf-reports-geogebra-gpg-key-not-found/3376) and [ex2](https://help.geogebra.org/topic/geogebra-classic-and-fedora-32)). Therefore, we will just use the online version: https://www.geogebra.org/classic For example, add the following to the preamble:
 
-`````
+`````latex
 \usepackage{pgf,tikz}
 \usetikzlibrary{arrows}%you can see what extra packages are needed by going through the exported tex file
 `````
@@ -200,7 +201,7 @@ Then draw the following diagram in GeoGebra
 
 And add the following corresponding code in the tex file:
 
-`````
+`````latex
 \begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=2.1cm,y=2.1cm]
 \clip(1.5,-0.5) rectangle (10,3);
 \draw (2,0)-- (4.83,0);
@@ -286,7 +287,7 @@ Another example, where this approach makes the job easy is the following:
 
 Just add this code generated by GeoGebra:
 
-`````
+`````latex
 \begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=0.75cm,y=0.75cm]
 \clip(2.5,-5.5) rectangle (13.5,5.5);
 \draw [shift={(8,0)},fill=black,fill opacity=0.1] (0,0) -- (0:1.2) arc (0:289.87:1.2) -- cycle;
@@ -325,7 +326,7 @@ Just add this code generated by GeoGebra:
 
 We can draw commutative diagrams using `tikz-cd` package. Read its [documentation](https://ctan.org/pkg/tikz-cd?lang=en) for details. Firstly you will have to add the following to the preamble:
 
-````
+````latex
 \usepackage{tikz-cd}
 
 %%homebrewcommands
@@ -339,7 +340,7 @@ We can draw commutative diagrams using `tikz-cd` package. Read its [documentatio
 
 Then add the following code:
 
-````
+````latex
 \[\begin{tikzcd}[column sep = 1.5em]
 0\arrow{r} & \mz^{p,\ell}(M) \arrow[hookrightarrow]{r} & \Om^{p,\ell}(M) \arrow{r}{\delbar} & \mz^{p,\ell+1}(M) \arrow{r}{\Delta} & \ceco^1(M,\mz^{p,\ell}) \arrow{r} & 0 \arrow{r} & \ceco^1(M,\mz^{p,\ell+1}) \arrow{d}{\Delta}\\
 & \cdots & 0\arrow{l} & \ceco^3(M,\mz^{p,\ell}) \arrow{l}& \ceco^2(M,\mz^{p,\ell+1})\arrow{l}[swap]{\Delta} & 0 \arrow{l} & \ceco^2(M,\mz^{p,\ell})\arrow{l}
@@ -360,12 +361,14 @@ The easiest way to include diagrams as vector graphics is by using Inkscape as f
 ![alt text](https://gkorpal.github.io/images/options.png)
 
 You can also [use command-line](https://graphicdesign.stackexchange.com/a/56792) to achieve the same result:
-````
+
+````bash
 inkscape mySVGinputFile.svg --export-area-drawing --batch-process --export-type=pdf --export-filename=output.pdf
 ````
 
 3. Add the following code to the preamble of your main tex file ([source1](https://en.wikibooks.org/wiki/LaTeX/Importing_Graphics#Vector_graphics) and [source2](https://gkorpal.github.io/files/InkscapePDFLaTeX.pdf)):
-`````
+
+`````latex
 \usepackage{import} % it will enable us to access images without keeping them in the document's directory
 \usepackage{calc} % enable usage of \svgscale
 \usepackage{graphicx} % for inserting images
@@ -374,7 +377,7 @@ inkscape mySVGinputFile.svg --export-area-drawing --batch-process --export-type=
 `````
 4. Now we can add "image.svg" in one of the following ways ([source1](https://tex.stackexchange.com/questions/151232/) and [source2](https://tex.stackexchange.com/questions/46312/)):
 
-````
+````latex
 \begin{figure}[h]
 \centering
 \resizebox{75mm}{!}{\import{./figures/}{image.pdf_tex}}
