@@ -34,9 +34,9 @@ The following has been my journey of learning programming languages so far:
 
 | Education level | Programming language | IDE/Editor (Operating System) |
 | --------------- | -------------------- | ---------------------------- |
-|Primary School (Classes I to IV) | Logo | MSWLogo (Windows 98)|
-|Middle School (Classes V to VIII) | BASIC | Microsoft Small Basic (Windows XP)|
-|High school (Classes IX to XII) | Java | NetBeans (Windows 7)|
+|Primary school (classes I to IV) | Logo | MSWLogo (Windows 98)|
+|Middle school (classes V to VIII) | BASIC | Microsoft Small Basic (Windows XP)|
+|High school (classes IX to XII) | Java | NetBeans (Windows 7)|
 |Undergraduate school | C++ |Code::Blocks (Ubuntu 14.04)|
 |Graduate school | Python | Vim (Fedora 33) |
 
