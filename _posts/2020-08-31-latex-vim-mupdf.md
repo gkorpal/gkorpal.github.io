@@ -42,7 +42,7 @@ To start Vim with all the favorite option settings and mappings, one writes them
 
 Since `vimrc` is something personal that evolves over times as per one's usage requirements, it's [not recommended to blindly copy](https://github.com/romainl/idiomatic-vimrc) it from the internet. I used [this example](https://vim.fandom.com/wiki/Example_vimrc) as reference for creating the following `~/.vimrc`
 
-`````
+`````vim
 set nocompatible               " get rid of Vi compatibility mode. 
 filetype plugin indent on      " filetype detection[ON] plugin[ON] auto-indent[ON] depending on filetype
 set t_Co=256                   " enable 256-color mode.
@@ -72,13 +72,13 @@ You can [use this guide](http://blog.smalleycreative.com/tutorials/using-git-and
  
 You can install `vimtex` manually or using a plugin manager ([see this guide](https://linuxhint.com/vim_install_plugins/)). We will use the [vim-plug](https://github.com/junegunn/vim-plug) plugin manager to install `vimtex`. Firstly, we will download [plug.vim](https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim) and put it in the `~/.vim/autoload` directory using following code:
 
-`````
+`````bash
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 `````
 Next we will enable `vimtex` by  adding the following section to the `~/.vimrc` file:
 
-`````
+`````vim
 call plug#begin('~/.vim/plugged')  " Specify the directory ~/.vim/plugged for plugins. Avoid using standard Vim directory names like ~/.vim/plugin
 Plug 'lervag/vimtex'               " Shorthand notation for fetching the vimtex plugin from https://github.com/lervag/vimtex
 call plug#end()                    " To update &runtimepath and initialize plugin system
@@ -88,7 +88,7 @@ Once the vimrc is properly configured, restart Vim or reload the vimrc file (mak
 
 Now we will set it up following the [official documentation](https://github.com/lervag/vimtex/blob/master/doc/vimtex.txt) of `vimtex`, and adding the following to `~/.vimrc`:
 
-`````
+`````vim
 let g:tex_flavor = 'latex'           " Vim ships with some support for plain TeX, ConTeXt, and LaTeX files. This means that the `.tex` extension is ambiguous. Vimtex is only activated for LaTeX files with 'filetype' set to `tex`.
 let g:vimtex_view_method = 'mupdf'   "  Set the pdf viewer. MuPDF supports forward and backward search via xdotool. For backward search use :VimtexRSearch command. Forward search will only take you to the correct page.  Backward search will take you to the line in Vim that corresponds to the first line of the current page in MuPDF.
 let g:vimtex_compiler_latexmk= {'options' : ['-pdf', '-shell-escape', '-verbose', '-file-line-error', '-synctex=1', '-interaction=nonstopmode',],} " we need to enable -shell-escape to be able to use externalization library for avioiding recompiling unchanged diagrams/graphs created using tikz/pgfplots
