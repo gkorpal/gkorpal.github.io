@@ -116,7 +116,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Introductory Combinatorics** by *R. A. Brualdi*: There are some typos, but there some really interesting discussions like an interesting theorem by Erdős and Szekeres (p. 76, 5th ed).
 * **An Introduction to the Theory of Numbers** by *Ivan Niven, Herbert S. Zuckerman and Hugh L. Montgomery*: Covers all flavours of number theory in adequate detail. Requires some mathematical maturity.
 
-*I never came across a good introductory book on graph theory. The books are in general filled with definitions and algorithms. In my opinion, one can pick some notes ([like these](https://code.google.com/archive/p/graphbook/)) which illustrate algorithms by implementing them using C++ or Python.*
+*I never came across a good introductory book on graph theory. The books are in general filled with definitions and algorithms. In my opinion, one can pick some notes ([like these](https://code.google.com/archive/p/graphbook/)) which illustrate algorithms by implementing them using SageMath.*
 
 ## Analysis ##
 
@@ -128,8 +128,8 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Complex Analysis** by *Bak and Newman*: A comprehensive introduction to analysis of functions defined over $\mathbb{C}$. We study things like holomorphic functions (Fundamental theorem of Algebra), contour integration (Residue theorem), Mobius tranformation etc. This book also contains a brand new proof of prime number theorem. For a more gentle introduction, see the book by Sasane and Sasane, "A Friendly Approach to Complex Analysis" or the book by Brown and Churchill, "Complex Variables and Applications".
 * **Introduction to Topology and Modern Analysis** by *G. F. Simmons*: This book should be renamed as "An Introduction to Functional Analysis". Here we talk about normed linear spaces over $\mathbb{R}$ and $\mathbb{C}$.
 * **Differential Equations** by *S. L. Ross*: Nothing special, any other text like Simmons and Krantz's book "Differential Equations: Theory, Technique and Practice" is also good. We will see the proofs of facts learned in Calculus II.
+* **Tea Time Numerical Analysis** by *Leon Q. Brin*: An introductory textbook for numerical analysis with algortihms illustrated using GNU Octave. It is [available online](https://lqbrin.github.io/tea-time-numerical/) for free as part of the American Institute of Mathematics' [Open Textbook Initiative](https://aimath.org/textbooks/approved-textbooks/).
 
-*I never came across a good introductory book on numerical analysis, since like graph theory it involves lots of definitions and algorithms. In general, you can pick some notes ([like these](https://open.umn.edu/opentextbooks/textbooks/first-semester-in-numerical-analysis-with-julia)) which use GNU Octave or Python for implementing the algorithms.*
 
 ## Algebra ##
 
