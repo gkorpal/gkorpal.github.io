@@ -78,7 +78,7 @@ Note that the text-wrap is disabled by default, with the maximum line length of 
 
 ### Examples
 
-We will take some examples from SageMath and solve them using Python libraries:
+We will take some examples from [SageMath](https://sagecell.sagemath.org/) and solve them using Python libraries:
 
 -  Plotting elliptic curves over affine plane
 
@@ -215,10 +215,9 @@ There exist individual C/C++ libraries, like [FLINT](http://www.flintlib.org/) a
 
 > Any mathematician who is serious about doing extensive computational work in algebraic number theory and arithmetic geometry is strongly urged to become familiar with all three systems [Sage, Pari and Magma], since they all have their pros and cons. Pari is sleek and small, Magma has much unique functionality for computations in arithmetic geometry, and Sage has a wide range of functionality in most areas of mathematics, a large developer community, and much unique new code.
 
-Note that Magma supports only the old-school procedural programming paradigm, unlike Python (and SageMath) which also supports the modern object-oriented programming paradigm ([details](https://hackr.io/blog/programming-paradigms)).
-
 In the USA, because of the [Simons Foundation Agreement](http://magma.maths.usyd.edu.au/magma/simons_details), you can get access to Magma for free by contacting your department's IT support staff. You should be able to access its full-version on your department's computer clusters and student-version on your personal computer ([installation steps](http://magma.maths.usyd.edu.au/magma/faq/install)). Note that the student-version is available only for the outdated [32-bit architecture](http://magma.maths.usyd.edu.au/magma/download/all/), therefore you might also need to [install additonal packages](https://unix.stackexchange.com/q/75054/) like `glibc.i686` in Fedora ([details](https://stackoverflow.com/a/25269017/)) or `ia32-libs-multiarch` in Ubuntu ([details](https://stackoverflow.com/a/3949268/)). 
 
+Note that Magma supports only the old-school procedural programming paradigm, unlike Python (and SageMath) which also supports the modern object-oriented programming paradigm ([details](https://hackr.io/blog/programming-paradigms)).
 
 We will use Vim as the text editor for writing Magma scripts. Note that, just like for Python scripts, we don't need to add any specific filename extensions to the text files in order to be able to "load them" in Magma ([details](https://gkorpal.github.io/files/magma.pdf)). However, one can use filename extension `.m` to get Objective-C syntax highlighting (`objc.vim`) and to be consistent with the extension used for magma package files ([details](https://gkorpal.github.io/files/msri_magma.pdf)). Moreover, we can run the code without having to leave the text editor by adding the following to `.vimrc` file ([source](https://stackoverflow.com/questions/3166413/execute-a-script-directly-within-vim-mvim-gvim)):
 
@@ -226,6 +225,10 @@ We will use Vim as the text editor for writing Magma scripts. Note that, just li
 map <F2> :w<CR>:!magma %<CR> "once you press <F2> in normal mode, it first saves your file and then run the file with magma.
 imap <F2> <Esc>:w<CR>:!magma %<CR> "once you press <F2> in insert mode, it first leaves insert mode, then saves the file and then run the file with magma.
 `````
+
+### Examples
+
+We will take some examples from [SageMath](https://sagecell.sagemath.org/) and solve them using Magma functions:
 
 https://github.com/petRUShka/vim-magma
 
