@@ -191,22 +191,17 @@ p.save('ec.pdf')
     
 https://blog.christianperone.com/2010/02/riemann-zeta-function-visualizations-with-python/
 
-
 https://cypari2.readthedocs.io/en/latest/pari_instance.html
 
-<!--- http://math.gordon.edu/ntic/ http://linear.pugetsound.edu/ http://abstract.pugetsound.edu/ http://linear.ups.edu/eagts/eagts.html https://pretextbook.org/catalog.html --->
-
 https://docs.sympy.org/latest/modules/functions/special.html#module-sympy.functions.special.zeta_functions
-
-http://www.math.umbc.edu/~campbell/Computers/Python/numbthy.html
 
 https://docs.sympy.org/latest/modules/ntheory.html
 
 https://docs.sympy.org/latest/modules/polys/agca.html
 
-http://illustratedtheoryofnumbers.com/prog.html
+http://www.math.umbc.edu/~campbell/Computers/Python/numbthy.html
 
-http://math.gordon.edu/ntic/
+http://illustratedtheoryofnumbers.com/prog.html
 
 https://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/index.html
 
@@ -227,7 +222,7 @@ In the USA, because of the [Simons Foundation Agreement](http://magma.maths.usyd
 
 We will use Vim as the text editor for writing Magma scripts. Note that, just like for Python scripts, we don't need to add any specific filename extensions to the text files in order to be able to "load them" in Magma ([details](https://gkorpal.github.io/files/magma.pdf)). However, one can use filename extension `.m` to get Objective-C syntax highlighting (`objc.vim`) and to be consistent with the extension used for magma package files ([details](https://gkorpal.github.io/files/msri_magma.pdf)). Moreover, we can run the code without having to leave the text editor by adding the following to `.vimrc` file ([source](https://stackoverflow.com/questions/3166413/execute-a-script-directly-within-vim-mvim-gvim)):
 
-`````
+`````vim
 map <F2> :w<CR>:!magma %<CR> "once you press <F2> in normal mode, it first saves your file and then run the file with magma.
 imap <F2> <Esc>:w<CR>:!magma %<CR> "once you press <F2> in insert mode, it first leaves insert mode, then saves the file and then run the file with magma.
 `````
@@ -235,15 +230,6 @@ imap <F2> <Esc>:w<CR>:!magma %<CR> "once you press <F2> in insert mode, it first
 https://github.com/petRUShka/vim-magma
 
 http://magma.maths.usyd.edu.au/magma/handbook/text/53
-
-
-https://stackoverflow.com/questions/14030306/lib-ld-linux-so-2-bad-elf-interpreter-no-such-file-or-directory
-https://unix.stackexchange.com/questions/75054/ldd-tells-me-my-app-is-not-a-dynamic-executable
-https://stackoverflow.com/questions/3949161/no-such-file-or-directory-but-it-exists
-
-points on elliptic curve
-https://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/index.html#explicit-methods-in-number-theory
-
 
 http://brauer.math.harvard.edu/computing/magma/index.html
 
