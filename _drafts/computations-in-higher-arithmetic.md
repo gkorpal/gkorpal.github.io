@@ -78,6 +78,8 @@ Note that the text-wrap is disabled by default, with the maximum line length of 
 
 ### Examples
 
+For elementary numer theory, you can use the examples discussed in the companion website for the book ["An Illustrated Theory of Numbers" by Martin H. Weissman](http://illustratedtheoryofnumbers.com/prog.html). However, we are interested in experimenting with higher arithmetic stuff.
+
 We will take some examples from [SageMath](https://sagecell.sagemath.org/) and solve them using Python libraries:
 
 -  Plotting elliptic curves over affine plane
@@ -201,7 +203,7 @@ https://docs.sympy.org/latest/modules/polys/agca.html
 
 http://www.math.umbc.edu/~campbell/Computers/Python/numbthy.html
 
-http://illustratedtheoryofnumbers.com/prog.html
+
 
 https://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/index.html
 
