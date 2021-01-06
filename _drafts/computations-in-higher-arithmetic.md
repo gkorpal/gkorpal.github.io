@@ -223,7 +223,7 @@ There exist individual C/C++ libraries, like [FLINT](http://www.flintlib.org/) a
 
 In the USA, because of the [Simons Foundation Agreement](http://magma.maths.usyd.edu.au/magma/simons_details), you can get access to Magma for free by contacting your department's IT support staff. You should be able to access its full-version on your department's computer clusters and student-version on your personal computer ([installation steps](http://magma.maths.usyd.edu.au/magma/faq/install)). Note that the student-version is available only for the outdated [32-bit architecture](http://magma.maths.usyd.edu.au/magma/download/all/), therefore you might also need to [install additonal packages](https://unix.stackexchange.com/q/75054/) like `glibc.i686` in Fedora ([details](https://stackoverflow.com/a/25269017/)) or `ia32-libs-multiarch` in Ubuntu ([details](https://stackoverflow.com/a/3949268/)). 
 
-Note that Magma supports the old-school [procedural programming paradigm](https://hackr.io/blog/programming-paradigms) with an ability to implement functional style:
+Once you finish learning basics from the ["First Steps in Magma"](http://magma.maths.usyd.edu.au/magma/pdf/first.pdf) or the first chapter of the ["Handbook of Magma Functions"](http://magma.maths.usyd.edu.au/magma/handbook/part/1), you will be ready to start using Magma for solving math problems. Note that Magma supports the old-school [procedural programming paradigm](https://hackr.io/blog/programming-paradigms) with an ability to implement functional style.
 
 > Magma is an imperative, call by value, statically scoped, dynamically typed programming language, with an [essentially functional subset](https://stackoverflow.com/a/721107/6687333).
 
