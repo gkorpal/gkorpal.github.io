@@ -66,7 +66,7 @@ set mouse=a                    " Enable use of the mouse for all modes
 set wrap linebreak nolist      " Soft wrapping text. To move the cursor up and down within wrapped line use the commands gk and gj.
 `````
 
-You can [use this guide](https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles.html) to create a backup of your `vimrc` file using GitHub so that you can easily configure Vim on any other computer. You can follow [the official guide](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/set-up-git) to set-up GitHub for this purpose.
+You can [use this guide](https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles.html) to create a backup of your `vimrc` file using GitHub so that you can easily configure Vim on any other computer ([how to find git folder](https://stackoverflow.com/questions/19698901/)). You can follow [the official guide](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/set-up-git) to set-up GitHub for this purpose.
 
 ## vimtex plugin installation and configuration
  
