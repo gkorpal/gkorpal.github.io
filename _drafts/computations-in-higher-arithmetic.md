@@ -57,7 +57,7 @@ If you want GUI version of Python development environment then can get [IDLE](ht
 
 > Python is a [multi-paradigm](https://docs.python.org/3/howto/functional.html), [call by object](https://www.python-course.eu/passing_arguments.php), statically scoped, [both dynamically and strongly typed](https://wiki.python.org/moin/Why%20is%20Python%20a%20dynamic%20language%20and%20also%20a%20strongly%20typed%20language) programming language.
 
-Therefore, though Python is an object-oriented language like C++, it doesn't imply that they don't support other programming paradigms ([wikipedia](https://en.wikipedia.org/wiki/Object-based_language)). Keep in mind the various limitations of these computational experiments, like the [floating point arithmetic limitations](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html):
+Therefore, though Python is an object-oriented language, it doesn't imply that it doesn't support other programming paradigms ([wikipedia](https://en.wikipedia.org/wiki/Object-based_language)). Keep in mind the various limitations of these computational experiments, like the [floating point arithmetic limitations](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html):
 
 ````python
 # Python3 examples
