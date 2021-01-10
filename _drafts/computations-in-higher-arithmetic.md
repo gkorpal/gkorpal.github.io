@@ -53,7 +53,18 @@ We will need the following packages to begin with:
 
 \*Note that Fedora will automatically install the required dependecies like `mpmath`, `Cython`, `matplotlib` etc.
 
-If you want GUI version of Python development environment then can get [IDLE](https://docs.python.org/3/library/idle.html) by installing the package `python3-idle`. Once you finish learning basics using the free ["Hands-on Python Tutorial" by Andrew N. Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/) or the [tutorial available in the official documentation](https://docs.python.org/3/tutorial/), you will be ready to start using Python for solving math problems. 
+If you want GUI version of Python development environment then can get [IDLE](https://docs.python.org/3/library/idle.html) by installing the package `python3-idle`. We will use Vim as the text editor for writing [Python scripts](https://docs.python.org/3/tutorial/modules.html). Note that [we don't need](https://unix.stackexchange.com/a/27795/420307) to add a file extension, however for proper syntax highlighting we will use the file extension `.py`. Therefore, it would be helpful to install the `python-mode` plugin ([instructions](https://github.com/python-mode/python-mode)). Following are some the key mappings for some of the `python-mode` commands ([documentation](https://github.com/python-mode/python-mode/blob/develop/doc/pymode.txt)):
+
+| Key mapping | Python-mode command  (normal mode)| Output |
+|----------|----------|----------|
+| `\\r` | :PymodeRun | Run current code script buffer or selection |
+| (<kbd>Ctrl</kbd>+<kbd>w</kbd>) + <kbd>z</kbd> | :pclose | Close the code preview window ([not in doc](https://stackoverflow.com/a/52464433/))|
+| <kbd>Shift</kbd> + <kbd>k</kbd> | :PymodeDoc | Show documentation for current word|
+| <kbd>Ctrl</kbd> + <kbd>p</kbd> | Usual Vim key binding | Auto-complete a word that has already been typed once in the document|
+
+Note that the text-wrap is disabled by default, with the maximum line length of 79 characters. Moreover, it uses `pylint` to check code at every save. I couldn't figureout how to use code completion via `rope`.
+
+One can learn the basics by going through ["Hands-on Python Tutorial" by Andrew N. Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/) or skimming through the [tutorial available in the official documentation](https://docs.python.org/3/tutorial/). 
 
 > Python is a [multi-paradigm](https://docs.python.org/3/howto/functional.html), [call by object](https://www.python-course.eu/passing_arguments.php), statically scoped, [both dynamically and strongly typed](https://wiki.python.org/moin/Why%20is%20Python%20a%20dynamic%20language%20and%20also%20a%20strongly%20typed%20language) programming language.
 
@@ -68,17 +79,7 @@ Therefore, though Python is an object-oriented language, it doesn't imply that i
 >>> format(.1, '.20f')  # Python stores the numbers correctly to about 16 or 17 digits.
 '0.10000000000000000555'
 ````
-
-We will use Vim as the text editor for writing [Python scripts](https://docs.python.org/3/tutorial/modules.html). Note that [we don't need](https://unix.stackexchange.com/a/27795/420307) to add a file extension, however for proper syntax highlighting we will use the file extension `.py`. Therefore, it would be helpful to install the `python-mode` plugin ([instructions](https://github.com/python-mode/python-mode)). Following are some the key mappings for some of the `python-mode` commands ([documentation](https://github.com/python-mode/python-mode/blob/develop/doc/pymode.txt)):
-
-| Key mapping | Python-mode command  (normal mode)| Output |
-|----------|----------|----------|
-| `\\r` | :PymodeRun | Run current code script buffer or selection |
-| (<kbd>Ctrl</kbd>+<kbd>w</kbd>) + <kbd>z</kbd> | :pclose | Close the code preview window ([not in doc](https://stackoverflow.com/a/52464433/))|
-| <kbd>Shift</kbd> + <kbd>k</kbd> | :PymodeDoc | Show documentation for current word|
-| <kbd>Ctrl</kbd> + <kbd>p</kbd> | Usual Vim key binding | Auto-complete a word that has already been typed once in the document|
-
-Note that the text-wrap is disabled by default, with the maximum line length of 79 characters. Moreover, it uses `pylint` to check code at every save. I couldn't figureout how to use code completion via `rope`.
+To familiarize yourself with the useful maths libraries in Python, one can use the notes for the ["Maths with Python" course](https://maths-with-python.readthedocs.io/en/latest/index.html) at the University of Southampton or ["Fundamentals of Computer Programming" course](https://www.math.purdue.edu/~bradfor3/ProgrammingFundamentals/) at Purdue University.
 
 ### Examples
 
@@ -223,16 +224,17 @@ There exist individual C/C++ libraries, like [FLINT](http://www.flintlib.org/) a
 
 In the USA, because of the [Simons Foundation Agreement](http://magma.maths.usyd.edu.au/magma/simons_details), you can get access to Magma for free by contacting your department's IT support staff. You should be able to access its full-version on your department's computer clusters and student-version on your personal computer ([installation steps](http://magma.maths.usyd.edu.au/magma/faq/install)). Note that the student-version is available only for the outdated [32-bit architecture](http://magma.maths.usyd.edu.au/magma/download/all/), therefore you might also need to [install additonal packages](https://unix.stackexchange.com/q/75054/) like `glibc.i686` in Fedora ([details](https://stackoverflow.com/a/25269017/)) or `ia32-libs-multiarch` in Ubuntu ([details](https://stackoverflow.com/a/3949268/)). 
 
-Once you finish learning basics from the ["First Steps in Magma"](http://magma.maths.usyd.edu.au/magma/pdf/first.pdf) or the first chapter of the ["Handbook of Magma Functions"](http://magma.maths.usyd.edu.au/magma/handbook/part/1), you will be ready to start using Magma for solving math problems. Note that Magma supports the old-school [procedural programming paradigm](https://hackr.io/blog/programming-paradigms) with an ability to implement functional style.
-
-> Magma is an imperative, call by value, statically scoped, dynamically typed programming language, with an [essentially functional subset](https://stackoverflow.com/a/721107/6687333).
-
 We will use Vim as the text editor for writing Magma scripts. Note that, just like for Python scripts, we don't need to add any specific filename extensions to the text files in order to be able to "load them" in Magma ([details](https://gkorpal.github.io/files/magma.pdf)). However, one can use filename extension `.m` to get Objective-C syntax highlighting (`objc.vim`) and to be consistent with the extension used for magma package files ([details](https://gkorpal.github.io/files/msri_magma.pdf)). Moreover, we can run the code without having to leave the text editor by adding the following to `.vimrc` file ([source](https://stackoverflow.com/questions/3166413/execute-a-script-directly-within-vim-mvim-gvim)):
 
 `````vim
 map <F2> :w<CR>:!magma %<CR> "once you press <F2> in normal mode, it first saves your file and then run the file with magma.
 imap <F2> <Esc>:w<CR>:!magma %<CR> "once you press <F2> in insert mode, it first leaves insert mode, then saves the file and then run the file with magma.
 `````
+
+One can learn the basics by going through the ["First Steps in Magma"](http://magma.maths.usyd.edu.au/magma/pdf/first.pdf) or skimming through the first chapter of the ["Handbook of Magma Functions"](http://magma.maths.usyd.edu.au/magma/handbook/part/1), you will be ready to start using Magma for solving math problems. Note that Magma supports the old-school [procedural programming paradigm](https://hackr.io/blog/programming-paradigms) with an ability to implement functional style.
+
+> Magma is an imperative, call by value, statically scoped, dynamically typed programming language, with an [essentially functional subset](https://stackoverflow.com/a/721107/6687333).
+
 
 ### Examples
 
