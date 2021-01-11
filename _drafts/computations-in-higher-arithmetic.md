@@ -18,7 +18,7 @@ In the world of mathematical computations, proprietary softwares tend to more ad
 |SAS/SPSS | Statistical computations | RStudio | statsmodels (NumPy + SciPy + pandas + Patsy + Matplotlib +...)|
 |MATLAB | Numerical computations (applied maths) | GNU Octave/Scilab | SciPy (NumPy + Matplotlib + ...) |
 |Mathematica/Maple ([Macsyma](https://en.wikipedia.org/wiki/Macsyma))| Symbolic computations (UG level maths) | Maxima  | SymPy (NumPy + Matplotlib + mpmath + ...)|
-|Magma | [Structural computations](http://magma.maths.usyd.edu.au/magma/overview/2/19/1/#subsection_1_1) (structures from algebra, algebraic geometry and  finite incidence geometry are included) | SageMath (FLINT + PARI/GP + GAP + Singular + ...) | CyPari2 + ?? |
+|Magma | [Structural computations](http://magma.maths.usyd.edu.au/magma/overview/2/19/1/#subsection_1_1) (properties of mathematical structures from abstract algebra, algebraic geometry and  finite incidence geometry) | SageMath (FLINT + PARI/GP + GAP + Singular + ...) | CyPari2 + ?? |
 
 For a more up-to-date information, have a look at the [ICMS proceedings](https://link.springer.com/conference/icms).
 
