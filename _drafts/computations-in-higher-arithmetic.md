@@ -235,7 +235,7 @@ One can learn the basics by going through the ["First Steps in Magma"](http://ma
 
 ### Examples
 
-We will take some examples from [SageMath](https://sagecell.sagemath.org/) and solve them using Magma functions. Note that, unlike SageMath, Magma doesn't have access to any plotting library like matplotlib. Therefore, we can't reproduce the graphical examples we saw above.
+We will take some examples from [SageMath](https://sagecell.sagemath.org/) and solve them using [Magma](http://magma.maths.usyd.edu.au/calc/). Note that, unlike SageMath, Magma doesn't have access to any plotting library like matplotlib. Therefore, we can't reproduce the graphical examples we saw above.
 
 - Ideal factorization
 
