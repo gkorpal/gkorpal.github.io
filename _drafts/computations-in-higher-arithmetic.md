@@ -239,7 +239,7 @@ We will take some examples from [SageMath](https://sagecell.sagemath.org/) and s
 
 - Ideal factorization
 
-    - SageMath code and output
+    - SageMath code and output ([doc](https://doc.sagemath.org/html/en/reference/number_fields/sage/rings/number_field/number_field.html))
     
     ````sage
     K.<a>=NumberField(x^3-19)
