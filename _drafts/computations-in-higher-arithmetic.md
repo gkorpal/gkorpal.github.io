@@ -284,3 +284,7 @@ For some elementary numer theory examples, see the [Micro introduction into Magm
         [0, 2, 1], 2>
     ]
     ````
+
+# Conclusion
+
+William Stein has played a great role in starting this [open-source mathematical software revolution](https://gkorpal.github.io/files/rnoti-p540.pdf). However, it would have been great if the academic community could understand the value of [open-source Python-based Magma](https://gkorpal.github.io/files/history.pdf). It is a shame to waste the talents of brilliant mathematicians to create just another tool for data scientists in form of CoCalc. Just like research papers funded by public should be accessible to all for free, the tools needed to do this research must be accesible to all for free.
