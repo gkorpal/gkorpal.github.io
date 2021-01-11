@@ -254,7 +254,7 @@ We will take some examples from [SageMath](https://sagecell.sagemath.org/) and s
     
     - Magma code and output
     
-    ````magma
+    ````objc
     R<x>:=PolynomialRing(Integers());
     f:=x^3 - 19;
     K<y>:=NumberField(f);
