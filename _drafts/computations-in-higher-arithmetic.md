@@ -208,8 +208,6 @@ https://docs.sympy.org/latest/modules/polys/agca.html
 
 http://www.math.umbc.edu/~campbell/Computers/Python/numbthy.html
 
-
-
 https://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/index.html
 
 https://www.johannes-bauer.com/compsci/ecc/
