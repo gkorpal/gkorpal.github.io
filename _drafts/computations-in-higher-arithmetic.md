@@ -28,7 +28,7 @@ I must point out that RStudio is the only open source alternative which has been
 
 Open source softwares have been a life saver for students in countries like India, where our universities couldn't afford the proprietary softwares. I myself learned numerical analysis on [GNU Octave](https://www.gnu.org/software/octave/) and number theory on [SageMath](https://www.sagemath.org/). Note that, there exist computer algebra systems which follow the philosophy of accepting a given general-purpose programming language and extend it by a set of algebraic capabilities:
 
-| Programming Language | CAS Library |
+| Programming language | CAS library |
 | ------------| -------------------- |
 | Haskell |  [DoCon](https://homepages.inf.ed.ac.uk/wadler/realworld/docon2.html) |
 | C++ | [Giac](http://www-fourier.ujf-grenoble.fr/~parisse/giac.html), [SymbolicC++](https://issc.uj.ac.za/symbolic/symbolic.html), [GiNaC](https://www.ginac.de/), [SymEngine](https://github.com/symengine/symengine)|
