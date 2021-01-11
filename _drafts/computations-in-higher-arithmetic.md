@@ -101,22 +101,24 @@ We will take some examples from [SageMath](https://sagecell.sagemath.org/) and s
 -  Plotting elliptic curves over affine plane
 
     - SageMath code and output
-  
-```` sage
-p=plot(EllipticCurve([0,0,0,3,0]), gridlines='true', color=hue(0.7),xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3+3x$')
-p+=plot(EllipticCurve([0,0,0,2,0]), gridlines='true', color='cornflowerblue',xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3+2x$')
-p+=plot(EllipticCurve([0,0,0,1,0]), gridlines='true', color='red',xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3+x$')
-p+=plot(EllipticCurve([0,0,0,-1,0]), gridlines='true', color='orange',xmin=-4, xmax=4, ymin=-3, ymax=3)
-p+=plot(EllipticCurve([0,0,0,-2,0]), gridlines='true', color=hue(0.2),xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3-2x$')
-p+=plot(EllipticCurve([0,0,0,-3,0]), gridlines='true', color=hue(0.3),xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3-3x$')
-
-p.set_legend_options(shadow=False, loc=2)
-show(p)
-p.axes_labels(['$x$','$y$'])
-p.save('ec.pdf')
-````
-
-![ec](https://gkorpal.github.io/images/sage1.png)
+    
+    ```` sage
+    p=plot(EllipticCurve([0,0,0,3,0]), gridlines='true', color=hue(0.7),xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3+3x$')
+    p+=plot(EllipticCurve([0,0,0,2,0]), gridlines='true', color='cornflowerblue',xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3+2x$')
+    p+=plot(EllipticCurve([0,0,0,1,0]), gridlines='true', color='red',xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3+x$')
+    p+=plot(EllipticCurve([0,0,0,-1,0]), gridlines='true', color='orange',xmin=-4, xmax=4, ymin=-3, ymax=3)
+    p+=plot(EllipticCurve([0,0,0,-2,0]), gridlines='true', color=hue(0.2),xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3-2x$')
+    p+=plot(EllipticCurve([0,0,0,-3,0]), gridlines='true', color=hue(0.3),xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3-3x$')
+    p.set_legend_options(shadow=False, loc=2)
+    show(p)
+    p.axes_labels(['$x$','$y$'])
+    p.save('ec.pdf')
+    ````
+    
+    ![ec](https://gkorpal.github.io/images/sage1.png)
+    
+    - Python code and output
+    
 
 
 - Plotting elliptic curve modulo prime
@@ -219,9 +221,7 @@ https://docs.sympy.org/latest/modules/polys/agca.html
 
 http://www.math.umbc.edu/~campbell/Computers/Python/numbthy.html
 
-https://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/index.html
-
-https://www.johannes-bauer.com/compsci/ecc/
+https://github.com/Robert-Campbell-256/Number-Theory-Python
 
 Write your own script: https://arxiv.org/abs/2004.09046
 
