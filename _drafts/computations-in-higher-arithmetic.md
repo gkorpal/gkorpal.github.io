@@ -244,7 +244,7 @@ One can learn the basics by going through the ["First Steps in Magma"](http://ma
 
 ### Examples
 
-For elementary numer theory examples, you can use the [Micro introduction into Magma](http://legacy-www.math.harvard.edu/computing/magma/index.html) available on the legacy website of Haravard university's Department of Mathematics. However, we will take some examples from [SageMath](https://sagecell.sagemath.org/) and solve them using [Magma](http://magma.maths.usyd.edu.au/calc/). Note that, unlike SageMath, Magma doesn't have access to any plotting library like matplotlib. Therefore, we can't reproduce the graphical examples we saw above.
+For some elementary numer theory examples, see the [Micro introduction into Magma](http://legacy-www.math.harvard.edu/computing/magma/index.html) available on the legacy website of Haravard university's Department of Mathematics. However, we will take some examples from [SageMath](https://sagecell.sagemath.org/) and solve them using [Magma](http://magma.maths.usyd.edu.au/calc/). Note that, unlike SageMath, Magma doesn't have access to any plotting library like matplotlib. Therefore, we can't reproduce the graphical examples we saw above.
 
 - Ideal factorization
 
