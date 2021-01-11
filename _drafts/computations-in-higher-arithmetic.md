@@ -94,7 +94,7 @@ To familiarize yourself with the useful maths libraries in Python, one can use t
 
 ### Examples
 
-For elementary numer theory, you can use the examples discussed in the companion website for the book ["An Illustrated Theory of Numbers" by Martin H. Weissman](http://illustratedtheoryofnumbers.com/prog.html). However, we are interested in experimenting with higher arithmetic stuff.
+For elementary numer theory examples, you can use the the companion website for the book ["An Illustrated Theory of Numbers" by Martin H. Weissman](http://illustratedtheoryofnumbers.com/prog.html). However, we are interested in experimenting with higher arithmetic stuff.
 
 We will take some examples from [SageMath](https://sagecell.sagemath.org/) and solve them using Python libraries:
 
@@ -244,7 +244,7 @@ One can learn the basics by going through the ["First Steps in Magma"](http://ma
 
 ### Examples
 
-We will take some examples from [SageMath](https://sagecell.sagemath.org/) and solve them using [Magma](http://magma.maths.usyd.edu.au/calc/). Note that, unlike SageMath, Magma doesn't have access to any plotting library like matplotlib. Therefore, we can't reproduce the graphical examples we saw above.
+For elementary numer theory examples, you can use the [Micro introduction into Magma](http://legacy-www.math.harvard.edu/computing/magma/index.html) available on the legacy website of Haravard university's Department of Mathematics. However, we will take some examples from [SageMath](https://sagecell.sagemath.org/) and solve them using [Magma](http://magma.maths.usyd.edu.au/calc/). Note that, unlike SageMath, Magma doesn't have access to any plotting library like matplotlib. Therefore, we can't reproduce the graphical examples we saw above.
 
 - Ideal factorization
 
@@ -284,12 +284,3 @@ We will take some examples from [SageMath](https://sagecell.sagemath.org/) and s
         [0, 2, 1], 2>
     ]
     ````
-    
-
-    
-https://github.com/petRUShka/vim-magma
-
-http://magma.maths.usyd.edu.au/magma/handbook/text/53
-
-http://brauer.math.harvard.edu/computing/magma/index.html
-
