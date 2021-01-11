@@ -233,11 +233,51 @@ One can learn the basics by going through the ["First Steps in Magma"](http://ma
 
 > Magma is an imperative, call by value, statically scoped, dynamically typed programming language, with an [essentially functional subset](https://stackoverflow.com/a/721107/6687333).
 
-
 ### Examples
 
-We will take some examples from [SageMath](https://sagecell.sagemath.org/) and solve them using Magma functions:
+We will take some examples from [SageMath](https://sagecell.sagemath.org/) and solve them using Magma functions. Note that, unlike SageMath, Magma doesn't have access to any plotting library like matplotlib. Therefore, we can't reproduce the graphical examples we saw above.
 
+- Ideal factorization
+
+    - SageMath code and output
+    
+    ````sage
+    K.<a>=NumberField(x^3-19)
+    I = K.ideal(3)
+    F = I.factor()
+    F
+    ````
+    
+    ````
+    (Fractional ideal (3, 1/3*a^2 + 1/3*a + 1/3))^2 * (Fractional ideal (3, 1/3*a^2 + 1/3*a - 2/3))
+    ````
+    
+    - Magma code and output
+    
+    ````objc
+    R<x>:=PolynomialRing(Integers());
+    f:=x^3 - 19;
+    K<y>:=NumberField(f);
+    O:=MaximalOrder(K);
+    I:=3*O;
+    Factorization(I);
+    `````
+    
+    ````
+    [
+    <Prime Ideal of O
+    Two element generators:
+        [3, 0, 0]
+        [2, 0, 2], 1>,
+    <Prime Ideal of O
+    Two element generators:
+        [3, 0, 0]
+        [0, 2, 1], 2>
+    ]
+    ````
+    
+
+    
 https://github.com/petRUShka/vim-magma
 
 http://magma.maths.usyd.edu.au/magma/handbook/text/53
