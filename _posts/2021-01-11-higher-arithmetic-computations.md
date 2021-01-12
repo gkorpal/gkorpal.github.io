@@ -139,7 +139,7 @@ For elementary numer theory examples, you can use either the course notes for th
     
     - Python script and output
     
-    https://stackoverflow.com/questions/19756043/python-matplotlib-elliptic-curves
+    [to-do](https://stackoverflow.com/questions/19756043/python-matplotlib-elliptic-curves)
     
 
 - Plotting elliptic curve modulo prime
@@ -157,7 +157,7 @@ For elementary numer theory examples, you can use either the course notes for th
     
     - Python script and output
     
-    https://github.com/jimmysong/programmingbitcoin/blob/master/ch03.asciidoc
+    [to-do](https://github.com/jimmysong/programmingbitcoin/blob/master/ch03.asciidoc)
     
  - Comparing the prime counting functions
  
@@ -174,7 +174,7 @@ For elementary numer theory examples, you can use either the course notes for th
     
     - Python script and output
     
-    https://docs.sympy.org/latest/modules/ntheory.html
+    [to-do](https://docs.sympy.org/latest/modules/ntheory.html)
     
     
 - Plotting Riemann zeta function for real inputs (trivial zeros)
@@ -190,7 +190,7 @@ For elementary numer theory examples, you can use either the course notes for th
     
     - Python script and output
     
-    https://docs.sympy.org/latest/modules/functions/special.html#module-sympy.functions.special.zeta_functions
+    [to-do](https://docs.sympy.org/latest/modules/functions/special.html#module-sympy.functions.special.zeta_functions)
 
     
 - Plotting  the  real  and  imaginary  parts  of  the  Riemann  zeta  function $\zeta(1/2 + it)$  for $0 < t < 30$
@@ -245,9 +245,9 @@ For elementary numer theory examples, you can use either the course notes for th
     
     - Python script and output
     
-    https://cypari2.readthedocs.io/en/latest/pari_instance.html  
+    [to-do](https://cypari2.readthedocs.io/en/latest/pari_instance.html)
     
-    https://docs.sympy.org/latest/modules/polys/agca.html
+    [to-do](https://docs.sympy.org/latest/modules/polys/agca.html)
 
 
 ## Magma: Domain-specific programming language (proprietary)
