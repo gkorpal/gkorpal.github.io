@@ -89,18 +89,30 @@ One can learn the basics by going through ["Hands-on Python Tutorial" by Andrew 
 
 > Python is a [multi-paradigm](https://docs.python.org/3/howto/functional.html), [call by object](https://www.python-course.eu/passing_arguments.php), statically scoped, [both dynamically and strongly typed](https://wiki.python.org/moin/Why%20is%20Python%20a%20dynamic%20language%20and%20also%20a%20strongly%20typed%20language) programming language.
 
-Therefore, though Python is an object-oriented language, it doesn't imply that it doesn't support other programming paradigms ([wikipedia](https://en.wikipedia.org/wiki/Object-based_language)). Keep in mind the various limitations of these computational experiments, like the [floating point arithmetic limitations](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html):
+Therefore, though Python is an object-oriented language, it doesn't imply that it doesn't support other programming paradigms ([wikipedia](https://en.wikipedia.org/wiki/Object-based_language)). Also, it would be wise to keep in mind the [floating point arithmetic limitations](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) that these  general purpose programming languages. For example, if using Python as a calculator, we will get ["wrong" answers when using decimals](https://docs.python.org/3/tutorial/floatingpoint.html):
 
 ````python
 # Python3 examples
->>> 3.3 - 1.1  # Do not depend on the exactness of floating point arithmetic, even for apparently simple expressions!
+>>> 3.3 - 1.1  # Do not depend on the exactness of floating point arithmetic, even for apparently simple expressions! 
 2.1999999999999997
 >>> 0.1+0.2  # so here 0.3 is not equal to 0.1 + 0.2
 0.30000000000000004
->>> format(.1, '.20f')  # Python stores the numbers correctly to about 16 or 17 digits.
+>>> format(.1, '.20f')  # 0.1 does not has exact representation in binary floating point
 '0.10000000000000000555'
 ````
-To familiarize yourself with the useful maths libraries in Python, one can use the notes for the ["Maths with Python" course](https://maths-with-python.readthedocs.io/en/latest/index.html) at the University of Southampton or ["Fundamentals of Computer Programming" course by Clinton Bradford](https://www.math.purdue.edu/~bradfor3/ProgrammingFundamentals/) at Purdue University.
+To familiarize yourself with the useful maths libraries in Python (for example, `mpmath` provides support for [arbitrary-precision floating point arithmetic](https://mpmath.org/doc/current/technical.html#decimal-issues), one can use the notes for the ["Maths with Python" course](https://maths-with-python.readthedocs.io/en/latest/index.html) at the University of Southampton or ["Fundamentals of Computer Programming" course by Clinton Bradford](https://www.math.purdue.edu/~bradfor3/ProgrammingFundamentals/) at Purdue University. For example, we can get "correct" answers for float arithmetic by using `decimal` module:
+
+````python
+>>> from decimal import *
+>>> Decimal('3.3') - Decimal('1.1')
+Decimal('2.2')
+>>> Decimal('0.1') + Decimal('0.2')
+Decimal('0.3')
+>>> Decimal('0.1') == 0.1
+False
+>>> Decimal('3.5') == 3.5
+True
+````
 
 ### Examples
 
