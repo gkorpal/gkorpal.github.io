@@ -115,6 +115,7 @@ For elementary numer theory examples, you can use either the course notes for th
     
     ![ec](https://gkorpal.github.io/images/sage1.png)
     
+    
     - Python code and output
     
     https://stackoverflow.com/questions/19756043/python-matplotlib-elliptic-curves
