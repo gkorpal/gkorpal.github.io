@@ -90,7 +90,7 @@ Therefore, though Python is an object-oriented language, it doesn't imply that i
 >>> format(.1, '.20f')  # Python stores the numbers correctly to about 16 or 17 digits.
 '0.10000000000000000555'
 ````
-To familiarize yourself with the useful maths libraries in Python, one can use the notes for the ["Maths with Python" course](https://maths-with-python.readthedocs.io/en/latest/index.html) at the University of Southampton or ["Fundamentals of Computer Programming" course](https://www.math.purdue.edu/~bradfor3/ProgrammingFundamentals/) at Purdue University.
+To familiarize yourself with the useful maths libraries in Python, one can use the notes for the ["Maths with Python" course](https://maths-with-python.readthedocs.io/en/latest/index.html) at the University of Southampton or ["Fundamentals of Computer Programming" course by Clinton Bradford](https://www.math.purdue.edu/~bradfor3/ProgrammingFundamentals/) at Purdue University.
 
 ### Examples
 
