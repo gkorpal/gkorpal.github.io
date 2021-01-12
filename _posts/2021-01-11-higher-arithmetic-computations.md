@@ -134,7 +134,7 @@ For elementary numer theory examples, you can use either the course notes for th
     p.axes_labels(['$x$','$y$'])
     p.save('ec.pdf')
     ````
-    | ![ec](https://gkorpal.github.io/images/sage1.png) |
+    ![ec](https://gkorpal.github.io/images/sage1.png) 
     
     
     - Python script and output
