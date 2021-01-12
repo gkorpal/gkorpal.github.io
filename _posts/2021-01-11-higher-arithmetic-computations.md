@@ -122,7 +122,7 @@ For elementary numer theory examples, you can use either the course notes for th
 -  Plotting elliptic curves over affine plane
 
     - SageMath script and output
-    ```` sage    
+    ```` python    
     p=plot(EllipticCurve([0,0,0,3,0]), gridlines='true', color=hue(0.7),xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3+3x$')
     p+=plot(EllipticCurve([0,0,0,2,0]), gridlines='true', color='cornflowerblue',xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3+2x$')
     p+=plot(EllipticCurve([0,0,0,1,0]), gridlines='true', color='red',xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3+x$')
@@ -146,7 +146,7 @@ For elementary numer theory examples, you can use either the course notes for th
 
     - SageMath script and output
     
-    ```` sage
+    ```` python
     E=EllipticCurve(GF(1021),[0,-1,-1,0,0])
     A=E.plot()
     show(A)
@@ -163,7 +163,7 @@ For elementary numer theory examples, you can use either the course notes for th
  
     - SageMath script and output
     
-    ```` sage
+    ```` python
     P = plot(Li(x), (x,2,10000), linestyle="--", thickness=2, rgbcolor=(0,0,0), legend_label='$\\mathrm{Li}(x)$')
     Q = plot(prime_pi(x), (x,2,10000),thickness=2, rgbcolor=(0,0,0), legend_label='$\\pi(x)$')
     R = plot(x/log(x), (x,2,10000), linestyle=":", thickness=3, rgbcolor=(0,0,0), legend_label='$x/\\log(x)$')
@@ -181,7 +181,7 @@ For elementary numer theory examples, you can use either the course notes for th
 
     - SageMath script and output
     
-    ```` sage
+    ```` python
     p=plot(zeta(x), (x,-13,-1), legend_label='$\\zeta(x)$')
     show(p)
     ````
@@ -197,7 +197,7 @@ For elementary numer theory examples, you can use either the course notes for th
 
     - SageMath script and output
     
-    ````sage
+    ````python
     i = CDF.gen()
     v = [zeta(0.5 + n/10 * i) for n in range(300)]
     L = [(z.real(), z.imag()) for z in v]
@@ -210,7 +210,7 @@ For elementary numer theory examples, you can use either the course notes for th
 
     - SageMath script and output
     
-    ````sage
+    ````python
     i = CDF.0
     p1 = plot(lambda t:  arg(zeta(0.5+t*i)), 1, 50,linestyle="--", rgbcolor=(0,0,0), legend_label='$\\mathrm{arg}(\\zeta(0.5+it))$')
     p2 = plot(lambda t:  abs(zeta(0.5+t*i)), 1, 50, rgbcolor=(0,0,0), legend_label='$|\\zeta(0.5+it)|$')
@@ -222,7 +222,7 @@ For elementary numer theory examples, you can use either the course notes for th
 
     - SageMath script and output
     
-    ```` sage
+    ```` python
     complex_plot(x^4-1,(-5,5),(-5,5))
     ````
    ![prime](https://gkorpal.github.io/images/sage7.png)
@@ -232,7 +232,7 @@ For elementary numer theory examples, you can use either the course notes for th
 
     - SageMath script and output
     
-    ````sage
+    ````python
     K.<a>=NumberField(x^3-19)
     I = K.ideal(3)
     F = I.factor()
@@ -275,7 +275,7 @@ For some elementary numer theory examples, see the [Micro introduction into Magm
 
     - SageMath script and output ([doc](https://doc.sagemath.org/html/en/reference/number_fields/sage/rings/number_field/number_field.html))
     
-    ````sage
+    ````python
     K.<a>=NumberField(x^3-19)
     I = K.ideal(3)
     F = I.factor()
