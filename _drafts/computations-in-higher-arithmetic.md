@@ -94,9 +94,7 @@ To familiarize yourself with the useful maths libraries in Python, one can use t
 
 ### Examples
 
-For elementary numer theory examples, you can use the the companion website for the book ["An Illustrated Theory of Numbers" by Martin H. Weissman](http://illustratedtheoryofnumbers.com/prog.html). However, we are interested in experimenting with higher arithmetic stuff.
-
-We will take some examples from [SageMath](https://sagecell.sagemath.org/) and solve them using Python libraries:
+For elementary numer theory examples, you can use either thi (very) [short course in Number Theory by Robert Campbell](https://github.com/Robert-Campbell-256/Number-Theory-Python) or the the companion website for the book ["An Illustrated Theory of Numbers" by Martin H. Weissman](http://illustratedtheoryofnumbers.com/prog.html). However, here we will take some examples from [SageMath](https://sagecell.sagemath.org/) and solve them using Python libraries.
 
 -  Plotting elliptic curves over affine plane
 
@@ -218,8 +216,6 @@ https://docs.sympy.org/latest/modules/functions/special.html#module-sympy.functi
 https://docs.sympy.org/latest/modules/ntheory.html
 
 https://docs.sympy.org/latest/modules/polys/agca.html
-
-http://www.math.umbc.edu/~campbell/Computers/Python/numbthy.html
 
 https://github.com/Robert-Campbell-256/Number-Theory-Python
 
