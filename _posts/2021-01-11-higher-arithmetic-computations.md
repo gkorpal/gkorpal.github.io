@@ -1,19 +1,29 @@
 ---
-layout: single
-title:  "Computations in Higher Arithmetic"
-header:
-categories: 
-  - Jekyll
+title: "Higher Arithmetic Computations"
+date: 2021-01-11
+permalink: /posts/2021/01/higher-arithmetic-computations/
 tags:
-  - edge case
+  - sagemath
+  - python
+  - magma
+  - open-source
+  - number theory
+  - arithmetic
+  - computations
+  - geometry
+  - plots
+  - sympy
+  - matplotlib
+  - mpmath
+  - numpy
 ---
-In this post I discuss the options available for doing computational experiments in number theory.
+In this post I discuss the options available for doing computational experiments in advanced number theory.
 
 # The free rein of proprietary softwares
 
 In the world of mathematical computations, proprietary softwares tend to more adavnced than the open source alternatives. This is mainly because of the lack of industrial support, i.e. nobody can make money by having a better abstract math computation system. Following is the list of current market leaders and their open-source competitors/clones:
 
-| Proprietary software | Speciality | Open source alternative | Equivalent/complementary [Python libraries](https://wiki.python.org/moin/Libraries) |
+| Proprietary software | Speciality | Open-source alternative | Equivalent/complementary [Python libraries](https://wiki.python.org/moin/Libraries) |
 |----------|----------| ---------- | --------- |
 |SAS/SPSS | Statistical computations | RStudio | statsmodels (NumPy + SciPy + pandas + Patsy + Matplotlib +...)|
 |MATLAB | Numerical computations | GNU Octave/Scilab | SciPy (NumPy + Matplotlib + ...) |
