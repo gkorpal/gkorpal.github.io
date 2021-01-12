@@ -117,7 +117,8 @@ For elementary numer theory examples, you can use either the course notes for th
     
     - Python code and output
     
-
+    https://stackoverflow.com/questions/19756043/python-matplotlib-elliptic-curves
+    
 
 - Plotting elliptic curve modulo prime
 
@@ -132,6 +133,10 @@ For elementary numer theory examples, you can use either the course notes for th
     
     ![ec2](https://gkorpal.github.io/images/sage2.png)
     
+    - Python code and output
+    
+    https://github.com/jimmysong/programmingbitcoin/blob/master/ch03.asciidoc
+    
  - Comparing the prime counting functions
  
     - SageMath code and output
@@ -145,6 +150,11 @@ For elementary numer theory examples, you can use either the course notes for th
     
     ![prime](https://gkorpal.github.io/images/sage5.png)
     
+    - Python code and output
+    
+    https://docs.sympy.org/latest/modules/ntheory.html
+    
+    
 - Plotting Riemann zeta function for real inputs (trivial zeros)
 
     - SageMath code and output
@@ -155,6 +165,11 @@ For elementary numer theory examples, you can use either the course notes for th
     ````
     
     ![ec3](https://gkorpal.github.io/images/sage3.png)
+    
+    - Python code and output
+    
+    https://docs.sympy.org/latest/modules/functions/special.html#module-sympy.functions.special.zeta_functions
+
     
 - Plotting  the  real  and  imaginary  parts  of  the  Riemann  zeta  function $\zeta(1/2 + it)$  for $0 < t < 30$
 
@@ -206,20 +221,12 @@ For elementary numer theory examples, you can use either the course notes for th
     (Fractional ideal (3, 1/3*a^2 + 1/3*a + 1/3))^2 * (Fractional ideal (3, 1/3*a^2 + 1/3*a - 2/3))
     ````
     
+    - Python code and output
     
-https://blog.christianperone.com/2010/02/riemann-zeta-function-visualizations-with-python/
+    https://cypari2.readthedocs.io/en/latest/pari_instance.html  
+    
+    https://docs.sympy.org/latest/modules/polys/agca.html
 
-https://cypari2.readthedocs.io/en/latest/pari_instance.html
-
-https://docs.sympy.org/latest/modules/functions/special.html#module-sympy.functions.special.zeta_functions
-
-https://docs.sympy.org/latest/modules/ntheory.html
-
-https://docs.sympy.org/latest/modules/polys/agca.html
-
-https://github.com/Robert-Campbell-256/Number-Theory-Python
-
-Write your own script: https://arxiv.org/abs/2004.09046
 
 ## Magma: Domain-specific programming language (proprietary)
 
@@ -283,4 +290,4 @@ For some elementary numer theory examples, see the [Micro introduction into Magm
 
 # Conclusion
 
-William Stein has played a great role in starting this [open-source mathematical software revolution](https://gkorpal.github.io/files/rnoti-p540.pdf). However, it would have been great if the academic community could understand the value of [open-source Python-based Magma](https://gkorpal.github.io/files/history.pdf). It is a shame to waste the talents of brilliant mathematicians to create just another tool for data scientists in form of CoCalc. Just like research papers funded by public taxes should be accessible to all for free (like free beer), the softwares needed to do tax-funded research must be accesible to all for free (like free speech).
+William Stein has played a great role in starting this [open-source mathematical software revolution](https://gkorpal.github.io/files/rnoti-p540.pdf). However, it would have been great if the academic community could understand the value of [open-source Python-based Magma](https://gkorpal.github.io/files/history.pdf). Just like research papers funded by public taxes should be accessible to all for free (like free beer), the softwares needed to do tax-funded research must be accesible to all for free (like free speech). Recently, I have came across some papers like ["The Shafarevich conjecture for hypersurfaces in abelian varieties" by Brian Lawrence and Will Sawin](https://arxiv.org/abs/2004.09046) which use Python for computations.
