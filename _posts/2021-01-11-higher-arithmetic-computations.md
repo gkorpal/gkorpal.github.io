@@ -103,6 +103,7 @@ Therefore, though Python is an object-oriented language, it doesn't imply that i
 To familiarize yourself with the useful maths libraries in Python (for example, `mpmath` provides support for [arbitrary-precision floating point arithmetic](https://mpmath.org/doc/current/technical.html#decimal-issues), one can use the notes for the ["Maths with Python" course](https://maths-with-python.readthedocs.io/en/latest/index.html) at the University of Southampton or ["Fundamentals of Computer Programming" course by Clinton Bradford](https://www.math.purdue.edu/~bradfor3/ProgrammingFundamentals/) at Purdue University. For example, we can get "correct" answers for float arithmetic by using `decimal` module:
 
 ````python
+# trying to bypass float arithmetic problem
 >>> from decimal import *
 >>> Decimal('3.3') - Decimal('1.1')
 Decimal('2.2')
