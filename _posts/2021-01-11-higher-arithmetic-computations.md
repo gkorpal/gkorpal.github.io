@@ -120,9 +120,8 @@ For elementary numer theory examples, you can use either the course notes for th
 
 -  Plotting elliptic curves over affine plane
 
-    - SageMath code and output
-    
-    ```` sage
+    - SageMath script and output
+    ```` sage    
     p=plot(EllipticCurve([0,0,0,3,0]), gridlines='true', color=hue(0.7),xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3+3x$')
     p+=plot(EllipticCurve([0,0,0,2,0]), gridlines='true', color='cornflowerblue',xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3+2x$')
     p+=plot(EllipticCurve([0,0,0,1,0]), gridlines='true', color='red',xmin=-4, xmax=4, ymin=-3, ymax=3, legend_label='$y^2=x^3+x$')
@@ -134,18 +133,17 @@ For elementary numer theory examples, you can use either the course notes for th
     p.axes_labels(['$x$','$y$'])
     p.save('ec.pdf')
     ````
+    | ![ec](https://gkorpal.github.io/images/sage1.png) |
     
-    ![ec](https://gkorpal.github.io/images/sage1.png)
     
-    
-    - Python code and output
+    - Python script and output
     
     https://stackoverflow.com/questions/19756043/python-matplotlib-elliptic-curves
     
 
 - Plotting elliptic curve modulo prime
 
-    - SageMath code and output
+    - SageMath script and output
     
     ```` sage
     E=EllipticCurve(GF(1021),[0,-1,-1,0,0])
@@ -156,13 +154,13 @@ For elementary numer theory examples, you can use either the course notes for th
     
     ![ec2](https://gkorpal.github.io/images/sage2.png)
     
-    - Python code and output
+    - Python script and output
     
     https://github.com/jimmysong/programmingbitcoin/blob/master/ch03.asciidoc
     
  - Comparing the prime counting functions
  
-    - SageMath code and output
+    - SageMath script and output
     
     ```` sage
     P = plot(Li(x), (x,2,10000), linestyle="--", thickness=2, rgbcolor=(0,0,0), legend_label='$\\mathrm{Li}(x)$')
@@ -173,14 +171,14 @@ For elementary numer theory examples, you can use either the course notes for th
     
     ![prime](https://gkorpal.github.io/images/sage5.png)
     
-    - Python code and output
+    - Python script and output
     
     https://docs.sympy.org/latest/modules/ntheory.html
     
     
 - Plotting Riemann zeta function for real inputs (trivial zeros)
 
-    - SageMath code and output
+    - SageMath script and output
     
     ```` sage
     p=plot(zeta(x), (x,-13,-1), legend_label='$\\zeta(x)$')
@@ -189,14 +187,14 @@ For elementary numer theory examples, you can use either the course notes for th
     
     ![ec3](https://gkorpal.github.io/images/sage3.png)
     
-    - Python code and output
+    - Python script and output
     
     https://docs.sympy.org/latest/modules/functions/special.html#module-sympy.functions.special.zeta_functions
 
     
 - Plotting  the  real  and  imaginary  parts  of  the  Riemann  zeta  function $\zeta(1/2 + it)$  for $0 < t < 30$
 
-    - SageMath code and output
+    - SageMath script and output
     
     ````sage
     i = CDF.gen()
@@ -209,7 +207,7 @@ For elementary numer theory examples, you can use either the course notes for th
 
 - Comparing the argument and absolute values of Riemann zeta function $\zeta(1/2 + it)$  for $0 \leq  t \leq 50$
 
-    - SageMath code and output
+    - SageMath script and output
     
     ````sage
     i = CDF.0
@@ -221,7 +219,7 @@ For elementary numer theory examples, you can use either the course notes for th
 
 - Plotting complex valued functions
 
-    - SageMath code and output
+    - SageMath script and output
     
     ```` sage
     complex_plot(x^4-1,(-5,5),(-5,5))
@@ -231,7 +229,7 @@ For elementary numer theory examples, you can use either the course notes for th
     
 - Ideal factorization
 
-    - SageMath code and output
+    - SageMath script and output
     
     ````sage
     K.<a>=NumberField(x^3-19)
@@ -244,7 +242,7 @@ For elementary numer theory examples, you can use either the course notes for th
     (Fractional ideal (3, 1/3*a^2 + 1/3*a + 1/3))^2 * (Fractional ideal (3, 1/3*a^2 + 1/3*a - 2/3))
     ````
     
-    - Python code and output
+    - Python script and output
     
     https://cypari2.readthedocs.io/en/latest/pari_instance.html  
     
@@ -274,7 +272,7 @@ For some elementary numer theory examples, see the [Micro introduction into Magm
 
 - Ideal factorization
 
-    - SageMath code and output ([doc](https://doc.sagemath.org/html/en/reference/number_fields/sage/rings/number_field/number_field.html))
+    - SageMath script and output ([doc](https://doc.sagemath.org/html/en/reference/number_fields/sage/rings/number_field/number_field.html))
     
     ````sage
     K.<a>=NumberField(x^3-19)
@@ -287,7 +285,7 @@ For some elementary numer theory examples, see the [Micro introduction into Magm
     (Fractional ideal (3, 1/3*a^2 + 1/3*a + 1/3))^2 * (Fractional ideal (3, 1/3*a^2 + 1/3*a - 2/3))
     ````
     
-    - Magma code and output
+    - Magma script and output
     
     ````objc
     R<x>:=PolynomialRing(Integers());
