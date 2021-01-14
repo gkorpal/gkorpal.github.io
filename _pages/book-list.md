@@ -234,7 +234,7 @@ The topics and books are arranged in the order I would recommend learning them.
   * **Foundations of Differentiable Manifolds and Lie Groups** by *W. F. Warner*: Chapter 5 where the equivalence of Cech cohomology to sheaf cohomology is discussed.
   * **Topological Methods in Algebraic Geometry** by *F. Hirzebruch* (translated from the German by R. L. E. Schwarzenberger): Section 2 for the relation between Cech and de Rham cohomology.
   
-*Initially the plan was to learn Hodge Theory, but I found this preliminary stuff to be too difficult to grasp. A good reference for that would be the book "Hodge Theory and Complex Algebraic Geometry" by Claire Voisin.* 
+*Initially the plan was to learn [Hodge Theory](https://math.stackexchange.com/questions/1129603/), but I found this preliminary stuff to be too difficult to grasp. A good reference for that would be the book "Hodge Theory and Complex Algebraic Geometry" by Claire Voisin.* 
   
 ## Enumerative Geometry ##
 
