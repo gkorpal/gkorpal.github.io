@@ -24,7 +24,6 @@ Following are some of the books that I would recommend reading (hopefully people
   * [Elementary Number Theory](#elementary-number-theory)
   * [Analytic Number Theory](#analytic-number-theory)
   * [Algebraic Number Theory](#algebraic-number-theory)
-  * [Langlands Program](#langlands-program)
   * [Arithmetic Geometry](#arithmetic-geometry)
   * [Complex Geometry](#complex-geometry)
   * [Enumerative Geometry](#enumerative-geometry)
@@ -199,18 +198,10 @@ The topics and books are arranged in the order I would recommend learning them.
 * **Class Field Theory** by *J.S. Milne*: This is good for learning local class field theory from the perspective of Galois cohomology. I have read parts of Chapter I, II, III and V. It is freely [available online](https://www.jmilne.org/math/CourseNotes/cft.html).
   * **Primes of the Form $x^2 + ny^2$** by *D. Cox*: For a working knowledge of the important results of global class field theory I should read this as per [this advice](https://mathoverflow.net/a/6940/).
 * **Algebraic Number Theory: Papers from the conference held at the University of Sussex (Sep 1 - Sep 17, 1965)** edited by *J. W. S. Cassels and A. Fröhlich*: The reference for most of the advanced topics in algebraic number theory. Contains Tate's doctoral thesis.
+  * **Fourier analysis on number fields** by *D. Ramakrishnan and R. J. Valenza*: to read. It is an introduction to number theory organized around John Tate’s Ph.D. thesis.  Tate's thesis, [loosely speaking](https://math.stackexchange.com/questions/25090/), laid the foundations for the Langlands program. ([review](https://www.ams.org/journals/bull/2000-37-03/S0273-0979-00-00872-7/S0273-0979-00-00872-7.pdf))
+* **Automorphic Representations and L-Functions for the General Linear Group: Vol 1 and 2** by *D. Goldfeld and J. Hundley*: to read. The purpose of this book is to provide an elementary yet extremely rigorous exposition of the theory of cuspidal automorphic representations and L-functions for the general linear group in a textbook form that can be understood by the beginning graduate student with minimal background in representation theory. Modern research in the theory of automorphic representations and L-functions is largely focused in the direction of the Langlands program. ([review](https://pdfs.semanticscholar.org/f68f/8759f764e7c8ea3969c663c14d3c8186b17c.pdf))
 
 *I don't know why any proof of quadratic reciprocity makes me feel uncomfortable.*
-
-## Langlands Program ##
-
-* **Fourier analysis on number fields** by *D. Ramakrishnan and R. J. Valenza*: to read. It is an introduction to number theory organized around John Tate’s Ph.D. thesis.  Tate's thesis, [loosely speaking](https://math.stackexchange.com/questions/25090/), laid the foundations for the Langlands program. ([review](https://www.ams.org/journals/bull/2000-37-03/S0273-0979-00-00872-7/S0273-0979-00-00872-7.pdf))
-
-* **A First Course in Modular Forms** by *F. Diamond and J. Shurman*: to read. This book explains a result called the Modularity Theorem (Taniyama–Shimura conjecture). The modularity theorem is a [special case](https://math.stackexchange.com/questions/55449/) of the Langlands program. 
-
-* **Automorphic Representations and L-Functions for the General Linear Group: Vol 1 and 2** by *D. Goldfeld and J. Hundley*: to read. The purpose of this book is to provide an elementary yet extremely rigorous exposition of the theory of cuspidal automorphic representations and L-functions for the general linear group in a textbook form that can be understood by the beginning graduate student with minimal background in representation theory. ([review](https://pdfs.semanticscholar.org/f68f/8759f764e7c8ea3969c663c14d3c8186b17c.pdf))
-
-* **Modular Forms and Fermat's Last Theorem: Papers from the conference held at Boston University (Aug 9 - Aug 18, 1995)** edited by *G. Cornell, J. H. Silverman, and G. Stevens*: to read. see Chapter VI.
 
 ## Arithmetic Geometry ##
 
@@ -221,14 +212,13 @@ The topics and books are arranged in the order I would recommend learning them.
    * **Galois Representations** by *Gabor Wiese*: These notes complement the discussion in section III.7 of Silverman's text. They are [available online](https://math.uni.lu/~wiese/notes/GalRep.pdf).
 * **Rational Points on Varieties** by *B. Poonen*: It provides a good introduction to the theory of Brauer groups and the Brauer-Manin obstruction, while briefly discussing other useful tools like etale cohomology.
   * **Algebraic geometry and arithmetic curves** by *Q. Liu* (translated from the French by R. Erné): An introduction to the language of schemes (chapter 2 to 7), without assuming the base field to be algebraically closed, or of characteristic zero.
-
 * **Arithmetic Geometry: Papers from the conference held at the University of Connecticut (Jul 30 - Aug 10, 1984)** edited by *G. Cornell and J. H. Silverman*: The reference for most of the advanced topics in arithmetic geometry. Most of the articles are intended as expositions of the tools used in the proof of Faltings' theorem. 
-
 * **Notes on p-adic Hodge theory** by *O. Brinon and B. Conrad*: to read. The notes are still in preliminary stage and are [available online](http://math.stanford.edu/~conrad/papers/notes.pdf).
 
 <!--- * **Abelian Varieties** by *D. Mumford*: A scheme-theoretic treatment of most of the basic theory of abelian varieties. However, all ground fields are assumed to be algebraically closed, which limits the usefulness of the book as a reference for arithmetic geometers.
   * **Algebraic Geometry** by *R. Hartshorne*: The chapter II and III of this book provide an introduction to algebraic geometry via the theory of schemes over algebraically closed field. Good reference for the cohomology of schemes. 
  * **Etale Cohomology and the Weil Conjecture** by *Freitag and Kiehl*: This book presents P. Deligne's proof of the last of the Weil conjectures, following his original paper and develops the necessary background material from étale cohomology. However, the authors focus on scheme-theoretic algebraic geometry and analytic geometry,
+* **A First Course in Modular Forms** by *F. Diamond and J. Shurman*: to read. This book explains a result called the Modularity Theorem (Taniyama–Shimura conjecture). The modularity theorem is a [special case](https://math.stackexchange.com/questions/55449/) of the Langlands program. 
 --->
 
 ## Complex Geometry ##
