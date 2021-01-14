@@ -48,7 +48,7 @@ People have tried achieving this in many other programming languages, but all of
 
 > Any mathematician who is serious about doing extensive computational work in algebraic number theory and arithmetic geometry is strongly urged to become familiar with all three systems [Sage, Pari and Magma], since they all have their pros and cons. Pari is sleek and small, Magma has much unique functionality for computations in arithmetic geometry, and Sage has a wide range of functionality in most areas of mathematics, a large developer community, and much unique new code. -- [SageMath October 2008 Bordeaux meeting](https://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/introduction.html#the-sage-pari-magma-ecosystem)
 
-Simiar advice is given by Andrew Sutherland and John Voight in [this blog post by Frank Calegari](https://www.galoisrepresentations.com/2020/06/16/tips-on-becoming-a-computational-number-theorist/).
+There is similar advice from Andrew Sutherland and John Voight in [this blog post by Frank Calegari](https://www.galoisrepresentations.com/2020/06/16/tips-on-becoming-a-computational-number-theorist/).
 
 ## Python: General-purpose programming language (open-source)
 
