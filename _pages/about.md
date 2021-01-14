@@ -10,8 +10,12 @@ redirect_from:
 
 Hi! I am a second year mathematics graduate student at the University of Arizona. My mathematical interests lie in arithmetic geometry. 
 
-**Office:** Zoom <!-- ENR2 S390GG ([Environment and Natural Resources 2 Building](https://enr2tour.arizona.edu/)) -->
+ ![kisin.png](https://gkorpal.github.io/images/kisin.png) | 
+|:--:| 
+| Here the dashed arrows indicate a conjecture, while the dotted ones indicate partial progres. *Source: [What is a Galois Representation?](https://www.ams.org/notices/200706/tx070600718p.pdf) by Mark Kisin (June/July 2007)* |
 
-**Office Hours:**  On Sundays from 2:00 pm to 3:00 pm, on Tuesdays and Thursdays from 4:00 pm to 5:00 pm
+**Office:** ENR2 S390GG ([Environment and Natural Resources 2 Building](https://enr2tour.arizona.edu/))
+
+<!--- **Office Hours:**  On Sundays from 2:00 pm to 3:00 pm, on Tuesdays and Thursdays from 4:00 pm to 5:00 pm --->
 
 **email:** gkorpal at math dot arizona dot edu
