@@ -12,7 +12,7 @@ Hi! I am a second year mathematics graduate student at the University of Arizona
 
 | ![kisin.png](https://gkorpal.github.io/images/kisin.png) | 
 |:--:| 
-| Here the dashed arrows indicate a conjecture, while the dotted ones indicate partial progres. (Source: [What is a Galois Representation?](https://www.ams.org/notices/200706/tx070600718p.pdf) by Mark Kisin (June/July 2007)). An annotated version is available at the [LMFDB universe webpage](https://www.lmfdb.org/universe). Note that, the Langlands program predicts that any algebraic variety over $\mathbb{Q}$ corresponds to an algebraic automorphic form via their L-functions.|
+| Here the dashed arrows indicate a conjecture, while the dotted ones indicate partial progres. **Source:** [What is a Galois Representation?](https://www.ams.org/notices/200706/tx070600718p.pdf) by Mark Kisin (June/July 2007). *An annotated version is available at the [LMFDB universe webpage](https://www.lmfdb.org/universe). Note that, the Langlands program predicts that any algebraic variety over $\mathbb{Q}$ corresponds to an algebraic automorphic form via their L-functions.*|
 
 **Office:** ENR2 S390GG ([Environment and Natural Resources 2 Building](https://enr2tour.arizona.edu/))
 
