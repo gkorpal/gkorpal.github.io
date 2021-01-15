@@ -213,12 +213,12 @@ The topics and books are arranged in the order I would recommend learning them.
 * **Rational Points on Varieties** by *B. Poonen*: It provides a good introduction to the theory of Brauer groups and the Brauer-Manin obstruction, while briefly discussing other useful tools like etale cohomology.
   * **Algebraic geometry and arithmetic curves** by *Q. Liu* (translated from the French by R. Erné): An introduction to the language of schemes (chapter 2 to 7), without assuming the base field to be algebraically closed, or of characteristic zero.
   * **Arithmetic Geometry: Papers from the conference held at the University of Connecticut (Jul 30 - Aug 10, 1984)** edited by *G. Cornell and J. H. Silverman*: The reference to learn basics of advanced topics like Jacobian varieties and Néron Models. It also contains the article by Milne which discusses abelian varieties without assuming ground field to be algebraically closed. Most of the articles are intended as expositions of the tools used in the proof of Faltings' theorem. 
-* **Notes on p-adic Hodge theory** by *O. Brinon and B. Conrad*: to read. The notes are still in preliminary stage and are [available online](http://math.stanford.edu/~conrad/papers/notes.pdf).
+* **Notes on p-adic Hodge Theory** by *O. Brinon and B. Conrad*: to read. The notes are still in preliminary stage and are [available online](http://math.stanford.edu/~conrad/papers/notes.pdf).
 
 <!--- 
   * **Abelian Varieties** by *D. Mumford*: A scheme-theoretic treatment of most of the basic theory of abelian varieties. However, all ground fields are assumed to be algebraically closed, which limits the usefulness of the book as a reference for arithmetic geometers.
   * **Algebraic Geometry** by *R. Hartshorne*: The chapter II and III of this book provide an introduction to algebraic geometry via the theory of schemes over algebraically closed field. Good reference for the cohomology of schemes. 
- * **Etale Cohomology and the Weil Conjecture** by *Freitag and Kiehl*: This book presents P. Deligne's proof of the last of the Weil conjectures, following his original paper and develops the necessary background material from étale cohomology. However, the authors focus on scheme-theoretic algebraic geometry and analytic geometry,
+ * **Étale Cohomology and the Weil Conjecture** by *Freitag and Kiehl*: This book presents P. Deligne's proof of the last of the Weil conjectures, following his original paper and develops the necessary background material from étale cohomology. However, the authors focus on scheme-theoretic algebraic geometry and analytic geometry,
 --->
 
 ## Complex Geometry ##
