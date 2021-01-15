@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second year mathematics graduate student at the University of Arizona. 
+Hi! I am a second year mathematics Ph.D. student at the University of Arizona. 
 
 My interests lie in arithmetic geometry, especially the relationship between "algebraic varieties over $\mathbb{Q}$" and "geometric representations of $G_{\mathbb{Q}}$" as shown in this diagram from Mark Kisin's article ["What is a Galois Representation?"](https://www.ams.org/notices/200706/tx070600718p.pdf): 
 
