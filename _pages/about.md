@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second year mathematics graduate student at the University of Arizona. My mathematical interests lie in arithmetic geometry. 
+Hi! I am a second year mathematics graduate student at the University of Arizona. I am interested in arithmetic geometry, especially the relationship between "algebraic varieties over $\mathbb{Q}$" and "geometric representations of $G_{\mathbb{Q}}$" shown in this diagram: 
 
 | ![kisin.png](https://gkorpal.github.io/images/kisin.png) | 
 |:--:| 
