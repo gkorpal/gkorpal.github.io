@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second year mathematics graduate student at the University of Arizona. I am interested in arithmetic geometry, especially the relationship between "algebraic varieties over $\mathbb{Q}$" and "geometric representations of $G_{\mathbb{Q}}$" as shown in this diagram from Mark Kisin's article ["What is a Galois Representation?"](https://www.ams.org/notices/200706/tx070600718p.pdf): 
+Hi! I am a second year mathematics graduate student at the University of Arizona. 
+
+My interests lie in arithmetic geometry, especially the relationship between "algebraic varieties over $\mathbb{Q}$" and "geometric representations of $G_{\mathbb{Q}}$" as shown in this diagram from Mark Kisin's article ["What is a Galois Representation?"](https://www.ams.org/notices/200706/tx070600718p.pdf): 
 
 | ![kisin.png](https://gkorpal.github.io/images/kisin.png) | 
 |:--:| 
 | Here the dashed arrows indicate a conjecture, while the dotted ones indicate partial progres, like the [Serre's conjecture](https://www.math.arizona.edu/~cais/Papers/Expos/Serre05.pdf) proof by Khare and Wintenberger (2008) for the "Wiles, Taylor ..." arrow and [Deligne's reduction](https://mathoverflow.net/a/20259/) of the Ramanujan conjecture to the Weil conjectures using the [Eichler-Shimura theory](https://mathoverflow.net/a/20950/) (1971) for the "Shimura varieties" arrow. Note that, the Langlands program predicts that any algebraic variety over $\mathbb{Q}$ corresponds to an algebraic automorphic form via their L-functions. *An annotated version of this diagram is available at the [LMFDB universe webpage](https://www.lmfdb.org/universe).*|
+
 
 **Office:** ENR2 S390GG ([Environment and Natural Resources 2 Building](https://enr2tour.arizona.edu/))
 
