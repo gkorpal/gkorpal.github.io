@@ -23,14 +23,14 @@ The following is some information regarding the 15 week iCourse section (103/203
 * **Homework assignments:** There are 4 components to homework: ALEKS HW, ALEKS Quizzes, Gradescope Written HW and Gradescope Group Work. There will be 24 ALEKS HW assignments, 6 ALEKS Quizzes, 6 Gradescope Written HW and 6 Gradescope Group Assignments. You will be able to access all these via D2L portal.
 
 * **Exams:** There will 3 unit (“Midterm”) exams and a final exam, the unit exams will proctored via Examity and the final exam will be proctered via Zoom. All unit exams will have a choice of times to overcome the timezone differences. However, the final exam is given at a common time according to the final exam schedule posted by The University of Arizona.
- * Midterm 1: Tuesday, February 23, or Wednesday, February 24.
-    * Topics: Functions, Graphs of Functions, Linear Functions, Piecewise Linear Functions, Transformations of Functions
+   * Midterm 1: Tuesday, February 23, or Wednesday, February 24.
+      * Topics: Functions, Graphs of Functions, Linear Functions, Piecewise Linear Functions, Transformations of Functions
   * Midterm 2: Tuesday, March 23, or Wednesday, March 24.
     * Topics: Combining Functions, Inverse Functions, Quadratic Functions, Polynomial Functions
   * Midterm 3: Tuesday, April 27, or Wednesday, April 28.
     * Topics: Rational Functions, Exponential Functions, Logarithmic Functions, Properties of Logarithms, Exponential and
 Logarithmic Equations and Applications
-  * Final Exam: Monday, May 10, 8-10 am. 
-    * Topics: Full syllabus.
+   * Final Exam: Monday, May 10, 8-10 am. 
+      * Topics: Full syllabus.
   
 * **Study guides and other information regarding exams:** <a href="https://math112.math.arizona.edu/" target="_blank">https://math112.math.arizona.edu/ </a> 
