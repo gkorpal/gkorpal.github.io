@@ -4,7 +4,7 @@ collection: teaching
 type: "Lower Division Undergraduate Course"
 permalink: /teaching/2021-spring-teaching-1
 venue: "University of Arizona"
-date: 2020-01-13
+date: 2021-01-13
 location: "Zoom"
 ---
 The following is some information regarding the 15 week iCourse section (103/203/403) of the course Math 112 that I will be assisting with during Spring 2021. 
