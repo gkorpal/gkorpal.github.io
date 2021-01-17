@@ -23,11 +23,11 @@ Education
 
 Work experience
 ------
-* August 2019 - present: Graduate Teaching Assistant - Department of Mathematics (The University of Arizona College of Science)
-  * Spring 2021: <em> </em> TA for Math 112 - Michael Rossetti (Drop-in Tutoring via Zoom, Grading HW via Gradescope and Proctoring exams via Zoom) and TA for Math 511B - Prof. Bryden Cais (Weekly problem solving sessions via Zoom, Grading HW via Gradescope).</em>
-  * Fall 2020: <em>TA for Math 112 - Michael Rossetti (Drop-in Tutoring via Zoom, Grading HW and Proctoring exams) and Zoom exam proctor for Math 113 (Janet Sipes), Math 112 (Mary Lawler), Math 116 (Erzebet Lugosi) and Math 122A (Tynan Lazarus).</em>
-  * Spring 2020: <em>TA for Math 112 - Heonmi Kim ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))</em>
-  * Fall 2019: <em>TA for Math 112 - Mitchell James Wilson ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))</em>
+* **August 2019 - present:** Graduate Teaching Assistant - Department of Mathematics (The University of Arizona College of Science)
+  * **Spring 2021:** <em> TA for Math 112 - Michael Rossetti (Drop-in Tutoring via Zoom, Grading HW via Gradescope and Proctoring exams via Zoom) and TA for Math 511B - Prof. Bryden Cais (Weekly problem solving sessions via Zoom, Grading HW via Gradescope).</em>
+  * **Fall 2020:** <em>TA for Math 112 - Michael Rossetti (Drop-in Tutoring via Zoom, Grading HW and Proctoring exams) and Zoom exam proctor for Math 113 (Janet Sipes), Math 112 (Mary Lawler), Math 116 (Erzebet Lugosi) and Math 122A (Tynan Lazarus).</em>
+  * **Spring 2020:** <em>TA for Math 112 - Heonmi Kim ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))</em>
+  * **Fall 2019:** <em>TA for Math 112 - Mitchell James Wilson ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))</em>
   
 Awards and Fellowships
 ------
