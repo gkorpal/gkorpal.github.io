@@ -16,7 +16,7 @@ The following is some information regarding the second half of the core graduate
 **Teaching Assistant:** Gaurish Korpal
 
 
-* **Course syllabus:** In this course we will cover the theory of modules, fields and homological algebra following the textbook ["Algebra: Chapter 0" by Paolo Aluffi](https://bookstore.ams.org/gsm-104)(chapters 6, 7 and 8).
+* **Course syllabus:** In this course we will cover the theory of modules, fields and homological algebra following the textbook ["Algebra: Chapter 0" by Paolo Aluffi](https://bookstore.ams.org/gsm-104) (chapters 6, 7 and 8).
 
 * **Homework assignments:** Written homework will be assigned regualarly, most probably on every Thursday and will be due the following Friday. They will be graded by the TA using Gradescope. Also, there will be weekly problem solving sessions in which the TA will discuss the problems from these assignments.
 
