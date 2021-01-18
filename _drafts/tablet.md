@@ -15,6 +15,7 @@ Following is the comparison of tech specs of my new tablet (USD 315 + taxes) wit
 |Storage | 64GB eMMC |  32GB eMMC|
 |Battery | 7040 mAh | 3950 mAh|
 | OS | One UI 2.1 on Android 10 ([updated quaterly or later](https://security.samsungmobile.com/workScope.smsb)) | Android 4.3 Jelly Bean, upgraded till Android 6 Marshmallow (was well supported till the end of 2018)| 
+| Warranty | 1 year | 1 year |
 
 Initially, since reading was the main purpose of the tablet, I tried replacing my older tablet with [Kindle Paperwhite (3rd generation)](https://en.wikipedia.org/wiki/Amazon_Kindle#Kindle_Paperwhite_(third_generation)). However, its small screen made it impossible to quickly jump between the pages of the large documents. Moreover, to be able to read pdf/DjVu files properly, one first has to optimize them for viewing using [k2pdfopt](https://www.willus.com/k2pdfopt/) or [jailbreak kindle](https://decryptronics.github.io/electronics/2020/07/12/jailbreaking-my-kindle-paperwhite-3.html) (complicated). Another adavantage of using a tablet PC instead of an e-reader is that nowadays there are many open source online textbooks available, like [The Stacks project](https://stacks.math.columbia.edu/) and [nLab](https://ncatlab.org/nlab/show/mathematics).
 
