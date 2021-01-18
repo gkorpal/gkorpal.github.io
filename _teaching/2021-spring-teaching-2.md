@@ -7,7 +7,7 @@ venue: "University of Arizona"
 date: 2021-01-13
 location: "Zoom"
 ---
-The following is some information regarding the second half of the core graduate abstract algebra course that I will be assisting with during Spring 2021. 
+The following is some information regarding the core graduate abstract algebra course (the second half) that I will be assisting with during Spring 2021. 
 
 *The course has 5 students, 3 of them are graduate students and the remaining 2 are undergraduate students.*
 
