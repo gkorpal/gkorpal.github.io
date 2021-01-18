@@ -20,4 +20,4 @@ The following is some information regarding the second half of the core graduate
 
 * **Homework assignments:** Written homework will be assigned regualarly, most probably on every Thursday and will be due the following Friday. They will be graded by the TA using Gradescope. Also, there will be weekly problem solving sessions in which the TA will discuss the problems from these assignments.
 
- * **Exams:** There  will  be  a  take-home  midterm  exam  which  will  be  made  available  on Thursday, March  4, 2021 and will be due on next Thursday, March 11, 2021. There will also be a comprehensive take home fnal exam which will be made available on Tuesday, April 27, 2021 and will be due on Wednesday, May 5, 2021.
+ * **Exams:** There  will  be  a  take-home  midterm  exam  which  will  be  made  available  on Thursday, March  4, 2021 and will be due on next Thursday, March 11, 2021. There will also be a comprehensive take home final exam which will be made available on Tuesday, April 27, 2021 and will be due on Wednesday, May 5, 2021.
