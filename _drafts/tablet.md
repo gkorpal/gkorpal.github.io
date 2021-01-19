@@ -12,8 +12,13 @@ Following is the comparison of tech specs of my new tablet (USD 315 + taxes) wit
 | CPU | Samsung Exynos 9610 (2.3GHz x 4 cores, Cortex-A73 + 1.7GHz x 4 cores, Cortex-A53) | Qualcomm Snapdragon S4 Pro APQ8064 (1.5GHz x 4 cores, Krait 300)|
 | iGPU | Arm	Mali-G72 (850MHz, Bifrost) | Qualcomm Adreno 320 (400MHz, Ardeno)|
 | RAM | 4GB | 2GB |
-|Storage | 64GB eMMC |  32GB eMMC|
-|Battery | 7040 mAh | 3950 mAh|
+| Storage | 64GB eMMC |  32GB eMMC|
+| Battery | 7040 mAh (fast charging) | 3950 mAh (supports wireless charging)|
+| Ports | 3.5mm headset jack,  Type-C USB 2.0 and microSD card slot (upto 1TB) | 3.5mm headset jack and SlimPort (microUSB)|
+| Network | WiFi (802.11 a/b/g/n/ac 2.4+5GHz) and Bluetooth 4.0 | WiFi (802.11 a/b/g/n 2.4GHz/5GHz), Bluetooth 4.0 and NFC (Android Beam)|
+| Audio | AKG 2-speakers (Dolby Atmos) | 2-speakers (Fraunhofer Cingo)|
+| Display |10.4"  2000 x 1200 WUXGA+  | 7" 1920x1200 WUXGA 323ppi IPS 10 point capacitive touchscreen (scratch resistant Corning Fit glass)| 
+| Camera |  8MP rear-facing with auto focus and 5MP front-facing  |  5MP rear-facing with auto focus and 1.2MP front-facing |
 | OS | One UI 2.1 on Android 10 ([updated quaterly or later](https://security.samsungmobile.com/workScope.smsb)) | Android 4.3 Jelly Bean, upgraded till Android 6 Marshmallow (was well supported till the end of 2018)| 
 | Warranty | 1 year | 1 year |
 
