@@ -21,7 +21,7 @@ Following is the comparison of tech specs of my new tablet (USD 315 + taxes) wit
 | Camera |  8MP rear-facing with auto focus and 5MP front-facing with face unlock support |  5MP rear-facing with auto focus and 1.2MP front-facing |
 | OS | Android 10 with One UI 2 ([updated quaterly or later](https://security.samsungmobile.com/workScope.smsb)) | Android 4.3 Jelly Bean, upgraded till Android 6 Marshmallow (apps were supported till 2019)| 
 | Warranty | 1 year | 1 year |
-| Bottomline | Comes with S Pen (Wacom's battery-free EMF pen with 4096 pressure level sensitivity) | Designed for portability, can even fit in big pockets.|
+| Bottomline | Comes with S Pen which magnetically sticks to the edge of the tablet (Wacom's battery-free EMF pen with 4096 pressure level sensitivity) | Designed for portability, can even fit in big pockets.|
 
 Initially, since reading was the main purpose of the tablet, I tried replacing my older tablet with [Kindle Paperwhite (3rd generation)](https://en.wikipedia.org/wiki/Amazon_Kindle#Kindle_Paperwhite_(third_generation)). However, its small screen made it impossible to quickly jump between the pages of the large documents. Moreover, to be able to read pdf/DjVu files properly, one first has to optimize them for viewing using [k2pdfopt](https://www.willus.com/k2pdfopt/) or [jailbreak kindle](https://decryptronics.github.io/electronics/2020/07/12/jailbreaking-my-kindle-paperwhite-3.html) (complicated). Another adavantage of using a tablet PC instead of an e-reader is that nowadays there are many open source online textbooks available, like [The Stacks project](https://stacks.math.columbia.edu/) and [nLab](https://ncatlab.org/nlab/show/mathematics).
 
