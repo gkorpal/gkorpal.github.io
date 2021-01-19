@@ -17,7 +17,7 @@ Following is the comparison of tech specs of my new tablet (USD 315 + taxes) wit
 | Ports | 3.5mm headset jack,  Type-C USB 2.0 and microSD card slot (upto 1TB) | 3.5mm headset jack and SlimPort (microUSB)|
 | Network | WiFi (802.11 a/b/g/n/ac 2.4+5GHz) and Bluetooth 4.0 | WiFi (802.11 a/b/g/n 2.4GHz/5GHz), Bluetooth 4.0 and NFC (Android Beam)|
 | Audio | AKG 2-speakers (Dolby Atmos) | Sterio speakers (Fraunhofer Cingo)|
-| Display |10.4"  2000 x 1200 WUXGA+  | 7" 1920x1200 WUXGA 323ppi IPS 10 point capacitive touchscreen (scratch resistant Corning Fit glass)| 
+| Display |10.4"  2000 x 1200 WUXGA+  | 7" 1920x1200 WUXGA 323ppi IPS with 10 finger multi-touch support (scratch resistant Corning Fit glass)| 
 | Camera |  8MP rear-facing with auto focus and 5MP front-facing  |  5MP rear-facing with auto focus and 1.2MP front-facing |
 | OS | One UI 2.1 on Android 10 ([updated quaterly or later](https://security.samsungmobile.com/workScope.smsb)) | Android 4.3 Jelly Bean, upgraded till Android 6 Marshmallow (was well supported till the end of 2018)| 
 | Warranty | 1 year | 1 year |
