@@ -33,4 +33,3 @@ For Apple products you pay the premium price for better support but at the same 
 | -------- | -----------  |----------------- |
 | PDF reader and annotator | Adobe Acrobat Reader | Xodo PDF Reader & Editor |
 | Sync folder with Google Drive | FolderSync | Autosync for Google Drive |
-FolderSync
