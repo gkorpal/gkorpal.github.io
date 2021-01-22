@@ -9,17 +9,17 @@ Following is the comparison of tech specs of my new tablet (USD 315 + taxes) wit
 
 | Specification | Samsung Galaxy Tab S6 Lite | Asus Google Nexus 7 (2nd generation) |
 | --------------| -------------------------- | ------------------------------------ |
-| CPU | Samsung Exynos 9610 (2.3GHz x 4 cores, Cortex-A73 + 1.7GHz x 4 cores, Cortex-A53) | Qualcomm Snapdragon S4 Pro APQ8064 (1.5GHz x 4 cores, Krait 300)|
+| CPU | Samsung Exynos 9611 (2.3GHz x 4 cores, Cortex-A73 + 1.7GHz x 4 cores, Cortex-A53) | Qualcomm Snapdragon S4 Pro APQ8064 (1.5GHz x 4 cores, Krait 300)|
 | iGPU | Arm	Mali-G72 (850MHz, Bifrost) | Qualcomm Adreno 320 (400MHz, Ardeno)|
-| RAM | 4GB | 2GB |
+| RAM | 2x2GB LPDDR4X | 2GB DDR3L|
 | Storage | 64GB eMMC |  32GB eMMC|
 | Battery | 7040 mAh (fast charging) | 3950 mAh (supports wireless charging)|
 | Ports | 3.5mm headset jack,  Type-C USB 2.0 and microSD card slot (upto 1TB) | 3.5mm headset jack and SlimPort (microUSB)|
 | Network | WiFi (802.11 a/b/g/n/ac 2.4+5GHz) and Bluetooth 5.0 | WiFi (802.11 a/b/g/n 2.4GHz+5GHz), Bluetooth 4.0 and NFC (Android Beam)|
 | Audio | AKG dual speakers (Dolby Atmos) | Sterio speakers (Fraunhofer Cingo)|
-| Display |10.4" 2000x1200 WUXGA+ 224ppi Wacom digitizer LCD | 7" 1920x1200 WUXGA 323ppi 10 finger multi-touch LCD with scratch resistant Corning Fit glass| 
+| Display |10.4" 2000x1200 WUXGA+ 225ppi Wacom digitizer LCD | 7" 1920x1200 WUXGA 323ppi 10 finger multi-touch LCD with scratch resistant Corning Fit glass| 
 | Camera |  8MP rear-facing with auto focus and 5MP front-facing with face unlock support |  5MP rear-facing with auto focus and 1.2MP front-facing |
-| OS | Android 10 with One UI 2 ([updated quaterly or later](https://security.samsungmobile.com/workScope.smsb)) | Android 4.3 Jelly Bean, upgraded till Android 6 Marshmallow (apps were supported till 2019)| 
+| OS | Android 10 with One UI 2.5 ([updated quaterly or later](https://security.samsungmobile.com/workScope.smsb)) | Android 4.3 Jelly Bean, upgraded till Android 6 Marshmallow (apps were supported till 2019)| 
 | Warranty | 1 year | 1 year |
 | Bottomline | Comes with S Pen which magnetically sticks to the edge of the tablet (Wacom's battery-free EMF pen with 4096 pressure level sensitivity) | Designed for portability, can even fit in big pockets.|
 
