@@ -11,7 +11,7 @@ Following is the comparison of tech specs of my new tablet (USD 315 + taxes) wit
 | --------------| -------------------------- | ------------------------------------ |
 | CPU | Samsung Exynos 9611 (2.3GHz x 4 cores, Cortex-A73 + 1.7GHz x 4 cores, Cortex-A53) | Qualcomm Snapdragon S4 Pro APQ8064 (1.5GHz x 4 cores, Krait 300)|
 | iGPU | Arm	Mali-G72 (850MHz, Bifrost) | Qualcomm Adreno 320 (400MHz, Ardeno)|
-| RAM | 2x2GB LPDDR4X | 2GB DDR3L|
+| RAM | 2 x 2GB LPDDR4X | 2GB DDR3L|
 | Storage | 64GB eMMC |  32GB eMMC|
 | Battery | 7040 mAh (fast charging) | 3950 mAh (supports wireless charging)|
 | Ports | 3.5mm headset jack,  Type-C USB 2.0 and microSD card slot (upto 1TB) | 3.5mm headset jack and SlimPort (microUSB)|
