@@ -86,7 +86,7 @@ If you want GUI version of Python development environment then can get [IDLE](ht
 
 Note that the text-wrap is disabled by default, with the maximum line length of 79 characters. Moreover, it uses `pylint` to check code at every save. I couldn't figureout how to use code completion via `rope`.
 
-One can learn the basics by going through ["Hands-on Python Tutorial" by Andrew N. Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/) or skimming through the [tutorial available in the official documentation](https://docs.python.org/3/tutorial/). If you prefer video lectures, then the MIT OCW [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/6-0001F16) and [Introduction to Computational Thinking and Data Science](http://ocw.mit.edu/6-0002F16) are good options (many other free tutorials are also there [on YouTube](https://realpython.com/python-youtube-channels/)).
+One can learn the basics by going through [Hands-on Python Tutorial](http://anh.cs.luc.edu/python/hands-on/3.1/) by Andrew N. Harrington or skimming through the [tutorial available in the official documentation](https://docs.python.org/3/tutorial/). If you prefer video lectures, then the MIT OCW [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/6-0001F16) is a good option (many other free tutorials are also there [on YouTube](https://realpython.com/python-youtube-channels/)).
 
 > Python is a [multi-paradigm](https://docs.python.org/3/howto/functional.html), [call by object](https://www.python-course.eu/passing_arguments.php), statically scoped, [both dynamically and strongly typed](https://wiki.python.org/moin/Why%20is%20Python%20a%20dynamic%20language%20and%20also%20a%20strongly%20typed%20language) programming language.
 
@@ -101,7 +101,7 @@ Therefore, though Python is an object-oriented language, it doesn't imply that i
 >>> format(.1, '.20f')  # 0.1 does not has exact representation in binary floating point
 '0.10000000000000000555'
 ````
-To familiarize yourself with the useful maths libraries in Python (for example, `mpmath` provides support for [arbitrary-precision floating point arithmetic](https://mpmath.org/doc/current/technical.html#decimal-issues), one can use the notes for the ["Maths with Python" course](https://maths-with-python.readthedocs.io/en/latest/index.html) at the University of Southampton or ["Fundamentals of Computer Programming" course by Clinton Bradford](https://www.math.purdue.edu/~bradfor3/ProgrammingFundamentals/) at Purdue University. For example, we can get "correct" answers for float arithmetic by using `decimal` module:
+To familiarize yourself with the useful maths libraries in Python (for example, `mpmath` provides support for [arbitrary-precision floating point arithmetic](https://mpmath.org/doc/current/technical.html#decimal-issues), one can use the notes for the [Maths with Python](https://maths-with-python.readthedocs.io/en/latest/index.html) course at the University of Southampton or [Fundamentals of Computer Programming](https://www.math.purdue.edu/~bradfor3/ProgrammingFundamentals/) course by Clinton Bradford at Purdue University. If you prefer video lectures, then the MIT OCW [Introduction to Computational Thinking and Data Science](http://ocw.mit.edu/6-0002F16) is a good option. For example, we can get "correct" answers for float arithmetic by using `decimal` module:
 
 ````python
 # trying to bypass float arithmetic problem
