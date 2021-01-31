@@ -86,7 +86,7 @@ If you want GUI version of Python development environment then can get [IDLE](ht
 
 Note that the text-wrap is disabled by default, with the maximum line length of 79 characters. Moreover, it uses `pylint` to check code at every save. I couldn't figureout how to use code completion via `rope`.
 
-One can learn the basics by going through ["Hands-on Python Tutorial" by Andrew N. Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/) or skimming through the [tutorial available in the official documentation](https://docs.python.org/3/tutorial/). 
+One can learn the basics by going through ["Hands-on Python Tutorial" by Andrew N. Harrington](http://anh.cs.luc.edu/python/hands-on/3.1/) or skimming through the [tutorial available in the official documentation](https://docs.python.org/3/tutorial/). If you prefer video lectures, then the MIT OCW "[Introduction to Computer Science and Programming in Python"](https://ocw.mit.edu/6-0001F16) is a good option (many other free tutorials are also there on YouTube).
 
 > Python is a [multi-paradigm](https://docs.python.org/3/howto/functional.html), [call by object](https://www.python-course.eu/passing_arguments.php), statically scoped, [both dynamically and strongly typed](https://wiki.python.org/moin/Why%20is%20Python%20a%20dynamic%20language%20and%20also%20a%20strongly%20typed%20language) programming language.
 
