@@ -1,1 +1,0 @@
-learn Julia, Haskell
