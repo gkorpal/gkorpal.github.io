@@ -12,7 +12,7 @@ Doing arithmetic geometry using Python 3
 
 # Resources
 
-Ideally, one should have computer science background equivalent to this [Coursera specialization by Rice University](https://online.rice.edu/courses/computer-fundamentals/). However, I don't have that much time or patience. Therefore, I will rely on the [following resources](https://legacy.python.org/workshops/2002-02/papers/15/index.htm).
+Ideally, one should have computer science background equivalent to this [Coursera specialization by Rice University](https://online.rice.edu/courses/computer-fundamentals/). However, I don't have that much time or patience. Therefore, I will rely on the [following resources](https://legacy.python.org/workshops/2002-02/papers/15/index.htm):
 
 | Resource | Description |
 | --------- | ----- |
