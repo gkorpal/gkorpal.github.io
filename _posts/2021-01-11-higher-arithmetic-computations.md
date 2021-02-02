@@ -40,7 +40,7 @@ Open source softwares have been a life saver for students in countries like Indi
 
 | Programming language | CAS library |
 | ------------| -------------------- |
-| C/C++ | [SymbolicC++](https://issc.uj.ac.za/symbolic/symbolic.html), [GiNaC](https://www.ginac.de/), [SymEngine](https://github.com/symengine/symengine)|
+| C++ | [SymbolicC++](https://issc.uj.ac.za/symbolic/symbolic.html), [GiNaC](https://www.ginac.de/), [SymEngine](https://github.com/symengine/symengine)|
 | Haskell |  [DoCon](https://homepages.inf.ed.ac.uk/wadler/realworld/docon2.html) |
 | Python | [SymPy](https://www.sympy.org/en/index.html) | 
 | Julia | [Nemo](http://nemocas.org/) (also able to call C/C++ libraries) |
