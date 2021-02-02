@@ -40,10 +40,10 @@ Open source softwares have been a life saver for students in countries like Indi
 
 | Programming language | CAS library |
 | ------------| -------------------- |
-| C++ | [SymbolicC++](https://issc.uj.ac.za/symbolic/symbolic.html), [GiNaC](https://www.ginac.de/), [SymEngine](https://github.com/symengine/symengine)|
+| C/C++ | [SymbolicC++](https://issc.uj.ac.za/symbolic/symbolic.html), [GiNaC](https://www.ginac.de/), [SymEngine](https://github.com/symengine/symengine)|
 | Haskell |  [DoCon](https://homepages.inf.ed.ac.uk/wadler/realworld/docon2.html) |
 | Python | [SymPy](https://www.sympy.org/en/index.html) | 
-| Julia | [Nemo](http://nemocas.org/) |
+| Julia | [Nemo](http://nemocas.org/)(also able to call C/C++ libraries) |
 
 People have tried achieving this in many other programming languages, but all of them are half-baked due to the lack of contributors. In fact, using GiNaC we can get a [symbolic extension](https://wiki.octave.org/wiki/index.php?title=Code&mobileaction=toggle_view_mobile#Octave_interfaces_to_GiNaC) for GNU Octave (nowadays can also [use SymPy](https://github.com/cbm755/octsympy)) and its fork [Pynac](https://github.com/pynac/pynac) provides the backend for symbolic expressions in SageMath (before that Maxima was used).  Moreover, SymEngine is planned to be used as an [optional fast symbolic core for SymPy](https://www.sympy.org/en/roadmap.html) since it is [much faster than Pynac and a bit faster than GiNaC](http://sciruby.com/blog/2015/08/17/ruby-wrappers-for-symengine/). However, for doing computational experiments in higher arithmetic we will have to learn multiple languages:
 
