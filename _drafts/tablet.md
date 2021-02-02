@@ -22,7 +22,7 @@ Following is the comparison of tech specs of my new tablet (USD 315 + taxes) wit
 | OS | Android 10 with One UI 2.5 ([updated quaterly or later](https://security.samsungmobile.com/workScope.smsb)) | Android 4.3 Jelly Bean, upgraded till Android 6 Marshmallow (apps were supported till 2019)| 
 | Warranty | 1 year | 1 year |
 | Bottomline | Comes with S Pen which magnetically sticks to the edge of the tablet (Wacom's battery-free EMF pen with 4096 pressure level sensitivity) | Designed for portability, can even fit in big pockets. Could easily annotate PDF using Adobe reader and fingers.|
-| Additional accessories| Official Book Cover (USD 32) and Replacement S Pen Nib from Note 10 box (eBay, USD 10) |  Official Travel Cover (USD 31) |
+| Additional accessories| Official Book Cover (USD 32) and S Pen nib replacement kit from Note 10 box (eBay, USD 10) |  Official Travel Cover (USD 31) |
 
 In my opinion, [Samsung Galaxy Tab S6 Lite](https://www.samsung.com/us/support/owners/product/galaxy-tab-s6-lite-wi-fi) is just an updated version of [Samsung Google Nexus 10](https://www.samsung.com/us/support/owners/product/google-nexus-10-tab-wi-fi) with added Wacom drawing tablet functionality and reduced screen resolution ([full comparison](https://versus.com/en/google-nexus-10-vs-samsung-galaxy-tab-s6-lite-wi-fi)). On the other hand, [Samsung Galaxy Tab S series](https://en.wikipedia.org/wiki/Samsung_Galaxy_S_series#Tablets) in general have filled the void left by [Google Pixel C](https://support.google.com/pixel/faq/6323244?hl=en) after Google dumped Android in favor of ChromeOS for tablets.
 
