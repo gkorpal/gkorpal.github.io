@@ -24,6 +24,10 @@ My interests lie in arithmetic geometry, especially in the relationship between 
 **email:** gkorpal at math dot arizona dot edu
 
 <center>
+  <a href="https://drc.arizona.edu/">
+     <img alt="AZ" src="https://gkorpal.github.io/images/ua.png"
+       width="100" height="100" class="center">
+  </a>
   <a href="https://autismacceptance.com/">
      <img alt="ASAN" src="https://gkorpal.github.io/images/ASAN_icon.jpg"
        width="100" height="100" class="center">
@@ -32,6 +36,9 @@ My interests lie in arithmetic geometry, especially in the relationship between 
      <img alt="AWN" src="https://gkorpal.github.io/images/awnlogo-256.png"
        width="100" height="100" class="center">
   </a>
-  
+  <a href="https://en.wikipedia.org/wiki/Portal:LGBT">
+     <img alt="ASAN" src="https://gkorpal.github.io/images/pride.png"
+       width="162" height="100" class="center">
+  </a>
 </center>
 
