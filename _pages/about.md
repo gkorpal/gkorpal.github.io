@@ -26,19 +26,19 @@ My interests lie in arithmetic geometry, especially in the relationship between 
 <center>
   <a href="https://drc.arizona.edu/">
      <img alt="AZ" src="https://gkorpal.github.io/images/ua.png"
-       width="100" height="100" class="center">
+       width="80" height="80" class="center">
   </a>
   <a href="https://autismacceptance.com/">
      <img alt="ASAN" src="https://gkorpal.github.io/images/ASAN_icon.jpg"
-       width="100" height="100" class="center">
+       width="80" height="80" class="center">
   </a>
   <a href="https://awnnetwork.org/">
      <img alt="AWN" src="https://gkorpal.github.io/images/awnlogo-256.png"
-       width="100" height="100" class="center">
+       width="80" height="80" class="center">
   </a>
   <a href="https://en.wikipedia.org/wiki/Portal:LGBT">
      <img alt="ASAN" src="https://gkorpal.github.io/images/pride.png"
-       width="162" height="100" class="center">
+       width="130" height="80" class="center">
   </a>
 </center>
 
