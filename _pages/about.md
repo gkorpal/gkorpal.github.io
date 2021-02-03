@@ -22,3 +22,6 @@ My interests lie in arithmetic geometry, especially in the relationship between 
 <!--- **Office Hours:**  On Sundays from 2:00 pm to 3:00 pm, on Tuesdays and Thursdays from 4:00 pm to 5:00 pm --->
 
 **email:** gkorpal at math dot arizona dot edu
+
+
+[![ASAN](https://gkorpal.github.io/images/ASAN_icon.jpg)](https://autismacceptance.com/)
