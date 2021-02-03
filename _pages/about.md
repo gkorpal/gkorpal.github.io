@@ -23,5 +23,7 @@ My interests lie in arithmetic geometry, especially in the relationship between 
 
 **email:** gkorpal at math dot arizona dot edu
 
-
-[![ASAN](https://gkorpal.github.io/images/ASAN_icon.jpg =250x)](https://autismacceptance.com/)
+<a href="https://autismacceptance.com/">
+  <img alt="ASAN" src="https://gkorpal.github.io/images/ASAN_icon.jpg"
+       width="100" height="100">
+</a>
