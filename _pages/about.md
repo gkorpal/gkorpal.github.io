@@ -25,5 +25,5 @@ My interests lie in arithmetic geometry, especially in the relationship between 
 
 <a href="https://autismacceptance.com/">
   <img alt="ASAN" src="https://gkorpal.github.io/images/ASAN_icon.jpg"
-       width="100" height="100" align="left">
+       width="100" height="100" align="right">
 </a>
