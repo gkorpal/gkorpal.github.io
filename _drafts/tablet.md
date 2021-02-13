@@ -39,4 +39,4 @@ For Apple products you pay the premium price for better support but at the same 
 
 # Review
 
-OneDrive forced. 
+low resolution, speakers position only good for landscape viewing
