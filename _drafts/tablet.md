@@ -36,7 +36,7 @@ For Apple products you pay the premium price for better support but at the same 
 | -------- | -----------  |----------------- |
 | PDF reader and annotator | Adobe Acrobat Reader | Xodo PDF Reader & Editor |
 | Sync folder with Google Drive | FolderSync | Autosync for Google Drive |
-| Adblocker for Chrome and add-supported apps | N/A | [AdGuard DNS](https://kb.adguard.com/en/dns/setup-guide#setting-up-adguard-dns-for-mobile-connections-android-9)|
+| Adblocker for add-supported webpages (Chrome) and add-supported apps (Autosync) | N/A | [AdGuard DNS](https://kb.adguard.com/en/dns/setup-guide#setting-up-adguard-dns-for-mobile-connections-android-9)|
 
 # Review
 
