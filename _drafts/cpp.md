@@ -19,6 +19,14 @@ We will need the following tools to create C++ programs:
 
 Now we can illustrate all the steps involved using the following example:
 
+## Write source code using text editor
+
 ````cpp
 #io
 ````
+
+## Create makefile
+
+## Compile the source code
+
+## Debug
