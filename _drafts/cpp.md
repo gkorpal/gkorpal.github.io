@@ -15,4 +15,4 @@ We will need the following tools to create C++ programs:
 | Compiler | [GNU Compiler Collection (GCC)](https://developer.fedoraproject.org/tech/languages/c/cpp_installation.html) | `gcc-c++`|
 | Build-automation utility | [GNU Make](https://www.gnu.org/software/make/) | `make` |
 | Source code package portability | [GNU Autotools](https://developer.fedoraproject.org/tech/languages/c/autotools.html) | `autoconf` and `automake`|
-| Debugger | [GNU Project Debugger (GDB)](https://www.gnu.org/software/gdb/) | `[gdb](https://src.fedoraproject.org/rpms/gdb)` |
+| Debugger | [GNU Project Debugger (GDB)](https://www.gnu.org/software/gdb/) | [`gdb`](https://src.fedoraproject.org/rpms/gdb) |
