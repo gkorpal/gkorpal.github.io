@@ -40,5 +40,27 @@ My interests lie in arithmetic geometry, especially in the relationship between 
      <img alt="ASAN" src="https://gkorpal.github.io/images/pride.png"
        width="130" height="80" class="center">
   </a>
-</center>
-
+ </center>
+ 
+<center> 
+  <a href="http://www.grothendieckcircle.org/">
+     <img alt="Grothendieck" src="https://gkorpal.github.io/images/heidelberg-laureate-forum_Grothendieck.jpg"
+       width="100" height="160" class="center">
+  </a>
+  <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Erdos/">
+     <img alt="Erdos" src="https://gkorpal.github.io/images/erdos.jpeg"
+       width="115" height="160" class="center">
+  </a>
+  <a href="https://people.math.rochester.edu/faculty/doug/UGpages/sophie.html">
+     <img alt="Sophie" src="https://gkorpal.github.io/images/sophie.png"
+       width="110" height="160" class="center">
+  </a>
+  <a href="https://www.ias.edu/von-neumann">
+     <img alt="Nueman" src="https://gkorpal.github.io/images/neuman.jpg"
+       width="130" height="160" class="center">
+  </a>
+  <a href="https://www.turing.org.uk/">
+     <img alt="Turing" src="https://gkorpal.github.io/images/turing.jpg"
+       width="120" height="160" class="center">
+  </a>
+ </center>
