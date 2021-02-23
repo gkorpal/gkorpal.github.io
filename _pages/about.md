@@ -23,6 +23,7 @@ My interests lie in arithmetic geometry, especially in the relationship between 
 
 **email:** gkorpal at math dot arizona dot edu
 
+<p>
 <center>
   <a href="https://drc.arizona.edu/">
      <img alt="AZ" src="https://gkorpal.github.io/images/ua.png"
@@ -41,7 +42,9 @@ My interests lie in arithmetic geometry, especially in the relationship between 
        width="130" height="80" class="center">
   </a>
  </center>
+ </p>
  
+<p>
 <center> 
   <a href="http://www.grothendieckcircle.org/">
      <img alt="Grothendieck" src="https://gkorpal.github.io/images/heidelberg-laureate-forum_Grothendieck.jpg"
@@ -64,3 +67,4 @@ My interests lie in arithmetic geometry, especially in the relationship between 
        width="120" height="160" class="center">
   </a>
  </center>
+</p>
