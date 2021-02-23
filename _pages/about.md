@@ -8,7 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second year mathematics Ph.D. student at the University of Arizona. 
+<p>
+<center> 
+  <a href="http://www.grothendieckcircle.org/">
+     <img alt="Grothendieck" src="https://gkorpal.github.io/images/heidelberg-laureate-forum_Grothendieck.jpg"
+       width="100" height="160" class="center">
+  </a>
+  <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Erdos/">
+     <img alt="Erdos" src="https://gkorpal.github.io/images/erdos.jpeg"
+       width="115" height="160" class="center">
+  </a>
+  <a href="https://people.math.rochester.edu/faculty/doug/UGpages/sophie.html">
+     <img alt="Sophie" src="https://gkorpal.github.io/images/sophie.png"
+       width="110" height="160" class="center">
+  </a>
+  <a href="https://www.ias.edu/von-neumann">
+     <img alt="Nueman" src="https://gkorpal.github.io/images/neuman.jpg"
+       width="130" height="160" class="center">
+  </a>
+  <a href="https://www.turing.org.uk/">
+     <img alt="Turing" src="https://gkorpal.github.io/images/turing.jpg"
+       width="120" height="160" class="center">
+  </a>
+ </center>
+</p>
+
+Hi! I am a second year Ph.D. student at the University of Arizona. 
 
 <!---
 My interests lie in arithmetic geometry, especially in the relationship between "algebraic varieties over $\mathbb{Q}$" and "geometric representations of $G_{\mathbb{Q}}$," as shown in this diagram from Mark Kisin's article ["What is a Galois Representation?"](https://www.ams.org/notices/200706/tx070600718p.pdf): 
@@ -44,27 +69,3 @@ My interests lie in arithmetic geometry, especially in the relationship between 
  </center>
  </p>
  
-<p>
-<center> 
-  <a href="http://www.grothendieckcircle.org/">
-     <img alt="Grothendieck" src="https://gkorpal.github.io/images/heidelberg-laureate-forum_Grothendieck.jpg"
-       width="100" height="160" class="center">
-  </a>
-  <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Erdos/">
-     <img alt="Erdos" src="https://gkorpal.github.io/images/erdos.jpeg"
-       width="115" height="160" class="center">
-  </a>
-  <a href="https://people.math.rochester.edu/faculty/doug/UGpages/sophie.html">
-     <img alt="Sophie" src="https://gkorpal.github.io/images/sophie.png"
-       width="110" height="160" class="center">
-  </a>
-  <a href="https://www.ias.edu/von-neumann">
-     <img alt="Nueman" src="https://gkorpal.github.io/images/neuman.jpg"
-       width="130" height="160" class="center">
-  </a>
-  <a href="https://www.turing.org.uk/">
-     <img alt="Turing" src="https://gkorpal.github.io/images/turing.jpg"
-       width="120" height="160" class="center">
-  </a>
- </center>
-</p>
