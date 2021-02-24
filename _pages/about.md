@@ -37,7 +37,7 @@ Hi! I am a second year Ph.D. student at the University of Arizona.
 
 **email:** gkorpal at math dot arizona dot edu
 
-My research interests lie in arithmetic geometry and cryptography.
+My research interests lie in arithmetic geometry and the related cryptography applications.
 
 | ![kisin.png](https://gkorpal.github.io/images/kisin.png) | 
 |:--:| 
@@ -45,4 +45,4 @@ My research interests lie in arithmetic geometry and cryptography.
 
 | ![cs.png](https://gkorpal.github.io/images/cs.png) | 
 |:--:| 
-The Realm of Cryptography (taken from Zach Weinersmith's webcomic ["I propose this as a new rhetorical tactic against people who think anything is complete patternless and inscrutable"](https://www.smbc-comics.com/comic/soul-2)): Elliptic curves have been crucial for the development of cryptography. Initially, [in 1985](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography), we just exploited the group structure of their points to come up with cryptography protocols based on Discrete Logarithm Problem. Later, [in 2000](https://en.wikipedia.org/wiki/Pairing-based_cryptography), we modified the bilinear pairings defined on their torsion points and designed various protocols based on computational Diffie-Hellman problem. Then, [in 2009](https://en.wikipedia.org/wiki/Supersingular_isogeny_key_exchange), graphs whose vertices are (isomorphism classes of) supersingular elliptic curves and whose edges are isogenies between those curves were introduced to design protocols for post-quantum cryptography. |
+The Realm of Elliptic Curve Cryptography (taken from Zach Weinersmith's webcomic ["I propose this as a new rhetorical tactic against people who think anything is complete patternless and inscrutable"](https://www.smbc-comics.com/comic/soul-2)): Elliptic curves have been crucial for the development of cryptography. Initially, [in 1985](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography), we just exploited the group structure of their points to come up with cryptography protocols based on Discrete Logarithm Problem. Later, [in 2000](https://en.wikipedia.org/wiki/Pairing-based_cryptography), we modified the bilinear pairings defined on their torsion points and designed various protocols based on computational Diffie-Hellman problem. Then, [in 2009](https://en.wikipedia.org/wiki/Supersingular_isogeny_key_exchange), graphs whose vertices are (isomorphism classes of) supersingular elliptic curves and whose edges are isogenies between those curves were introduced to design protocols for post-quantum cryptography. |
