@@ -7,7 +7,7 @@ tags:
 
 # C++ programming refresher
 
-We will need the following tools to create C++ programs:
+Note that [UNIX is an IDE](https://daveparillo.github.io/intermediate-cpp/back-matter/app-a/toctree.html), therefore, we will just need the following tools along with a terminal emulator to create C++ programs:
 
 | Purpose | Program | dnf package name | apt package name |
 |---------| ------- | ------------ |-------------- |
@@ -19,14 +19,17 @@ We will need the following tools to create C++ programs:
 
 Now we can illustrate all the steps involved using the following example:
 
-## Write source code using text editor
+## Step 1: Write the source code
 
 ````cpp
 #io
 ````
+## Step 2: Create Makefile to automate the compiling and linking process
 
-## Create makefile
+https://daveparillo.github.io/intermediate-cpp/back-matter/app-a/make.html
 
-## Compile the source code
+## Step 3: Compile and run the program
 
-## Debug
+## Step 4: Debug the program
+
+https://cs.baylor.edu/~donahoo/tools/gdb/tutorial.html
