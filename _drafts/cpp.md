@@ -26,7 +26,7 @@ Now we can illustrate all the steps involved using the following example:
 ````
 ## Step 2: Create Makefile to automate the compiling and linking process
 
-https://daveparillo.github.io/intermediate-cpp/back-matter/app-a/make.html
+https://web.stanford.edu/class/archive/cs/cs107/cs107.1174/guide_make.html
 
 ## Step 3: Compile and run the program
 
