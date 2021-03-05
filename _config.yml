@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gaurish Korpal"
 title_separator          : "-"
 name                     : &name "Gaurish Korpal"
-description              : &description "Mathematics Graduate Student"
+description              : &description "Graduate Student"
 url                      : https://gkorpal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gkorpal.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gaurish Korpal"
   avatar           : "mee.png"
-  bio              : "Mathematics Graduate Student"
+  bio              : "Graduate Student"
   location         : "Tucson, Arizona (USA)"
   employer         :
   googlescholar    : #"http://scholar.google.com/this-is-a-test"
