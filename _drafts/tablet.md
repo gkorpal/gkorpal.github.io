@@ -40,4 +40,10 @@ For Apple products you pay the premium price for better support but at the same 
 
 # Review
 
+Took some time to get used to writing on bigger screen than Nexus 7. 
+
+`Settings > Display > Navigation bar > Swipe gestures > Swipe from sides and bottom` 
+
+Also, enable "Block gestures with S Pen" and in Xodo app enable "Stylus as Pen"
+
 low resolution, speakers position only good for landscape viewing
