@@ -37,7 +37,7 @@ Hi! I am a second year Ph.D. student at the University of Arizona.
 
 **email:** gkorpal at math dot arizona dot edu
 
-My research interests lie in arithmetic geometry and the related cryptography applications (a related interested discussion in [Neal Koblitz's autobiography](https://doi.org/10.1007/978-3-540-74078-0_14)).
+My research interests lie in arithmetic geometry and the related cryptography applications ([Neal Koblitz's opinions in his autobiography](https://doi.org/10.1007/978-3-540-74078-0_14)).
 
  ![kisin](https://gkorpal.github.io/images/kisin2.png) | ![quanthom](https://gkorpal.github.io/images/quanthom2.png)
 ----------------------------------------------------------|----------------------------------------------------
