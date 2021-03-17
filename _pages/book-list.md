@@ -245,7 +245,7 @@ The topics and books are arranged in the order I would recommend learning them.
 ## Representation Theory ##
 
 * **Representation Theory of Finite Groups** by *M. Burrow*: Must read the introduction to the first chapter. Notations are a bit outdated.
-  * **Representation and Characters of Groups** by *G. James and M. Liebeck*: It could have been an ideal introductory text for undergraduates but they chose [bad notations]https://math.stackexchange.com/a/192728). 
+  * **Representation and Characters of Groups** by *G. James and M. Liebeck*: It could have been an ideal introductory text for undergraduates but they chose [bad notations](https://math.stackexchange.com/a/192728). 
 * **Introduction to Representation Theory** by *P. Etingof et al.*: The goal of this book is to give a "holistic" introduction to the subject which treats the representation theory of finite groups, Lie algebras and quivers as special cases of the general theory of representations of associative algebras. The pre-print of this book is [available at arXiv](https://arxiv.org/abs/0901.0827). *I haven't read this book yet.*
 * **Lie Groups, Lie Algebras, and Representations** by *B. C. Hall*: The Part I of the text develops the theory
 of (matrix) Lie groups and their Lie algebras using only linear algebra, without requiring any knowledge of manifold theory. The Part II of the text covers semisimple Lie algebras and their representations. Finally, the Part III of the book presents the compact-group approach to representation theory. Moreover, the results in Parts II and III
