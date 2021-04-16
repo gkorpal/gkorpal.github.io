@@ -10,8 +10,8 @@ redirect_from:
 
 <p>
 <center>
-  <a href="https://drc.arizona.edu/">
-     <img alt="AZ" src="https://gkorpal.github.io/images/ua.png"
+  <a href="https://www.aapd.com/">
+     <img alt="AAPD" src="https://gkorpal.github.io/images/aapd.jpg"
        width="80" height="80" class="center">
   </a>
   <a href="https://autismacceptance.com/">
@@ -22,12 +22,33 @@ redirect_from:
      <img alt="AWN" src="https://gkorpal.github.io/images/awnlogo-256.png"
        width="80" height="80" class="center">
   </a>
-  <a href="https://en.wikipedia.org/wiki/Portal:LGBT">
+  <a href="https://www.thetrevorproject.org/">
+     <img alt="Trevor" src="https://gkorpal.github.io/images/trevor.jpg"
+       width="80" height="80" class="center">
+  </a>
+  <a href="https://pflag.org/">
+     <img alt="PFLAG" src="https://gkorpal.github.io/images/pflag-logo.png"
+       width="80" height="80" class="center">
+  </a>
+  <a href="https://www.equalityfederation.org/">
+     <img alt="Equality" src="https://gkorpal.github.io/images/equalityfed.png"
+       width="80" height="80" class="center">
+  </a>
+  
+  
+ </center>
+ </p>
+
+<!------ 
+<a href="https://en.wikipedia.org/wiki/Portal:LGBT">
      <img alt="ASAN" src="https://gkorpal.github.io/images/pride.png"
        width="130" height="80" class="center">
   </a>
- </center>
- </p>
+<a href="https://drc.arizona.edu/">
+     <img alt="AZ" src="https://gkorpal.github.io/images/ua.png"
+       width="80" height="80" class="center">
+  </a>
+----->
 
 Hi! I am a second year Ph.D. student at the University of Arizona. 
 
