@@ -22,11 +22,7 @@ redirect_from:
      <img alt="AWN" src="https://gkorpal.github.io/images/awnlogo-256.png"
        width="80" height="80" class="center">
   </a>
-  <a href="https://www.thetrevorproject.org/">
-     <img alt="Trevor" src="https://gkorpal.github.io/images/trevor.jpg"
-       width="80" height="80" class="center">
-  </a>
-  <a href="https://pflag.org/">
+    <a href="https://pflag.org/">
      <img alt="PFLAG" src="https://gkorpal.github.io/images/pflag-logo.png"
        width="80" height="80" class="center">
   </a>
@@ -34,8 +30,10 @@ redirect_from:
      <img alt="Equality" src="https://gkorpal.github.io/images/equalityfed.png"
        width="80" height="80" class="center">
   </a>
-  
-  
+  <a href="https://www.thetrevorproject.org/">
+     <img alt="Trevor" src="https://gkorpal.github.io/images/trevor.jpg"
+       width="80" height="80" class="center">
+  </a>  
  </center>
  </p>
 
