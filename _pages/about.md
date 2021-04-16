@@ -27,7 +27,7 @@ redirect_from:
        width="80" height="80" class="center">
   </a>
   <a href="https://www.equalityfederation.org/">
-     <img alt="Equality" src="https://gkorpal.github.io/images/equalityfed.png"
+     <img alt="Equality" src="https://gkorpal.github.io/images/equalityf.png"
        width="80" height="80" class="center">
   </a>
   <a href="https://www.thetrevorproject.org/">
