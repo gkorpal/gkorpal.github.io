@@ -22,6 +22,10 @@ redirect_from:
      <img alt="AWN" src="https://gkorpal.github.io/images/awnlogo-256.png"
        width="80" height="80" class="center">
   </a>
+  <a href="https://www.sabeusa.org/">
+     <img alt="AZ" src="https://gkorpal.github.io/images/sabe-logo.png"
+       width="80" height="80" class="center">
+  </a>
     <a href="https://pflag.org/">
      <img alt="PFLAG" src="https://gkorpal.github.io/images/pflag-logo.png"
        width="80" height="80" class="center">
@@ -41,10 +45,6 @@ redirect_from:
 <a href="https://en.wikipedia.org/wiki/Portal:LGBT">
      <img alt="ASAN" src="https://gkorpal.github.io/images/pride.png"
        width="130" height="80" class="center">
-  </a>
-<a href="https://drc.arizona.edu/">
-     <img alt="AZ" src="https://gkorpal.github.io/images/ua.png"
-       width="80" height="80" class="center">
   </a>
 ----->
 
