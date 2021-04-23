@@ -24,7 +24,7 @@ redirect_from:
   </a>
   <a href="https://www.sabeusa.org/">
      <img alt="AZ" src="https://gkorpal.github.io/images/sabe-logo.png"
-       width="80" height="80" class="center">
+       width="80" height="160" class="center">
   </a>
     <a href="https://pflag.org/">
      <img alt="PFLAG" src="https://gkorpal.github.io/images/pflag-logo.png"
