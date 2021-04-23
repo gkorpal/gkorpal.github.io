@@ -56,7 +56,7 @@ Hi! I am a second year Ph.D. student at the University of Arizona.
 
 **email:** gkorpal at math dot arizona dot edu
 
-**Research interests**: Arithmetic geometry and the related applications in applied cryptography.
+**Research interests**: Arithmetic geometry and the related applications in cryptography.
 
  ![kisin](https://gkorpal.github.io/images/kisin2.png) | ![quanthom](https://gkorpal.github.io/images/quanthom2.png)
 ----------------------------------------------------------|----------------------------------------------------
