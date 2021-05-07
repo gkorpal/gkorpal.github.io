@@ -11,21 +11,21 @@ redirect_from:
 
 Following are some of the articles that I found to be very useful. Note that there tends to be a stark difference in the order of authors' names in mathematics and (computer) science articles, for details see [this paper by Andrew Appel](https://doi.org/10.1145/131080.131091).
 
-* [Expository Article](#expository-article)
+* [Expository](#expository)
   * [Mathematics](#mathematics)
   * [Computer Science](#computer-science)
-* [Research Article](#research-article)
+* [Research](#research)
   * [Mathematics](#mathematics-1)
   * [Computer Science](#computer-science-1)
   
-# Expository Article
+# Expository
 ------
 ## Mathematics
 
 ## Computer Science
 
 
-# Research Article
+# Research
 -----
 
 ## Mathematics
