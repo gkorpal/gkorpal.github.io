@@ -17,6 +17,9 @@ main:
     
   - title: "Good Books"
     url: /book-list/
+        
+  - title: "Good Articles"
+    url: /article-list/
     
   - title: "CV"
     url: /cv/
