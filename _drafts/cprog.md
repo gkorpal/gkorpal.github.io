@@ -1,11 +1,11 @@
 ---
-title: 'CPP'
-date: 2014-10-02
+title: 'C Programming'
+date: 2021-10-02
 tags:
   - problem-solving
 ---
 
-# C++ programming refresher
+# Setup
 
 Note that [UNIX is an IDE](https://daveparillo.github.io/intermediate-cpp/back-matter/app-a/toctree.html), therefore, we will just need the following tools along with a terminal emulator to create C++ programs:
 
