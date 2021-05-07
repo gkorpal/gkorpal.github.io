@@ -19,6 +19,7 @@ Following are some of the articles that I found to be very useful. Note that the
   * [Computer Science](#computer-science-1)
   
 # Expository
+-----
 
 ## Mathematics
 
@@ -26,7 +27,7 @@ Following are some of the articles that I found to be very useful. Note that the
 
 
 # Research
-
+-----
 
 ## Mathematics
 
