@@ -7,7 +7,7 @@ tags:
 
 # Setup
 
-Note that [UNIX is an IDE](https://daveparillo.github.io/intermediate-cpp/back-matter/app-a/toctree.html), therefore, we will just need the following tools along with a terminal emulator to create C++ programs:
+Note that [UNIX is an IDE](https://daveparillo.github.io/intermediate-cpp/back-matter/app-a/toctree.html), therefore, we will just need the following tools along with a terminal emulator to create C programs:
 
 | Purpose | Program | dnf package name | apt package name |
 |---------| ------- | ------------ |-------------- |
