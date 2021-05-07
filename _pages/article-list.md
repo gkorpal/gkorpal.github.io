@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Following are some of the articles that I found to be very useful. Note that there tends to be a stark difference in the order of authors' names in mathematics and (computer) science articles, for details see [this paper by Andrew Appel](https://doi.org/10.1145/131080.131091).
+Following are some of the articles that I found to be very useful. Note that the order of authors' names in mathematics and (computer) science articles tend to have different meaning, for details see [this paper by Andrew Appel](https://doi.org/10.1145/131080.131091) and [this statement by the American Mathematical Society](http://www.ams.org/profession/leaders/CultureStatement04.pdf).
 
 * [Expository](#expository)
   * [Mathematics](#mathematics)
