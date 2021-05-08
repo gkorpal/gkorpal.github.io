@@ -24,15 +24,15 @@ Following are some of the articles that I found to be very useful. Note that the
 ## Mathematics
 
 * H. Cohn, A conceptual breakthrough in sphere packing, _Notices Amer. Math. Soc._ **64** (2017), no. 2,  102--115. doi:[10.1090/noti1474](https://doi.org/10.1090/noti1474)
-* F. Oort, The Weil Conjectures, _Nieuw Arch. Wiskd. (5)_ **15** (2014), no. 6, 211--219. http://www.nieuwarchief.nl/serie5/pdf/naw5-2014-15-3-211.pdf  (There is a calculation error in the last line of the middle column of p. 214, $\alpha^{10},\beta^{10} = \mp 32i$).
-* C. S. Dalawat, Classical Reciprocity Laws, _Asia Pac. Math. Newsl._ **4** (2014), no. 4,  5--9. http://www.asiapacific-mathnews.com/04/0404/0005_0009.pdf
-* U. A. Rozikov, What   are   p-adic   Numbers? What   are   they   used   for?, _Asia Pac. Math. Newsl._ **3** (2013),   no. 4, 1–6. http://www.asiapacific-mathnews.com/03/0304/0001_0006.pdf
-* R. Sreekantan, Yitang Zhang and The Twin Primes Conjecture, _At Right Angles_ **2** (2013), no. 3, 14--17. http://teachersofindia.org/en/article/yitang-zhang-and-twin-primes-conjecture
-* C. Christensen, Polish Mathematicians Finding Patterns in Enigma Messages, _Mathematics Magazine_ **80** (2007), no. 4, 247--273.  https://www.jstor.org/stable/27643040 
-* A. Granville and G. Martin, Prime Number Races, _Amer. Math. Monthly_ **113** (2006), no. 1, 1--33.  https://www.jstor.org/stable/27641834 
-* D. Khurana, On GCD and LCM in Domains – A Conjecture of Gauss, _Resonance_ **8** (2003), no. 6, 72--79. https://www.ias.ac.in/article/fulltext/reso/008/06/0072-0079
-* J. B. Conrey, The Riemann Hypothesis, _Notices Amer. Math. Soc._ **50** (2003), no. 3, 341--353. http://www.ams.org/notices/200303/fea-conrey-web.pdf
-* S. Ahlgren and K. Ono, Adding and counting: The arithmetic of partitions, _Notices Amer. Math. Soc._ **48** (2001), no. 9, 978--984. http://www.ams.org/notices/200109/fea-ahlgren.pdf
+* F. Oort, The Weil Conjectures, _Nieuw Arch. Wiskd. (5)_ **15** (2014), no. 6, 211--219. [Stable URL](http://www.nieuwarchief.nl/serie5/pdf/naw5-2014-15-3-211.pdf)  (There is a calculation error in the last line of the middle column of p. 214, $\alpha^{10},\beta^{10} = \mp 32i$).
+* C. S. Dalawat, Classical Reciprocity Laws, _Asia Pac. Math. Newsl._ **4** (2014), no. 4,  5--9. [Stable URL](http://www.asiapacific-mathnews.com/04/0404/0005_0009.pdf)
+* U. A. Rozikov, What   are   p-adic   Numbers? What   are   they   used   for?, _Asia Pac. Math. Newsl._ **3** (2013),   no. 4, 1–6. [Stable URL](http://www.asiapacific-mathnews.com/03/0304/0001_0006.pdf)
+* R. Sreekantan, Yitang Zhang and The Twin Primes Conjecture, _At Right Angles_ **2** (2013), no. 3, 14--17. [Stable URL](http://teachersofindia.org/en/article/yitang-zhang-and-twin-primes-conjecture)
+* C. Christensen, Polish Mathematicians Finding Patterns in Enigma Messages, _Mathematics Magazine_ **80** (2007), no. 4, 247--273.  [Stable URL](https://www.jstor.org/stable/27643040) 
+* A. Granville and G. Martin, Prime Number Races, _Amer. Math. Monthly_ **113** (2006), no. 1, 1--33.  9Stable URL](https://www.jstor.org/stable/27641834)
+* D. Khurana, On GCD and LCM in Domains – A Conjecture of Gauss, _Resonance_ **8** (2003), no. 6, 72--79. [Stable URL](https://www.ias.ac.in/article/fulltext/reso/008/06/0072-0079)
+* J. B. Conrey, The Riemann Hypothesis, _Notices Amer. Math. Soc._ **50** (2003), no. 3, 341--353. [Stable URL](http://www.ams.org/notices/200303/fea-conrey-web.pdf)
+* S. Ahlgren and K. Ono, Adding and counting: The arithmetic of partitions, _Notices Amer. Math. Soc._ **48** (2001), no. 9, 978--984. [Stable URL](http://www.ams.org/notices/200109/fea-ahlgren.pdf)
 * P. Stevenhagen and H. W. Lenstra, Chebotarëv and his Density Theorem, _Math. Intelligencer_ **18** (1996), no. 2, 26--37. doi:[10.1007/BF03027290](https://doi.org/10.1007/BF03027290)
 * E. Bombieri, Prime Territory, _The Sciences_ **32** (1992), no. 5, 30--36. doi:[10.1002/j.2326-1951.1992.tb02416.x](https://doi.org/10.1002/j.2326-1951.1992.tb02416.x)
 * H. M. Edwards, Fermat's Last Theorem, _Scientific American_ **239** (1978), no. 4, 104–-122. doi: [10.1038/scientificamerican1078-104](https://doi.org/10.1038/scientificamerican1078-104)
