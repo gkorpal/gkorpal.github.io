@@ -23,6 +23,8 @@ Following are some of the articles that I found to be very useful. Note that the
 
 ## Mathematics
 
+* D. Khurana, On GCD and LCM in Domains – A Conjecture of Gauss, _Resonance_ **8** (2003) 72--79, https://www.ias.ac.in/article/fulltext/reso/008/06/0072-0079
+
 ## Computer Science
 
 
@@ -30,5 +32,7 @@ Following are some of the articles that I found to be very useful. Note that the
 -----
 
 ## Mathematics
+
+* H. M. Stark, A complete determination of the complex quadratic fields of class-number one, _Michigan Math. J._ **14** (1967) 1–-27, doi:[10.1307/mmj/1028999653](http://projecteuclid.org/euclid.mmj/1028999653) 
 
 ## Computer Science
