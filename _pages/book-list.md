@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Following are some of the books that I would recommend reading (inspired by the [Chicago undergraduate mathematics bibliography](https://github.com/ystael/chicago-ug-math-bib)).
+Following are some of the books that I would recommend reading. The inspiration for this list came from the [Chicago undergraduate mathematics bibliography](https://github.com/ystael/chicago-ug-math-bib)).
 
 * [Popular Maths and Fiction](#popular-maths-and-fiction)
 * [Biographies and Autobiographies](#biographies-and-autobiographies)
