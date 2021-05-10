@@ -55,7 +55,7 @@ I have fond memories of reading expository articles in Indian magazines like Jun
 ## Mathematics
 
 * N. Koblitz, Elliptic curve cryptosystems. _Math. Comp._ **48** (1987), no. 177, 203--209. doi:[10.2307/2007884](https://doi.org/10.2307/2007884)
-* M. Rejewski, An Application of the Theory of Permutations in Breaking the Enigma Cipher, _Applicationes Mathematicae (Zastos. Mat.)_, **16** (1980), no. 4, 543--559. doi:[10.4064/am-16-4-543-559](https://doi.org/10.4064/am-16-4-543-559)
+* M. Rejewski, An Application of the Theory of Permutations in Breaking the Enigma Cipher, _Zastos. Mat. \[Appl. Math. (Warsaw)\]_, **16** (1980), no. 4, 543--559. doi:[10.4064/am-16-4-543-559](https://doi.org/10.4064/am-16-4-543-559)
 * H. M. Stark, A complete determination of the complex quadratic fields of class-number one, _Michigan Math. J._ **14** (1967), no. 1, 1--27, doi:[10.1307/mmj/1028999653](http://projecteuclid.org/euclid.mmj/1028999653)
 * K. F. Roth, Rational approximations to algebraic numbers, _Mathematika_ **2** (1955), no. 1, 1--20. doi:[10.1112/S0025579300000644](https://doi.org/10.1112/S0025579300000644)
 * I. Niven, A simple proof that $\pi$ is irrational, _Bull. Amer. Math. Soc._ **53** (1947), no. 6, 509--509. [Stable URL](https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-53/issue-6/A-simple-proof-that-pi-is-irrational/bams/1183510788.full) (this method was later [generalized by A. E. Parks](https://www.jstor.org/stable/2322291))
