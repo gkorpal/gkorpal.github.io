@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Following are some of the articles that I found to be very useful. You might need university library membership to access some of these articles. I have arranged the articles in reverse chronological order. Note that the order of authors' names in mathematics and (computer) science articles tend to have a different meaning, for details see [this paper by Andrew Appel](https://doi.org/10.1145/131080.131091) and [this statement by the American Mathematical Society](http://www.ams.org/profession/leaders/CultureStatement04.pdf).
+Following are some of the articles that I would recommend reading. The inspiration for this list came from the anthologies like [Who Gave You the Epsilon? And Other Tales of Mathematical History](https://www.maa.org/press/maa-reviews/who-gave-you-the-epsilon-and-other-tales-of-mathematical-history) and [Biscuits of Number Theory](https://www.maa.org/press/maa-reviews/biscuits-of-number-theory).
+
+One might need university library membership to access some of these articles (or use the power of internet). I have arranged the articles in reverse chronological order (from latest to the oldest). 
+
+Note that the order of authors' names in mathematics and (computer) science articles tend to have a different meaning, for details see [this paper by Andrew Appel](https://doi.org/10.1145/131080.131091) and [this statement by the American Mathematical Society](http://www.ams.org/profession/leaders/CultureStatement04.pdf).
 
 * [Expository](#expository)
   * [Mathematics](#mathematics)
@@ -28,7 +32,7 @@ Following are some of the articles that I found to be very useful. You might nee
 * C. S. Dalawat, Classical Reciprocity Laws, _Asia Pac. Math. Newsl._ **4** (2014), no. 4,  5--9. [Stable URL](http://www.asiapacific-mathnews.com/04/0404/0005_0009.pdf)
 * U. A. Rozikov, What   are   p-adic   Numbers? What   are   they   used   for?, _Asia Pac. Math. Newsl._ **3** (2013),   no. 4, 1–6. [Stable URL](http://www.asiapacific-mathnews.com/03/0304/0001_0006.pdf)
 * R. Sreekantan, Yitang Zhang and The Twin Primes Conjecture, _At Right Angles_ **2** (2013), no. 3, 14--17. [Stable URL](http://teachersofindia.org/en/article/yitang-zhang-and-twin-primes-conjecture)
-* C. Christensen, Polish Mathematicians Finding Patterns in Enigma Messages, _Mathematics Magazine_ **80** (2007), no. 4, 247--273.  [Stable URL](https://www.jstor.org/stable/27643040) 
+* C. Christensen, Polish Mathematicians Finding Patterns in Enigma Messages, _Math. Mag._ **80** (2007), no. 4, 247--273.  [Stable URL](https://www.jstor.org/stable/27643040) 
 * A. Granville and G. Martin, Prime Number Races, _Amer. Math. Monthly_ **113** (2006), no. 1, 1--33. [Stable URL](https://www.jstor.org/stable/27641834)
 * D. Khurana, On GCD and LCM in Domains – A Conjecture of Gauss, _Resonance_ **8** (2003), no. 6, 72--79. [Stable URL](https://www.ias.ac.in/article/fulltext/reso/008/06/0072-0079)
 * J. B. Conrey, The Riemann Hypothesis, _Notices Amer. Math. Soc._ **50** (2003), no. 3, 341--353. [Stable URL](http://www.ams.org/notices/200303/fea-conrey-web.pdf)
@@ -37,9 +41,10 @@ Following are some of the articles that I found to be very useful. You might nee
 * E. Bombieri, Prime Territory, _The Sciences_ **32** (1992), no. 5, 30--36. doi:[10.1002/j.2326-1951.1992.tb02416.x](https://doi.org/10.1002/j.2326-1951.1992.tb02416.x)
 * H. M. Edwards, Fermat's Last Theorem, _Scientific American_ **239** (1978), no. 4, 104–-122. doi: [10.1038/scientificamerican1078-104](https://doi.org/10.1038/scientificamerican1078-104), [Stable URL](https://www.jstor.org/stable/24955826)
 * D. Zagier, The first 50 million prime numbers, _Math. Intelligencer_ **1** (1977), no. 1, 7--19. doi:[10.1007/BF03039306](https://doi.org/10.1007/BF03039306)
+* B. L. van der Waerden, Hamilton's Discovery of Quaternions, _Math. Mag._ **49** (1976), no. 5, 227--234. doi:[10.2307/2689449](https://doi.org/10.2307/2689449), [Stable URL](https://www.jstor.org/stable/2689449)
 * M. Davis and R. Hersh, Hilbert's 10th Problem,  _Scientific American_ **229** (1973), no. 5, 84--91. doi: [10.1038/scientificamerican1173-84](https://doi.org/10.1038/scientificamerican1173-84), [Stable URL](https://www.jstor.org/stable/24923245)
 
-I have fond memories of reading expository articles in Indian magazines like Junior Mathematician (published by AMTI, Chennai) and Bona Mathematica (published by BP, Pune), which were similar to the Soviet era periodicals like Kvant (published by Nauka) and Little Mathematics Library (english translations published by Mir). Unfortunately, they are not available online (but were accessible without university library membership). However, [At Right Angles](http://teachersofindia.org/en/periodicals/at-right-angles) (published by APU, Bengaluru) and [Resonance](https://www.ias.ac.in/Journals/Resonance_%E2%80%93_Journal_of_Science_Education) (published by  IAS, Bengaluru) are  the current alternatives to these which are available online.
+I have fond memories of reading expository articles in Indian magazines like Junior Mathematician (published by AMTI, Chennai) and Bona Mathematica (published by BP, Pune), which were similar to the Soviet era periodicals like Kvant (published by Nauka) and Little Mathematics Library (english translations published by Mir). Unfortunately, they are not available online (but were accessible without university library membership). However, [At Right Angles](http://teachersofindia.org/en/periodicals/at-right-angles) (published by APU, Bengaluru) and [Resonance](https://www.ias.ac.in/Journals/Resonance_%E2%80%93_Journal_of_Science_Education) (published by  IAS, Bengaluru) are  the current alternatives to these which are available online. Moreover, the Mathematical Association of America publishes many exposition focused journals like the American Mathematical Monthly, Mathematics Magazine, the College Mathematics Journal and Math Horizons, which can be accessed via university libraries (but wasn't available at my small college in India).
 
 ## Computer Science
 
