@@ -15,17 +15,24 @@ One might need university library membership to access some of these articles (o
 
 Note that the order of authors' names in mathematics and (computer) science articles tend to have a different meaning, for details see [this paper by Andrew Appel](https://doi.org/10.1145/131080.131091) and [this statement by the American Mathematical Society](http://www.ams.org/profession/leaders/CultureStatement04.pdf).
 
-* [Expository](#expository)
-  * [Mathematics](#mathematics)
-  * [Computer Science](#computer-science)
-* [Research](#research)
-  * [Mathematics](#mathematics-1)
-  * [Computer Science](#computer-science-1)
-  
-# Expository
------
+* [Computer Science](#computer-science) 
+  * [Expository](#expository)
+  * [Research](#research)
+* [Mathematics](#mathematics)
+  * [Expository](#expository-1)
+  * [Research](#research-1)
 
-## Mathematics
+
+# Computer Science
+
+## Expository
+
+## Research
+
+
+# Mathematics
+
+## Expository
 
 * H. Cohn, A conceptual breakthrough in sphere packing, _Notices Amer. Math. Soc._ **64** (2017), no. 2,  102--115. doi:[10.1090/noti1474](https://doi.org/10.1090/noti1474)
 * F. Oort, The Weil Conjectures, _Nieuw Arch. Wiskd. (5)_ **15** (2014), no. 6, 211--219. [Stable URL](http://www.nieuwarchief.nl/serie5/pdf/naw5-2014-15-3-211.pdf)  (There is a calculation error in the last line of the middle column of p. 214, $\alpha^{10},\beta^{10} = \mp 32i$).
@@ -48,19 +55,10 @@ I have fond memories of reading expository articles in Indian magazines like Jun
 
 The Mathematical Association of America (MAA) publishes many exposition focused journals like the American Mathematical Monthly, Mathematics Magazine, the College Mathematics Journal and Math Horizons, which can be accessed via university libraries (but wasn't available at my small college in India). Moreover, the [Princeton Companion to Mathematics](https://press.princeton.edu/books/hardcover/9780691118802/the-princeton-companion-to-mathematics) contains many original expository articles about almost every topic in maths.
 
-## Computer Science
-
-
-# Research
------
-
-## Mathematics
+## Research
 
 * N. Koblitz, Elliptic curve cryptosystems. _Math. Comp._ **48** (1987), no. 177, 203--209. doi:[10.2307/2007884](https://doi.org/10.2307/2007884)
 * M. Rejewski, An Application of the Theory of Permutations in Breaking the Enigma Cipher, _Zastos. Mat. \[Appl. Math. (Warsaw)\]_, **16** (1980), no. 4, 543--559. doi:[10.4064/am-16-4-543-559](https://doi.org/10.4064/am-16-4-543-559)
 * H. M. Stark, A complete determination of the complex quadratic fields of class-number one, _Michigan Math. J._ **14** (1967), no. 1, 1--27, doi:[10.1307/mmj/1028999653](http://projecteuclid.org/euclid.mmj/1028999653)
 * K. F. Roth, Rational approximations to algebraic numbers, _Mathematika_ **2** (1955), no. 1, 1--20. doi:[10.1112/S0025579300000644](https://doi.org/10.1112/S0025579300000644)
 * I. Niven, A simple proof that $\pi$ is irrational, _Bull. Amer. Math. Soc._ **53** (1947), no. 6, 509--509. [Stable URL](https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-53/issue-6/A-simple-proof-that-pi-is-irrational/bams/1183510788.full) (this method was later [generalized by A. E. Parks](https://www.jstor.org/stable/2322291))
-
-
-## Computer Science
