@@ -27,7 +27,8 @@ Note that the order of authors' names in mathematics and (computer) science arti
 
 ## Expository
 
-* T. Lindell, Secure multiparty computation. _Communications of the ACM_, **64** (2021), no. 01, 86--96. doi:[10.1145/3387108](https://doi.org/10.1145/3387108)
+* A. Menezes and D. Stebila, _IEEE Security & Privacy_ **19** (2021), no. 2, 70--73. doi:[10.1109/MSEC.2021.3049730](https://doi.org/10.1109/MSEC.2021.3049730)
+* T. Lindell, Secure multiparty computation, _Communications of the ACM_, **64** (2021), no. 01, 86--96. doi:[10.1145/3387108](https://doi.org/10.1145/3387108)
 * K. Lauter, Postquantum Opportunities: Lattices, Homomorphic Encryption, and Supersingular Isogeny Graphs, _IEEE Security & Privacy_ **15** (2017), no. 4, 22--27. doi:[10.1109/MSP.2017.3151338](https://doi.org/10.1109/MSP.2017.3151338)
 
 ## Research
