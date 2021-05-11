@@ -29,13 +29,13 @@ Note that the order of authors' names in mathematics and (computer) science arti
 
 ## Research
 
-* D. Boneh and M. Franklin, Identity-Based Encryption from the Weil Pairing, _CRYPTO 2001_. doi:[10.1007/3-540-44647-8_13](https://doi.org/10.1007/3-540-44647-8_13) (The full version of this paper was published in SICOMP **32** (2003), no. 3. doi:[10.1137/S0097539701398521](https://doi.org/10.1137/S0097539701398521))
-* D. Chaum and E. van Heyst, Group Signatures, _EUROCRYPT 1991_. doi:[10.1007/3-540-46416-6_22](https://doi.org/10.1007/3-540-46416-6_22)
-* V. S. Miller, Use of Elliptic Curves in Cryptography, _CRYPTO 1985_. doi:[10.1007/3-540-39799-X_31](https://doi.org/10.1007/3-540-39799-X_31)
-* A. Shamir, Identity-Based Cryptosystems and Signature Schemes, _CRYPTO 1984_. doi:[10.1007/3-540-39568-7_5](https://doi.org/10.1007/3-540-39568-7_5)
+* D. Boneh and M. Franklin, Identity-Based Encryption from the Weil Pairing, _Crypto 2001_. doi:[10.1007/3-540-44647-8_13](https://doi.org/10.1007/3-540-44647-8_13) (The full version of this paper was published in SICOMP **32** (2003), no. 3. doi:[10.1137/S0097539701398521](https://doi.org/10.1137/S0097539701398521))
+* D. Chaum and E. van Heyst, Group Signatures, _Eurocrypt 1991_. doi:[10.1007/3-540-46416-6_22](https://doi.org/10.1007/3-540-46416-6_22)
+* V. S. Miller, Use of Elliptic Curves in Cryptography, _Crypto 1985_. doi:[10.1007/3-540-39799-X_31](https://doi.org/10.1007/3-540-39799-X_31)
+* A. Shamir, Identity-Based Cryptosystems and Signature Schemes, _Crypto 1984_. doi:[10.1007/3-540-39568-7_5](https://doi.org/10.1007/3-540-39568-7_5)
 * A. C. Yao, Protocols for secure computations, _FOCS 1982_. doi:[10.1109/SFCS.1982.38](httpsL//doi.org/10.1109/SFCS.1982.38) 
 
-As you can see, my knowledge of computer science is limited to cryptography. Note that the key theoretical cryptography results are generally announced in the conferences like [FOCS](http://ieee-focs.org/), [STOC](http://acm-stoc.org/), [CRYPTO, EUROCRYPT, ASIACRYPT, and TCC](https://www.iacr.org/publications/access.php). On the other hand, the key applied cryptography results are generally announced in the conferences like [S&P (Oakland)](https://www.ieee-security.org/TC/SP-Index.html), [CCS](https://www.sigsac.org/ccs.html), [CHES](https://www.iacr.org/publications/access.php), and [USENIX Security](https://www.usenix.org/conferences/byname/108).
+As you can see, my knowledge of computer science is limited to cryptography. Note that the key theoretical cryptography results are generally announced in the conferences like [FOCS](http://ieee-focs.org/), [STOC](http://acm-stoc.org/), [Crypto](https://www.iacr.org/meetings/crypto/), [Eurocrypt](https://www.iacr.org/meetings/eurocrypt/), [Asiacrypt](https://www.iacr.org/meetings/asiacrypt/), and [TCC](https://www.iacr.org/meetings/tcc/). On the other hand, the key applied cryptography results are generally announced in the conferences like [S&P (Oakland)](https://www.ieee-security.org/TC/SP-Index.html), [CCS](https://www.sigsac.org/ccs.html), [CHES](https://www.iacr.org/meetings/ches/), and [USENIX Security](https://www.usenix.org/conferences/byname/108).
 
 # Mathematics
 
