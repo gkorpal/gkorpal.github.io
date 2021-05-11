@@ -27,6 +27,9 @@ Note that the order of authors' names in mathematics and (computer) science arti
 
 ## Expository
 
+* T. Lindell, Secure multiparty computation. _Communications of the ACM_, **64** (2021), no. 01, 86--96. doi:[10.1145/3387108](https://doi.org/10.1145/3387108)
+* K. Lauter, Postquantum Opportunities: Lattices, Homomorphic Encryption, and Supersingular Isogeny Graphs, _IEEE Security & Privacy_ **15** (2017), no. 4, 22--27. doi:[10.1109/MSP.2017.3151338](https://doi.org/10.1109/MSP.2017.3151338)
+
 ## Research
 
 * D. Boneh and M. Franklin, Identity-Based Encryption from the Weil Pairing, _Crypto 2001_. doi:[10.1007/3-540-44647-8_13](https://doi.org/10.1007/3-540-44647-8_13) (The full version of this paper was published in SICOMP **32** (2003), no. 3. doi:[10.1137/S0097539701398521](https://doi.org/10.1137/S0097539701398521))
