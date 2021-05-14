@@ -32,8 +32,10 @@ Note that the order of authors' names in mathematics and (computer) science arti
 * J. Waldo, A Hitchhiker’s Guide to the Blockchain Universe: Blockchain remains a mystery, despite its growing acceptance, _ACM Queue_ **16** (2018), no. 6, 15 pp. doi:[10.1145/3305263.3305265](https://doi.org/10.1145/3305263.3305265), [Stable URL](https://queue.acm.org/detail.cfm?id=3305265)
 * A. Narayanan and J. Clark, Bitcoin’s Academic Pedigree: The concept of cryptocurrencies is built from forgotten ideas in research literature, _ACM Queue_ **15** (2017), no. 4, 30 pp. doi:[10.1145/3134434.3136559](https://doi.org/10.1145/3134434.3136559), [Stable URL](https://queue.acm.org/detail.cfm?id=3136559) \[An equivalent quality video exposition by Grant Sanderson (3Blue1Brown) on [YouTube](https://www.youtube.com/watch?v=bBC-nXj3Ng4)\]
 * K. Lauter, Postquantum Opportunities: Lattices, Homomorphic Encryption, and Supersingular Isogeny Graphs, _IEEE Security & Privacy_ **15** (2017), no. 4, 22--27. doi:[10.1109/MSP.2017.3151338](https://doi.org/10.1109/MSP.2017.3151338)
+* C. P. Pfleeger, Crypto: Not Just for the Defensive Team, _IEEE Secutiry & Privacy_ **8** (2010), no. 2, 63--66. doi:[10.1109/MSP.2010.65](https://doi.org/10.1109/MSP.2010.65)
 * R. Gennaro, Randomness in cryptography, _IEEE Security & Privacy_ **4** (2006), no. 2, 64--67. doi:[10.1109/MSP.2006.49](https://doi.org/10.1109/MSP.2006.49)
 * K. Lauter, The advantages of elliptic curve cryptography for wireless security, _IEEE Wireless Communications_ **11** (2004), no. 1, 62--67. doi:[10.1109/MWC.2004.1269719](https://doi.org/10.1109/MWC.2004.1269719)
+* B. Schneier, Cryptography: the importance of not being different, _Computer_ **32** (1999), no. 3, 108--109. doi:[10.1109/2.751335](https://doi.org/10.1109/2.751335)
 
 ## Research
 
