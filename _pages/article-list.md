@@ -13,17 +13,17 @@ Following are some of the articles that I would recommend reading. The inspirati
 
 One might need university library membership to access some of these articles (or use the power of internet). I have arranged the articles in reverse chronological order (from latest to the oldest). 
 
-Note that the order of authors' names in mathematics and (computer) science articles tend to have a different meaning, for details see [this paper by Andrew Appel](https://doi.org/10.1145/131080.131091) and [this statement by the American Mathematical Society](http://www.ams.org/profession/leaders/CultureStatement04.pdf).
+Here I have divided articles between applied mathematics (computer science and engineering) and pure mathematics (algebra and number theory). Loosely speaking, computer science is a specialization within the discipline of applied mathematics, and computer engineering is a specialization within the discipline of electrical engineering (closely related to physics and applied mathematics). Note that the order of authors' names in pure mathematics and applied mathematics (science and engineering) articles tend to have a different meaning, for details see [this paper by Andrew Appel](https://doi.org/10.1145/131080.131091) and [this statement by the American Mathematical Society](http://www.ams.org/profession/leaders/CultureStatement04.pdf). 
 
-* [Computer Science](#computer-science) 
+* [Applied Mathematics](#applied-mathematics) 
   * [Expository](#expository)
   * [Research](#research)
-* [Mathematics](#mathematics)
+* [Pure Mathematics](#pure-mathematics)
   * [Expository](#expository-1)
   * [Research](#research-1)
 
 
-# Computer Science
+# Applied Mathematics
 
 ## Expository
 
@@ -43,15 +43,17 @@ Note that the order of authors' names in mathematics and (computer) science arti
 
 ## Research
 
-* D. Boneh and M. Franklin, Identity-Based Encryption from the Weil Pairing, _Crypto 2001_. doi:[10.1007/3-540-44647-8_13](https://doi.org/10.1007/3-540-44647-8_13) \[The full version of this paper was published in _SICOMP_ **32** (2003), no. 3. doi:[10.1137/S0097539701398521](https://doi.org/10.1137/S0097539701398521)\]
-* D. Chaum and E. van Heyst, Group Signatures, _Eurocrypt 1991_. doi:[10.1007/3-540-46416-6_22](https://doi.org/10.1007/3-540-46416-6_22)
-* V. S. Miller, Use of Elliptic Curves in Cryptography, _Crypto 1985_. doi:[10.1007/3-540-39799-X_31](https://doi.org/10.1007/3-540-39799-X_31)
-* A. Shamir, Identity-Based Cryptosystems and Signature Schemes, _Crypto 1984_. doi:[10.1007/3-540-39568-7_5](https://doi.org/10.1007/3-540-39568-7_5)
-* A. C. Yao, Protocols for secure computations, _FOCS 1982_. doi:[10.1109/SFCS.1982.38](httpsL//doi.org/10.1109/SFCS.1982.38) 
+* D. Boneh and M. Franklin, Identity-Based Encryption from the Weil Pairing, _Proc. of Crypto 2001_. doi:[10.1007/3-540-44647-8_13](https://doi.org/10.1007/3-540-44647-8_13) \[The full version of this paper was published in _SICOMP_ **32** (2003), no. 3. doi:[10.1137/S0097539701398521](https://doi.org/10.1137/S0097539701398521)\]
+* D. Chaum and E. van Heyst, Group Signatures, _Proc. of Eurocrypt 1991_. doi:[10.1007/3-540-46416-6_22](https://doi.org/10.1007/3-540-46416-6_22)
+* N. Koblitz, Elliptic curve cryptosystems. _Math. Comp._ **48** (1987), no. 177, 203--209. doi:[10.2307/2007884](https://doi.org/10.2307/2007884)
+* V. S. Miller, Use of Elliptic Curves in Cryptography, _Proc. of Crypto 1985_. doi:[10.1007/3-540-39799-X_31](https://doi.org/10.1007/3-540-39799-X_31)
+* A. Shamir, Identity-Based Cryptosystems and Signature Schemes, _Proc. of IACR Crypto 1984_. doi:[10.1007/3-540-39568-7_5](https://doi.org/10.1007/3-540-39568-7_5)
+* A. C. Yao, Protocols for secure computations, _Proc. of IEEE Symp. on FOCS 1982_. doi:[10.1109/SFCS.1982.38](httpsL//doi.org/10.1109/SFCS.1982.38) 
+* M. Rejewski, An Application of the Theory of Permutations in Breaking the Enigma Cipher, _Zastos. Mat. \[Appl. Math. (Warsaw)\]_, **16** (1980), no. 4, 543--559. doi:[10.4064/am-16-4-543-559](https://doi.org/10.4064/am-16-4-543-559)
 
 As one can see, my knowledge of computer science is limited to cryptography. Note that the key theoretical cryptography results are generally announced in the conferences like [FOCS](http://ieee-focs.org/), [STOC](http://acm-stoc.org/), [Crypto](https://www.iacr.org/meetings/crypto/), [Eurocrypt](https://www.iacr.org/meetings/eurocrypt/), [Asiacrypt](https://www.iacr.org/meetings/asiacrypt/), and [TCC](https://www.iacr.org/meetings/tcc/). On the other hand, the key applied cryptography results are generally announced in the conferences like [S&P (Oakland)](https://www.ieee-security.org/TC/SP-Index.html), [CCS](https://www.sigsac.org/ccs.html), [CHES](https://www.iacr.org/meetings/ches/), and [USENIX Security](https://www.usenix.org/conferences/byname/108).
 
-# Mathematics
+# Pure Mathematics
 
 ## Expository
 
@@ -78,8 +80,6 @@ The Mathematical Association of America (MAA) publishes many exposition focused 
 
 ## Research
 
-* N. Koblitz, Elliptic curve cryptosystems. _Math. Comp._ **48** (1987), no. 177, 203--209. doi:[10.2307/2007884](https://doi.org/10.2307/2007884)
-* M. Rejewski, An Application of the Theory of Permutations in Breaking the Enigma Cipher, _Zastos. Mat. \[Appl. Math. (Warsaw)\]_, **16** (1980), no. 4, 543--559. doi:[10.4064/am-16-4-543-559](https://doi.org/10.4064/am-16-4-543-559)
 * H. M. Stark, A complete determination of the complex quadratic fields of class-number one, _Michigan Math. J._ **14** (1967), no. 1, 1--27, doi:[10.1307/mmj/1028999653](http://projecteuclid.org/euclid.mmj/1028999653)
 * K. F. Roth, Rational approximations to algebraic numbers, _Mathematika_ **2** (1955), no. 1, 1--20. doi:[10.1112/S0025579300000644](https://doi.org/10.1112/S0025579300000644)
 * I. Niven, A simple proof that $\pi$ is irrational, _Bull. Amer. Math. Soc._ **53** (1947), no. 6, 509--509. [Stable URL](https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-53/issue-6/A-simple-proof-that-pi-is-irrational/bams/1183510788.full) (this method was later [generalized by A. E. Parks](https://www.jstor.org/stable/2322291))
