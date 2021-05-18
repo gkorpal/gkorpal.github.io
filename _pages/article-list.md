@@ -29,6 +29,7 @@ Note that the order of authors' names in mathematics and (computer) science arti
 
 * A. Menezes and D. Stebila, Challenges in Cryptography, _IEEE Security & Privacy_ **19** (2021), no. 2, 70--73. doi:[10.1109/MSEC.2021.3049730](https://doi.org/10.1109/MSEC.2021.3049730)
 * T. Lindell, Secure multiparty computation, _Communications of the ACM_, **64** (2021), no. 1, 86--96. doi:[10.1145/3387108](https://doi.org/10.1145/3387108)
+* C. Peng, J. Chen, S. Zeadally and D. He, Isogeny-Based Cryptography: A Promising Post-Quantum Technique, _IEEE IT Professional_ **21** (2019), no. 6m 27--32. doi:[10.1109/MITP.2019.2943136](10.1109/MITP.2019.2943136) \[Contains nice illustrations.\]
 * J. Waldo, A Hitchhiker’s Guide to the Blockchain Universe: Blockchain remains a mystery, despite its growing acceptance, _ACM Queue_ **16** (2018), no. 6, 15 pp. doi:[10.1145/3305263.3305265](https://doi.org/10.1145/3305263.3305265), [Stable URL](https://queue.acm.org/detail.cfm?id=3305265)
 * A. Narayanan and J. Clark, Bitcoin’s Academic Pedigree: The concept of cryptocurrencies is built from forgotten ideas in research literature, _ACM Queue_ **15** (2017), no. 4, 30 pp. doi:[10.1145/3134434.3136559](https://doi.org/10.1145/3134434.3136559), [Stable URL](https://queue.acm.org/detail.cfm?id=3136559) \[An equivalent quality video exposition by Grant Sanderson (3Blue1Brown) on [YouTube](https://www.youtube.com/watch?v=bBC-nXj3Ng4)\]
 * K. Lauter, Postquantum Opportunities: Lattices, Homomorphic Encryption, and Supersingular Isogeny Graphs, _IEEE Security & Privacy_ **15** (2017), no. 4, 22--27. doi:[10.1109/MSP.2017.3151338](https://doi.org/10.1109/MSP.2017.3151338) 
@@ -42,7 +43,7 @@ Note that the order of authors' names in mathematics and (computer) science arti
 
 ## Research
 
-* D. Boneh and M. Franklin, Identity-Based Encryption from the Weil Pairing, _Crypto 2001_. doi:[10.1007/3-540-44647-8_13](https://doi.org/10.1007/3-540-44647-8_13) (The full version of this paper was published in SICOMP **32** (2003), no. 3. doi:[10.1137/S0097539701398521](https://doi.org/10.1137/S0097539701398521))
+* D. Boneh and M. Franklin, Identity-Based Encryption from the Weil Pairing, _Crypto 2001_. doi:[10.1007/3-540-44647-8_13](https://doi.org/10.1007/3-540-44647-8_13) \[The full version of this paper was published in _SICOMP_ **32** (2003), no. 3. doi:[10.1137/S0097539701398521](https://doi.org/10.1137/S0097539701398521)\]
 * D. Chaum and E. van Heyst, Group Signatures, _Eurocrypt 1991_. doi:[10.1007/3-540-46416-6_22](https://doi.org/10.1007/3-540-46416-6_22)
 * V. S. Miller, Use of Elliptic Curves in Cryptography, _Crypto 1985_. doi:[10.1007/3-540-39799-X_31](https://doi.org/10.1007/3-540-39799-X_31)
 * A. Shamir, Identity-Based Cryptosystems and Signature Schemes, _Crypto 1984_. doi:[10.1007/3-540-39568-7_5](https://doi.org/10.1007/3-540-39568-7_5)
