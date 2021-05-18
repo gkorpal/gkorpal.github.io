@@ -47,7 +47,8 @@ One might need university library membership to access some of the out-of-print 
 * **Prime Obsession** by *John Derbyshire*: I finally understood the  meaning of "analytic continuation" from this book.
 * **The Einstein Theory of Relativity** by *Lillian R. Lieber*: A very clear exposition of the mathematical contribution of Albert Einstein.
 * **Journey Through Genius** by *William Dunham*: Wonderful discussions about mathematical works of great mathematicians.
-* **Who Gave you the Epsilon?: And Other Tales of Mathematical History** by *Anderson, Katz and Wilson*: One of the many good books in the SPECTRUM series of MAA.
+* **The Code Book** by *Simon Singh*: My first introduction to the world of cryptography.
+* **The Codebreakers** by *David Kahn*: One of the best reference for the history of cryptography.
 * **The Book of Numbers** by *John H. Conway and Richard K. Guy*: Clear explaination of complicated concepts, especially Bernoulli numbers and cardinal numbers (counting cards). Plus it's a colourful maths book!
 * **Magical Mathematics** by *Persi Diaconis and Ron Graham*: Very interesting mathematical card tricks, a great treat for people who love the collection of Scientific American articles by Martin Gardner.
 * **The Penguin Dictionary of Curious and Interesting Geometry** by *David Wells*: My favourite entry is "pursuit curves".
