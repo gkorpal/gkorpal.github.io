@@ -45,7 +45,7 @@ Here I have divided articles between applied mathematics (computer science and e
 
 ## Research
 
-* D. Boneh and M. Franklin, Identity-Based Encryption from the Weil Pairing, _Proc. of Crypto 2001_. doi:[10.1007/3-540-44647-8_13](https://doi.org/10.1007/3-540-44647-8_13) \[The full version of this paper was published in _SICOMP_ **32** (2003), no. 3. doi:[10.1137/S0097539701398521](https://doi.org/10.1137/S0097539701398521)\]
+* D. Boneh and M. Franklin, Identity-Based Encryption from the Weil Pairing, _Proc. of Crypto 2001_.  doi:[10.1007/3-540-44647-8_13](https://doi.org/10.1007/3-540-44647-8_13) \[The full version of this paper was published in _SICOMP_ **32** (2003), no. 3. doi:[10.1137/S0097539701398521](https://doi.org/10.1137/S0097539701398521) \]
 * D. Chaum and E. van Heyst, Group Signatures, _Proc. of Eurocrypt 1991_. doi:[10.1007/3-540-46416-6_22](https://doi.org/10.1007/3-540-46416-6_22)
 * N. Koblitz, Elliptic curve cryptosystems. _Math. Comp._ **48** (1987), no. 177, 203--209. doi:[10.2307/2007884](https://doi.org/10.2307/2007884)
 * V. S. Miller, Use of Elliptic Curves in Cryptography, _Proc. of Crypto 1985_. doi:[10.1007/3-540-39799-X_31](https://doi.org/10.1007/3-540-39799-X_31)
