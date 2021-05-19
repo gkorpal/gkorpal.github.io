@@ -24,6 +24,7 @@ Here I have divided articles between applied mathematics (computer science and e
 
 
 # Applied Mathematics
+<img src="/images/crash.png" alt="">
 
 ## Expository
 
@@ -56,6 +57,8 @@ Here I have divided articles between applied mathematics (computer science and e
 As one can see, my knowledge of computer science is limited to cryptography. Note that the key theoretical cryptography results are generally announced in the conferences like [FOCS](http://ieee-focs.org/), [STOC](http://acm-stoc.org/), [Crypto](https://www.iacr.org/meetings/crypto/), [Eurocrypt](https://www.iacr.org/meetings/eurocrypt/), [Asiacrypt](https://www.iacr.org/meetings/asiacrypt/), and [TCC](https://www.iacr.org/meetings/tcc/). On the other hand, the key applied cryptography results are generally announced in the conferences like [S&P (Oakland)](https://www.ieee-security.org/TC/SP-Index.html), [CCS](https://www.sigsac.org/ccs.html), [CHES](https://www.iacr.org/meetings/ches/), and [USENIX Security](https://www.usenix.org/conferences/byname/108).
 
 # Pure Mathematics
+
+<img src="/images/pure.png" alt="">
 
 ## Expository
 
