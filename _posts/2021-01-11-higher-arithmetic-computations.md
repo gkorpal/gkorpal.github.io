@@ -59,7 +59,7 @@ The following has been my journey of learning programming languages so far:
 | --------------- | -------------------- | ---------------------------- |
 |Primary school (classes I to IV) | Logo | MSWLogo (Windows 98)|
 |Middle school (classes V to VIII) | BASIC | Microsoft Small Basic (Windows XP)|
-|High school (classes IX to XII) | Java | NetBeans (Windows 7)|
+|High school (classes IX to XII) | Java ([similar course](https://java-programming.mooc.fi/))| NetBeans (Windows 7)|
 |Undergraduate school | C++ |Code::Blocks (Ubuntu 14.04)|
 |Graduate school | Python | Vim with `python-mode` plugin (Fedora 33) |
 
