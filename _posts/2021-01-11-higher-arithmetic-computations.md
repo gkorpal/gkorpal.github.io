@@ -61,7 +61,10 @@ The following has been my journey of learning programming languages so far:
 |Middle school (classes V to VIII) | BASIC | Microsoft Small Basic (Windows XP)|
 |High school (classes IX to XII) | Java ([similar course](https://java-programming.mooc.fi/))| NetBeans (Windows 7)|
 |Undergraduate school | C++ |Code::Blocks (Ubuntu 14.04)|
-|Graduate school | Python | Vim with `python-mode` plugin (Fedora 33) |
+
+<!-----
+|Graduate school | Python | Vim with `python-mode` plugin (Fedora 33) | 
+----->
 
 
 During my undergraduate studies, I had the perception that C++ is "the langauge" for scientific computations. In fact, there are many C/C++ libraries for higher arithmetic computations, like [NTL](https://libntl.org), [FLINT](http://www.flintlib.org/), [eclib](http://homepages.warwick.ac.uk/staff/J.E.Cremona/mwrank/), [gf2x](https://gitlab.inria.fr/gf2x/gf2x), [Givaro](https://casys.gricad-pages.univ-grenoble-alpes.fr/givaro/), [GMP](https://gmplib.org/), [GNU MPFR](https://www.mpfr.org/), [GNU MPC](http://www.multiprecision.org/mpc/), [ARB](https://arblib.org/), [CMH](https://gitlab.inria.fr/cmh/cmh#cmh-computation-of-genus-2-class-polynomials), [LinBox](https://linalg.org/), [PARI](http://pari.math.u-bordeaux.fr/), [Symmetrica](http://www.algorithm.uni-bayreuth.de/en/research/SYMMETRICA/), [zn_poly](https://web.maths.unsw.edu.au/~davidharvey/code/zn_poly/), and [m4ri](https://bitbucket.org/malb/m4ri/). However, with the advent of Cython (not to be confused with CPython, which is the original [Python implementation](https://wiki.python.org/moin/PythonImplementations)), Python has become "the new langauge" for scientific computations. The key advantage of Python over C++ is that Python provides better code readability than C++ (like using whitespaces instead of curly braces). In fact, all these C/C++ libraries can now be [accessed via SageMath](https://doc.sagemath.org/html/en/reference/spkg/) using [Python-based syntax](https://doc.sagemath.org/html/en/tutorial/afterword.html). For example, in 2016, Robert J. Lemke Oliver [used SageMath and C++](https://math.tufts.edu/faculty/rlemkeoliver/code/primebias.html) to verify the observations by Kannan Soundarajan, leading to the famous discovery of [biases in the distribution of consecutive primes](https://www.quantamagazine.org/mathematicians-discover-prime-conspiracy-20160313/).
