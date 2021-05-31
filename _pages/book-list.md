@@ -12,7 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
-Following are some of the books, mostly about pure mathematics topics, that I would recommend reading. The inspiration for this list came from the [Chicago undergraduate mathematics bibliography](https://github.com/ystael/chicago-ug-math-bib).
+Following are some of the mathematics books that I would recommend reading. The inspiration for this list came from the [Chicago undergraduate mathematics bibliography](https://github.com/ystael/chicago-ug-math-bib).
 
 One might need university library membership to access some of the out-of-print books (or use the power of internet). I have arranged the books in the increasing order of difficulty with respect to the required mathematical maturity.
 
@@ -122,9 +122,9 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Calculus I, II, III** by *Jerrold E. Marsden and Alan Weinstein*:  These books are old fashioned version of Calculus I, II and II (US Education System). The books are available <a href="https://aimath.org/textbooks/approved-textbooks/marsden-weinstein/" target="_blank">here</a> for free as part of the American Institute of Mathematics' [Open Textbook Initiative](https://aimath.org/textbooks/approved-textbooks/). This topic is an amalgamation of analysis, topology and geometry. We use geometric and topological properties of the Euclidean space to find some logic behind analytic facts about functions defined on Euclidean space. This is the "maths" needed for most of the undergraduate Physics courses.
 * **Linear Algebra** by *Friedberg, Insel and Spence*: To avoid typos, use 1999 reprint of the third edition, or more recent editions. It is a good book to learn basic stuff used in algebra (modules over PID, representation of finite groups, etc.), analysis (Banach space, numerical analysis, differential equations, etc.),  geometry (coordinate change, orientation, multilinear maps, etc.) and discrete mathematics (incidence matrix etc.). 
 * **Introductory Combinatorics** by *R. A. Brualdi*: There are some typos, but there some really interesting discussions like an interesting theorem by Erdős and Szekeres (p. 76, 5th ed).
-* **An Introduction to the Theory of Numbers** by *Ivan Niven, Herbert S. Zuckerman and Hugh L. Montgomery*: Covers all flavours of number theory in adequate detail. Requires some mathematical maturity.
+* **A Friendly Introduction to Number Theory** by *J. H. Silverman*: A modern introduction to elementary number theory.
 
-*I never came across a good introductory book on graph theory. The books are in general filled with definitions and algorithms. In my opinion, one can pick some notes ([like these](https://code.google.com/archive/p/graphbook/)) which illustrate algorithms by implementing them using SageMath.*
+*I never came across a good introductory book on graph theory. The books are in general filled with definitions and algorithms. In my opinion, one can pick some notes ([like these](https://code.google.com/archive/p/graphbook/)) which illustrate algorithms by implementing them using SageMath. Also need to add probability, statistics, finance, and algorithms books.*
 
 ## Analysis ##
 
@@ -174,8 +174,8 @@ The topics and books are arranged in the order I would recommend learning them.
 ## Elementary Number Theory ##
 
 * **An Introduction to Diophantine Equations** by *D. Andrica, I. Cucurezeanu, and T. Andreescu*: A really nice place to learn elementary methods for solving various types of Diophantine equations.
-* **A Friendly Introduction to Number Theory** by *J. H. Silverman*: A modern introduction to elementary number theory.
 * **The  Higher  Arithmetic** by *H.  Davenport*: It is written in prose form, many interesting things to learn.
+* **An Introduction to the Theory of Numbers** by *Ivan Niven, Herbert S. Zuckerman and Hugh L. Montgomery*: Covers all flavours of number theory in adequate detail. Requires some mathematical maturity.
 
 ## Analytic Number Theory ##
 
