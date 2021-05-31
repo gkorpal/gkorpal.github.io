@@ -25,7 +25,7 @@ Here I have divided articles between applied mathematics ([computational mathema
 
 Note that the order of authors' names in pure mathematics and applied mathematics (similar to science and engineering) articles tend to have a different meaning, for details see [this 1992 paper by Andrew Appel](https://doi.org/10.1145/131080.131091) and [this 2004 statement by the AMS](http://www.ams.org/profession/leaders/CultureStatement04.pdf). 
 
-One might need university library membership to access some of these articles (or use the power of internet). I have arranged the articles in reverse chronological order (from latest to the oldest). 
+One might need university library membership to access some of these articles (or use the power of internet). I have arranged the articles in reverse chronological order (from the latest to the oldest). 
 
 * [Applied Mathematics](#applied-mathematics) 
   * [Expository](#expository)
