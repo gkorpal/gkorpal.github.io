@@ -18,7 +18,12 @@ One might need university library membership to access some of these articles (o
 
 Here I have divided articles between applied mathematics ([computational mathematics](https://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=56&cip=27.0303)) and pure mathematics ([algebra and number theory](https://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=56&cip=27.0102)). Loosely speaking, computer science is a specialization within the discipline of computational mathematics (not to be confused with [computational science](https://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=56&cip=30.3001)), and computer engineering is a specialization within the discipline of electrical engineering (closely related to physics and applied mathematics), for details see [this 1989 report by the ACM Education Board](https://doi.org/10.1145/63238.63239). Moreover, I believe in the exsitence of the following hierarchy in [STEM fields](https://fas.org/sgp/crs/misc/R42642.pdf):
 
-![stem](https://gkorpal.github.io/images/stem.jpg) 
+<p>
+  <center>
+    <img alt="STEM" src="https://gkorpal.github.io/images/stem.jpg" width="250" height="250" class="center">
+  </center>
+</p>
+
 
 Note that the order of authors' names in pure mathematics and applied mathematics (similar to science and engineering) articles tend to have a different meaning, for details see [this 1992 paper by Andrew Appel](https://doi.org/10.1145/131080.131091) and [this 2004 statement by the AMS](http://www.ams.org/profession/leaders/CultureStatement04.pdf). 
 
