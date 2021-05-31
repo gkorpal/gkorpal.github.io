@@ -7,6 +7,9 @@ redirect_from:
   - /books
 ---
 
+> Mathematical reasoning may be regarded rather schematically as the exercise of a combination of two facilities, which we may call intuition and ingenuity. 
+> -[Alan M. Turing](https://en.wikiquote.org/wiki/Alan_Turing)
+
 {% include base_path %}
 
 Following are some of the books that I would recommend reading. The inspiration for this list came from the [Chicago undergraduate mathematics bibliography](https://github.com/ystael/chicago-ug-math-bib).
