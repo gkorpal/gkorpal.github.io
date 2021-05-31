@@ -150,7 +150,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 ## Topology ##
 
 * **Topology** by *J. Munkres*: Standard textbook for point-set topology (first part of the book). The focus is on generalizing the properties of continuous funtions learned in Calculus I and III.
-* **An Introduction to Manifolds** by *L. Tu*: A good introduction to differential topology (de Rham cohomology). Can skip the Lie group, Lie algebra and Lie derivative during the first reading. Some of its content is similar to the one found in Hubbard and Hubbard's book (eg: Stokes theorem).
+* **An Introduction to Manifolds** by *L. Tu*: A good introduction to differential topology (de Rham cohomology). Can skip the Lie group, Lie algebra and Lie derivative discussions during the first reading. Some of its content is similar to the one found in Hubbard and Hubbard's book (eg: Stokes theorem).
    * **Analysis on Manifolds** by *J. Munkres*: A rigorous introduction to manifolds in $\mathbb{R}^n$ (de Rham cohomology). This book provides better notations for differentaition and integration, hence clearing the confusion caused due to Calculus notations like "dx" etc. 
    * **Differential Topology** by *A. Mukherjee*: This text nicely complements the study of smooth manifolds. A good reference for Sard's theorem, Whitney's embedding theorem, and Morse theory.
 * **An Introduction to Algebraic Topology** by *J. Rotman*: A good introductory text with a good number of examples about fundamental groups and homology theory. Even though it is part of graduate text series, it is quite accessible as compared to the more advanced books by [Massey](https://www.springer.com/gp/book/9780387902715) or [Hatcher](http://pi.math.cornell.edu/~hatcher/AT/ATpage.html).
