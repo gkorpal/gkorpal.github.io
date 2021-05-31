@@ -7,6 +7,9 @@ redirect_from:
   - /articles
 ---
 
+> Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.
+> -[Edsger W. Dijkstra](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)
+
 {% include base_path %}
 
 Following are some of the articles that I would recommend reading. The inspiration for this list came from the anthologies like [Who Gave You the Epsilon? And Other Tales of Mathematical History](https://www.maa.org/press/maa-reviews/who-gave-you-the-epsilon-and-other-tales-of-mathematical-history) and [Biscuits of Number Theory](https://www.maa.org/press/maa-reviews/biscuits-of-number-theory).
