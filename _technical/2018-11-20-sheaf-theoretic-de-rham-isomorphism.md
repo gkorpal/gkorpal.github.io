@@ -4,7 +4,7 @@ collection: technical
 permalink: /technical/2018-11-20-sheaf-theoretic-de-rham-isomorphism
 excerpt:
 date: 2018-11-20
-venue: 'Dr. Ritwik Mukherjee (National Institute of Science Education and Research, Bhubaneswar)'
+venue: 'Ritwik Mukherjee (National Institute of Science Education and Research, Bhubaneswar)'
 paperurl: 
 citation: 
 ---
