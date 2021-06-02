@@ -4,7 +4,7 @@ collection: technical
 permalink: /technical/2019-04-19-cousin-problem-analytic-hypersurface
 excerpt:
 date: 2019-04-19
-venue: 'Dr. Ritwik Mukherjee (National Institute of Science Education and Research, Bhubaneswar)'
+venue: 'Ritwik Mukherjee (National Institute of Science Education and Research, Bhubaneswar)'
 paperurl: 
 citation: 
 ---
