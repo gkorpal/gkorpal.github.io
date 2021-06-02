@@ -4,7 +4,7 @@ collection: technical
 permalink: /technical/2016-07-31-number-fields
 excerpt:
 date: 2016-07-31
-venue: 'Prof. Ramesh Sreekantan (Indian Statistical Institute, Bangalore)'
+venue: 'Ramesh Sreekantan (Indian Statistical Institute, Bangalore)'
 paperurl: 
 citation: 
 ---
