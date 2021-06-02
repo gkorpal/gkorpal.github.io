@@ -4,7 +4,7 @@ collection: technical
 permalink: /technical/2017-01-07-reciprocity-laws
 excerpt:
 date: 2017-01-07
-venue: 'Prof. Chandan Singh Dalawat (Harish-Chandra Research Institute, Allahabad)'
+venue: 'Chandan Singh Dalawat (Harish-Chandra Research Institute, Allahabad)'
 paperurl: 
 citation: 
 ---
