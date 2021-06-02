@@ -4,7 +4,7 @@ collection: technical
 permalink: /technical/2017-11-17-arithmetic-geometry-I
 excerpt:
 date: 2017-11-17
-venue: 'Dr. B. Sahu (National Institute of Science Education and Research, Bhubaneswar)'
+venue: 'B. Sahu (National Institute of Science Education and Research, Bhubaneswar)'
 paperurl: 
 citation: 
 ---
