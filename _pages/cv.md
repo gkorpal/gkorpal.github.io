@@ -19,7 +19,7 @@ Education
   * University: <em>[Homi Bhabha National Institute, Mumbai](http://www.hbni.ac.in/).</em>
     * Constituent Institution: <em>[National Institute of Science Education and Research, Bhubaneswar](http://www.niser.ac.in/) </em>
   * Thesis: <em>[Sheaf, Cohomology and Geometry](http://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf).</em>
-    * Supervisor: <em>[Ritwik Mukherjee](https://www.sites.google.com/site/ritwik371/home).</em>
+    * Advisor: <em>[Ritwik Mukherjee](https://www.sites.google.com/site/ritwik371/home).</em>
 
 Work experience
 ------
