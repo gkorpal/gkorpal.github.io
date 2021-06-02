@@ -4,7 +4,7 @@ collection: technical
 permalink: /technical/2017-07-15-prime-numbers
 excerpt:
 date: 2017-07-15
-venue: 'Prof. K. Srinivas (Institute of Mathematical Sciences, Chennai)'
+venue: 'K. Srinivas (The Institute of Mathematical Sciences, Chennai)'
 paperurl: 
 citation: 
 ---
