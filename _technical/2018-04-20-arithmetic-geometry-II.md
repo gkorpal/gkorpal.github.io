@@ -4,7 +4,7 @@ collection: technical
 permalink: /technical/2018-04-20-arithmetic-geometry-II
 excerpt:
 date: 2018-04-20
-venue: 'Dr. B. Sahu (National Institute of Science Education and Research, Bhubaneswar)'
+venue: 'B. Sahu (National Institute of Science Education and Research, Bhubaneswar)'
 paperurl: 
 citation: 
 ---
