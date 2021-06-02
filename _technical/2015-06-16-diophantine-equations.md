@@ -4,7 +4,7 @@ collection: technical
 permalink: /technical/2015-06-16-diophantine-equations
 excerpt:
 date: 2015-06-16
-venue: 'Prof. S. A. Katre (Bhaskaracharaya Pratishthana, Pune)'
+venue: 'S. A. Katre (S. P. Pune University & Bhaskaracharaya Pratishthana, Pune)'
 paperurl: 
 citation: 
 ---
