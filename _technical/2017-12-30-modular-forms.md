@@ -4,7 +4,7 @@ collection: technical
 permalink: /technical/2017-12-30-modular-forms
 excerpt:
 date: 2017-12-30
-venue: 'Prof. M. Manickam (Kerala School of Mathematics, Kozhikode)'
+venue: 'M. Manickam (Kerala School of Mathematics, Kozhikode)'
 paperurl: 
 citation: 
 ---
