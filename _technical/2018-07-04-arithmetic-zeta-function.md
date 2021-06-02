@@ -4,7 +4,7 @@ collection: technical
 permalink: /technical/2018-07-04-arithmetic-zeta-function
 excerpt:
 date: 2018-07-04
-venue: 'Prof. C. S. Rajan (Tata Institute of Fundamental Research, Mumbai)'
+venue: 'C. S. Rajan (Tata Institute of Fundamental Research, Mumbai)'
 paperurl: 
 citation: 
 ---
