@@ -4,7 +4,7 @@ collection: technical
 permalink: /technical/2016-01-08-diophantine-approximations
 excerpt:
 date: 2016-01-08
-venue: 'Prof. R. Thangadurai (Harish-Chandra Research Institute, Allahabad)'
+venue: 'R. Thangadurai (Harish-Chandra Research Institute, Allahabad)'
 paperurl: 
 citation: 
 ---
