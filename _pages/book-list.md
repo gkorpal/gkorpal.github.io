@@ -22,8 +22,8 @@ One might need university library membership to access some of the out-of-print 
 * [High School Maths](#high-school-maths)
 * [Undergraduate Maths](#undergraduate-maths)
   * [Basics](#basics)
-  * [Analysis](#analysis)
   * [Algebra](#algebra)
+  * [Analysis](#analysis)
   * [Topology](#topology)
   * [Geometry](#geometry)
 * [Special Topics](#special-topics)
@@ -35,7 +35,7 @@ One might need university library membership to access some of the out-of-print 
   * [Arithmetic Geometry](#arithmetic-geometry)
   * [Representation Theory](#representation-theory)
   
-# Popular Maths and Fiction #
+# Popular Maths and Fiction 
 ------
 
 <img src="/images/book2.jpg" alt="">
@@ -61,7 +61,7 @@ One might need university library membership to access some of the out-of-print 
 * **The Devotion of Suspect X** by *Keigo Higashino*: The protagonist is a brilliant but lonely mathematician.
 * **A Man Called Ove** by *Fredrik Backman*: The protagonist is an autistic old man who liked maths when he was a kid.
 
-# Biographies and Autobiographies #
+# Biographies and Autobiographies 
 ------
 
 <img src="/images/book5.jpg" alt="">
@@ -74,7 +74,7 @@ One might need university library membership to access some of the out-of-print 
 
 *Why no good books about the women mathematicians? Sophie Germain, Sofia Kovalevskaya, Emmy Noether, Julia Robinson,...*
 
-# Olympiad Maths #
+# Olympiad Maths 
 --------
 
 <img src="/images/book1.jpg" alt="">
@@ -93,7 +93,7 @@ These books should be accessible to the students in class VIII (final year of Pr
 
 *[Here](https://gkorpal.github.io/files/old-olympiad.pdf) is an outdated list of olympiad preparation books.*
 
-# High School Maths #
+# High School Maths 
 ------
 
 <img src="/images/book3.jpg" alt="">
@@ -110,14 +110,14 @@ The High School constitutes of class IX-XII (Secondary and Senior Secondary educ
 * **The Cartoon Guide to Calculus** by *Larry Gonick*:  A Fantastic book ! Everyone will love calculus after reading this. An illustrative guide to elementary calculus.
 * **Calculus: Basic Concepts for High Schools** by *Lev Tarasov*: Among the many calculus textbooks I read, this was the one which gave me the most clarity. Re-written in [LaTeX](https://archive.org/details/LevTarasovCalculusBasicConceptsForHighSchools/page/n101) by [The Mitr](https://wp.me/p13GRc-RX).
 
-# Undergraduate Maths #
+# Undergraduate Maths 
 -----
 
 <img src="/images/book4.jpg" alt="">
 
 The Undergraduate constitutes of 4-year bachelor's degree program in mathematics (Tertiary education in India), i.e. students aged 18 to 22. I have arranged the topics and books in the order of increasing requirement for mathematical maturity.
 
-## Basics ##
+## Basics 
 
 * **Calculus I, II, III** by *Jerrold E. Marsden and Alan Weinstein*:  These books are old fashioned version of Calculus I, II and II (US Education System). The books are available <a href="https://aimath.org/textbooks/approved-textbooks/marsden-weinstein/" target="_blank">here</a> for free as part of the American Institute of Mathematics' [Open Textbook Initiative](https://aimath.org/textbooks/approved-textbooks/). This topic is an amalgamation of analysis, topology and geometry. We use geometric and topological properties of the Euclidean space to find some logic behind analytic facts about functions defined on Euclidean space. This is the "maths" needed for most of the undergraduate Physics courses.
 * **Linear Algebra** by *Friedberg, Insel and Spence*: To avoid typos, use 1999 reprint of the third edition, or more recent editions. It is a good book to learn basic stuff used in algebra (modules over PID, representation of finite groups, etc.), analysis (Banach space, numerical analysis, differential equations, etc.),  geometry (coordinate change, orientation, multilinear maps, etc.) and discrete mathematics (incidence matrix etc.). 
@@ -129,7 +129,12 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Problem Solving with Algorithms and Data Structures using Python** by *B. M. Miller* and *D. L. Ranum*:  This is an introductory text on algorithms which uses Python 3.2 ([2nd edition](https://fbeedle.com/our-books/10-problem-solving-with-algorithms-and-data-structures-using-python-2nd-ed-9781590282571.html)) for illustrating concepts. I came to know about this book from the MIT OCW [Introduction to Algorithms](http://ocw.mit.edu/6-006F11) which follows [the standard textbook](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) with an added emphasis on using Python for solving exercises. This book is also [available online](https://runestone.academy/runestone/books/published/pythonds/index.html), however you will need to use an adblocker or [host it yourself](https://github.com/RunestoneInteractive/pythonds).
 * **Introduction to the Theory of Computation** by *M. Sipser*:  This is an introductory text on automata theory, computability theory, and complexity theory. 
 
-## Analysis ##
+## Algebra 
+
+* **Abstract Algebra** by *Dummit and Foote*: For an introduction to group theory, ring theory, modules over PID, field theory and Galois theory (answers to straight edge & compass construction questions we encountered in high-school). Has lots of solved examples. Beginners might find the books by Fraleigh (A First Course in Abstract Algebra) and Gallian (Contemporary Abstract Algebra) more useful for learning basic group theory. 
+* **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's book "Algebraic Geometry". For a more gentle introduction, you can read the book by N S Gopalakrishnan.
+
+## Analysis 
 
 * **Foundations of Analysis** by *E. Landau*: Fantastic short book. I learned about Peano axioms from this book. Terry Tao's book "Analysis I" also starts with a similar discussion.
 * **Introduction to Real Analysis** by *Bartle and Sherbert*: A very nice introduction to concepts like countability and epsilon-delta method for functions defined over $\mathbb{R}$. Focus is to rigorously prove the stuff learned in Calculus I and II. Lots of examples and good exercises. Also compares improper Riemann integration with Lebesgue integration (pros and cons).
@@ -141,13 +146,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Differential Equations** by *S. L. Ross*: Nothing special, any other text like Simmons and Krantz's book "Differential Equations: Theory, Technique and Practice" is also good. We will see the proofs of facts learned in Calculus II.
 * **Tea Time Numerical Analysis** by *Leon Q. Brin*: An introductory textbook for numerical analysis with algortihms illustrated using GNU Octave. It is [available online](https://lqbrin.github.io/tea-time-numerical/) for free and is a part of the American Institute of Mathematics' [Open Textbook Initiative](https://aimath.org/textbooks/approved-textbooks/).
 
-
-## Algebra ##
-
-* **Abstract Algebra** by *Dummit and Foote*: For an introduction to group theory, ring theory, modules over PID, field theory and Galois theory (answers to straight edge & compass construction questions we encountered in high-school). Has lots of solved examples. Beginners might find the books by Fraleigh (A First Course in Abstract Algebra) and Gallian (Contemporary Abstract Algebra) more useful for learning basic group theory. 
-* **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's book "Algebraic Geometry". For a more gentle introduction, you can read the book by N S Gopalakrishnan.
-
-## Topology ##
+## Topology 
 
 * **Topology** by *J. Munkres*: Standard textbook for point-set topology (first part of the book). The focus is on generalizing the properties of continuous funtions learned in Calculus I and III.
 * **An Introduction to Manifolds** by *L. Tu*: A good introduction to differential topology (de Rham cohomology). Can skip the Lie group, Lie algebra and Lie derivative discussions during the first reading. Some of its content is similar to the one found in Hubbard and Hubbard's book (eg: Stokes theorem).
@@ -156,7 +155,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **An Introduction to Algebraic Topology** by *J. Rotman*: A good introductory text with a good number of examples about fundamental groups and homology theory. Even though it is part of graduate text series, it is quite accessible as compared to the more advanced books by [Massey](https://www.springer.com/gp/book/9780387902715) or [Hatcher](http://pi.math.cornell.edu/~hatcher/AT/ATpage.html).
   * **Elements of Algebraic Topology** by *J. Munkres*: Provides a more detailed discussion about both homology and cohomology.
 
-## Geometry ##
+## Geometry 
 
 * **Geometry from a Differentiable Viewpoint** by *J. McCleary*: The Part B of this books provides a good introduction to geometry of curves and surfaces lying in $\mathbb{R}^3$ (Theorema Egregium and Gauss-Bonnet Theorem). The other two parts are expositions which connect high school geometry with differential geometry (Part A) and introduce Riemannian geometry (Part C).
   * **Vector Calculus, Linear Algebra And Differential Forms: A unified approach** by *J. H. Hubbard and B. B. Hubbard*: A visual introduction to multivariable calculus. It also briefly discusses the geometry of curves and surfaces in $\mathbb{R}^3$. Focus is on rigorously proving the stuff learned in Calculus III and extend those ideas. Though "differential forms" are not needed for understanding curves and surfaces in $\mathbb{R}^3$, they will be useful when learning about Riemannian manifolds (tensor calculus). 
@@ -167,20 +166,30 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
   * **Geometry** by *M. Audin*: This book will help to bridge the gap between high-school geometry (Euclidean plane, Cartesian 2D and 3D, and Argand plane) and university geometry (differential geometry and algebraic geometry). Also, the chapters V and VI of this book supplement the contents of Samuel's book.
 * **An Invitation to Algebraic Geometry** by *K. E. Smith, et. al.*: This book nicely complements the first chapter of Hartshorne (rest of that book is about scheme theory). Lots of solved examples. Note that, though "genus" of a curve (Riemann surface) is defined in algebraic topology via Euler charateristic and in (complex) algebraic geometry via Riemann-Roch theorem, there is a close correspondence between "divisors" (algebraic geometry) and holomorphic "line bundles" (algebriac topology) on a Riemann surface. You can find more about this in the last chapter (Chapter 8) of this book. A good follow-up read would be the book "Algebraic Curves" by Fulton ([available online](http://www.math.lsa.umich.edu/~wfulton/CurveBook.pdf)) where a proof of Riemann-Roch theorem for cruves is discussed.
 
-# Special Topics #
+# Special Topics 
 --------------
 
 <img src="/images/book6.jpg" alt="">
 
 The topics and books are arranged in the order I would recommend learning them.
 
-## Elementary Number Theory ##
+## Elementary Number Theory 
 
 * **An Introduction to Diophantine Equations** by *D. Andrica, I. Cucurezeanu, and T. Andreescu*: A really nice place to learn elementary methods for solving various types of Diophantine equations.
 * **The  Higher  Arithmetic** by *H.  Davenport*: It is written in prose form, many interesting things to learn.
 * **An Introduction to the Theory of Numbers** by *Ivan Niven, Herbert S. Zuckerman and Hugh L. Montgomery*: Covers all flavours of number theory in adequate detail. Requires some mathematical maturity.
 
-## Analytic Number Theory ##
+## Algebraic Number Theory 
+
+* **Number Fields** by *D. Marcus*: A very good introductory text on algeraic number theory (chapters 2 to 5), where most big proofs are in the form of exercises. When I read this book in 2016, it was available only in old typewriter font but fortunately in 2018 Springer released its LaTeX edition! For supplementary reading, it is worth looking into the [expository articles by Keith Conrad](https://kconrad.math.uconn.edu/blurbs/).
+  * **Algebraic number theory and Fermat's last theorem** by *I. Stewart and D. Tall*: It nicely illustrates the calculation of class numbers using examples.
+  * **Algebraic Number Theory, a Computational Approach** by *W. Stein*: The chapters 2 to 8 complement Marcus' book by providing many examples solved using SageMath. It is freely [available online](https://wstein.org/books/ant/).
+* **Algebraic Number Theory** by *J. Neukirch* (translated from the German by N. Schappacher): A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. It serves the purpose of standard reference for global fields and local fields. I have read parts of Chapter I, II, IV and VII.
+  * **p-adic Numbers: An Introduction** by *F. Q. Gouvêa*: A good supplementary text for basic facts about $p$-adic numbers.
+* **Class Field Theory** by *J.S. Milne*: This is good for learning local class field theory from the perspective of Galois cohomology (unlike Neukirch). I have read parts of Chapter I, II, III and V. It is freely [available online](https://www.jmilne.org/math/CourseNotes/cft.html).
+  * **Primes of the Form $x^2 + ny^2$** by *D. Cox*: For a working knowledge of the important results of global class field theory one should read this as per [this advice](https://mathoverflow.net/a/6940/). *I haven't read this book yet.*
+
+## Analytic Number Theory
 
 * **An Introduction to the Theory of Numbers** by *G. H. Hardy and E. M. Wright*: It is a classic textbook with lot of interesting stuff using elementary analytic methods.
   * **Fourier Analysis: An Introduction** by *E. M. Stein and R. Shakarchi*: It is a good reference for "Weyl’s Equidistribution Theorem" (section 4.2) which is closely related to "Kronecker’s Theorem" (Diophantine approximation) discussed in Hardy & Wright's book (section 23.3, latest edition).
@@ -198,17 +207,7 @@ The topics and books are arranged in the order I would recommend learning them.
 
 *I didn't continue in this field since I couldn't like the arithmetic functions that keep popping up when finding estimations. If you enjoy this estimation related stuff, next step would be to learn about circle methods. Have a look at the book "An Invitation to Modern Number Theory" by S. J. Miller and R. Takloo-Bighash.*
 
-## Algebraic Number Theory ##
-
-* **Number Fields** by *D. Marcus*: A very good introductory text on algeraic number theory (chapters 2 to 5), where most big proofs are in the form of exercises. When I read this book in 2016, it was available only in old typewriter font but fortunately in 2018 Springer released its LaTeX edition! For supplementary reading, it is worth looking into the [expository articles by Keith Conrad](https://kconrad.math.uconn.edu/blurbs/).
-  * **Algebraic number theory and Fermat's last theorem** by *I. Stewart and D. Tall*: It nicely illustrates the calculation of class numbers using examples.
-  * **Algebraic Number Theory, a Computational Approach** by *W. Stein*: The chapters 2 to 8 complement Marcus' book by providing many examples solved using SageMath. It is freely [available online](https://wstein.org/books/ant/).
-* **Algebraic Number Theory** by *J. Neukirch* (translated from the German by N. Schappacher): A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. It serves the purpose of standard reference for global fields and local fields. I have read parts of Chapter I, II, IV and VII.
-  * **p-adic Numbers: An Introduction** by *F. Q. Gouvêa*: A good supplementary text for basic facts about $p$-adic numbers.
-* **Class Field Theory** by *J.S. Milne*: This is good for learning local class field theory from the perspective of Galois cohomology (unlike Neukirch). I have read parts of Chapter I, II, III and V. It is freely [available online](https://www.jmilne.org/math/CourseNotes/cft.html).
-  * **Primes of the Form $x^2 + ny^2$** by *D. Cox*: For a working knowledge of the important results of global class field theory one should read this as per [this advice](https://mathoverflow.net/a/6940/). *I haven't read this book yet.*
-
-## Complex Geometry ##
+## Complex Geometry 
 
 * **Algebraic Curves and Riemann Surfaces** by *R. Miranda*: It is a nice introductory text. Its Chapter IX is a good source for learning about Cech cohomology.
   * **Functions of One Complex Variable** by *J. B. Conway*: I really like the proofs given in this book (Runge's theorem, Mittag-Leffler's theorem and Weierstrass factorization theorem) which are critical for understanding Riemann surfaces.
@@ -223,7 +222,7 @@ The topics and books are arranged in the order I would recommend learning them.
   
 *Initially the plan was to learn [Hodge Theory](https://math.stackexchange.com/questions/1129603/), but I found this preliminary stuff to be too difficult to grasp. A good reference for that would be the book "Hodge Theory and Complex Algebraic Geometry" by Claire Voisin.* 
   
-## Enumerative Geometry ##
+## Enumerative Geometry 
 
 * **Enumerative Geometry and String Theory** by *S. Katz*: Standard introductory text. Can be supplemented with the articles: (1) "Enumerative Algebraic Geometry of Conics" by Bashelor, Ksir, and Traves ([MAA](https://www.maa.org/programs/maa-awards/writing-awards/enumerative-algebraic-geometry-of-conics)), (2) "Introduction to Moduli Spaces: A cycle of lectures at Universidad de Costa Rica" by Renzo Cavalieri ([combined pdf](https://gkorpal.github.io/files/Introduction-to-Moduli-Spaces.pdf))
 * **Mirror Symmetry and Algebraic Geometry** by *D. A. Cox and S. Katz*: Standard reference for learning about Gromov-Witten Invariants (chapter 7). Not an easy read. 
@@ -234,7 +233,7 @@ The topics and books are arranged in the order I would recommend learning them.
 
 *I made an attempt to learn this topic so that I could build upon the skills gained while learning complex geometry. However I didn't make much progress due to the lack of my interest.*
 
-## Arithmetic Geometry ##
+## Arithmetic Geometry 
 
 * **Rational Points on Elliptic Curves** by *J. H. Silverman and J. Tate*: One of the most accessible introduction to the world of elliptic curves, especially the theory of heights (major part of Diophantine geometry). I read the chapters I to III of this book a while ago for Mordell’s theorem (the special case of elliptic curves with a rational point of order two). The appendix on projective geometry is also great. 
   * **Topics in Algebra** by *I. N. Herstein*: This is a reference for the group theory needed to understand the proof of Mordell's theorem discussed in the text.
@@ -253,7 +252,7 @@ The topics and books are arranged in the order I would recommend learning them.
   * **Abelian Varieties** by *D. Mumford*: A scheme-theoretic treatment of most of the basic theory of abelian varieties. However, all ground fields are assumed to be algebraically closed, which limits the usefulness of the book as a reference for arithmetic geometers.
 --->
 
-## Representation Theory ##
+## Representation Theory 
 
 * **Representation and Characters of Groups** by *G. James and M. Liebeck*: This is an introductory text for representation theory of finite groups. It could have been an ideal introductory text for undergraduates but they chose [bad notations](https://math.stackexchange.com/a/192728). However, it is more accessible as compared to the standard textbook by [Serre](https://doi.org/10.1007/978-1-4684-9458-7).
   * **Representation Theory of Finite Groups** by *M. Burrow*: Must read the introduction to the first chapter. Notations are a bit outdated.
