@@ -28,8 +28,8 @@ One might need university library membership to access some of the out-of-print 
   * [Geometry](#geometry)
 * [Special Topics](#special-topics)
   * [Elementary Number Theory](#elementary-number-theory)
-  * [Analytic Number Theory](#analytic-number-theory)
   * [Algebraic Number Theory](#algebraic-number-theory)
+  * [Analytic Number Theory](#analytic-number-theory)
   * [Complex Geometry](#complex-geometry)
   * [Enumerative Geometry](#enumerative-geometry)
   * [Arithmetic Geometry](#arithmetic-geometry)
@@ -183,7 +183,7 @@ The topics and books are arranged in the order I would recommend learning them.
 
 ## Algebraic Number Theory 
 
-* **Number Fields** by *D. Marcus*: A very good introductory text on algeraic number theory (chapters 2 to 5), where most big proofs are in the form of exercises. When I read this book in 2016, it was available only in old typewriter font but fortunately in 2018 Springer released its LaTeX edition! For supplementary reading, it is worth looking into the [expository articles by Keith Conrad](https://kconrad.math.uconn.edu/blurbs/).
+* **Number Fields** by *D. Marcus*: A very good introductory text on algebraic number theory (chapters 2 to 5), where most big proofs are in the form of exercises. When I read this book in 2016, it was available only in old typewriter font but fortunately in 2018 Springer released its LaTeX edition! For supplementary reading, it is worth looking into the [expository articles by Keith Conrad](https://kconrad.math.uconn.edu/blurbs/).
   * **Algebraic number theory and Fermat's last theorem** by *I. Stewart and D. Tall*: It nicely illustrates the calculation of class numbers using examples.
   * **Algebraic Number Theory, a Computational Approach** by *W. Stein*: The chapters 2 to 8 complement Marcus' book by providing many examples solved using SageMath. It is freely [available online](https://wstein.org/books/ant/).
 * **Algebraic Number Theory** by *J. Neukirch* (translated from the German by N. Schappacher): A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. It serves the purpose of standard reference for global fields and local fields. I have read parts of Chapter I, II, IV and VII.
