@@ -30,9 +30,9 @@ One might need university library membership to access some of the out-of-print 
   * [Elementary Number Theory](#elementary-number-theory)
   * [Analytic Number Theory](#analytic-number-theory)
   * [Algebraic Number Theory](#algebraic-number-theory)
-  * [Arithmetic Geometry](#arithmetic-geometry)
   * [Complex Geometry](#complex-geometry)
   * [Enumerative Geometry](#enumerative-geometry)
+  * [Arithmetic Geometry](#arithmetic-geometry)
   * [Representation Theory](#representation-theory)
   
 # Popular Maths and Fiction #
@@ -208,25 +208,6 @@ The topics and books are arranged in the order I would recommend learning them.
 * **Class Field Theory** by *J.S. Milne*: This is good for learning local class field theory from the perspective of Galois cohomology (unlike Neukirch). I have read parts of Chapter I, II, III and V. It is freely [available online](https://www.jmilne.org/math/CourseNotes/cft.html).
   * **Primes of the Form $x^2 + ny^2$** by *D. Cox*: For a working knowledge of the important results of global class field theory one should read this as per [this advice](https://mathoverflow.net/a/6940/). *I haven't read this book yet.*
 
-## Arithmetic Geometry ##
-
-* **Rational Points on Elliptic Curves** by *J. H. Silverman and J. Tate*: One of the most accessible introduction to the world of elliptic curves, especially the theory of heights (major part of Diophantine geometry). I read the chapters I to III of this book a while ago for Mordell’s theorem (the special case of elliptic curves with a rational point of order two). The appendix on projective geometry is also great. 
-  * **Topics in Algebra** by *I. N. Herstein*: This is a reference for the group theory needed to understand the proof of Mordell's theorem discussed in the text.
-* **The Arithmetic of Elliptic Curves** by *J. H. Silverman*: The standard introductory text about elliptic curves using techniques from algebraic geometry (varieties in projective spaces). Make sure to use the 2nd edition corrected in 2016 printing, since earlier versions have lot of typos. Neukirch's "Algebraic Number Theory" book might be helpful when reading sections II.2, II.3, III.7 and VII.4. Also, it would be useful to recall stuff from analyic number theory, like Riemann zeta function (for section V.2), Diophantine approximation (for section IX.1) and transcendental number theory (for section IX.5).
-   * **Basic Algebraic Geometry** by *I. Shafarevich* (translated from the Russian by K. A. Hirsch): This is a reference for many proofs skipped in the first two chapters by Silverman. Note that this is quiet different, in terms of notations and organization, from the newer expanded translation by Miles Reid.
-   * **Galois Representations** by *Gabor Wiese*: These notes complement the discussion in section III.7 of Silverman's text. They are [available online](https://math.uni.lu/~wiese/notes/GalRep.pdf).
-* **Rational Points on Varieties** by *B. Poonen*: It provides a good introduction to the theory of obstructions to rational points on a variety, while briefly discussing other useful tools like étale cohomology. *In progress.*
-  * **Central Simple Algebras and Galois Cohomology** by *P. Gille and T. Szamuely*: This book discusses the proofs and exercises given in the first chapter of Ponnen's book. Central Simple Algebras (CSAs) over a field K are a non-commutative analog to extension fields over K – in both cases, they have no non-trivial 2-sided ideals, and have a distinguished field in their center, though a CSA can be non-commutative and need not have inverses (need not be a division algebra). This is of particular interest in "noncommutative number theory" as [generalizations of number fields](https://en.wikipedia.org/wiki/Hurwitz_quaternion_order). A detailed discussion of Brauer group examples related to class field theory is available in chapter IV and VIII.4 of Milne's [Class Field Theory notes](https://www.jmilne.org/math/CourseNotes/cft.html).
-  * **Algebraic Geometry and Arithmetic Curves** by *Q. Liu* (translated from the French by R. Erné): An introduction to the language of schemes (chapters 2 to 7), without assuming the base field to be algebraically closed, or of characteristic zero. Knowledge of complex geometry will be helpful when reading this book.
-  * **Arithmetic Geometry: Proceedings of the instructional conference held at the University of Connecticut (Jul 30 - Aug 10, 1984)** edited by *G. Cornell and J. H. Silverman*: The reference to learn basics of advanced topics like Jacobian varieties and Néron Models. It also contains the article by Milne which discusses abelian varieties without assuming ground field to be algebraically closed. Most of the articles are intended as expositions of the tools used in the proof of Faltings' theorem. 
-  
-<!--- 
-* **A First Course in Modular Forms** by *F. Diamond and J. Shurman*: This book explains a result called the Modularity Theorem (Taniyama–Shimura conjecture). The modularity theorem is, [in some sense](https://math.stackexchange.com/questions/55449/), a special case of the Langlands program. *I haven't read this book yet.*
-  * **Modular Forms and Fermat’s Last Theorem: Proceedings of the instructional conference held at Boston University (Aug 9 - Aug 18, 1995)** edited by *G. Cornell, J.H. Silverman and G. Stevens*: Advanced stuff. 
-* **Algebraic Geometry** by *R. Hartshorne*: The chapter II and III of this book provide an introduction to algebraic geometry via the theory of schemes over algebraically closed field. Good reference for the cohomology of schemes. 
-  * **Abelian Varieties** by *D. Mumford*: A scheme-theoretic treatment of most of the basic theory of abelian varieties. However, all ground fields are assumed to be algebraically closed, which limits the usefulness of the book as a reference for arithmetic geometers.
---->
-
 ## Complex Geometry ##
 
 * **Algebraic Curves and Riemann Surfaces** by *R. Miranda*: It is a nice introductory text. Its Chapter IX is a good source for learning about Cech cohomology.
@@ -252,6 +233,25 @@ The topics and books are arranged in the order I would recommend learning them.
 * **An Invitation to Quantum Cohomology: Kontsevich's Formula for Rational Plane Curves** by *Kock and Vainsencher*: A good place to learn teachiniques involved in calculations (haven't read it myself). You can supplement it with the article "Counting Plane Rational Curves: Old and New Approaches" by Aleksey Zinger ([arXiv](https://arxiv.org/abs/math/0507105)) and the Ph.D. thesis "Gromov-Witten and degeneration invariants: computation and enumerative significance" by Andreas Gathmann.
 
 *I made an attempt to learn this topic so that I could build upon the skills gained while learning complex geometry. However I didn't make much progress due to the lack of my interest.*
+
+## Arithmetic Geometry ##
+
+* **Rational Points on Elliptic Curves** by *J. H. Silverman and J. Tate*: One of the most accessible introduction to the world of elliptic curves, especially the theory of heights (major part of Diophantine geometry). I read the chapters I to III of this book a while ago for Mordell’s theorem (the special case of elliptic curves with a rational point of order two). The appendix on projective geometry is also great. 
+  * **Topics in Algebra** by *I. N. Herstein*: This is a reference for the group theory needed to understand the proof of Mordell's theorem discussed in the text.
+* **The Arithmetic of Elliptic Curves** by *J. H. Silverman*: The standard introductory text about elliptic curves using techniques from algebraic geometry (varieties in projective spaces). Make sure to use the 2nd edition corrected in 2016 printing, since earlier versions have lot of typos. Neukirch's "Algebraic Number Theory" book might be helpful when reading sections II.2, II.3, III.7 and VII.4. Also, it would be useful to recall stuff from analyic number theory, like Riemann zeta function (for section V.2), Diophantine approximation (for section IX.1) and transcendental number theory (for section IX.5).
+   * **Basic Algebraic Geometry** by *I. Shafarevich* (translated from the Russian by K. A. Hirsch): This is a reference for many proofs skipped in the first two chapters by Silverman. Note that this is quiet different, in terms of notations and organization, from the newer expanded translation by Miles Reid.
+   * **Galois Representations** by *Gabor Wiese*: These notes complement the discussion in section III.7 of Silverman's text. They are [available online](https://math.uni.lu/~wiese/notes/GalRep.pdf).
+* **Rational Points on Varieties** by *B. Poonen*: It provides a good introduction to the theory of obstructions to rational points on a variety, while briefly discussing other useful tools like étale cohomology. *In progress.*
+  * **Central Simple Algebras and Galois Cohomology** by *P. Gille and T. Szamuely*: This book discusses the proofs and exercises given in the first chapter of Ponnen's book. Central Simple Algebras (CSAs) over a field K are a non-commutative analog to extension fields over K – in both cases, they have no non-trivial 2-sided ideals, and have a distinguished field in their center, though a CSA can be non-commutative and need not have inverses (need not be a division algebra). This is of particular interest in "noncommutative number theory" as [generalizations of number fields](https://en.wikipedia.org/wiki/Hurwitz_quaternion_order). A detailed discussion of Brauer group examples related to class field theory is available in chapter IV and VIII.4 of Milne's [Class Field Theory notes](https://www.jmilne.org/math/CourseNotes/cft.html).
+  * **Algebraic Geometry and Arithmetic Curves** by *Q. Liu* (translated from the French by R. Erné): An introduction to the language of schemes (chapters 2 to 7), without assuming the base field to be algebraically closed, or of characteristic zero. Knowledge of complex geometry will be helpful when reading this book.
+  * **Arithmetic Geometry: Proceedings of the instructional conference held at the University of Connecticut (Jul 30 - Aug 10, 1984)** edited by *G. Cornell and J. H. Silverman*: The reference to learn basics of advanced topics like Jacobian varieties and Néron Models. It also contains the article by Milne which discusses abelian varieties without assuming ground field to be algebraically closed. Most of the articles are intended as expositions of the tools used in the proof of Faltings' theorem. 
+  
+<!--- 
+* **A First Course in Modular Forms** by *F. Diamond and J. Shurman*: This book explains a result called the Modularity Theorem (Taniyama–Shimura conjecture). The modularity theorem is, [in some sense](https://math.stackexchange.com/questions/55449/), a special case of the Langlands program. *I haven't read this book yet.*
+  * **Modular Forms and Fermat’s Last Theorem: Proceedings of the instructional conference held at Boston University (Aug 9 - Aug 18, 1995)** edited by *G. Cornell, J.H. Silverman and G. Stevens*: Advanced stuff. 
+* **Algebraic Geometry** by *R. Hartshorne*: The chapter II and III of this book provide an introduction to algebraic geometry via the theory of schemes over algebraically closed field. Good reference for the cohomology of schemes. 
+  * **Abelian Varieties** by *D. Mumford*: A scheme-theoretic treatment of most of the basic theory of abelian varieties. However, all ground fields are assumed to be algebraically closed, which limits the usefulness of the book as a reference for arithmetic geometers.
+--->
 
 ## Representation Theory ##
 
