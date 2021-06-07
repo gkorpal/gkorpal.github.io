@@ -134,7 +134,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 ## Algebra 
 
 * **Abstract Algebra** by *Dummit and Foote*: For an introduction to group theory, ring theory, modules over PID, field theory and Galois theory (answers to straight edge & compass construction questions we encountered in high-school). Has lots of solved examples. Beginners might find the books by [Fraleigh](https://www.pearson.com/us/higher-education/program/Fraleigh-First-Course-in-Abstract-Algebra-A-7th-Edition/PGM44169.html) or [Gallian](https://www.cengage.com/c/contemporary-abstract-algebra-9e-/9781305657960PF/) more useful for learning basic group theory. For a more concise introduction, one can read the book by [Grove](https://store.doverpublications.com/048643947x.html).
-* **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's book "Algebraic Geometry". For a more gentle introduction, you can read the book by N S Gopalakrishnan.
+* **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's book "Algebraic Geometry". For a gentler introduction, one can read the book by N S Gopalakrishnan.
 
 ## Analysis 
 
