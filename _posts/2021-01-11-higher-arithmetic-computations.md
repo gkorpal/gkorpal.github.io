@@ -58,7 +58,7 @@ The following has been my journey of learning programming languages so far:
 | Education level | Programming language | IDE/Editor (Operating System) |
 | --------------- | -------------------- | ---------------------------- |
 |Primary school (classes I to IV) | Logo | MSWLogo (Windows 98)|
-|Middle school (classes V to VIII) | [BASIC](https://github.com/gkorpal/learning-BASIC) | Microsoft Small Basic (Windows XP)|
+|Middle school (classes V to VIII) | [BASIC](https://github.com/gkorpal/learning-BASIC) | Microsoft Small Basic (Windows Vista)|
 |High school (classes IX to XII) | [Java](https://github.com/gkorpal/learning-java) | NetBeans (Windows 7)|
 |Undergraduate school | [C++](https://github.com/gkorpal/learning-cplusplus) |Code::Blocks (Ubuntu 14.04)|
 
