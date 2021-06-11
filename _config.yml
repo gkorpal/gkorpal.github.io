@@ -84,8 +84,8 @@ author:
   avatar           : "orange.gif"
   bio              : "Graduate Student"
   location         : "Tucson, Arizona (USA)"
-  employer         :
-  googlescholar    : #"http://scholar.google.com/this-is-a-test"
+  employer         : "https://www.math.arizona.edu/people/gkorpal"
+  googlescholar    : "https://scholar.google.com/citations?user=RgfcAW4AAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -95,14 +95,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://github.com/gkorpal"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            :
+  linkedin         : "https://www.linkedin.com/in/gkorpal/"
+  orcid            : "https://orcid.org/0000-0003-2452-6165"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
