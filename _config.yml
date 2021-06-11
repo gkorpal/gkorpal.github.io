@@ -84,7 +84,7 @@ author:
   avatar           : "orange.gif"
   bio              : "Graduate Student"
   location         : "Tucson, Arizona (USA)"
-  employer         : "https://www.math.arizona.edu/people/gkorpal"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=RgfcAW4AAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/gkorpal"
+  github           : "gkorpal"
   google_plus      :
   keybase          :
   instagram        :
