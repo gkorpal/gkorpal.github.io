@@ -59,8 +59,8 @@ The following has been my journey of learning programming languages so far:
 | --------------- | -------------------- | ---------------------------- |
 |Primary school (classes I to IV) | Logo | MSWLogo (Windows 98)|
 |Middle school (classes V to VIII) | [BASIC](https://github.com/gkorpal/learning-BASIC_imperative) | Microsoft Small Basic (Windows XP SP3)|
-|High school (classes IX to XII) | [Java](https://github.com/gkorpal/learning-java_gui) | NetBeans (Windows 7)|
-|Undergraduate school | [C++](https://github.com/gkorpal/learning-cpp_oop) |Code::Blocks (Ubuntu 14.04)|
+|High school (classes IX to XII) | [Java](https://github.com/gkorpal/learning-Java_GUI) | NetBeans (Windows 7)|
+|Undergraduate school | [C++](https://github.com/gkorpal/learning-Cpp_OOP) |Code::Blocks (Ubuntu 14.04)|
 
 <!-----
 |Graduate school | Python | Vim with `python-mode` plugin (Fedora 33) | 
