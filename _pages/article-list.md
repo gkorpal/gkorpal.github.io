@@ -14,14 +14,14 @@ redirect_from:
 
 Following are some of the mathematics articles that I would recommend reading. The inspiration for this list came from the anthologies like [Who Gave You the Epsilon? And Other Tales of Mathematical History](https://www.maa.org/press/maa-reviews/who-gave-you-the-epsilon-and-other-tales-of-mathematical-history) and [Biscuits of Number Theory](https://www.maa.org/press/maa-reviews/biscuits-of-number-theory).
 
-Here I have divided articles between applied mathematics ([computational mathematics](https://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=56&cip=27.0303)) and pure mathematics ([algebra and number theory](https://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=56&cip=27.0102)). Loosely speaking, computer science is a specialization within the discipline of computational mathematics (not to be confused with [computational science](https://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=56&cip=30.3001)), and computer engineering is a specialization within the discipline of electrical engineering (closely related to physics and applied mathematics), for details see [this 1989 report by the ACM Education Board](https://doi.org/10.1145/63238.63239). Moreover, I believe in the exsitence of the following hierarchy in [STEM fields](https://fas.org/sgp/crs/misc/R42642.pdf), i.e. outer one assumes results from the inner ones, illustrated on the side using elliptic curve cryptography:
+Here I have divided articles between applied mathematics ([computational mathematics](https://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=56&cip=27.0303)) and pure mathematics ([algebra and number theory](https://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=56&cip=27.0102)). Loosely speaking, computer science is a specialization within the discipline of computational mathematics (not to be confused with [computational science](https://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=56&cip=30.3001)), and computer engineering is a specialization within the discipline of electrical engineering (closely related to physics and applied mathematics), for details see [this 1989 report by the ACM Education Board](https://doi.org/10.1145/63238.63239). Moreover, I believe in the exsitence of the following hierarchy in [STEM fields](https://fas.org/sgp/crs/misc/R42642.pdf), i.e. outer one assumes results from the inner ones, illustrated alongside using elliptic curve cryptography:
 
 <p>
 <center>
-    <a href="https://gkorpal.github.io/">
+    <a href="https://gkorpal.github.io/article-list/">
       <img alt="STEM" src="https://gkorpal.github.io/images/stem.jpg" width="300" height="300" class="center">
   </a>
-  <a href="https://gkorpal.github.io/">
+  <a href="https://gkorpal.github.io/article-list/">
      <img alt="crypt" src="https://gkorpal.github.io/images/crypt.jpg" width="300" height="300" class="center">
   </a>
    </center>
