@@ -21,7 +21,7 @@ One might need university library membership to access some of the out-of-print 
 * [Olympiad Maths](#olympiad-maths)
 * [High School Maths](#high-school-maths)
 * [Undergraduate Maths](#undergraduate-maths)
-  * [Basics](#basics)
+  * [Calculus](#calculus)
   * [Analysis](#analysis)
   * [Discrete Mathematics](#discrete-mathematics)
   * [Algebra](#algebra)
@@ -118,7 +118,7 @@ The High School constitutes of class IX-XII (Secondary and Senior Secondary educ
 
 The Undergraduate constitutes of 4-year bachelor's degree program in mathematics (Tertiary education in India), i.e. students aged 18 to 22. I have arranged the topics and books in the order of increasing requirement for mathematical maturity.
 
-## Basics 
+## Calculus 
 
 * **Calculus I, II, III** by *Jerrold E. Marsden and Alan Weinstein*:  These books are old fashioned version of Calculus I, II and II (US Education System). The books are available <a href="https://aimath.org/textbooks/approved-textbooks/marsden-weinstein/" target="_blank">here</a> for free as part of the American Institute of Mathematics' [Open Textbook Initiative](https://aimath.org/textbooks/approved-textbooks/). This topic is an amalgamation of analysis, topology and geometry. We use geometric and topological properties of the Euclidean space to find some logic behind analytic facts about functions defined on Euclidean space. This is the "maths" needed for most of the undergraduate Physics courses.
 * **Tea Time Numerical Analysis** by *Leon Q. Brin*: An introductory textbook for numerical analysis with algortihms illustrated using GNU Octave. It is [available online](https://lqbrin.github.io/tea-time-numerical/) for free and is a part of the American Institute of Mathematics' [Open Textbook Initiative](https://aimath.org/textbooks/approved-textbooks/).
