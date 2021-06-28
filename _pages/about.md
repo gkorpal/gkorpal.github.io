@@ -48,7 +48,7 @@ redirect_from:
   </a>
 ----->
 
-Hi! I am a Ph.D. student at the University of Arizona. To enable Dark Mode, please use [Dark Reader](https://darkreader.org/). 
+Hi! I am a Ph.D. student at the University of Arizona. To enable the "dark mode", please use [Dark Reader](https://darkreader.org/). 
 
 **Office:** ENR2 S390GG ([Environment and Natural Resources 2 Building](https://enr2tour.arizona.edu/))
 
