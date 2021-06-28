@@ -14,7 +14,7 @@ redirect_from:
 
 Following are some of the mathematics books that I would recommend reading. The inspiration for this list came from the [Chicago undergraduate mathematics bibliography](https://github.com/ystael/chicago-ug-math-bib).
 
-One might need university library membership to access some of the out-of-print books (or use the power of internet). I have arranged the books in the increasing order of difficulty with respect to the required mathematical maturity.
+One might need university library membership to access some of the out-of-print books (or use the power of internet). I have arranged the topics and books in the order of increasing requirement for mathematical maturity.
 
 * [Popular Maths and Fiction](#popular-maths-and-fiction)
 * [Biographies and Autobiographies](#biographies-and-autobiographies)
@@ -88,7 +88,7 @@ These books should be accessible to the students in class VIII (final year of Pr
 * **Challenge and Thrill of Pre-College Mathematics** by *Krishnamurthy, Pranesachar,Ranganathan and Venkatachala*: I learned geometry and combinatorics from this book, was fascinated by the Friendship theorem and the work of Erdos.   
 * **A primer on Number Sequences** by *Shailesh Shirali* : A plethora of sequences!
 * **A Mathematical Mosaic: Patterns & Problem-Solving** by *Ravi Vakil*: One of my favorite book (but sadly not available in India, bought it from the USA).
-* **Hands-on Geometry** by *Christopher M. Freeman*: Lovely book ! A step-by-step  guide to learning constructions
+* **Hands-on Geometry** by *Christopher M. Freeman*: Lovely book! A step-by-step  guide to learning constructions
 * **Problem-Solving Strategies** by *Arthur Engel*: This book is more than enough for someone preparing for olympiads. I found the problems in this book to be quite hard but satisfying.
 * **The Art and Craft of Problem Solving** by *Paul Zeitz*: The first four chapters of this book taught me how to streamline my thinking process.
 
@@ -108,7 +108,7 @@ The High School constitutes of class IX-XII (Secondary and Senior Secondary educ
   * *NCERT Mathematics Textbook for Class XII [NCF – 2005]* major focus in on Calculus, but still its appendices on “Proofs in Mathematics” & “Mathematical Modelling” are worth reading. FOR EXAMPLE: In Appendix – 1 (Proofs in Mathematics), there are proofs for two beautiful theorems of Number theory (a) Prime Numbers are infinite & (b) Fermat Numbers are NOT Prime
 * **MATH!: Encounters with High School Students** by *Serge Lang*: A collection of conversations involving high-school geometry.
 * **Higher Algebra** by *Barnard and Child*: A classic book in college algebra and discrete-maths, contains my favourite proof of Wilson's theorem. Freely available on [Internet Archive](https://archive.org/details/higheralgebra032813mbp/page/n4).
-* **The Cartoon Guide to Calculus** by *Larry Gonick*:  A Fantastic book ! Everyone will love calculus after reading this. An illustrative guide to elementary calculus.
+* **The Cartoon Guide to Calculus** by *Larry Gonick*:  A Fantastic book! Everyone will love calculus after reading this. An illustrative guide to elementary calculus.
 * **Calculus: Basic Concepts for High Schools** by *Lev Tarasov*: Among the many calculus textbooks I read, this was the one which gave me the most clarity. Re-written in [LaTeX](https://archive.org/details/LevTarasovCalculusBasicConceptsForHighSchools/page/n101) by [The Mitr](https://wp.me/p13GRc-RX).
 
 # Undergraduate Maths 
@@ -116,7 +116,7 @@ The High School constitutes of class IX-XII (Secondary and Senior Secondary educ
 
 <img src="/images/book4.jpg" alt="">
 
-The Undergraduate constitutes of 4-year bachelor's degree program in mathematics (Tertiary education in India), i.e. students aged 18 to 22. I have arranged the topics and books in the order of increasing requirement for mathematical maturity.
+The Undergraduate constitutes of 4-year bachelor's degree program in mathematics (Tertiary education in India), i.e. students aged 18 to 22. 
 
 ## Calculus 
 
