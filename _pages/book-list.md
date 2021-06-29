@@ -21,10 +21,10 @@ One might need university library membership to access some of the out-of-print 
 * [Olympiad Maths](#olympiad-maths)
 * [High School Maths](#high-school-maths)
 * [Undergraduate Maths](#undergraduate-maths)
-  * [Calculus](#calculus)
-  * [Analysis](#analysis)
   * [Discrete Mathematics](#discrete-mathematics)
   * [Algebra](#algebra)
+  * [Calculus](#calculus)
+  * [Analysis](#analysis)
   * [Topology](#topology)
   * [Geometry](#geometry)
 * [Special Topics](#special-topics)
@@ -118,6 +118,21 @@ The High School constitutes of class IX-XII (Secondary and Senior Secondary educ
 
 The Undergraduate constitutes of 4-year bachelor's degree program in mathematics (Tertiary education in India), i.e. students aged 18 to 22. 
 
+## Discrete Mathematics
+
+* **A Friendly Introduction to Number Theory** by *J. H. Silverman*: A modern introduction to elementary number theory. There are many other similar books published by AMS and MAA.
+* **Introductory Combinatorics** by *R. A. Brualdi*: There are some typos, but there some really interesting discussions like the theorem by Erdős and Szekeres (p. 76, 5th ed).
+* **A First Course in Graph Theory** by *G. Chartrand* and *P. Zhang*: Good introductions to chapters, lots of examples and also has historical remarks in some places. *Recommended by SSH.*
+* **Introduction to Algorithms -- A Creative Approach** by *U. Manber*: Unlike the standard algorithms textbook duo [CLRS](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) and [ADM](https://www.algorist.com/), this book utilizes the known mathematical proof techniques for designing algorithms (note that it is not a universal approach). Moreover, the exercises are divided into two types, namely, drill exercises and creative exercises.
+    * **Problem Solving with Algorithms and Data Structures using Python** by *B. M. Miller* and *D. L. Ranum*:  This is an introductory text on algorithms which uses Python 3.2 ([2nd edition](https://fbeedle.com/our-books/10-problem-solving-with-algorithms-and-data-structures-using-python-2nd-ed-9781590282571.html)) for illustrating concepts, helpful for learning to translate the [pseudocode](https://en.wikibooks.org/wiki/LaTeX/Algorithms) to an actual programming language. This book is also [available online](https://runestone.academy/runestone/books/published/pythonds/index.html), however you will need to use an adblocker or [host it yourself](https://github.com/RunestoneInteractive/pythonds). 
+* **Introduction to the Theory of Computation** by *M. Sipser*:  This is an introductory text on automata theory, computability theory, and complexity theory. 
+
+## Algebra 
+
+* **Linear Algebra** by *Friedberg, Insel and Spence*: To avoid typos, use 1999 reprint of the third edition, or more recent editions. It is a good book to learn basic stuff used in algebra (modules over PID, representation of finite groups, etc.), discrete mathematics (incidence matrix etc.), analysis (Banach space, numerical analysis, differential equations, etc.), and geometry (coordinate change, orientation, multilinear maps, etc.). 
+* **Abstract Algebra** by *Dummit and Foote*: For an introduction to group theory, ring theory, modules over PID, field theory and Galois theory (answers to straight edge & compass construction questions we encountered in high-school). Has lots of solved examples. Beginners might find the books by [Fraleigh](https://www.pearson.com/us/higher-education/program/Fraleigh-First-Course-in-Abstract-Algebra-A-7th-Edition/PGM44169.html) or [Gallian](https://www.cengage.com/c/contemporary-abstract-algebra-9e-/9781305657960PF/) more useful for learning basic group theory. For a more concise introduction, one can read the book by [Grove](https://store.doverpublications.com/048643947x.html).
+* **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's book "Algebraic Geometry". For a gentler introduction, one can read the book by N S Gopalakrishnan.
+
 ## Calculus 
 
 * **Calculus I, II, III** by *Jerrold E. Marsden and Alan Weinstein*:  These books are old fashioned version of Calculus I, II and II (US Education System). The books are <a href="https://aimath.org/textbooks/approved-textbooks/marsden-weinstein/" target="_blank">available online</a> for free as part of the American Institute of Mathematics' [Open Textbook Initiative](https://aimath.org/textbooks/approved-textbooks/). This topic is an amalgamation of analysis, topology and geometry. We use geometric and topological properties of the Euclidean space to find some logic behind analytic facts about functions defined on Euclidean space. This is the "maths" needed for most of the undergraduate Physics courses.
@@ -135,21 +150,6 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Complex Analysis** by *Bak and Newman*: A comprehensive introduction to analysis of functions defined over $\mathbb{C}$. We study things like holomorphic functions (Fundamental theorem of Algebra), contour integration (Residue theorem), Mobius tranformation etc. This book also contains a brand new proof of prime number theorem. For a more gentle introduction, see the book by Sasane and Sasane, "A Friendly Approach to Complex Analysis" or the book by Brown and Churchill, "Complex Variables and Applications".
 * **Introduction to Topology and Modern Analysis** by *G. F. Simmons*: This book should be renamed as "An Introduction to Functional Analysis". Here we talk about normed linear spaces over $\mathbb{R}$ and $\mathbb{C}$.
 * **Differential Equations** by *S. L. Ross*: Nothing special, any other text like Simmons and Krantz's book "Differential Equations: Theory, Technique and Practice" is also good. We will see the proofs of facts learned in Calculus II.
-
-## Discrete Mathematics
-
-* **A Friendly Introduction to Number Theory** by *J. H. Silverman*: A modern introduction to elementary number theory. There are many other similar books published by AMS and MAA.
-* **Introductory Combinatorics** by *R. A. Brualdi*: There are some typos, but there some really interesting discussions like the theorem by Erdős and Szekeres (p. 76, 5th ed).
-* **A First Course in Graph Theory** by *G. Chartrand* and *P. Zhang*: Good introductions to chapters, lots of examples and also has historical remarks in some places. *Recommended by SSH.*
-* **Introduction to Algorithms -- A Creative Approach** by *U. Manber*: Unlike the standard algorithms textbook duo [CLRS](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) and [ADM](https://www.algorist.com/), this book utilizes the known mathematical proof techniques for designing algorithms (note that it is not a universal approach). Moreover, the exercises are divided into two types, namely, drill exercises and creative exercises.
-    * **Problem Solving with Algorithms and Data Structures using Python** by *B. M. Miller* and *D. L. Ranum*:  This is an introductory text on algorithms which uses Python 3.2 ([2nd edition](https://fbeedle.com/our-books/10-problem-solving-with-algorithms-and-data-structures-using-python-2nd-ed-9781590282571.html)) for illustrating concepts, helpful for learning to translate the [pseudocode](https://en.wikibooks.org/wiki/LaTeX/Algorithms) to an actual programming language. This book is also [available online](https://runestone.academy/runestone/books/published/pythonds/index.html), however you will need to use an adblocker or [host it yourself](https://github.com/RunestoneInteractive/pythonds). 
-* **Introduction to the Theory of Computation** by *M. Sipser*:  This is an introductory text on automata theory, computability theory, and complexity theory. 
-
-## Algebra 
-
-* **Linear Algebra** by *Friedberg, Insel and Spence*: To avoid typos, use 1999 reprint of the third edition, or more recent editions. It is a good book to learn basic stuff used in algebra (modules over PID, representation of finite groups, etc.), discrete mathematics (incidence matrix etc.), analysis (Banach space, numerical analysis, differential equations, etc.), and geometry (coordinate change, orientation, multilinear maps, etc.). 
-* **Abstract Algebra** by *Dummit and Foote*: For an introduction to group theory, ring theory, modules over PID, field theory and Galois theory (answers to straight edge & compass construction questions we encountered in high-school). Has lots of solved examples. Beginners might find the books by [Fraleigh](https://www.pearson.com/us/higher-education/program/Fraleigh-First-Course-in-Abstract-Algebra-A-7th-Edition/PGM44169.html) or [Gallian](https://www.cengage.com/c/contemporary-abstract-algebra-9e-/9781305657960PF/) more useful for learning basic group theory. For a more concise introduction, one can read the book by [Grove](https://store.doverpublications.com/048643947x.html).
-* **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's book "Algebraic Geometry". For a gentler introduction, one can read the book by N S Gopalakrishnan.
 
 ## Topology 
 
