@@ -46,6 +46,7 @@ One might need university library membership to access some of these articles (o
 ## Expository
 
 * A. Menezes and D. Stebila, Challenges in Cryptography, _IEEE Security & Privacy_ **19** (2021), no. 2, 70--73. doi:[10.1109/MSEC.2021.3049730](https://doi.org/10.1109/MSEC.2021.3049730)
+* P. C. van Oorschot, Toward Unseating the Unsafe C Programming Language,  _IEEE Security & Privacy_ **19** (2021), no. 2, 4--6. doi:[10.1109/MSEC.2020.3048766](https://doi.org/10.1109/MSEC.2020.3048766)
 * T. Lindell, Secure multiparty computation, _Communications of the ACM_, **64** (2021), no. 1, 86--96. doi:[10.1145/3387108](https://doi.org/10.1145/3387108), [Stable URL](https://cacm.acm.org/magazines/2021/1/249459-secure-multiparty-computation/fulltext)
 * C. Peng, J. Chen, S. Zeadally and D. He, Isogeny-Based Cryptography: A Promising Post-Quantum Technique, _IEEE IT Professional_ **21** (2019), no. 6m 27--32. doi:[10.1109/MITP.2019.2943136](https://doi.org/10.1109/MITP.2019.2943136) \[Contains nice illustrations.\]
 * J. Waldo, A Hitchhiker’s Guide to the Blockchain Universe: Blockchain remains a mystery, despite its growing acceptance, _ACM Queue_ **16** (2018), no. 6, 15 pp. doi:[10.1145/3305263.3305265](https://doi.org/10.1145/3305263.3305265), [Stable URL](https://queue.acm.org/detail.cfm?id=3305265)
