@@ -20,6 +20,8 @@ Note that [UNIX is an IDE](https://daveparillo.github.io/intermediate-cpp/back-m
 
 Now we can illustrate all the steps involved using the following example:
 
+gcov: https://gcc.gnu.org/onlinedocs/gcc/Gcov.html
+
 ## Step 1: Write the source code
 
 ````c
