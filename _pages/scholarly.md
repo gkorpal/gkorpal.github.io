@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Scholarly Articles"
+permalink: /scholarly/
 author_profile: true
 ---
 >A very great deal more truth can become known than can be proven.
