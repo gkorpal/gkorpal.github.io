@@ -176,7 +176,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  scholarly:
     output: true
     permalink: /:collection/:path/
   technical:
@@ -216,10 +216,10 @@ defaults:
       author_profile: true
       share: false
       comments: true
-  # _publications
+  # _scholarly
   - scope:
       path: ""
-      type: publications
+      type: scholarly
     values:
       layout: single
       author_profile: true
