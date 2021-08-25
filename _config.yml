@@ -19,7 +19,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : false #change to true to add link to talkmap on talks/lecture-notes page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -182,7 +182,7 @@ collections:
   technical:
     output: true
     permalink: /:collection/:path/
-  talks:
+  lecture:
     output: true
     permalink: /:collection/:path/
 
@@ -234,10 +234,10 @@ defaults:
       author_profile: true
       share: false
       comment: true
-  # _talks
+  # _lecture
   - scope:
       path: ""
-      type: talks
+      type: lecture
     values:
       layout: talk
       author_profile: true
