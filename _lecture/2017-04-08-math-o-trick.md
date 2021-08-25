@@ -1,8 +1,8 @@
 ---
 title: "Math-O-Trick"
-collection: talks
+collection: lecture
 type: "Open Day 2017"
-permalink: /talks/2017-04-08-math-o-trick
+permalink: /lecture/2017-04-08-math-o-trick
 venue: "Science Activity Club"
 date: 2017-04-08
 location: "NISER Jatni"
