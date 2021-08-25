@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Scholarly Articles"
+    url: /scholarly/
 
   - title: "Technical Reports"
     url: /technical/
