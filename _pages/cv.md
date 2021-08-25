@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ---------
-* Ph.D. in Mathematics with minor in Computer Science, ongoing
+* Ph.D. in Mathematics with minor in Computer Science, 2019 - present
   * University: <em>[The University of Arizona, Tucson](https://www.arizona.edu/).</em>
     * College: <em>[College of Science](https://science.arizona.edu/).</em>
   
@@ -24,7 +24,8 @@ Education
 Work experience
 ------
 * **August 2019 - present:** Graduate Teaching Assistant - Department of Mathematics (The University of Arizona College of Science)
-  * **Spring 2021:** <em> TA for Math 112 - Michael Rossetti (Drop-in Tutoring via Zoom and Grading HW via Gradescope) and TA for Math 511B - Prof. Bryden Cais (Weekly problem solving sessions via Zoom and Grading HW via Gradescope).</em>
+  * **Fall 2021:** <em> Instructor for Math 120R </em>
+  * **Spring 2021:** <em> TA for Math 112 - Michael Rossetti (Drop-in Tutoring via Zoom and Grading HW via Gradescope) and TA for Math 511B - Bryden Cais (Weekly problem solving sessions via Zoom and Grading HW via Gradescope).</em>
   * **Fall 2020:** <em>TA for Math 112 - Michael Rossetti (Drop-in Tutoring via Zoom, Grading HW via Gradescope and Proctoring exams via Zoom) and Zoom exam proctor for Math 113 (Janet Sipes), Math 112 (Mary Lawler), Math 116 (Erzebet Lugosi) and Math 122A (Tynan Lazarus).</em>
   * **Spring 2020:** <em>TA for Math 112 - Heonmi Kim ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))</em>
   * **Fall 2019:** <em>TA for Math 112 - Mitchell James Wilson ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))</em>
