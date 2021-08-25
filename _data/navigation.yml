@@ -6,8 +6,8 @@ main:
   - title: "Technical Reports"
     url: /technical/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Lecture Notes"
+    url: /lecture/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
