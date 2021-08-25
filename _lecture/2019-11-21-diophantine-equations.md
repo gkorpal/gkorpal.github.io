@@ -1,8 +1,8 @@
 ---
 title: "Diophantine Equations"
-collection: talks
+collection: lecture
 type: "Tucson Math Circle"
-permalink: /talks/2019-11-21-diophantine-equations
+permalink: /lecture/2019-11-21-diophantine-equations
 venue: "Department of Mathematics"
 date: 2019-11-21
 location: "The University of Arizona"
