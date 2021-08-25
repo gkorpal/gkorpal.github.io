@@ -1,8 +1,8 @@
 ---
 title: "Continued fractions in disguise"
-collection: talks
+collection: lecture
 type: "SUMS 54"
-permalink: /talks/2015-10-16-continued-fraction
+permalink: /lecture/2015-10-16-continued-fraction
 venue: "MathematiX Club"
 date: 2015-10-16
 location: "NISER Jatni"
