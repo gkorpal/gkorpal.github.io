@@ -1,10 +1,12 @@
 ---
-layout: archive
 title: "Good Books"
-permalink: /book-list/
-author_profile: true
-redirect_from:
-  - /books
+collection: reading
+permalink: /reading/book-list
+excerpt:
+date: 2021-07-30
+venue: 
+paperurl: 
+citation: 
 ---
 
 Following are some of the mathematics books that I would recommend reading. The inspiration for this list came from the [Chicago undergraduate mathematics bibliography](https://github.com/ystael/chicago-ug-math-bib).
