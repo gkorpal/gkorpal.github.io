@@ -1,7 +1,7 @@
 ---
 title: "Substitution Cryptology"
 collection: jottings
-permalink: /reading/book-list
+permalink: /pencil/substitution
 excerpt:
 date: 2021-08-29
 venue: 
