@@ -188,7 +188,7 @@ collections:
   reading:
     output: true
     permalink: /:collection/:path/
-  jottings:
+  jotting:
     output: true
     permalink: /:collection/:path/
 
@@ -256,10 +256,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
       share: false
-      related: true
+      comment: true
   # _lecture
   - scope:
       path: ""
