@@ -188,6 +188,9 @@ collections:
   reading:
     output: true
     permalink: /:collection/:path/
+  jottings:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -241,6 +244,15 @@ defaults:
   - scope:
       path: ""
       type: reading
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: true
+  # _jottings
+  - scope:
+      path: ""
+      type: jottings
     values:
       layout: single
       author_profile: true
