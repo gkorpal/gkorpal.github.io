@@ -1,10 +1,10 @@
 ---
 title: "Good Articles"
-collection: technical
+collection: reading
 permalink: /reading/article-list
 excerpt:
-date: 2021-01-01
-venue:
+date: 2021-08-21
+venue: ""
 paperurl: 
 citation: 
 ---
