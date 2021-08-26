@@ -249,15 +249,6 @@ defaults:
       author_profile: true
       share: false
       comment: true
-  # _jottings
-  - scope:
-      path: ""
-      type: jottings
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comment: true
   # _pencil
   - scope:
       path: ""
