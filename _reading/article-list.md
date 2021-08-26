@@ -1,10 +1,12 @@
 ---
-layout: archive
 title: "Good Articles"
-permalink: /article-list/
-author_profile: true
-redirect_from:
-  - /articles
+collection: technical
+permalink: /reading/article-list
+excerpt:
+date: 2021-01-01
+venue:
+paperurl: 
+citation: 
 ---
 
 > Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.
