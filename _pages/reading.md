@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   -/list/
   -/recommendations/
+  
 ---
 
 > Mathematical reasoning may be regarded rather schematically as the exercise of a combination of two facilities, which we may call intuition and ingenuity. 
