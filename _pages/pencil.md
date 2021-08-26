@@ -11,6 +11,6 @@ redirect_from:
 {% include base_path %}
 
 
-{% for post in site.pencil %}
+{% for post in site.reading %}
   {% include archive-single.html %}
 {% endfor %}
