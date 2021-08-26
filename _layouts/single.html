@@ -42,7 +42,7 @@ layout: default
           <p>Supervised by <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'reading' %}
           <p>Last updated on {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }} </p>
-        {% elsif post.collection == 'jotting' %}
+        {% elsif post.collection == 'pencil' %}
           <p>Posted on {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }} </p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
