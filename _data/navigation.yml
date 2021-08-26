@@ -10,7 +10,7 @@ main:
     url: /lecture/    
 
   - title: "Reading Lists"
-     url: /reading/
+    url: /reading/
         
   - title: "Musings"
     url: /year-archive/
