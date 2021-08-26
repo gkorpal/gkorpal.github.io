@@ -188,7 +188,7 @@ collections:
   reading:
     output: true
     permalink: /:collection/:path/
-  jotting:
+  pencil:
     output: true
     permalink: /:collection/:path/
 
