@@ -1,6 +1,6 @@
 ---
 title: "Substitution Ciphers"
-collection: jotting
+collection: pencil
 permalink: /pencil/substitution
 excerpt:
 date: 2021-08-29
