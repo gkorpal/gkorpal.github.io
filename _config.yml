@@ -185,6 +185,9 @@ collections:
   lecture:
     output: true
     permalink: /:collection/:path/
+  reading:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -229,6 +232,15 @@ defaults:
   - scope:
       path: ""
       type: technical
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: true
+  # _reading
+  - scope:
+      path: ""
+      type: reading
     values:
       layout: single
       author_profile: true
