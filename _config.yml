@@ -258,6 +258,15 @@ defaults:
       author_profile: true
       share: false
       comment: true
+  # _pencil
+  - scope:
+      path: ""
+      type: pencil
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: true
   # _lecture
   - scope:
       path: ""
