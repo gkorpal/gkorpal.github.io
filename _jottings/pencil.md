@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Pencil-paper safe cryptology"
-permalink: /pencil/
+permalink: /jottings/pencil/
 author_profile: true
 ---
 
