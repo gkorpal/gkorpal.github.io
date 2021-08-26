@@ -9,21 +9,20 @@ main:
   - title: "Lecture Notes"
     url: /lecture/    
 
-#  - title: "Teaching"
-#    url: /teaching/    
-
-   - title: "Reading Lists"
+  - title: "Reading Lists"
      url: /reading/
         
   - title: "Musings"
     url: /year-archive/
+  
+  - title: "CV"
+    url: /cv/
     
+#  - title: "Teaching"
+#    url: /teaching/   
+
 #  - title: "Good Books"
 #    url: /book-list/
         
 #  - title: "Good Articles"
 #    url: /article-list/
-    
-  - title: "CV"
-    url: /cv/
-    
