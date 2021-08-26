@@ -12,6 +12,8 @@ redirect_from:
 > Mathematical reasoning may be regarded rather schematically as the exercise of a combination of two facilities, which we may call intuition and ingenuity. 
 > -[Alan M. Turing](https://en.wikiquote.org/wiki/Alan_Turing)
 
+{% include base_path %}
+
 ## [Good Articles](https://gkorpal.github.io/article-list/)
 
 ## [Good Books](https://gkorpal.github.io/book-list/)
