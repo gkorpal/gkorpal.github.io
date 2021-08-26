@@ -265,8 +265,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
       share: false
-      comment: true
+      related: true
   # _lecture
   - scope:
       path: ""
