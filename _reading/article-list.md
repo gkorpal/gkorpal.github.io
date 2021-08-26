@@ -4,7 +4,7 @@ collection: reading
 permalink: /reading/article-list
 excerpt:
 date: 2021-08-21
-venue: ""
+venue: 
 paperurl: 
 citation: 
 ---
