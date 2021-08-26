@@ -4,8 +4,7 @@ title: "Reading Lists"
 permalink: /reading/
 author_profile: true
 redirect_from:
-  -/list/
-  -/recommendations/
+  -/list
   
 ---
 
