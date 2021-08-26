@@ -14,6 +14,6 @@ redirect_from:
 {% include base_path %}
 
 
-{% for post in site.reading reversed %}
+{% for post in site.technical reversed %}
   {% include archive-single.html %}
 {% endfor %}
