@@ -1,6 +1,6 @@
 ---
 title: "Good Articles"
-collection: reading
+collection: jotting
 permalink: /reading/article-list
 excerpt:
 date: 2021-08-21
