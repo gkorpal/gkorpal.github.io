@@ -8,8 +8,8 @@ redirect_from:
   
 ---
 
-> Mathematical reasoning may be regarded rather schematically as the exercise of a combination of two facilities, which we may call intuition and ingenuity. 
-> -[Alan M. Turing](https://en.wikiquote.org/wiki/Alan_Turing)
+> Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.
+> -[Edsger W. Dijkstra](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)
 
 {% include base_path %}
 
