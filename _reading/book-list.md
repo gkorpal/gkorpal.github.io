@@ -3,7 +3,7 @@ title: "Good Books"
 collection: reading
 permalink: /reading/book-list
 excerpt:
-date: 2021-07-30
+date: 2021-09-02
 venue: 
 paperurl: 
 citation: 
@@ -32,6 +32,7 @@ One might need university library membership to access some of the out-of-print 
   * [Enumerative Geometry](#enumerative-geometry)
   * [Arithmetic Geometry](#arithmetic-geometry)
   * [Representation Theory](#representation-theory)
+  * [Algorithmic Number Theory](#algorithmic-number-theory)
   
 # Popular Maths and Fiction 
 ------
@@ -250,8 +251,6 @@ The topics and books are arranged in the order I would recommend learning them.
 <!---
  * **Arithmetic Geometry: Proceedings of the instructional conference held at the University of Connecticut (Jul 30 - Aug 10, 1984)** edited by *G. Cornell and J. H. Silverman*: The reference to learn basics of advanced topics like Jacobian varieties and Néron Models. It also contains the article by Milne which discusses abelian varieties without assuming ground field to be algebraically closed. Most of the articles are intended as expositions of the tools used in the proof of Faltings' theorem. 
    
-* **A First Course in Modular Forms** by *F. Diamond and J. Shurman*: This book explains a result called the Modularity Theorem (Taniyama–Shimura conjecture). The modularity theorem is, [in some sense](https://math.stackexchange.com/questions/55449/), a special case of the Langlands program. *I haven't read this book yet.*
-  * **Modular Forms and Fermat’s Last Theorem: Proceedings of the instructional conference held at Boston University (Aug 9 - Aug 18, 1995)** edited by *G. Cornell, J.H. Silverman and G. Stevens*: Advanced stuff. 
 * **Algebraic Geometry** by *R. Hartshorne*: The chapter II and III of this book provide an introduction to algebraic geometry via the theory of schemes over algebraically closed field. Good reference for the cohomology of schemes. 
   * **Abelian Varieties** by *D. Mumford*: A scheme-theoretic treatment of most of the basic theory of abelian varieties. However, all ground fields are assumed to be algebraically closed, which limits the usefulness of the book as a reference for arithmetic geometers.
 --->
@@ -265,6 +264,8 @@ The topics and books are arranged in the order I would recommend learning them.
 * **Lie Groups, Lie Algebras, and Representations** by *B. C. Hall*: The Part I of the text develops the theory of (matrix) Lie groups and their Lie algebras using only linear algebra, without requiring any knowledge of manifold theory. The Part II of the text covers semisimple Lie algebras and their representations. Finally, the Part III of the book presents the compact-group approach to representation theory. Moreover, the results in Parts II and III of the book have been explained and motivated using figures whenever possible. I have only read some topics from the Part I of this book.
 * **Fourier Analysis on Number Fields** by *D. Ramakrishnan and R. J. Valenza*: It is an introduction to number theory organized around John Tate’s Ph.D. thesis which uses representation theory for locally compact groups ([review](https://www.ams.org/journals/bull/2000-37-03/S0273-0979-00-00872-7/S0273-0979-00-00872-7.pdf)). The topics discussed in this book can be of interest for the people working in number theory, harmonic analysis, or the representation theory of Lie groups. *I haven't read this book.*
   * **Algebraic Number Theory: Proceedings of the instructional conference held at the University of Sussex (Sep 1 - Sep 17, 1965)** edited by *J. W. S. Cassels and A. Fröhlich*: It contains Tate's doctoral thesis.
+* **A First Course in Modular Forms** by *F. Diamond and J. Shurman*: This book explains a result called the Modularity Theorem (Taniyama–Shimura conjecture). The modularity theorem is, [in some sense](https://math.stackexchange.com/questions/55449/), a special case of the Langlands program. *I haven't read this book yet.*
+  * **Modular Forms and Fermat’s Last Theorem: Proceedings of the instructional conference held at Boston University (Aug 9 - Aug 18, 1995)** edited by *G. Cornell, J.H. Silverman and G. Stevens*: Advanced stuff. 
 * **Automorphic Representations and L-Functions for the General Linear Group: Vol 1 and 2** by *D. Goldfeld and J. Hundley*: The purpose of this book is to provide an elementary yet extremely rigorous exposition of the theory of cuspidal automorphic representations and L-functions for the general linear group in a textbook form that can be understood by the beginning graduate student with minimal background in representation theory ([review](https://pdfs.semanticscholar.org/f68f/8759f764e7c8ea3969c663c14d3c8186b17c.pdf)). Modern research in the theory of automorphic representations and L-functions is largely focused in the direction of the [Langlands program](http://publications.ias.edu/sites/default/files/Representation-theory-rise-and-role-in-number-theory_0.pdf). *I haven't read this book.*
 * **p-adic Hodge Theory: Lecture notes from the CMI summer school on Galois Representations held at the University of Hawaii, Manoa (Jun 15 - Jul 10, 2009)** by *O. Brinon and B. Conrad*: These notes are for the [foundational course](https://www.claymath.org/galois-representations) focusing on local problems, i.e. p-adic representations of Galois groups of p-adic fields. They are [available online](https://www.claymath.org/sites/default/files/brinon_conrad.pdf). Note that the Theorem 1.1.1 stated in the first "Motivation" section of these notes is the Néron-Ogg-Shafarevich criterion and a good reference for that is the Chapter VII of Silverman's book "The Arithmetic of Elliptic Curves."  I didn't read these notes properly, since I lack interest in representation theory.
   * **Theory of p-adic Galois Representations** by *J.-M. Fontaine and Y. Ouyang*: An introductory textbook on [𝑝-adic Hodge theory](https://www3.nd.edu/~ajorza/courses/m162b-w2012/) (in preparation, a fruit of Jean-Marc Fontaine's [France-China cooperative program](https://www.ams.org/journals/notices/202007/rnoti-p1010.pdf) in arithmetic geometry; unfortunately Jean-Marc Fontaine passed away on January 29, 2019). The second draft of this book in [available online](http://staff.ustc.edu.cn/~yiouyang/galoisrep.pdf). Its section 0.2 complements section 4.2 of Brinon & Conrad, and sections 2.2-2.3 complement the section 3 of Brinon & Conrad.  Note that this book uses the [French definition of local fields](https://math.stackexchange.com/q/216632). 
@@ -272,3 +273,13 @@ The topics and books are arranged in the order I would recommend learning them.
   * **Perfectoid Spaces: Lectures from the 2017 Arizona Winter School** edited by *B. Cais*: This is a reference for learning about [modern topics](https://people.maths.ox.ac.uk/gulotta/tt20.html) like the Fargues-Fontaine curve and Scholze’s theory of perfectoid spaces. The lecture notes and problem sets are also [available online](https://www.math.arizona.edu/~swc/aws/2017/index.html). It contains J. Weinstein's lecture notes on "Adic spaces" which are a good source for learning about perfectoid fields and complement the discussion in the section 4.3 of Brinon & Conrad. Note that in Weinstein's notes the nonarchimedian fields are assumed to be complete. Also, [this article by Kiran Kedlaya](https://link.springer.com/article/10.1186/s40687-015-0031-z) acts as a bridge between Weinstien and Brinon-Conrad notes. 
 
 *Whatever I have read in this topic is due to its necessity and not due to my personal interest.*
+
+## Algorithmic Number Theory
+
+* **Prime Numbers: A Computational Perspective** by *R. Crandall and C. Pomerance*: It is a survey of the most important methods for primality proving and factoring (a kind of expanded version of the book by [Bressoud](https://www.springer.com/gp/book/9780387970400)). This book would be useful for anyone who wants to understand these algorithms and learn how to implement them.
+ * **Computational Number Theory** by *A. Das*: GP/PARI illustrations of most algorithms from Crandall-Pomerance are available here. The main problem with this book is that the references are given in footnotes and not at the end, plus missing index.
+* **Binary Quadratic Forms: An Algorithmic Approach** by *J. Buchmann and U. Vollmer*: An introduction to many areas of algorithmic number theory for which the theory of binary quadratic forms is a starting point. The authors illustrate this for the areas Diophantine equations, geometry of numbers, and algebraic number theory. *Not read myself*.
+ * **A Course in Computational Algebraic Number Theory** and **Advanced Topics in Computational Number Theory** by *H. Cohen*: The encyclopedic reference for algebraic number theory algorithms available in GP/PARI.
+* **Modular Forms: A Computational Approach** by *W. Stein*: SageMath  
+
+
