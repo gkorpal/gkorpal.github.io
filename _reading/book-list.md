@@ -277,9 +277,9 @@ The topics and books are arranged in the order I would recommend learning them.
 ## Algorithmic Number Theory
 
 * **Prime Numbers: A Computational Perspective** by *R. Crandall and C. Pomerance*: It is a survey of the most important methods for primality proving and factoring (a kind of expanded version of the book by [Bressoud](https://www.springer.com/gp/book/9780387970400)). This book would be useful for anyone who wants to understand these algorithms and learn how to implement them.
- * **Computational Number Theory** by *A. Das*: GP/PARI illustrations of most algorithms from Crandall-Pomerance are available here. The main problem with this book is that the references are given in footnotes and not at the end, plus missing index.
+  * **Computational Number Theory** by *A. Das*: GP/PARI illustrations of most algorithms from Crandall-Pomerance are available here. The main problem with this book is that the references are given in footnotes and not at the end, plus missing index.
 * **Binary Quadratic Forms: An Algorithmic Approach** by *J. Buchmann and U. Vollmer*: An introduction to many areas of algorithmic number theory for which the theory of binary quadratic forms is a starting point. The authors illustrate this for the areas Diophantine equations, geometry of numbers, and algebraic number theory. *Not read myself*.
- * **A Course in Computational Algebraic Number Theory** and **Advanced Topics in Computational Number Theory** by *H. Cohen*: The encyclopedic reference for algebraic number theory algorithms available in GP/PARI.
+  * **A Course in Computational Algebraic Number Theory** and **Advanced Topics in Computational Number Theory** by *H. Cohen*: The encyclopedic reference for algebraic number theory algorithms available in GP/PARI.
 * **Modular Forms: A Computational Approach** by *W. Stein*: SageMath  
 
 
