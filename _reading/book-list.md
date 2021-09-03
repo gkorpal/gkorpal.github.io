@@ -276,7 +276,8 @@ The topics and books are arranged in the order I would recommend learning them.
 
 ## Algorithmic Number Theory
 
-* **Algorithmic Number Theory: Efficient Algorithms** by *E. Bach and J. Shallit*: This book deiscussed those problems from elementary number theory (primality testing, factorization, discrete logarithm,...) which admit efficient solutions. 
+<!---- * **Algorithmic Number Theory: Efficient Algorithms** by *E. Bach and J. Shallit*: This book discusses those problems from number theory (lprimality testing, factorization, discrete logarithm,...) which admit efficient solutions. The focus is more on "how"
+---->
 * **Prime Numbers: A Computational Perspective** by *R. Crandall and C. Pomerance*: It is a survey of the most important methods for proving primality and factoring (a kind of expanded version of the book by [Bressoud](https://www.springer.com/gp/book/9780387970400)).
   * **Computational Number Theory** by *A. Das*: PARI/GP illustrations of most algorithms from Crandall-Pomerance are available here (more up-to-date than the book by [Giblin](https://www.cambridge.org/us/academic/subjects/mathematics/number-theory/primes-and-programming)). The main problem with this book is that the references are given in footnotes and not at the end, plus missing book index.
 * **Mathematics of Public Key Cryptography** by *S. Galbraith*: The book is a collection of the necessary background and results needed for a deep understanding of public key cryptography. The latest edition is [available online](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html).
