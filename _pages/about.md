@@ -42,7 +42,7 @@ redirect_from:
  </p>
 
 
-To enable the "dark mode", please use browser extension like [Dark Reader](https://darkreader.org/)
+To enable the "dark mode", please use browser extension like [Dark Reader](https://darkreader.org/).
 
 **Office:** ENR2 S390GG ([Environment and Natural Resources 2 Building](https://enr2tour.arizona.edu/))
 
