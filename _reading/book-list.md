@@ -216,7 +216,7 @@ The topics and books are arranged in the order I would recommend learning them.
 
 <!---- * **Algorithmic Number Theory: Efficient Algorithms** by *E. Bach and J. Shallit*: This book discusses those problems from number theory (primality testing, factorization, discrete logarithm,...) which admit efficient solutions. The focus is more on "how"
 ---->
-* **Prime Numbers: A Computational Perspective** by *R. Crandall and C. Pomerance*: It is a survey of the most important methods for proving primality and factoring (a kind of expanded version of the book by [Bressoud](https://www.springer.com/gp/book/9780387970400)).
+* **Prime Numbers: A Computational Perspective** by *R. Crandall and C. Pomerance*: It is a survey of the most important methods for proving primality and factoring (a kind of expanded version of the books by [Bressoud](https://www.springer.com/gp/book/9780387970400) and [Wagstaff](https://bookstore.ams.org/stml-68/)).
   * **Cryptology and Computational Number Theory: Lectures from the AMS short course held at the University of Colorado, Boulder (Aug 6-7, 1989)** edited by *C. Pomerance*: Discusses the algorithms related to pre-ECC cryptography.
   * **Elliptic Curves in Cryptography** by *I. Blake, G. Seroussi, and N. Smart*: Contains various extensions of Schoof's algorithm in Chapter VII. Useful when reading Chapter 7 of Crandall-Pomerance.
 * **Mathematics of Public Key Cryptography** by *S. Galbraith*: The book is a collection of the necessary background and results needed for a deep understanding of public key cryptography. The latest edition is [available online](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html).
