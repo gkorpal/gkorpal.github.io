@@ -199,7 +199,7 @@ The topics and books are arranged in the order I would recommend learning them.
 * **Introduction to Elliptic Curves and Modular Forms** by *N. Koblitz*: A nice introduction to modular forms, which basically adds details and exercises to Serre's condense one chapter introduction in his classic book "A Course in Arithmetic". The study of modular forms is motivated via congruent number problem, and a brief discussion of analytic theory of elliptic curves.
   * **Complex Analysis** by *E. M. Stein and R. Shakarchi*: A good reference for the facts from complex analysis needed for understanding the proofs by Koblitz.
   * **Fuchsian groups** by *S. Katok*: A good reference for understanding the shapes of fundamental domains.
-* **An Invitation to Modern Number Theory** by *S. J. Miller and R. Takloo-Bighash*: If you enjoy the estimation related stuff, the next step would be to learn about circle methods. To promote and  stimulate independent research, it contains many interesting exercises and suggestions for research projects in topics related to various aspects of analytic number theory ranging from Roth's theorem to L-functions. *I haven't read this book.*
+* **An Invitation to Modern Number Theory** by *S. J. Miller and R. Takloo-Bighash*: If you enjoy the estimation related stuff, the next step would be to learn about circle methods. To promote and  stimulate independent research, it contains many interesting exercises and suggestions for research projects in topics related to various aspects of analytic number theory ranging from Roth's theorem to probabilistic number theory. *I haven't read this book.*
 
 ## Algebraic Number Theory 
 
