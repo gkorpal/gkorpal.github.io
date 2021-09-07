@@ -183,13 +183,13 @@ The topics and books are arranged in the order I would recommend learning them.
 * **An Introduction to Diophantine Equations** by *D. Andrica, I. Cucurezeanu, and T. Andreescu*: A really nice place to learn elementary methods for solving various types of Diophantine equations.
 * **The  Higher  Arithmetic** by *H.  Davenport*: It is written in prose form, many interesting things to learn.
 * **An Introduction to the Theory of Numbers** by *Ivan Niven, Herbert S. Zuckerman and Hugh L. Montgomery*: Covers all flavours of number theory in adequate detail. Requires some mathematical maturity.
-* **Diophantine Approximation** by *W. M. Schmidt*: Standard reference for the general theory. Also contains proofs of theorems belonging to "Geometry of Numbers."
-  * **Topics in Number Theory (Volumes I and II)** by *W. J. LeVeque*: The best place to understand the proof of Roth's theorem and Delaunay-Nagell theorem (discussed in the volume 2 part). The volume 1 part can be used as an introduction to elementary number theory.
 
 ## Analytic Number Theory
 
 * **An Introduction to the Theory of Numbers** by *G. H. Hardy and E. M. Wright*: It is a classic textbook with lot of interesting stuff using elementary analytic methods.
-  * **Fourier Analysis: An Introduction** by *E. M. Stein and R. Shakarchi*: It is a good reference for "Weyl’s Equidistribution Theorem" (section 4.2) which is closely related to "Kronecker’s Theorem" (Diophantine approximation) discussed in Hardy & Wright's book (section 23.3, latest edition).
+  * **Fourier Analysis: An Introduction** by *E. M. Stein and R. Shakarchi*: It is a good reference for "Weyl’s Equidistribution Theorem" (section 4.2) which is closely related to "Kronecker’s Theorem" (Diophantine approximation) discussed in Hardy & Wright's book (section 23.3, latest edition
+* **Diophantine Approximation** by *W. M. Schmidt*: Standard reference for the general theory. Also contains proofs of theorems belonging to "Geometry of Numbers."
+  * **Topics in Number Theory (Volumes I and II)** by *W. J. LeVeque*: The best place to understand the proof of Roth's theorem and Delaunay-Nagell theorem (discussed in the volume 2 part). The volume 1 part can be used as an introduction to elementary number theory.
 * **Making Transcendence Transparent** by *E.B. Burger and R. Tubbs*: Very nice introductory text for learning the techniques used in transcedental number theory.
 * **Multiplicative Number Theory** by *H. Davenport*: This is a tough book for introducing analytic number theory, but worth the hardwork since you get to prove Prime Number Theorem with a good estimate. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!). 
   * **The  Theory  of  Functions** by *E. C. Titchmarsh*. A good reference for the complex analysis used by Davenport. Might also be worth looking at Titchmarsh's other book "The Theory of the Riemann Zeta-Function."
@@ -199,8 +199,7 @@ The topics and books are arranged in the order I would recommend learning them.
 * **Introduction to Elliptic Curves and Modular Forms** by *N. Koblitz*: A nice introduction to modular forms, which basically adds details and exercises to Serre's condense one chapter introduction in his classic book "A Course in Arithmetic". The study of modular forms is motivated via congruent number problem, and a brief discussion of analytic theory of elliptic curves.
   * **Complex Analysis** by *E. M. Stein and R. Shakarchi*: A good reference for the facts from complex analysis needed for understanding the proofs by Koblitz.
   * **Fuchsian groups** by *S. Katok*: A good reference for understanding the shapes of fundamental domains.
-
-*I couldn't continue in this field since I didn't like the arithmetic functions that keep popping up when doing estimations. If you enjoy the estimation related stuff, the next step would be to learn about circle methods. Have a look at the book **An Invitation to Modern Number Theory** by S. J. Miller and R. Takloo-Bighash.*
+* **An Invitation to Modern Number Theory** by *S. J. Miller and R. Takloo-Bighash*: If you enjoy the estimation related stuff, the next step would be to learn about circle methods. To promote and  stimulate independent research, it contains many interesting exercises and suggestions for research projects in topics related to various aspects of analytic number theory.
 
 ## Algebraic Number Theory 
 
