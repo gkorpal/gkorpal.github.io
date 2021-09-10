@@ -22,11 +22,11 @@ The plan is to use [Vim](https://www.vim.org/) as the text-editor and [MuPDF](ht
 
 We will need the following packages to begin with:
 
-| Software Program | dnf Package |
+| Software Program | dnf/zypper Package
 |----------|----------|
 |[TeX Live](https://docs.fedoraproject.org/en-US/neurofedora/latex/) | `texlive-scheme-full`|
 |[Vim](https://fedoraproject.org/wiki/Vim) |`vim`|
-|[Git](https://src.fedoraproject.org/rpms/git) | `git`|
+|[Git](https://src.fedoraproject.org/rpms/git) | `git`/ `--no-recommends git-core`|
 |[MuPDF](https://mupdf.com/) | `mupdf`|
 |[command-line X11 automation tool](https://manned.org/xdotool/95401223) | `xdotool`|
 
