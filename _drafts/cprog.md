@@ -7,7 +7,7 @@ tags:
 
 # Setup
 
-Note that [UNIX is an IDE](https://blog.sanctum.geek.nz/series/unix-as-ide/), therefore, we will just need the following tools along with a terminal emulator running Bash shell to create C programs:
+Note that [UNIX is an IDE](https://blog.sanctum.geek.nz/series/unix-as-ide/), therefore, we will just need the following tools along with a graphical terminal emulator running [GNU Bash](https://www.gnu.org/software/bash/) shell to create C programs:
 
 | Purpose | Program | Linux package name | 
 |---------| ------- | ------------ |
