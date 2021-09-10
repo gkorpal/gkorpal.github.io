@@ -7,21 +7,23 @@ tags:
 
 # Setup
 
-Note that [UNIX is an IDE](https://blog.sanctum.geek.nz/series/unix-as-ide/), therefore, we will just need the following tools along with a terminal emulator to create C programs:
+Note that [UNIX is an IDE](https://blog.sanctum.geek.nz/series/unix-as-ide/), therefore, we will just need the following tools along with a terminal emulator running Bash shell to create C programs:
 
 | Purpose | Program | Linux package name | 
 |---------| ------- | ------------ |
 | Text editor within Terminal with syntax highlighting| [Vim](https://www.vim.org/) | `vim` | 
 | Compiler and code coverage [`gcov`](https://gcc.gnu.org/onlinedocs/gcc/Gcov.html) | [GNU Compiler Collection (GCC)](https://gcc.gnu.org/) | `gcc`|
-| Build-automation utility | [GNU Make](https://www.gnu.org/software/make/) | `make` | `make` |
+| Build-automation utility | [GNU Make](https://www.gnu.org/software/make/) | `make` |
+| Terminal multiplexer | [GNU Screen](https://www.gnu.org/software/screen/) | `screen` | 
 | Debugger | [GNU Project Debugger (GDB)](https://www.gnu.org/software/gdb/) | `gdb` |
 | Memory error detector | [Valgrind Memcheck](https://valgrind.org/docs/manual/quick-start.html) | `valgrind` |
-<!----
-| Source code package portability | [GNU Autotools](https://developer.fedoraproject.org/tech/languages/c/autotools.html) | `autoconf` and `automake`|
----->
+| Source code package portability | [GNU Autotools]() | `autoconf` and `automake`|
+| Terminal multiplexer | 
+| Version control system/Source Control Management | [Git](https://git-scm.com/) | `git` |
+
 Now we can illustrate all the steps involved using the following example:
 
-
+mumltiplexer: commont ot have 2 terminals open, one  with  the  code  in  an  editor,  and one  for  compiling  and  running  the  program  (probably  in  a  debugger).
 ## Step 1: Write the source code
 
 ````c
