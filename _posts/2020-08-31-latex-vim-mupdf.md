@@ -100,7 +100,7 @@ Note that by default the following desired options are already there:
 * fold types are enabled, 
 * intentation in both tex and bib are enabled, 
 * vimtex will open the pdf viewer automatically after compilation
-* forward search is enabled, i.e. it will perform a forward search to the current cursor position when the first invocation of the pdf viewer happens. It uses SyncTex and requires `xdotool` to work with MuPDF.
+* forward search is enabled, i.e. it will perform a forward search to the current cursor position when the first invocation of the pdf viewer happens. It uses SyncTex and requires `xdotool` to work with MuPDF (also [prevents opening multiple instances of pdf](https://github.com/lervag/vimtex/issues/1775)).
 
 You can further customize by adding snippets as demonstrated in various blog posts ([ex1](https://castel.dev/post/lecture-notes-1/), [ex2](https://www.dianacai.com/blog/2018/06/28/latex-vim-skim-setup/), [ex3](http://tomchaplin.xyz/portfolio/Vim-for-LaTeX/) and [ex4](https://jdhao.github.io/2019/03/26/nvim_latex_write_preview/)). 
 
