@@ -17,8 +17,8 @@ Note that [UNIX is an IDE](https://blog.sanctum.geek.nz/series/unix-as-ide/), th
 | Terminal multiplexer | [GNU Screen](https://www.gnu.org/software/screen/) | `screen` | 
 | Debugger | [GNU Project Debugger (GDB)](https://www.gnu.org/software/gdb/) | `gdb` |
 | Memory error detector | [Valgrind Memcheck](https://valgrind.org/docs/manual/quick-start.html) | `valgrind` |
-| Source code package portability | [GNU Autotools]() | `autoconf` and `automake`|
-| Terminal multiplexer | 
+| Terminal multiplexer | [GNU Screen](https://www.gnu.org/software/screen/) | `screen`|
+| Source code package portability | GNU Autotools ([Autoconf](https://www.gnu.org/software/autoconf/autoconf.html) and [Automake](https://www.gnu.org/software/automake/)) | `autoconf` and `automake`|
 | Version control system/Source Control Management | [Git](https://git-scm.com/) | `git` |
 
 Now we can illustrate all the steps involved using the following example:
