@@ -110,7 +110,7 @@ Following are the useful key mappings for the various vimtex commands:
 
 | Key mapping | Vimtex command  (normal mode)| Output |
 |----------|----------|----------|
-| `\\ll` | :VimtexCompile | Run latexmk compiler in continuous mode which complies the saved tex file and shows the pdf. This command works as a compiler toggle.|
+| `\\ll` | :VimtexCompile | Run latexmk compiler in continuous mode which complies the saved tex file and shows the pdf (can disable automatic pdf view in case of [multiple pdf bug](https://github.com/lervag/vimtex/issues/1017#issuecomment-350121872)). This command works as a compiler toggle.|
 | `\\lv` | :VimtexView  |  View pdf for current project and perform forward search if available.|
 | `\\lr` | :VimtexRSearch |  Do reverse search (only available for MuPDF viewer with `xdotool` installed).|
 | `\\le` | :VimtexErrors  | Open `quickfix` window if there are errors or warnings. Press `:ccl` to close it. |
