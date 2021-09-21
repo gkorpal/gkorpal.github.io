@@ -156,7 +156,7 @@ Then, for (encoded) plain text "BEWAREOFZOMBIES" and key "ELEPHANT" we wii get:
 sage: playfair("BEWAREOFZOMBIES","ELEPHANT")                                                                         
 'NPZLOPVOVUIDFPRY'
 `````
-To decrypt, use the inverse (opposite) of the last 3 rules of `digraph_en` to get `digraph_de`, then drop any extra "X"s that do not make sense in the final message when finished. 
+To decrypt, use the inverse (opposite) of the last 3 rules of `digraph_en` to get `digraph_de`, then drop any extra "X"s that do not make sense in the final message when finished. Note that no letter is evercrypted to itself. Moreover, if `FR` is encrypted as `IE` then `IE` will be encrypted as `FR`.
 
 Another polygraphic substitution cipher is the **Hill cipher**. It uses matrix algebra for encryption/decryption. However, encryption is very difficult to perform by hand for any sufficiently large block size.
 
