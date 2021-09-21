@@ -9,9 +9,9 @@ paperurl:
 citation: 
 ---
 
-Substitution is a function which uses a set of rules to transform elements of a sequence into a new sequence using a set of rules which "translate" from the original sequence to its transformation. 
+**Substitution** is a function which uses a set of rules to transform elements of a sequence into a new sequence using a set of rules which "translate" from the original sequence to its transformation. The easiest substitution is given when each character is replaced by exactly one other character. This encryption can be broken with statistical methods because in every language characters appear with a particular probability. 
 
-The easiest substitution is given when each character is replaced by exactly one other character. This encryption can be broken with statistical methods because in every language characters appear with a particular probability. In this discussion we will work with English alphabets. We numerically encode the alphabets $\{A, B . . . , Z\}$ as the elements $\{0, 1, . . . , 25\}$ of $\mathbb{Z}/26\mathbb{Z}$. SageMath function:
+In this discussion we will work with English alphabets. We numerically encode the alphabets $\{A, B . . . , Z\}$ as the elements $\{0, 1, . . . , 25\}$ of $\mathbb{Z}/26\mathbb{Z}$. SageMath function:
 
 `````python
 sage: def str2lst(s): 
