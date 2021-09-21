@@ -12,6 +12,7 @@ citation:
 Substitution is a function which uses a set of rules to transform elements of a sequence into a new sequence using a set of rules which "translate" from the original sequence to its transformation. 
 
 The easiest substitution is given when each character is replaced by exactly one other character. This encryption can be broken with statistical methods because in every language characters appear with a particular probability. In this discussion we will work with English alphabets. We numerically encode the alphabets $\{A, B . . . , Z\}$ as the elements $\{0, 1, . . . , 25\}$ of $\mathbb{Z}/26\mathbb{Z}$. SageMath function:
+
 `````python
 sage: def str2lst(s): 
 ....:     return [ord(x)-65 for x in s] 
@@ -23,6 +24,7 @@ sage: def lst2str(lst):
 Let's see some popular examples:
 
 * **Caesar cipher (shift cipher):**  This is a monoalphabetic substitution cipher. We obtain the ciphertext by replacing each letter of the message by the letter $n$ places beyond it in the normal alphabet. SageMath function:
+
 `````python
 sage: def caesar(pl, n): 
 ....:     pln = str2lst(pl) 
@@ -101,12 +103,12 @@ to do
 Another polygraphic substitution cipher is the **Hill cipher**. It uses matrix algebra for encryption/decryption. However, encryption is very difficult to perform by hand for any sufficiently large block size.
 
 ## References
-<a id="1">[1]</a> G. Korpal, [Enigma Cryptanalysis](https://gkorpal.github.io/files/summer2015-enigma_cryptanalysis-gaurish.pdf), July 2015.
+1. G. Korpal, [Enigma Cryptanalysis](https://gkorpal.github.io/files/summer2015-enigma_cryptanalysis-gaurish.pdf), July 2015.
 
-<a id="2">[2]</a> David R. Kohel, [Cryptography](http://iml.univ-mrs.fr/~kohel/pub/crypto.pdf), July 2008.
+2. David R. Kohel, [Cryptography](http://iml.univ-mrs.fr/~kohel/pub/crypto.pdf), July 2008.
 
-<a id="3">[3]</a> David R. Kohel and Minh Van Nguyen, [Classical Cryptosystems](https://doc.sagemath.org/html/en/reference/cryptography/sage/crypto/classical.html), SageMath reference manual, 2007--08.
+3. David R. Kohel and Minh Van Nguyen, [Classical Cryptosystems](https://doc.sagemath.org/html/en/reference/cryptography/sage/crypto/classical.html), SageMath reference manual, 2007--08.
 
-<a id="4">[4]</a> A. Feaver et. al., [Sage Interactions - Cryptography](https://wiki.sagemath.org/interact/cryptography), SageMath Wiki, August 2019.
+4. A. Feaver et. al., [Sage Interactions - Cryptography](https://wiki.sagemath.org/interact/cryptography), SageMath Wiki, August 2019.
 
-<a id="5">[5]</a> A. McAndrew, Introduction to Cryptography with Open-Source Software, CRC Press, 2011.
+5. A. McAndrew, Introduction to Cryptography with Open-Source Software, CRC Press, 2011.
