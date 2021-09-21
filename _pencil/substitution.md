@@ -90,7 +90,15 @@ sage: V.deciphering(K,E) == M
 True
 `````
 
-If the message is shorter than the key, then the Vigen`ere cipher is essentially the one-time pad, which is unbreakable for a random key. If the key is not random, then you may get some information on the plaintext.
+If the message is shorter than the key, then the Vigenere cipher is essentially the **one-time pad**, which is unbreakable for a random key. If the key is not random, then you may get some information on the plaintext.
+
+* **Playfair cipher:** This is a polygraphic substitution cipher in which pairs of letters are substituted (digraphic). In this the plaintext is broken up into two-letter digraphs with some restrictions. Those digraphs are encrypted using a **Polybius square**, (i.e. a 5x5 grid in which each letter of the alphabet is its own entry with the exception of I/J which are placed together). The positions of the letters in the digraph determine how the digraph is encrypted.
+
+`````python
+to do
+`````
+
+Another polygraphic substitution cipher is the **Hill cipher**. It uses matrix algebra for encryption/decryption. However, encryption is very difficult to perform by hand for any sufficiently large block size.
 
 ## References
 <a id="1">[1]</a> G. Korpal, [Enigma Cryptanalysis](https://gkorpal.github.io/files/summer2015-enigma_cryptanalysis-gaurish.pdf), July 2015.
