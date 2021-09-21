@@ -18,6 +18,7 @@ Let's see some popular examples:
 * **Rail fence cipher (zigzag cipher):** In this the plaintext is written downwards diagonally on successive $n$ "rails" of an imaginary fence, then moving up when the bottom rail is reached, down again when the top rail is reached, and so on until the whole plaintext is written out. The ciphertext is then read off in rows. SageMath function:
 
 `````python
+sage: def zigzag(pl, key):
 ....:     rail = [[ '\n' for i in range(len(pl))] for j in range(key)] 
 ....:     # finding direction of flow 
 ....:     dir_down = False 
