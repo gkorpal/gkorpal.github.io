@@ -49,9 +49,9 @@ sage: zigzag("BEWAREOFZOMBIES", 3)
 
 Decryption is a bit [tricky](https://en.wikipedia.org/wiki/Rail_fence_cipher#Decryption).
 
-* **Bifid cipher:**
+* **Bifid cipher:** This is a fractionating transposition cipher. Breaking up or fractionating letters before moving them around improves the security of a cipher considerably.
 
-* **ADFGVX cipher:**
+* **ADFGVX cipher:** . This is another example of a fractionating transposition cipher. It is named after the five letters used in the ciphertext: A, D, F, G and X. These letters were chosen in a way to reduce the possibility of operator error, these are very different from each other when transmitted via morse code.
 
 
 ## References
