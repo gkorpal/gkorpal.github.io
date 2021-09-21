@@ -37,7 +37,7 @@ sage: def zigzag(pl, key):
 ....:         for j in range(len(pl)): 
 ....:             if rail[i][j] != '\n': 
 ....:                 tmp.append(rail[i][j]) 
-....:     return(''.join(tmp)
+....:     return(''.join(tmp))
 `````
 
 Now, consider the example when $n=3$:
@@ -48,6 +48,11 @@ sage: zigzag("BEWAREOFZOMBIES", 3)
 `````
 
 Decryption is a bit [tricky](https://en.wikipedia.org/wiki/Rail_fence_cipher#Decryption).
+
+* **Bifid cipher:**
+
+* **ADFGVX cipher:**
+
 
 ## References
 1. G. Korpal, [Enigma Cryptanalysis](https://gkorpal.github.io/files/summer2015-enigma_cryptanalysis-gaurish.pdf), July 2015.
