@@ -93,7 +93,7 @@ True
 If the message is shorter than the key, then the Vigen`ere cipher is essentially the one-time pad, which is unbreakable for a random key. If the key is not random, then you may get some information on the plaintext.
 
 ## References
-<a id="1">[1]</a> G. Korpal, [Enigma Cryptanalysis]((https://gkorpal.github.io/files/summer2015-enigma_cryptanalysis-gaurish.pdf), July 2015.
+<a id="1">[1]</a> G. Korpal, [Enigma Cryptanalysis](https://gkorpal.github.io/files/summer2015-enigma_cryptanalysis-gaurish.pdf), July 2015.
 
 <a id="2">[2]</a> David R. Kohel, [Cryptography](http://iml.univ-mrs.fr/~kohel/pub/crypto.pdf), July 2008.
 
