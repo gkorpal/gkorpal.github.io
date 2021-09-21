@@ -97,8 +97,66 @@ If the message is shorter than the key, then the Vigenere cipher is essentially 
 * **Playfair cipher:** This is a polygraphic substitution cipher in which pairs of letters are substituted (digraphic). In this the plaintext is broken up into two-letter digraphs with some restrictions. Those digraphs are encrypted using a **Polybius square**, (i.e. a 5x5 grid in which each letter of the alphabet is its own entry with the exception of I/J which are placed together). The positions of the letters in the digraph determine how the digraph is encrypted.
 
 `````python
-to do
+sage: def polybius(key): 
+....:     alph = 'ABCDEFGHIKLMNOPQRSTUVWXYZ' # no J 
+....:     pf = '' 
+....:     for ch in key: 
+....:         if (ch!= "J") & (pf.find(ch)==-1): 
+....:             pf+=ch 
+....:     for ch in alph: 
+....:         if pf.find(ch)==-1: 
+....:             pf+=ch 
+....:     square = [[pf[5*i+j] for j in range(5)] for i in range(5)] 
+....:     return square
+....:
+sage: def digraph(pl): 
+....:     tmp = pl.replace('J', 'I') # replace J's with I's 
+....:     n = len(tmp) 
+....:     i = 0 
+....:     while (n > 0) & (2*i+1 < len(tmp)): 
+....:         if tmp[2*i] == tmp[2*i+1]: 
+....:             tmp = insert('X', tmp, 2*i+1) # if both letters are the same add an uncommon letter like "X" after the first letter.
+....:             n-=1 
+....:             i+=1 
+....:         else: 
+....:             n-=2 
+....:             i+=1 
+....:     if len(tmp)%2 == 1: 
+....:         tmp += 'X' # if only one letter is left, add an uncommon letter like "X"
+....:     return tmp
+....:
+sage: def digraph_en(di, square): 
+....:     for i in range(5): 
+....:         for j in range(5): 
+....:             if square[i][j] == di[0]: 
+....:                 i0 = i 
+....:                 j0 = j 
+....:             if square[i][j] == di[1]: 
+....:                 i1 = i 
+....:                 j1 = j 
+....:     if (i0 != i1) & (j0 != j1): 
+....:         return square[i0][j1] + square[i1][j0]  # if the letters are not on the same row or column
+....:     if (i0 == i1) & (j0 != j1): 
+....:         return square[i0][(j0+1)%5] + square[i1][(j1+1)%5] # if the letters are in the same row, replace them with the letters to their immediate right 
+....:     if (i0 != i1) & (j0 == j1): 
+....:         return square[(i0+1)%5][j0] + square[(i1+1)%5][j1] # if the letters are in the same column, replace them with the letters immediately below
+....:
+sage: def playfair(pl, key): 
+....:     square = polybius(key) 
+....:     di = digraph(pl) 
+....:     tmp = '' 
+....:     for i in range(len(di)//2): 
+....:         tmp += digraph_en(di[2*i]+di[2*i+1], square) 
+....:     return tmp 
 `````
+
+Then, for (encoded) plain text "BEWAREOFZOMBIES" and key "ELEPHANT" we wii get:
+
+`````python
+sage: playfair("BEWAREOFZOMBIES","ELEPHANT")                                                                         
+'NPZLOPVOVUIDFPRY'
+`````
+To decrypt, use the inverse (opposite) of the last 3 rules of `digraph_en` to get `digraph_de`, then drop any extra "X"s that do not make sense in the final message when finished. 
 
 Another polygraphic substitution cipher is the **Hill cipher**. It uses matrix algebra for encryption/decryption. However, encryption is very difficult to perform by hand for any sufficiently large block size.
 
@@ -111,4 +169,6 @@ Another polygraphic substitution cipher is the **Hill cipher**. It uses matrix a
 
 4. A. Feaver et. al., [Sage Interactions - Cryptography](https://wiki.sagemath.org/interact/cryptography), SageMath Wiki, August 2019.
 
-5. A. McAndrew, Introduction to Cryptography with Open-Source Software, CRC Press, 2011.
+5. S. Tengely, [Lectures on Cryptography](http://shrek.unideb.hu/~tengely/crypto/webwork-mini.html), University of Debrecen, 2020.
+
+6. A. McAndrew, Introduction to Cryptography with Open-Source Software, CRC Press, 2011.
