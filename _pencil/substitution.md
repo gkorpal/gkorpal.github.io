@@ -58,8 +58,8 @@ EHZDUHRICRPELHV
 `````
 
 ## References
-<a id="1">[1]</a> G. Korpal, [Enigma Cryptanalysis]((https://gkorpal.github.io/files/summer2015-enigma_cryptanalysis-gaurish.pdf), Summer 2015.
+<a id="1">[1]</a> G. Korpal, [Enigma Cryptanalysis]((https://gkorpal.github.io/files/summer2015-enigma_cryptanalysis-gaurish.pdf), July 2015.
 
-<a id="2">[2]</a> David R. Kohel, [Cryptography](http://iml.univ-mrs.fr/~kohel/pub/crypto.pdf), 2008-11.
+<a id="2">[2]</a> David R. Kohel, [Cryptography](http://iml.univ-mrs.fr/~kohel/pub/crypto.pdf), July 2008.
 
 <a id="2">[3]</a> David R. Kohel and Minh Van Nguyen, [Classical Cryptosystems](https://doc.sagemath.org/html/en/reference/cryptography/sage/crypto/classical.html), 2007-08.
