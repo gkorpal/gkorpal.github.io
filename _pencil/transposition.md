@@ -78,12 +78,13 @@ sage: def bifid(pl, kw):
 ....:     return ct                                                                                                            
 `````
 
-For example, if (encoded) plain text is "BEWARE OF ZOMBIES" and key is "ELEPHANT" then
+For example, if (encoded) plain text is "BEWAREOFZOMBIES" and key is "ELEPHANT" then
 
 `````python
 sage: bifid("BEWAREOFZOMBIES","ELEPHANT")                                                                            
 'NVORYGFRLXEAAIH'
 `````
+For decryption apply the above steps in reverse.
 
 **ADFGX cipher** is another example of a fractionating transposition cipher, which uses two keys (transposition key and fractionation key). It is named after the five letters used in the ciphertext: A, D, F, G and X. These letters were chosen in a way to reduce the possibility of operator error, as they are very different from each other when transmitted via morse code.
 
