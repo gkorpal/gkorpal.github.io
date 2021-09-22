@@ -63,18 +63,18 @@ sage: def polybius(key):
 ....:             pf+=ch   
 ....:     return pf # writing the square as a sequence read from left to right
 ....:
-sage: def bifid(pl, kw): 
+sage: def bifid(pl, key): 
 ....:     n = len(pl) 
 ....:     pairs = [] 
-....:     key = polybius(kw) 
+....:     ks = polybius(key) 
 ....:     for x in pl: 
-....:         kx = key.index(x) 
+....:         kx = ks.index(x) 
 ....:         pairs += [[kx//5,kx%5]] # getting the coordinates in polybius square
 ....:     tmp = flatten([x[0] for x in pairs]+[x[1] for x in pairs]) 
 ....:     ct = '' 
 ....:     for i in range(n): 
 ....:         pair=[tmp[2*i],tmp[2*i+1]] 
-....:         ct += key[5*pair[0]+pair[1]] 
+....:         ct += ks[5*pair[0]+pair[1]] 
 ....:     return ct                                                                                                            
 `````
 
@@ -85,6 +85,27 @@ sage: bifid("BEWAREOFZOMBIES","ELEPHANT")
 'NVORYGFRLXEAAIH'
 `````
 For decryption apply the above steps in reverse.
+
+`````python
+sage: def bifid_de(ct, key): 
+....:     n = len(ct) 
+....:     pairs = [] 
+....:     ks = polybius(key) 
+....:     for x in ct: 
+....:         kx = ks.index(x) 
+....:         pairs += [[kx//5, kx%5]] 
+....:     tmp = flatten(pairs) 
+....:     A = tmp[:n] 
+....:     B = tmp[n:] 
+....:     pl = '' 
+....:     for i in range(n): 
+....:         pair = [A[i], B[i]] 
+....:         pl += ks[5*pair[0]+pair[1]] 
+....:     return pl 
+....:                                                                                                             
+sage: bifid_de("NVORYGFRLXEAAIH", "ELEPHANT")                                                                        
+'BEWAREOFZOMBIES'
+`````
 
 **ADFGX cipher** is another example of a fractionating transposition cipher, which uses two keys (transposition key and fractionation key). It is named after the five letters used in the ciphertext: A, D, F, G and X. These letters were chosen in a way to reduce the possibility of operator error, as they are very different from each other when transmitted via morse code.
 
