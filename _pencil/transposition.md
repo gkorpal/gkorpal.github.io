@@ -49,17 +49,43 @@ sage: zigzag("BEWAREOFZOMBIES", 3)
 
 Decryption is a bit [tricky](https://en.wikipedia.org/wiki/Rail_fence_cipher#Decryption).
 
-* **Bifid cipher:** This is a fractionating transposition cipher. Breaking up or fractionating letters before moving them around improves the security of a cipher considerably.
-
-* **ADFGX cipher:** . This is another example of a fractionating transposition cipher. It is named after the five letters used in the ciphertext: A, D, F, G and X. These letters were chosen in a way to reduce the possibility of operator error, as they are very different from each other when transmitted via morse code. SageMath function:
+* **Bifid cipher:** This is a fractionating transposition cipher. Breaking up or fractionating letters before moving them around improves the security of a cipher considerably. SageMath function:
 
 `````python
-frationating and trasposition key
+sage: def polybius(key): 
+....:     alph = 'ABCDEFGHIKLMNOPQRSTUVWXYZ' # no J  
+....:     pf = ''  
+....:     for ch in key:  
+....:         if (ch!= "J") & (pf.find(ch)==-1):  
+....:             pf+=ch  
+....:     for ch in alph:  
+....:         if pf.find(ch)==-1:  
+....:             pf+=ch   
+....:     return pf # writing the square as a sequence read from left to right
+....:
+sage: def bifid(pl, kw): 
+....:     n = len(pl) 
+....:     pairs = [] 
+....:     key = polybius(kw) 
+....:     for x in pl: 
+....:         kx = key.index(x) 
+....:         pairs += [[kx//5,kx%5]] # getting the coordinates in polybius square
+....:     tmp = flatten([x[0] for x in pairs]+[x[1] for x in pairs]) 
+....:     ct = '' 
+....:     for i in range(n): 
+....:         pair=[tmp[2*i],tmp[2*i+1]] 
+....:         ct += key[5*pair[0]+pair[1]] 
+....:     return ct                                                                                                            
 `````
 
+For example, if (encoded) plain text is "BEWARE OF ZOMBIES" and key is "ELEPHANT" then
+
 `````python
-ADFGX('cryptography','CIPHER')
+sage: bifid("BEWAREOFZOMBIES","ELEPHANT")                                                                            
+'NVORYGFRLXEAAIH'
 `````
+
+**ADFGX cipher** is another example of a fractionating transposition cipher, which uses two keys (transposition key and fractionation key). It is named after the five letters used in the ciphertext: A, D, F, G and X. These letters were chosen in a way to reduce the possibility of operator error, as they are very different from each other when transmitted via morse code.
 
 ## References
 1. G. Korpal, [Enigma Cryptanalysis](https://gkorpal.github.io/files/summer2015-enigma_cryptanalysis-gaurish.pdf), July 2015.
