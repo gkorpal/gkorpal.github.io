@@ -94,7 +94,7 @@ sage: def bifid_de(ct, key):
 ....:     for x in ct: 
 ....:         kx = ks.index(x) 
 ....:         pairs += [[kx//5, kx%5]] 
-....:     tmp = flatten(pairs) 
+....:     tmp = flatten(pairs) # len(tmp) = 2n
 ....:     A = tmp[:n] 
 ....:     B = tmp[n:] 
 ....:     pl = '' 
