@@ -117,3 +117,5 @@ sage: bifid_de("NVORYGFRLXEAAIH", "ELEPHANT")
 3. A. McAndrew, Introduction to Cryptography with Open-Source Software, CRC Press, 2011.
 
 4. P. Somwanshi, [Python3 program to illustrate Rail Fence Cipher Encryption and Decryption](https://www.geeksforgeeks.org/rail-fence-cipher-encryption-decryption/), GeeksforGeeks.
+
+5. J. Lyons et. al., [pycipher](https://github.com/jameslyons/pycipher), classical ciphers implemented in Python.
