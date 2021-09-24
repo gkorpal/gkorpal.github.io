@@ -15,7 +15,7 @@ author_profile: true
 ### Computationally secure ciphers
 
 - [Pencil-paper safe cryptography](https://gkorpal.github.io/pencil)
-- Computer safe cryptography
+- [Computer safe cryptography](https://gkorpal.github.io/computer)
 - Quantum safe cryptography
 
 ### Unconditionally secure ciphers
