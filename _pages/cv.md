@@ -43,8 +43,8 @@ Awards and Fellowships
 Conferences and Workshops
 ------
 * [Microsoft Research Summit](https://researchsummit.microsoft.com/home_public) (The Future of Privacy & Security, The Future of Cloud Networking, and Federated Learning and Confidential Computing), Virtual event (Oct 19 - Oct 21, 2021)
-* [PQNet: Post-Quantum Networks Workshop (Part 1)](https://www.sofiaceli.com/PQNet-Workshop/), University of Bristol, Satellite event with the [Isogeny-based cryptography school](https://www.isogenyschool2020.co.uk/) using Zoom, Zulip and wonder.me (Sept 27 - Oct 01, 2021)
-* [Sage/Oscar Days for Combinatorial Algebraic Geometry](https://icerm.brown.edu/programs/sp-s21/w2/), Institute for Computational & Experimental Research in Mathematics (ICERM, Brown University), Virtual Workshop using Zoom, Slack and Gather.town (Feb 15 - 19, 2021)
+* [PQNet: Post-Quantum Networks Workshop (Part 1)](https://www.sofiaceli.com/PQNet-Workshop/), Cloudflare Research satellite event with the [Isogeny-based cryptography school](https://www.isogenyschool2020.co.uk/) at University of Bristol, held virtually using Zoom, Zulip and wonder.me (Sept 27 - Oct 01, 2021)
+* [Sage/Oscar Days for Combinatorial Algebraic Geometry](https://icerm.brown.edu/programs/sp-s21/w2/), Institute for Computational & Experimental Research in Mathematics (ICERM, Brown University), held virtually using Zoom, Slack and Gather.town (Feb 15 - 19, 2021)
 * [International Conference on Class Groups of Number Fields and Related Topics](https://sites.google.com/site/iccnnfrt2017/home), Harish-Chandra Research Institute, Allahabad (Sept 04, 2017 - Sept 07, 2017)
 * <u>USERC Undergraduate Summer Workshop</u>, Center for Excellence in Mathematical Sciences (Kumaon University), Almora (Jun 22, 2015 - Jul 04, 2015)    
 * [30th Annual Conference of Ramanujan Mathematical Society](http://30ac.ramanujanmathsociety.org/), Indian Institute of Science Education and Research, Mohali (May 15, 2015 - May 17, 2015)
