@@ -27,5 +27,6 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 1.  Wouter Castryck, [CSURF](https://homes.esat.kuleuven.be/~wcastryc/summer_school_csurf.pdf), Week 3: Basic protocols (19-23rd July)
 3.  Luca De Feo, [VDFs, OTPRF, and threshold schemes](https://defeo.lu/docet/assets/misc/2021-08-02-isogeny-school.pdf), Week 5: Advanced protocols (2-6th August)
 4.  Jana Sotáková, [Genus theory attacks on CSIDH-style schemes](https://jana-sotakova.github.io/DDH/DDH.pdf), Week 6: Classical cryptanalysis (9-13th August)
-5.  Lorenz Panny, [Meet-in-the-middle and van Oorschot-Wiener applied to isogeny graphs](https://yx7.cc/docs/misc/isogprob_bristol_notes.pdf), Week 6: Classical cryptanalysis (9-13th August).
-6.  
+5.  Lorenz Panny, [Meet-in-the-middle and van Oorschot-Wiener applied to isogeny graphs](https://yx7.cc/docs/misc/isogprob_bristol_notes.pdf), Week 6: Classical cryptanalysis (9-13th August)
+6.  Craig Costello, [Using Kummer arithmetic to optimize genus one isogeny computations](https://www.craigcostello.com.au/s/why-hyperelliptic.pdf), Week 9: Genus two (6-10th September) 
+7.  
