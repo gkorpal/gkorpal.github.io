@@ -16,8 +16,8 @@ author_profile: true
 
 - [Pencil-paper safe cryptography](https://gkorpal.github.io/pencil)
 - [Computer safe cryptography](https://gkorpal.github.io/computer)
-- Quantum safe cryptography
+- [Quantum safe cryptography](https://gkorpal.github.io/quantum)
 
 ### Unconditionally secure ciphers
 
-- Quantum cryptography
+- Quantum cryptography (placeholder)
