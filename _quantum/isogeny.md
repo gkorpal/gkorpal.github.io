@@ -21,4 +21,6 @@ work in progress.
 5. Kristin Lauter and Jana Sotáková, Supersingular Isogeny Graphs in Cryptography (The CGL hash function), [PCMI 2021 Graduate Summer School](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions), Week 3 (July 26-30, 2021): Number Theory Informed by Computation. ([videos](https://www.youtube.com/playlist?list=PLldN_DpkXL3YpsmlyeN7Xop_TlNkMAsj9), [slides by Kristin](https://www.ias.edu/pcmi/pcmi-2021-gss-lecture-notes-and-problem-sets), and [exercises by Jana](https://jana-sotakova.github.io/PCMI.html))
 
 ### Isogeny-based Cryptography School notes:
-1. e
+Some notes I found from the [school I didn't attend](https://isogenyschool2020.co.uk/schedule/).
+1.  Luca De Feo, [VDFs, OTPRF, and threshold schemes](https://defeo.lu/docet/assets/misc/2021-08-02-isogeny-school.pdf), Week 5: Advanced protocols (2-6th August)
+2.  
