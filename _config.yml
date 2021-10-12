@@ -194,6 +194,9 @@ collections:
   computer:
     output: true
     permalink: /:collection/:path/
+  quantum:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -265,6 +268,15 @@ defaults:
   - scope:
       path: ""
       type: computer
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: true
+  # _quantum
+  - scope:
+      path: ""
+      type: quantum
     values:
       layout: single
       author_profile: true
