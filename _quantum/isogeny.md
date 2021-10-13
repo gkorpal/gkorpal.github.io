@@ -13,7 +13,7 @@ work in progress.
 
 ## References
 
-### COVID-19 Recordings:
+### COVID-19 Recordings
 1. Craig Costello, Post-quantum cryptography: supersingular isogenies for beginners, [Microsoft Research Webinar](https://www.microsoft.com/en-us/research/project/sike/) (May 28, 2020). ([video](https://www.youtube.com/watch?v=9B7jq7Mgiwc) and [notes](https://eprint.iacr.org/2019/1321.pdf))
 2. Joost Renes, Improved Classical Cryptanalysis of SIKE in Practice, [IACR Practice and Theory of Public-Key Cryptography 2020](https://pkc.iacr.org/2020/), paper presentation (Jun 04, 2020). ([video](https://www.youtube.com/watch?v=QGIEbIzt6gk) and [paper](https://pkc.iacr.org/2020/program.php))
 3. David Jao, Isogeny-based cryptography: past, present, and future, [Fourteenth Algorithmic Number Theory Symposium, ANTS-XIV](https://www.math.auckland.ac.nz/~sgal018/ANTS/schedule.html), Invited talk (July 02, 2020). ([video](https://www.youtube.com/watch?v=AoE-uQinzqU))
@@ -25,11 +25,21 @@ work in progress.
 9. Tanja Lange and Lorenz Panny, Introduction to SIDH and CSIDH, [Isogeny-based Cryptography School](https://isogenyschool2020.co.uk/), Week 3 (July 19-23, 2021): Basic protocols. ([videos](https://www.youtube.com/playlist?list=PL6hzlGxGIS1Cnx3XS7ZD4wjcTmHqOEpTS), [slides+notes+exercises by Tanja](https://www.hyperelliptic.org/tanja/teaching/isogeny-school21/), [notes by Laorenz](https://yx7.cc/docs/misc/isog_bristol_notes.pdf), and [extra resources](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)).
 10. Kristin Lauter and Jana Sotáková, Supersingular Isogeny Graphs in Cryptography (The CGL hash function), [PCMI 2021 Graduate Summer School](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions), Week 3 (July 26-30, 2021): Number Theory Informed by Computation. ([videos](https://www.youtube.com/playlist?list=PLldN_DpkXL3YpsmlyeN7Xop_TlNkMAsj9), [slides by Kristin](https://www.ias.edu/pcmi/pcmi-2021-gss-lecture-notes-and-problem-sets), and [exercises by Jana](https://jana-sotakova.github.io/PCMI.html))
 
-### Isogeny-based Cryptography School (27th September - 1st October, 2021) lecture notes:
+### Isogeny-based Cryptography School (27th September - 1st October, 2021) lecture notes
 Some notes I found from the [school I didn't attend](https://isogenyschool2020.co.uk/schedule/).
 1. Wouter Castryck, [CSURF](https://homes.esat.kuleuven.be/~wcastryc/summer_school_csurf.pdf), Week 3: Basic protocols (19-23rd July)
-3. Luca De Feo, [VDFs, OTPRF, and threshold schemes](https://defeo.lu/docet/assets/misc/2021-08-02-isogeny-school.pdf), Week 5: Advanced protocols (2-6th August)
-4. Jana Sotáková, [Genus theory attacks on CSIDH-style schemes](https://jana-sotakova.github.io/DDH/DDH.pdf), Week 6: Classical cryptanalysis (9-13th August)
-5. Lorenz Panny, [Meet-in-the-middle and van Oorschot-Wiener applied to isogeny graphs](https://yx7.cc/docs/misc/isogprob_bristol_notes.pdf), Week 6: Classical cryptanalysis (9-13th August)
-6. Craig Costello, [Using Kummer arithmetic to optimize genus one isogeny computations](https://www.craigcostello.com.au/s/why-hyperelliptic.pdf), Week 9: Genus two (6-10th September) 
-7. Patrick Longa, [Implementing supersingular isogeny-based protocols and the SIDH library](https://www.patricklonga.com/talks),  Week 11: Implementation (20-24th September)
+2. Luca De Feo, [VDFs, OTPRF, and threshold schemes](https://defeo.lu/docet/assets/misc/2021-08-02-isogeny-school.pdf), Week 5: Advanced protocols (2-6th August)
+3. Jana Sotáková, [Genus theory attacks on CSIDH-style schemes](https://jana-sotakova.github.io/DDH/DDH.pdf), Week 6: Classical cryptanalysis (9-13th August)
+4. Lorenz Panny, [Meet-in-the-middle and van Oorschot-Wiener applied to isogeny graphs](https://yx7.cc/docs/misc/isogprob_bristol_notes.pdf), Week 6: Classical cryptanalysis (9-13th August)
+5. Craig Costello, [Using Kummer arithmetic to optimize genus one isogeny computations](https://www.craigcostello.com.au/s/why-hyperelliptic.pdf), Week 9: Genus two (6-10th September) 
+6. Patrick Longa, [Implementing supersingular isogeny-based protocols and the SIDH library](https://www.patricklonga.com/talks),  Week 11: Implementation (20-24th September)
+
+### Books
+1. Steven Galbraith, Mathematics of Public Key Cryptography, Cambridge University Press ([version 2.0](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html))
+
+### Websites/Blogs
+1. SIKE: https://sike.org/
+2. CSIDH: https://csidh.isogeny.org/index.html
+3. Post-quantum cryptography: https://pqcrypto.org/
+4. The cr.yp.to blog (Daniel J. Bernstein): https://blog.cr.yp.to/
+5. ellipticnews (Steven Galbraith): https://ellipticnews.wordpress.com/ 
