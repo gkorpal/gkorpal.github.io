@@ -35,7 +35,10 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 6. Patrick Longa, [Implementing supersingular isogeny-based protocols and the SIDH library](https://www.patricklonga.com/talks),  Week 11: Implementation (20-24th September)
 
 ### Books
-1. Steven Galbraith, Mathematics of Public Key Cryptography, Cambridge University Press ([version 2.0](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html))
+1. Joseph Silverman, Arithmetic of Elliptic Curves, Springer.
+2. Steven Galbraith, Mathematics of Public Key Cryptography, Cambridge University Press ([version 2.0](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html))
+3. John Voight, Quaternion Algebras, Springer ([latest version](https://math.dartmouth.edu/~jvoight/quat.html))
+4. Giuliana Davidoff, Peter Sarnak, and Alain Valette, Elementary number theory, group theory, and Ramanujan graph, Cambridge University Press
 
 ### Websites/Blogs
 1. SIKE: https://sike.org/
