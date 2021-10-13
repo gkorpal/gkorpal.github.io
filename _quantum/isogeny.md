@@ -25,7 +25,7 @@ work in progress.
 9. Tanja Lange and Lorenz Panny, Introduction to SIDH and CSIDH, [Isogeny-based Cryptography School](https://isogenyschool2020.co.uk/), Week 3 (July 19-23, 2021): Basic protocols. ([videos](https://www.youtube.com/playlist?list=PL6hzlGxGIS1Cnx3XS7ZD4wjcTmHqOEpTS), [slides+notes+exercises by Tanja](https://www.hyperelliptic.org/tanja/teaching/isogeny-school21/), [notes by Lorenz](https://yx7.cc/docs/misc/isog_bristol_notes.pdf), and [extra resources](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)).
 10. Kristin Lauter and Jana Sotáková, Supersingular Isogeny Graphs in Cryptography (The CGL hash function), [PCMI 2021 Graduate Summer School](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions), Week 3 (July 26-30, 2021): Number Theory Informed by Computation. ([videos](https://www.youtube.com/playlist?list=PLldN_DpkXL3YpsmlyeN7Xop_TlNkMAsj9), [slides by Kristin](https://www.ias.edu/pcmi/pcmi-2021-gss-lecture-notes-and-problem-sets), and [exercises by Jana](https://jana-sotakova.github.io/PCMI.html))
 
-### Isogeny-based Cryptography School (27th September - 1st October, 2021) lecture notes
+### Isogeny-based Cryptography School (July 05 - September 24, 2021) lecture notes
 Some notes I found from the [school I didn't attend](https://isogenyschool2020.co.uk/schedule/).
 1. Wouter Castryck, [CSURF](https://homes.esat.kuleuven.be/~wcastryc/summer_school_csurf.pdf), Week 3: Basic protocols (19-23rd July)
 2. Luca De Feo, [VDFs, OTPRF, and threshold schemes](https://defeo.lu/docet/assets/misc/2021-08-02-isogeny-school.pdf), Week 5: Advanced protocols (2-6th August)
