@@ -14,7 +14,7 @@ work in progress.
 ## References
 
 ### COVID-19 Recordings
-1. Craig Costello, Post-quantum cryptography: supersingular isogenies for beginners, [Microsoft Research Webinar](https://www.microsoft.com/en-us/research/project/sike/) (May 28, 2020). ([video](https://www.youtube.com/watch?v=9B7jq7Mgiwc) and [notes](https://eprint.iacr.org/2019/1321.pdf))
+1. Craig Costello, Post-quantum cryptography: supersingular isogenies for beginners, [Microsoft Research Webinar](https://www.microsoft.com/en-us/research/project/sike/) (May 28, 2020). ([video](https://www.microsoft.com/en-us/research/video/post-quantum-cryptography-supersingular-isogenies-for-beginners/) and [notes](https://eprint.iacr.org/2019/1321.pdf))
 2. Joost Renes, Improved Classical Cryptanalysis of SIKE in Practice, [IACR Practice and Theory of Public-Key Cryptography 2020](https://pkc.iacr.org/2020/), paper presentation (Jun 04, 2020). ([video](https://www.youtube.com/watch?v=QGIEbIzt6gk) and [paper](https://pkc.iacr.org/2020/program.php))
 3. David Jao, Isogeny-based cryptography: past, present, and future, [Fourteenth Algorithmic Number Theory Symposium, ANTS-XIV](https://www.math.auckland.ac.nz/~sgal018/ANTS/schedule.html), Invited talk (July 02, 2020). ([video](https://www.youtube.com/watch?v=AoE-uQinzqU))
 4. Antonin Leroux, Faster Computation of isogenies of large prime degree, [Fourteenth Algorithmic Number Theory Symposium, ANTS-XIV](https://www.math.auckland.ac.nz/~sgal018/ANTS/schedule.html), Paper presentation (July 02, 2020). ([video](https://www.youtube.com/watch?v=BA-mknsDMaY) and [paper](https://velusqrt.isogeny.org/))
