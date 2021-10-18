@@ -172,3 +172,5 @@ Another polygraphic substitution cipher is the **Hill cipher**. It uses matrix a
 5. S. Tengely, [Lectures on Cryptography](http://shrek.unideb.hu/~tengely/crypto/webwork-mini.html), University of Debrecen, 2020.
 
 6. A. McAndrew, Introduction to Cryptography with Open-Source Software, CRC Press, 2011.
+
+7. Katherine E. Stange (Proof of Concept @ YouTube), Cryptanalysis of Vigenere cipher: not just how, but why it works: [https://youtu.be/QgHnr8-h0xI](https://youtu.be/QgHnr8-h0xI)
