@@ -39,6 +39,8 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 2. Steven Galbraith, Mathematics of Public Key Cryptography, Cambridge University Press ([version 2.0](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html))
 3. John Voight, Quaternion Algebras, Springer ([latest version](https://math.dartmouth.edu/~jvoight/quat.html))
 4. Giuliana Davidoff, Peter Sarnak, and Alain Valette, Elementary number theory, group theory, and Ramanujan graph, Cambridge University Press
+5. Research Directions in Number Theory: Women in Numbers IV, Springer ([arXiv:1806.05709](https://arxiv.org/abs/1806.05709) and [arXiv:1804.04063
+](https://arxiv.org/abs/1804.04063) 
 
 ### Websites/Blogs
 1. SIKE: https://sike.org/
