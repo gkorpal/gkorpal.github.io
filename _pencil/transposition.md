@@ -119,3 +119,5 @@ sage: bifid_de("NVORYGFRLXEAAIH", "ELEPHANT")
 4. P. Somwanshi, [Python3 program to illustrate Rail Fence Cipher Encryption and Decryption](https://www.geeksforgeeks.org/rail-fence-cipher-encryption-decryption/), GeeksforGeeks.
 
 5. J. Lyons et. al., [pycipher](https://github.com/jameslyons/pycipher), classical ciphers implemented in Python.
+
+6. Katherine E. Stange (Proof of Concept @ YouTube), ADFGVX Cipher: Encryption and Decryption: [https://youtu.be/T0xfKiU9Rr4](https://youtu.be/T0xfKiU9Rr4) 
