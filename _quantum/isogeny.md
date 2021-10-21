@@ -14,7 +14,7 @@ work in progress.
 ## References
 
 ### Mini-courses/Lectures
-1.  Toni Bluher and Kristin Lauter, Mathematics of Modern Cryptography, [IAS Program for Women and Mathematics](https://www.ias.edu/math/wam/2018) (May 19-25, 2018). ([videos](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ7MPcSPF2Qaqo6azr0VYOK2) and [notes](https://www.ias.edu/sites/default/files/math/wam/2018%20WAM%20Yearbook%20%28final%29.pdf))
+1.  Toni Bluher, Kristin Lauter and Jill Pipher, Mathematics of Modern Cryptography, [IAS Program for Women and Mathematics](https://www.ias.edu/math/wam/2018) (May 19-25, 2018). ([videos](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ7MPcSPF2Qaqo6azr0VYOK2) and [notes](https://www.ias.edu/sites/default/files/math/wam/2018%20WAM%20Yearbook%20%28final%29.pdf))
 2. Craig Costello, Post-quantum cryptography: supersingular isogenies for beginners, [Microsoft Research Webinar](https://www.microsoft.com/en-us/research/webinar/) (May 28, 2020). ([video](https://www.microsoft.com/en-us/research/video/post-quantum-cryptography-supersingular-isogenies-for-beginners/) and [notes](https://eprint.iacr.org/2019/1321.pdf))
 3. David Jao, Isogeny-based cryptography: past, present, and future, [Fourteenth Algorithmic Number Theory Symposium, ANTS-XIV](https://www.math.auckland.ac.nz/~sgal018/ANTS/schedule.html), Invited talk (July 02, 2020). ([video](https://www.youtube.com/watch?v=AoE-uQinzqU))
 4. Luca De Feo,  Are Isogenies for Real?, [IACR Real World Crypto Symposium 2021](https://rwc.iacr.org/2021/), Invited talk (Jan 12, 2021). ([video](https://www.youtube.com/watch?v=EAe5dqWcxh4) and [discussion session](https://defeo.lu/docet/youtube/2021/01/12/rwc/))
