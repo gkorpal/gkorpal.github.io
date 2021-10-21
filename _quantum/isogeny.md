@@ -13,18 +13,21 @@ work in progress.
 
 ## References
 
-### COVID-19 Recordings
-1. Craig Costello, Post-quantum cryptography: supersingular isogenies for beginners, [Microsoft Research Webinar](https://www.microsoft.com/en-us/research/webinar/) (May 28, 2020). ([video](https://www.microsoft.com/en-us/research/video/post-quantum-cryptography-supersingular-isogenies-for-beginners/) and [notes](https://eprint.iacr.org/2019/1321.pdf))
-2. Joost Renes, Improved Classical Cryptanalysis of SIKE in Practice, [IACR Practice and Theory of Public-Key Cryptography 2020](https://pkc.iacr.org/2020/), paper presentation (Jun 04, 2020). ([video](https://www.youtube.com/watch?v=QGIEbIzt6gk) and [paper](https://pkc.iacr.org/2020/program.php))
+### Mini-courses/Lectures
+1.  Toni Bluher and Kristin Lauter, Mathematics of Modern Cryptography, [IAS Program for Women and Mathematics](https://www.ias.edu/math/wam/2018) (May 19-25, 2018). ([videos](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ7MPcSPF2Qaqo6azr0VYOK2) and [notes](https://www.ias.edu/sites/default/files/math/wam/2018%20WAM%20Yearbook%20%28final%29.pdf))
+2. Craig Costello, Post-quantum cryptography: supersingular isogenies for beginners, [Microsoft Research Webinar](https://www.microsoft.com/en-us/research/webinar/) (May 28, 2020). ([video](https://www.microsoft.com/en-us/research/video/post-quantum-cryptography-supersingular-isogenies-for-beginners/) and [notes](https://eprint.iacr.org/2019/1321.pdf))
 3. David Jao, Isogeny-based cryptography: past, present, and future, [Fourteenth Algorithmic Number Theory Symposium, ANTS-XIV](https://www.math.auckland.ac.nz/~sgal018/ANTS/schedule.html), Invited talk (July 02, 2020). ([video](https://www.youtube.com/watch?v=AoE-uQinzqU))
+4. Luca De Feo,  Are Isogenies for Real?, [IACR Real World Crypto Symposium 2021](https://rwc.iacr.org/2021/), Invited talk (Jan 12, 2021). ([video](https://www.youtube.com/watch?v=EAe5dqWcxh4) and [discussion session](https://defeo.lu/docet/youtube/2021/01/12/rwc/))
+5. Jean-François Biasse, Ideal class group computations for isogeny-based cryptography, [Isogeny-based Cryptography School](https://isogenyschool2020.co.uk/), Week 1 (July 05-09, 2021): Maths background I. ([videos](https://www.youtube.com/playlist?list=PLasTV9KvJPBusFVpkCVh-W4dYyB9aNkay) and [notes+exercises](http://www.usf-crypto.org/class-groups/))
+6. Tanja Lange and Lorenz Panny, Introduction to SIDH and CSIDH, [Isogeny-based Cryptography School](https://isogenyschool2020.co.uk/), Week 3 (July 19-23, 2021): Basic protocols. ([videos](https://www.youtube.com/playlist?list=PL6hzlGxGIS1Cnx3XS7ZD4wjcTmHqOEpTS), [slides+notes+exercises by Tanja](https://www.hyperelliptic.org/tanja/teaching/isogeny-school21/), [notes by Lorenz](https://yx7.cc/docs/misc/isog_bristol_notes.pdf), and [extra resources](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)).
+7. Kristin Lauter and Jana Sotáková, Supersingular Isogeny Graphs in Cryptography (The CGL hash function), [PCMI 2021 Graduate Summer School](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions), Week 3 (July 26-30, 2021): Number Theory Informed by Computation. ([videos](https://www.youtube.com/playlist?list=PLldN_DpkXL3YpsmlyeN7Xop_TlNkMAsj9), [slides by Kristin](https://www.ias.edu/pcmi/pcmi-2021-gss-lecture-notes-and-problem-sets), and [exercises by Jana](https://jana-sotakova.github.io/PCMI.html))
+
+<!----- 
+2. Joost Renes, Improved Classical Cryptanalysis of SIKE in Practice, [IACR Practice and Theory of Public-Key Cryptography 2020](https://pkc.iacr.org/2020/), paper presentation (Jun 04, 2020). ([video](https://www.youtube.com/watch?v=QGIEbIzt6gk) and [paper](https://pkc.iacr.org/2020/program.php))
 4. Antonin Leroux, Faster Computation of isogenies of large prime degree, [Fourteenth Algorithmic Number Theory Symposium, ANTS-XIV](https://www.math.auckland.ac.nz/~sgal018/ANTS/schedule.html), Paper presentation (July 02, 2020). ([video](https://www.youtube.com/watch?v=BA-mknsDMaY) and [paper](https://velusqrt.isogeny.org/))
 5. Thomas Decru + Daniele Cozzo + Craig Costello, CSIDH on the surface + Sashimi + supersingular isogeny problem, [PQCrypto 2020](https://pqcrypto2020.inria.fr/program/), Isogeny-based and Number Theoretic-based Cryptography. ([videos](https://www.youtube.com/playlist?list=PLv9DOvVF-X96M-O2obeLYzhZ0Qj15p_wb) and [papers](https://pqcrypto2020.inria.fr/program/))
-6. Luca De Feo,  Are Isogenies for Real?, [IACR Real World Crypto Symposium 2021](https://rwc.iacr.org/2021/), Invited talk (Jan 12, 2021). ([video](https://www.youtube.com/watch?v=EAe5dqWcxh4) and [discussion session](https://defeo.lu/docet/youtube/2021/01/12/rwc/))
 7. Chloe Martindale, Bruhat-Tits trees as a tool for isogeny-based cryptography, [Front Range Number Theory Day](https://sites.google.com/colorado.edu/front-range-number-theory-day/spring-2021) (April 24, 2021). ([video](https://www.youtube.com/watch?v=5f3SGbrQlkk) 360p)
-8. Jean-François Biasse, Ideal class group computations for isogeny-based cryptography, [Isogeny-based Cryptography School](https://isogenyschool2020.co.uk/), Week 1 (July 05-09, 2021): Maths background I. ([videos](https://www.youtube.com/playlist?list=PLasTV9KvJPBusFVpkCVh-W4dYyB9aNkay) and [notes+exercises](http://www.usf-crypto.org/class-groups/))
-9. Tanja Lange and Lorenz Panny, Introduction to SIDH and CSIDH, [Isogeny-based Cryptography School](https://isogenyschool2020.co.uk/), Week 3 (July 19-23, 2021): Basic protocols. ([videos](https://www.youtube.com/playlist?list=PL6hzlGxGIS1Cnx3XS7ZD4wjcTmHqOEpTS), [slides+notes+exercises by Tanja](https://www.hyperelliptic.org/tanja/teaching/isogeny-school21/), [notes by Lorenz](https://yx7.cc/docs/misc/isog_bristol_notes.pdf), and [extra resources](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)).
-10. Kristin Lauter and Jana Sotáková, Supersingular Isogeny Graphs in Cryptography (The CGL hash function), [PCMI 2021 Graduate Summer School](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions), Week 3 (July 26-30, 2021): Number Theory Informed by Computation. ([videos](https://www.youtube.com/playlist?list=PLldN_DpkXL3YpsmlyeN7Xop_TlNkMAsj9), [slides by Kristin](https://www.ias.edu/pcmi/pcmi-2021-gss-lecture-notes-and-problem-sets), [exercises by Jana](https://jana-sotakova.github.io/PCMI.html), and [additional resources](https://www.ias.edu/math/wam/2018))
-
+----->
 ### Isogeny-based Cryptography School (July 05 - September 24, 2021) lecture notes
 Some notes I found from the [school I didn't attend](https://isogenyschool2020.co.uk/schedule/).
 1. Wouter Castryck, [CSURF](https://homes.esat.kuleuven.be/~wcastryc/summer_school_csurf.pdf), Week 3: Basic protocols (19-23rd July)
@@ -42,6 +45,7 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 5. Research Directions in Number Theory: Women in Numbers IV, Springer ([arXiv:1806.05709](https://arxiv.org/abs/1806.05709) and [arXiv:1804.04063
 ](https://arxiv.org/abs/1804.04063))
 6. Proceedings of the Fourteenth Algorithmic Number Theory Symposium, The Open Book Series ([arXiv:1910.03180](https://arxiv.org/abs/1910.03180), [arXiv:2003.10118](https://arxiv.org/abs/2003.10118), [arXiv:2004.11495](https://arxiv.org/abs/2004.11495), and [arXiv:2003.00633](https://arxiv.org/abs/2003.00633) -- [paper presentation lectures](https://www.youtube.com/channel/UCdSSlKPQ57S8AlHaiclp26Q/videos))
+7. Proceedings of PQCrypto, Springer. ([papers](https://pqcrypto.org/conferences.html))
 
 ### Websites/Blogs
 1. SIKE: https://sike.org/
