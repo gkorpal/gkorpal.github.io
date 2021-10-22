@@ -59,4 +59,5 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 5. ellipticnews (Steven Galbraith): [https://ellipticnews.wordpress.com/](https://ellipticnews.wordpress.com/)
 6. Google-Cloudflare Experiment: [https://blog.cloudflare.com/the-tls-post-quantum-experiment/](https://blog.cloudflare.com/the-tls-post-quantum-experiment/)
 7. USF Center for Cryptographic Research: [https://www.usf-crypto.org/](https://www.usf-crypto.org/)
-8. Tanja Lange's course on post-quantum cryptography: [https://hyperelliptic.org/tanja/teaching/pqcrypto21/](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)
+8. Luca De Feo's lecture notes: [https://defeo.lu/docet/](https://defeo.lu/docet/)
+9. Tanja Lange's course on post-quantum cryptography: [https://hyperelliptic.org/tanja/teaching/pqcrypto21/](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)
