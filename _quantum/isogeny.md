@@ -29,6 +29,7 @@ work in progress.
 5. Thomas Decru + Daniele Cozzo + Craig Costello, CSIDH on the surface + Sashimi + supersingular isogeny problem, [PQCrypto 2020](https://pqcrypto2020.inria.fr/program/), Isogeny-based and Number Theoretic-based Cryptography. ([videos](https://www.youtube.com/playlist?list=PLv9DOvVF-X96M-O2obeLYzhZ0Qj15p_wb) and [papers](https://pqcrypto2020.inria.fr/program/))
 7. Chloe Martindale, Bruhat-Tits trees as a tool for isogeny-based cryptography, [Front Range Number Theory Day](https://sites.google.com/colorado.edu/front-range-number-theory-day/spring-2021) (April 24, 2021). ([video](https://www.youtube.com/watch?v=5f3SGbrQlkk) 360p)
 ----->
+
 ### Isogeny-based Cryptography School (July 05 - September 24, 2021) lecture notes
 Some notes I found from the [school I didn't attend](https://isogenyschool2020.co.uk/schedule/).
 1. Wouter Castryck, [CSURF](https://homes.esat.kuleuven.be/~wcastryc/summer_school_csurf.pdf), Week 3: Basic protocols (19-23rd July)
@@ -55,4 +56,5 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 4. The cr.yp.to blog (Daniel J. Bernstein): [https://blog.cr.yp.to/](https://blog.cr.yp.to/)
 5. ellipticnews (Steven Galbraith): [https://ellipticnews.wordpress.com/](https://ellipticnews.wordpress.com/)
 6. Google-Cloudflare Experiment: [https://blog.cloudflare.com/the-tls-post-quantum-experiment/](https://blog.cloudflare.com/the-tls-post-quantum-experiment/)
-7. 
+7. USF Center for Cryptographic Research: [https://www.usf-crypto.org/](https://www.usf-crypto.org/)
+8. Tanja Lange's course on post-quantum cryptography: [https://hyperelliptic.org/tanja/teaching/pqcrypto21/](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)
