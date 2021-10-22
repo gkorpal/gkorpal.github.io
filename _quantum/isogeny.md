@@ -38,7 +38,7 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 3. Jana Sotáková, [Genus theory attacks on CSIDH-style schemes](https://jana-sotakova.github.io/DDH/DDH.pdf), Week 6: Classical cryptanalysis (9-13th August)
 4. Lorenz Panny, [Meet-in-the-middle and van Oorschot-Wiener applied to isogeny graphs](https://yx7.cc/docs/misc/isogprob_bristol_notes.pdf), Week 6: Classical cryptanalysis (9-13th August)
 5. Craig Costello, [Using Kummer arithmetic to optimize genus one isogeny computations](https://www.craigcostello.com.au/s/why-hyperelliptic.pdf), Week 9: Genus two (6-10th September) 
-6. Patrick Longa, [Implementing supersingular isogeny-based protocols and the SIDH library](https://www.patricklonga.com/talks),  Week 11: Implementation (20-24th September)
+6. Patrick Longa, [Implementing supersingular isogeny-based protocols and the SIDH library](https://www.patricklonga.com/talks),  Week 11: Implementation (20-24th September) ([related video](https://www.youtube.com/watch?v=31NyfrHSAco))
 
 ### Books
 1. Joseph Silverman, Arithmetic of Elliptic Curves, Springer.
