@@ -43,9 +43,10 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 
 ### Lecture notes
 1. Luca De Feo: [Mathematics of isogeny based cryptography](https://defeo.lu/docet/talk/2019/03/18/mathsofpkc/)
-2. Sarah Arpin: [A Survey of Literature on Supersingular Isogeny Graphs](http://math.colorado.edu/~saar7867/SupersingularIsogenyLiterature.pdf)
-3. Sarah Arpin: [Good Primes for Supersingular 2, 3-Isogeny Graphs](http://math.colorado.edu/~saar7867/GoodPrimes.pdf)
-4. Lukas Zobernig: [Genus 2 Curves in Small Characteristic](https://www.math.auckland.ac.nz/~lzob857/papers/g2curves.pdf)
+2. Chloe Martindale: [Isogeny graphs of abelian varieties and applications to the Discrete Logarithm Problem](https://www.martindale.info/Rennes.pdf)
+3. Sarah Arpin: [A Survey of Literature on Supersingular Isogeny Graphs](http://math.colorado.edu/~saar7867/SupersingularIsogenyLiterature.pdf)
+4. Sarah Arpin: [Good Primes for Supersingular 2, 3-Isogeny Graphs](http://math.colorado.edu/~saar7867/GoodPrimes.pdf)
+5. Lukas Zobernig: [Genus 2 Curves in Small Characteristic](https://www.math.auckland.ac.nz/~lzob857/papers/g2curves.pdf)
 
 
 ### Textbooks/Proceedings
@@ -64,8 +65,10 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 3. Post-quantum cryptography: [https://pqcrypto.org/](https://pqcrypto.org/)
 4. The cr.yp.to blog (Daniel J. Bernstein): [https://blog.cr.yp.to/](https://blog.cr.yp.to/)
 5. ellipticnews (Steven Galbraith): [https://ellipticnews.wordpress.com/](https://ellipticnews.wordpress.com/)
-6. Google-Cloudflare Experiment: [https://blog.cloudflare.com/the-tls-post-quantum-experiment/](https://blog.cloudflare.com/the-tls-post-quantum-experiment/)
-7. USF Center for Cryptographic Research: [https://www.usf-crypto.org/](https://www.usf-crypto.org/)
-8. University of Auckland Number Theory Reading Group: [https://uoantrg.wordpress.com/](https://uoantrg.wordpress.com/)
-9. 25th IAS Program for Women and Mathematics - Mathematics of Modern Cryptography (May 19-25, 2018): [https://www.ias.edu/math/wam/2018](https://www.ias.edu/math/wam/2018)
-10. Tanja Lange's course on post-quantum cryptography: [https://hyperelliptic.org/tanja/teaching/pqcrypto21/](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)
+6. Chole Martindale's talks: [https://www.martindale.info/talks/](https://www.martindale.info/talks/)
+7. Luca De Feo's talks: [https://defeo.lu/docet/](https://defeo.lu/docet/)
+8. Google-Cloudflare Experiment: [https://blog.cloudflare.com/the-tls-post-quantum-experiment/](https://blog.cloudflare.com/the-tls-post-quantum-experiment/)
+9. USF Center for Cryptographic Research: [https://www.usf-crypto.org/](https://www.usf-crypto.org/)
+10. University of Auckland Number Theory Reading Group: [https://uoantrg.wordpress.com/](https://uoantrg.wordpress.com/)
+11. 25th IAS Program for Women and Mathematics - Mathematics of Modern Cryptography (May 19-25, 2018): [https://www.ias.edu/math/wam/2018](https://www.ias.edu/math/wam/2018)
+12. Tanja Lange's course on post-quantum cryptography: [https://hyperelliptic.org/tanja/teaching/pqcrypto21/](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)
