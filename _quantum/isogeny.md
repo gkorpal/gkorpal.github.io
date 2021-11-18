@@ -64,7 +64,7 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 6. Proceedings of the Fourteenth Algorithmic Number Theory Symposium, The Open Book Series ([arXiv:1910.03180](https://arxiv.org/abs/1910.03180), [arXiv:2003.10118](https://arxiv.org/abs/2003.10118), [arXiv:2004.11495](https://arxiv.org/abs/2004.11495), and [arXiv:2003.00633](https://arxiv.org/abs/2003.00633) -- [paper presentation lectures](https://www.youtube.com/channel/UCdSSlKPQ57S8AlHaiclp26Q/videos))
 
 ### Short courses in related topics
-1. USF Center for Cryptographic Research: [https://www.usf-crypto.org/](https://www.usf-crypto.org/courses/)
+1. USF Center for Cryptographic Research: [https://www.usf-crypto.org/courses/](https://www.usf-crypto.org/courses/)
 2. 25th IAS Program for Women and Mathematics - Mathematics of Modern Cryptography (May 19-25, 2018): [https://www.ias.edu/math/wam/2018](https://www.ias.edu/math/wam/2018)
 3. Tanja Lange's course on post-quantum cryptography: [https://hyperelliptic.org/tanja/teaching/pqcrypto21/](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)
 
