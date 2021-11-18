@@ -14,6 +14,8 @@ author_profile: true
 
 ### Computationally secure ciphers
 
+I would recommend reading Seny Kamara's blog post about [getting started in cryptography](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/).
+
 - [Pencil-paper safe cryptography](https://gkorpal.github.io/pencil)
 - [Computer safe cryptography](https://gkorpal.github.io/computer)
 - [Quantum safe cryptography](https://gkorpal.github.io/quantum)
