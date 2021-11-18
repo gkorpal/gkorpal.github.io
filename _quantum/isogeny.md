@@ -93,3 +93,4 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 1. Post-quantum cryptography (PQCrypto): [https://pqcrypto.org/](https://pqcrypto.org/)
 2. Algorithmic Number Theory Symposium (ANTS): [https://antsmath.org](https://antsmath.org)
 3. Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation: [https://simonscollab.icerm.brown.edu/](https://simonscollab.icerm.brown.edu/)
+4. Virtual math seminar on open conjectures in number theory and arithmetic geometry (VaNTAGe): [https://sites.google.com/view/vantageseminar](https://sites.google.com/view/vantageseminar)
