@@ -86,8 +86,8 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 1. Cryptography FM (Nadim Kobeissi): [https://www.cryptography.fm/](https://www.cryptography.fm) ([Episode 5](https://www.cryptography.fm/5) and [Episode 21](https://www.cryptography.fm/21))
 
 #### Graduate Student Seminars
-1. University of Auckland Number Theory Reading Group: [https://uoantrg.wordpress.com/](https://uoantrg.wordpress.com/)
-2. Boston University Number Theory Expository Seminar: [http://math.bu.edu/people/angusmca/buntes/index.html](http://math.bu.edu/people/angusmca/buntes/index.html)
+1. Boston University Number Theory Expository Seminar: [http://math.bu.edu/people/angusmca/buntes/index.html](http://math.bu.edu/people/angusmca/buntes/index.html)
+2. University of Auckland Number Theory Reading Group (Tristan Pang): [https://uoantrg.wordpress.com/](https://uoantrg.wordpress.com/)
 
 #### Research conferences/seminars
 1. Post-quantum cryptography (PQCrypto): [https://pqcrypto.org/](https://pqcrypto.org/)
