@@ -83,7 +83,7 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 6. Cloudflare Blog ([Cloudflare Research](https://research.cloudflare.com/)): [https://blog.cloudflare.com/tag/security/](https://blog.cloudflare.com/tag/security/) ([Google-Cloudflare Experiment](https://blog.cloudflare.com/the-tls-post-quantum-experiment/); [Sizing Up Post-Quantum Signatures](https://blog.cloudflare.com/sizing-up-post-quantum-signatures/))
 
 #### Podcasts
-1. Cryptography FM: [https://www.cryptography.fm/](https://www.cryptography.fm) ([Episode 5](https://www.cryptography.fm/5) and [Episode 21](https://www.cryptography.fm/21))
+1. Cryptography FM (Nadim Kobeissi): [https://www.cryptography.fm/](https://www.cryptography.fm) ([Episode 5](https://www.cryptography.fm/5) and [Episode 21](https://www.cryptography.fm/21))
 
 #### Graduate Student Seminars
 1. University of Auckland Number Theory Reading Group: [https://uoantrg.wordpress.com/](https://uoantrg.wordpress.com/)
