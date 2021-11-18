@@ -80,7 +80,8 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 3. Chole Martindale's talks: [https://www.martindale.info/talks/](https://www.martindale.info/talks/)
 4. Luca De Feo's talks: [https://defeo.lu/docet/](https://defeo.lu/docet/)
 5. Lorenz Panny's docs: [https://yx7.cc/docs/](https://yx7.cc/docs/)
-6. Cloudflare Blog ([Cloudflare Research](https://research.cloudflare.com/)): [https://blog.cloudflare.com/tag/security/](https://blog.cloudflare.com/tag/security/) ([Google-Cloudflare Experiment](https://blog.cloudflare.com/the-tls-post-quantum-experiment/); [Sizing Up Post-Quantum Signatures](https://blog.cloudflare.com/sizing-up-post-quantum-signatures/))
+6. Stanford Applied Cryptography Group (Dan Boneh): [https://crypto.stanford.edu/](https://crypto.stanford.edu/)
+7. Cloudflare Blog ([Cloudflare Research](https://research.cloudflare.com/)): [https://blog.cloudflare.com/tag/security/](https://blog.cloudflare.com/tag/security/) ([Google-Cloudflare Experiment](https://blog.cloudflare.com/the-tls-post-quantum-experiment/); [Sizing Up Post-Quantum Signatures](https://blog.cloudflare.com/sizing-up-post-quantum-signatures/))
 
 #### Podcasts
 1. Cryptography FM (Nadim Kobeissi): [https://www.cryptography.fm/](https://www.cryptography.fm) ([Episode 5](https://www.cryptography.fm/5) and [Episode 21](https://www.cryptography.fm/21))
@@ -94,3 +95,4 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 2. Algorithmic Number Theory Symposium (ANTS): [https://antsmath.org](https://antsmath.org)
 3. Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation: [https://simonscollab.icerm.brown.edu/](https://simonscollab.icerm.brown.edu/)
 4. Virtual math seminar on open conjectures in number theory and arithmetic geometry (VaNTAGe): [https://sites.google.com/view/vantageseminar](https://sites.google.com/view/vantageseminar)
+5. Blockchain Research Seminar Series: [http://www.fields.utoronto.ca/activities/21-22/blockchain-seminar](http://www.fields.utoronto.ca/activities/21-22/blockchain-seminar) ([YouTube](https://www.youtube.com/playlist?list=PLArBKNfJxuunXQp2_KAEpne1SmraEOjo-))
