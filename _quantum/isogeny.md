@@ -36,7 +36,8 @@ work in progress.
 7. Chloe Martindale, Bruhat-Tits trees as a tool for isogeny-based cryptography, [Front Range Number Theory Day](https://sites.google.com/colorado.edu/front-range-number-theory-day/spring-2021) (April 24, 2021). ([video](https://www.youtube.com/watch?v=5f3SGbrQlkk) 360p)
 ----->
 
-### Lecture notes from the Isogeny-based Cryptography School (July 05 - September 24, 2021)
+### Lecture notes
+#### Isogeny-based Cryptography School (July 05 - September 24, 2021)
 Some notes I found from the [school I didn't attend](https://isogenyschool2020.co.uk/schedule/).
 1. Wouter Castryck, [CSURF](https://homes.esat.kuleuven.be/~wcastryc/summer_school_csurf.pdf), Week 3: Basic protocols (19-23rd July)
 2. Luca De Feo, [VDFs, OTPRF, and threshold schemes](https://defeo.lu/docet/assets/misc/2021-08-02-isogeny-school.pdf), Week 5: Advanced protocols (2-6th August)
@@ -45,7 +46,7 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 5. Craig Costello, [Using Kummer arithmetic to optimize genus one isogeny computations](https://www.craigcostello.com.au/s/why-hyperelliptic.pdf), Week 9: Genus two (6-10th September) 
 6. Patrick Longa, [Implementing supersingular isogeny-based protocols and the SIDH library](https://www.patricklonga.com/talks),  Week 11: Implementation (20-24th September) ([related video](https://www.youtube.com/watch?v=31NyfrHSAco))
 
-### Lecture notes
+#### General
 1. Luca De Feo: [Mathematics of isogeny based cryptography](https://defeo.lu/docet/talk/2019/03/18/mathsofpkc/)
 2. María Inés and Alex Best: [Supersingular Isogeny Graphs and Quaternion Algebras](http://math.bu.edu/people/midff/buntes/fall2018.html)
 3. Chloe Martindale: [Isogeny graphs of abelian varieties and applications to the Discrete Logarithm Problem](https://www.martindale.info/Rennes.pdf)
