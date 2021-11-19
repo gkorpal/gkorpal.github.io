@@ -48,8 +48,8 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 
 #### General
 0. Sarah Arpin, [A Survey of Literature on Supersingular Isogeny Graphs](http://math.colorado.edu/~saar7867/SupersingularIsogenyLiterature.pdf)
-1. Andrew Sutherland, [Introduction to Arithmetic Geometry](https://ocw.mit.edu/courses/mathematics/18-782-introduction-to-arithmetic-geometry-fall-2013/lecture-notes/) ([AlternateLink](https://math.mit.edu/classes/18.782/lectures.html))
-2. Andrew Sutherland, [Computationally focused introduction to elliptic curves](https://ocw.mit.edu/courses/mathematics/18-783-elliptic-curves-spring-2019/syllabus/) ([AlternateLink](https://math.mit.edu/classes/18.783/2021/lectures.html))
+1. Andrew Sutherland, [Introduction to Arithmetic Geometry](https://ocw.mit.edu/courses/mathematics/18-782-introduction-to-arithmetic-geometry-fall-2013/lecture-notes/) ([AlternateLink](https://math.mit.edu/classes/18.782/lectures.html); [CombinedPDF](https://gkorpal.github.io/files/drew-ag-2013.pdf))
+2. Andrew Sutherland, [Computationally focused introduction to elliptic curves-Spring2019](https://ocw.mit.edu/courses/mathematics/18-783-elliptic-curves-spring-2019/syllabus/) ([AlternateLink-Spring2021](https://math.mit.edu/classes/18.783/2021/lectures.html); [CombinedPDF-2021](https://gkorpal.github.io/files/drew-ec-2021.pdf))
 3. Luca De Feo, [Mathematics of isogeny based cryptography](https://defeo.lu/docet/talk/2019/03/18/mathsofpkc/)
 4. María Inés and Alex Best, [Supersingular Isogeny Graphs and Quaternion Algebras](http://math.bu.edu/people/midff/buntes/fall2018.html)
 5. Chloe Martindale, [Isogeny graphs of abelian varieties and applications to the Discrete Logarithm Problem](https://www.martindale.info/Rennes.pdf)
@@ -57,11 +57,13 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 7. Lukas Zobernig, [Genus 2 Curves in Small Characteristic](https://www.math.auckland.ac.nz/~lzob857/papers/g2curves.pdf)
 
 ### Textbooks/Proceedings
-1. Joseph Silverman, Arithmetic of Elliptic Curves, Springer.
-2. Steven Galbraith, Mathematics of Public Key Cryptography, Cambridge University Press ([version 2.0](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html))
-3. John Voight, Quaternion Algebras, Springer ([latest version](https://math.dartmouth.edu/~jvoight/quat.html))
-4. Giuliana Davidoff, Peter Sarnak, and Alain Valette, Elementary number theory, group theory, and Ramanujan graph, Cambridge University Press
-5. Research Directions in Number Theory: Women in Numbers IV, Springer ([arXiv:1806.05709](https://arxiv.org/abs/1806.05709) and [arXiv:1804.04063
+1. Lawrence Washington, Elliptic Curves: Number Theory and Cryptography, CRC.
+2. David A. Cox, Primes of the form x2+ny2: Fermat, Class Field Theory, and Complex Multiplication, Wiley.
+3. Joseph Silverman, Arithmetic of Elliptic Curves, Springer.
+4. Steven Galbraith, Mathematics of Public Key Cryptography, Cambridge University Press ([version 2.0](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html))
+5. John Voight, Quaternion Algebras, Springer ([latest version](https://math.dartmouth.edu/~jvoight/quat.html))
+6. Giuliana Davidoff, Peter Sarnak, and Alain Valette, Elementary number theory, group theory, and Ramanujan graph, Cambridge University Press
+7. Research Directions in Number Theory: Women in Numbers IV, Springer ([arXiv:1806.05709](https://arxiv.org/abs/1806.05709) and [arXiv:1804.04063
 ](https://arxiv.org/abs/1804.04063))
 6. Proceedings of the Fourteenth Algorithmic Number Theory Symposium, The Open Book Series ([arXiv:1910.03180](https://arxiv.org/abs/1910.03180), [arXiv:2003.10118](https://arxiv.org/abs/2003.10118), [arXiv:2004.11495](https://arxiv.org/abs/2004.11495), and [arXiv:2003.00633](https://arxiv.org/abs/2003.00633) -- [paper presentation lectures](https://www.youtube.com/channel/UCdSSlKPQ57S8AlHaiclp26Q/videos))
 
