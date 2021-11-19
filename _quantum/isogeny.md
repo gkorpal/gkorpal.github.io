@@ -48,8 +48,8 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 
 #### General
 0. Sarah Arpin, [A Survey of Literature on Supersingular Isogeny Graphs](http://math.colorado.edu/~saar7867/SupersingularIsogenyLiterature.pdf)
-1. Andrew Sutherland, [Introduction to Arithmetic Geometry](https://ocw.mit.edu/courses/mathematics/18-782-introduction-to-arithmetic-geometry-fall-2013/lecture-notes/), especially lecture 24. ([AlternateLink](https://math.mit.edu/classes/18.782/lectures.html); [CombinedPDF](https://gkorpal.github.io/files/drew-ag-2013.pdf))
-2. Andrew Sutherland, [Computationally focused introduction to elliptic curves, with applications to number theory and cryptography (Spring2019)](https://ocw.mit.edu/courses/mathematics/18-783-elliptic-curves-spring-2019/syllabus/) ([AlternateLink - with applications to isogney-based post-quantum ECC (Spring2021)](https://math.mit.edu/classes/18.783/2021/lectures.html); [CombinedPDF-2021](https://gkorpal.github.io/files/drew-ec-2021.pdf))
+1. Andrew Sutherland, [Introduction to Arithmetic Geometry](https://math.mit.edu/classes/18.782/lectures.html) especially lecture 24. ([CombinedPDF](https://gkorpal.github.io/files/drew-ag-2013.pdf); [OCW](https://ocw.mit.edu/courses/mathematics/18-782-introduction-to-arithmetic-geometry-fall-2013/lecture-notes/))
+2. Andrew Sutherland, [Computationally focused introduction to elliptic curves, with applications to isogney-based post-quantum ECC (Spring2021)](https://math.mit.edu/classes/18.783/2021/lectures.html)([CombinedPDF-2021](https://gkorpal.github.io/files/drew-ec-2021.pdf); [OCW-Spring2019](https://ocw.mit.edu/courses/mathematics/18-783-elliptic-curves-spring-2019/syllabus/))
 3. Luca De Feo, [Mathematics of isogeny based cryptography](https://defeo.lu/docet/talk/2019/03/18/mathsofpkc/)
 4. María Inés and Alex Best, [Supersingular Isogeny Graphs and Quaternion Algebras](http://math.bu.edu/people/midff/buntes/fall2018.html)
 5. Chloe Martindale, [Isogeny graphs of abelian varieties and applications to the Discrete Logarithm Problem](https://www.martindale.info/Rennes.pdf)
