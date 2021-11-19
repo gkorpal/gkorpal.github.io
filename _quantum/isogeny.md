@@ -67,10 +67,10 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 ](https://arxiv.org/abs/1804.04063))
 6. Proceedings of the Fourteenth Algorithmic Number Theory Symposium, The Open Book Series ([arXiv:1910.03180](https://arxiv.org/abs/1910.03180), [arXiv:2003.10118](https://arxiv.org/abs/2003.10118), [arXiv:2004.11495](https://arxiv.org/abs/2004.11495), and [arXiv:2003.00633](https://arxiv.org/abs/2003.00633) -- [paper presentation lectures](https://www.youtube.com/channel/UCdSSlKPQ57S8AlHaiclp26Q/videos))
 
-### Short courses in related topics
-1. USF Center for Cryptographic Research: [https://www.usf-crypto.org/courses/](https://www.usf-crypto.org/courses/)
-2. 25th IAS Program for Women and Mathematics - Mathematics of Modern Cryptography (May 19-25, 2018): [https://www.ias.edu/math/wam/2018](https://www.ias.edu/math/wam/2018)
-3. Tanja Lange's course on post-quantum cryptography: [https://hyperelliptic.org/tanja/teaching/pqcrypto21/](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)
+### Video lectures in related topics
+1. 25th IAS Program for Women and Mathematics - [Mathematics of Modern Cryptography](https://www.ias.edu/math/wam/2018)
+2. MasterMath (Dutch Master’s Degree Programme in Mathematics) - [Post-quantum cryptography](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)
+3. USF Center for Cryptographic Research - [Quantum Algorithms and Complexity](https://www.usf-crypto.org/mat-4930/)
 
 ### Latest developments 
 
@@ -84,8 +84,7 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 3. Chole Martindale's talks: [https://www.martindale.info/talks/](https://www.martindale.info/talks/)
 4. Luca De Feo's talks: [https://defeo.lu/docet/](https://defeo.lu/docet/)
 5. Lorenz Panny's docs: [https://yx7.cc/docs/](https://yx7.cc/docs/)
-6. Stanford Applied Cryptography Group (Dan Boneh): [https://crypto.stanford.edu/](https://crypto.stanford.edu/)
-7. Cloudflare Blog ([Cloudflare Research](https://research.cloudflare.com/)): [https://blog.cloudflare.com/tag/security/](https://blog.cloudflare.com/tag/security/) ([Google-Cloudflare Experiment](https://blog.cloudflare.com/the-tls-post-quantum-experiment/); [Sizing Up Post-Quantum Signatures](https://blog.cloudflare.com/sizing-up-post-quantum-signatures/))
+6. Cloudflare Blog ([Cloudflare Research](https://research.cloudflare.com/)): [https://blog.cloudflare.com/tag/security/](https://blog.cloudflare.com/tag/security/) ([Google-Cloudflare Experiment](https://blog.cloudflare.com/the-tls-post-quantum-experiment/); [Sizing Up Post-Quantum Signatures](https://blog.cloudflare.com/sizing-up-post-quantum-signatures/))
 
 #### Podcasts
 1. Cryptography FM (Nadim Kobeissi): [https://www.cryptography.fm/](https://www.cryptography.fm) ([Episode 5](https://www.cryptography.fm/5) and [Episode 21](https://www.cryptography.fm/21))
