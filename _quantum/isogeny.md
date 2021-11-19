@@ -99,4 +99,4 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 3. Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation: [https://simonscollab.icerm.brown.edu/](https://simonscollab.icerm.brown.edu/)
 4. Virtual math seminar on open conjectures in number theory and arithmetic geometry (VaNTAGe): [https://sites.google.com/view/vantageseminar](https://sites.google.com/view/vantageseminar)
 5. The Stanford Center for Blockchain Research: [https://cbr.stanford.edu/](https://cbr.stanford.edu/)
-6. Blockchain Research Seminar Series: [http://www.fields.utoronto.ca/activities/21-22/blockchain-seminar](http://www.fields.utoronto.ca/activities/21-22/blockchain-seminar) ([YouTube](https://www.youtube.com/playlist?list=PLArBKNfJxuunXQp2_KAEpne1SmraEOjo-))
+6. Fields Institute Blockchain Research Seminar Series: [http://www.fields.utoronto.ca/activities/21-22/blockchain-seminar](http://www.fields.utoronto.ca/activities/21-22/blockchain-seminar) ([YouTube](https://www.youtube.com/playlist?list=PLArBKNfJxuunXQp2_KAEpne1SmraEOjo-))
