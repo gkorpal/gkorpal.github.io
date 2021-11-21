@@ -58,7 +58,7 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 
 ### Textbooks/Proceedings
 1. Lawrence Washington, Elliptic Curves: Number Theory and Cryptography, CRC.
-2. David A. Cox, Primes of the form x2+ny2: Fermat, Class Field Theory, and Complex Multiplication, Wiley.
+2. David A. Cox, Primes of the form $$x^2+ny^2$$: Fermat, Class Field Theory, and Complex Multiplication, Wiley.
 3. Joseph Silverman, Arithmetic of Elliptic Curves, Springer.
 4. Steven Galbraith, Mathematics of Public Key Cryptography, Cambridge University Press ([version 2.0](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html))
 5. John Voight, Quaternion Algebras, Springer ([latest version](https://math.dartmouth.edu/~jvoight/quat.html))
