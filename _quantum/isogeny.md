@@ -20,7 +20,7 @@ Let’s see some popular examples:
 * SeaSign:
 * Commutative Supersingular Isogeny based Fiat-Shamir signatures (CSI-FiSH; pronounce "sea-fish"):
 * Short Quaternion and Isogeny Signature (SQISign):
-* Orienting supersingular isogeny graphs (OSIDH) key-exchange:
+* Oriented supersingular isogeny Diffie-Hellman (OSIDH) key-exchange:
 
 
 ## References
