@@ -11,6 +11,18 @@ citation:
  
 work in progress.
 
+Let’s see some popular examples:
+
+* Couveignes-Rostovtsev–Stolbunov (CRS) key exchange:
+* Charles-Goren-Lauter (CGL) hash function:
+* Supersingular Isogeny Diffie–Hellman (SIDH) key-exchange:
+* Commutative Supersingular Isogeny Diffie–Hellman (CSIDH;pronounce "sea-side") key-exchange:
+* SeaSign:
+* Commutative Supersingular Isogeny based Fiat-Shamir signatures (CSI-FiSH; pronounce "sea-fish"):
+* Short Quaternion and Isogeny Signature (SQISign):
+* Orienting supersingular isogeny graphs (OSIDH) key-exchange:
+
+
 ## References
 
 ### Video Lectures
@@ -50,11 +62,12 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 0. Sarah Arpin, [A Survey of Literature on Supersingular Isogeny Graphs](http://math.colorado.edu/~saar7867/SupersingularIsogenyLiterature.pdf)
 1. Andrew Sutherland, [Introduction to Arithmetic Geometry](https://math.mit.edu/classes/18.782/lectures.html), especially lecture 24. ([CombinedPDF](https://gkorpal.github.io/files/drew-ag-2013.pdf); [OCW](https://ocw.mit.edu/courses/mathematics/18-782-introduction-to-arithmetic-geometry-fall-2013/lecture-notes/))
 2. Andrew Sutherland, [Computationally focused introduction to elliptic curves, with applications to isogney-based post-quantum ECC (Spring2021)](https://math.mit.edu/classes/18.783/2021/lectures.html), expecially lecture 5. ([CombinedPDF-2021](https://gkorpal.github.io/files/drew-ec-2021.pdf); [OCW-Spring2019](https://ocw.mit.edu/courses/mathematics/18-783-elliptic-curves-spring-2019/syllabus/))
-3. Luca De Feo, [Mathematics of isogeny based cryptography](https://defeo.lu/docet/talk/2019/03/18/mathsofpkc/)
-4. María Inés and Alex Best, [Supersingular Isogeny Graphs and Quaternion Algebras](http://math.bu.edu/people/midff/buntes/fall2018.html)
-5. Chloe Martindale, [Isogeny graphs of abelian varieties and applications to the Discrete Logarithm Problem](https://www.martindale.info/Rennes.pdf)
-6. Sarah Arpin, [Good Primes for Supersingular 2, 3-Isogeny Graphs](http://math.colorado.edu/~saar7867/GoodPrimes.pdf)
-7. Lukas Zobernig, [Genus 2 Curves in Small Characteristic](https://www.math.auckland.ac.nz/~lzob857/papers/g2curves.pdf)
+3. Margarita Pierrakea, [Supersingular isogeny key-exchange](https://www.math.u-bordeaux.fr/~ybilu/algant/documents/theses/Pierrakea.pdf)
+4. Luca De Feo, [Mathematics of isogeny based cryptography](https://defeo.lu/docet/talk/2019/03/18/mathsofpkc/)
+5. María Inés and Alex Best, [Supersingular Isogeny Graphs and Quaternion Algebras](http://math.bu.edu/people/midff/buntes/fall2018.html)
+6. Chloe Martindale, [Isogeny graphs of abelian varieties and applications to the Discrete Logarithm Problem](https://www.martindale.info/Rennes.pdf)
+7. Sarah Arpin, [Good Primes for Supersingular 2, 3-Isogeny Graphs](http://math.colorado.edu/~saar7867/GoodPrimes.pdf)
+8. Lukas Zobernig, [Genus 2 Curves in Small Characteristic](https://www.math.auckland.ac.nz/~lzob857/papers/g2curves.pdf)
 
 ### Textbooks/Proceedings
 1. Lawrence Washington, Elliptic Curves: Number Theory and Cryptography, CRC.
