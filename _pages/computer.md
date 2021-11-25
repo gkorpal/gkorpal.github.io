@@ -8,7 +8,9 @@ redirect_from:
   
 ---
 
-### General online courses
+Symmetric and public-key cryptography which exploits the limitations of modern computers.
+
+### References
 1. Eindhoven University of Technology, Bachelor's course: [Intorduction to Cryptology](https://www.hyperelliptic.org/tanja/teaching/CS21/)
 2. Eindhoven University of Technology, Master's course: [Cryptology](https://www.hyperelliptic.org/tanja/teaching/crypto21/)
 3. USF Center for Cryptographic Research: [Introduction to Cryptography and Coding Theory](https://www.usf-crypto.org/mad-4471/)
