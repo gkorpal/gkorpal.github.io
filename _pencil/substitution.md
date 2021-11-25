@@ -1,5 +1,5 @@
 ---
-title: "Substitution Ciphers"
+title: "Substitution ciphers"
 collection: pencil
 permalink: /pencil/substitution
 excerpt:
