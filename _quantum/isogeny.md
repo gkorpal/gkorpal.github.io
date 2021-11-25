@@ -36,8 +36,8 @@ Let’s see some popular examples:
 10. Jean-François Biasse. Ideal class group computations for isogeny-based cryptography, [Isogeny-based Cryptography School](https://isogenyschool2020.co.uk/), Week 1 (July 05-09, 2021): Maths background I. ([videos](https://www.youtube.com/playlist?list=PLasTV9KvJPBusFVpkCVh-W4dYyB9aNkay) and [notes+exercises](http://www.usf-crypto.org/class-groups/))
 11. Tanja Lange and Lorenz Panny. Isogeny-based cryptography (Introduction to SIDH and CSIDH), [Isogeny-based Cryptography School](https://isogenyschool2020.co.uk/), Week 3 (July 19-23, 2021): Basic protocols. ([videos](https://www.youtube.com/playlist?list=PL6hzlGxGIS1Cnx3XS7ZD4wjcTmHqOEpTS), [slides+notes+exercises by Tanja](https://www.hyperelliptic.org/tanja/teaching/isogeny-school21/), [notes by Lorenz](https://yx7.cc/docs/misc/isog_bristol_notes.pdf), and [extra resources](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)).
 12. Kristin Lauter and Jana Sotáková. Supersingular Isogeny Graphs in Cryptography (The CGL hash function), [PCMI 2021 Graduate Summer School](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions), Week 3 (July 26-30, 2021): Number Theory Informed by Computation. ([videos](https://www.youtube.com/playlist?list=PLldN_DpkXL3YpsmlyeN7Xop_TlNkMAsj9), [slides by Kristin](https://www.ias.edu/pcmi/pcmi-2021-gss-lecture-notes-and-problem-sets), and [exercises by Jana](https://jana-sotakova.github.io/PCMI.html))
-13. Jesús Javier Chi Domínguez. A quick journey on what SI [DH/KE] is, [ASCrypto 2021](https://www.urosario.edu.co/ascrypto/home/), Cryptography summer school collocated with Latincrypt (October 4, 2021). ([video](https://www.youtube.com/watch?v=B_0osKMNN5k))
-14. Luca De Feo. What's next for isogeny based cryptography?, [Latincrypt 2021](https://www.urosario.edu.co/Latin-Crypt/inicio/), Invited talk (October 6, 2021). ([video](https://www.youtube.com/watch?v=IF7uRqViHPs))
+13. Jesús Javier Chi Domínguez. A quick journey on what SI [DH/KE] is, [ASCrypto 2021](https://www.urosario.edu.co/ascrypto/home/), Cryptography summer school collocated with Latincrypt (October 4, 2021). ([video](https://www.youtube.com/watch?v=B_0osKMNN5k) and [slides](https://www.urosario.edu.co/ascrypto/home/))
+14. Luca De Feo. What's next for isogeny based cryptography?, [Latincrypt 2021](https://www.urosario.edu.co/Latin-Crypt/inicio/), Invited talk (October 6, 2021). ([video](https://www.youtube.com/watch?v=IF7uRqViHPs) and [slides](https://defeo.lu/docet/talk/2021/02/17/aimc/))
 
 <!----- 
 2. Joost Renes, Improved Classical Cryptanalysis of SIKE in Practice, [IACR Practice and Theory of Public-Key Cryptography 2020](https://pkc.iacr.org/2020/), paper presentation (Jun 04, 2020). ([video](https://www.youtube.com/watch?v=QGIEbIzt6gk) and [paper](https://pkc.iacr.org/2020/program.php))
@@ -61,11 +61,12 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 1. Andrew Sutherland, [Introduction to Arithmetic Geometry](https://math.mit.edu/classes/18.782/lectures.html), especially lecture 24. ([CombinedPDF](https://gkorpal.github.io/files/drew-ag-2013.pdf); [OCW](https://ocw.mit.edu/courses/mathematics/18-782-introduction-to-arithmetic-geometry-fall-2013/lecture-notes/))
 2. Andrew Sutherland, [Computationally focused introduction to elliptic curves, with applications to isogney-based post-quantum ECC (Spring2021)](https://math.mit.edu/classes/18.783/2021/lectures.html), expecially lecture 5. ([CombinedPDF-2021](https://gkorpal.github.io/files/drew-ec-2021.pdf); [OCW-Spring2019](https://ocw.mit.edu/courses/mathematics/18-783-elliptic-curves-spring-2019/syllabus/))
 3. Margarita Pierrakea, [Supersingular isogeny key-exchange](https://www.math.u-bordeaux.fr/~ybilu/algant/documents/theses/Pierrakea.pdf)
-4. Luca De Feo, [Mathematics of isogeny based cryptography](https://defeo.lu/docet/talk/2019/03/18/mathsofpkc/)
-5. María Inés and Alex Best, [Supersingular Isogeny Graphs and Quaternion Algebras](http://math.bu.edu/people/midff/buntes/fall2018.html)
-6. Chloe Martindale, [Isogeny graphs of abelian varieties and applications to the Discrete Logarithm Problem](https://www.martindale.info/Rennes.pdf)
-7. Sarah Arpin, [Good Primes for Supersingular 2, 3-Isogeny Graphs](http://math.colorado.edu/~saar7867/GoodPrimes.pdf)
-8. Lukas Zobernig, [Genus 2 Curves in Small Characteristic](https://www.math.auckland.ac.nz/~lzob857/papers/g2curves.pdf)
+4. Luca De Feo, [Mathematics of isogeny based cryptography](https://defeo.lu/docet/talk/2018/03/20/postscryptum/)
+5. Luca De Feo, [Isogeny graphs in cryptography](https://defeo.lu/docet/talk/2019/07/29/wurzburg/)
+6. María Inés and Alex Best, [Supersingular Isogeny Graphs and Quaternion Algebras](http://math.bu.edu/people/midff/buntes/fall2018.html)
+7. Chloe Martindale, [Isogeny graphs of abelian varieties and applications to the Discrete Logarithm Problem](https://www.martindale.info/Rennes.pdf)
+8. Sarah Arpin, [Good Primes for Supersingular 2, 3-Isogeny Graphs](http://math.colorado.edu/~saar7867/GoodPrimes.pdf)
+9. Lukas Zobernig, [Genus 2 Curves in Small Characteristic](https://www.math.auckland.ac.nz/~lzob857/papers/g2curves.pdf)
 
 ### Textbooks/Proceedings
 1. Lawrence Washington, Elliptic Curves: Number Theory and Cryptography, CRC.
