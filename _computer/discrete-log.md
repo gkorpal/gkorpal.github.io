@@ -14,3 +14,9 @@ citation:
  `````python
  sage: euler_phi(56508)
  `````
+
+## Elliptic Curve Cryptography
+
+### References
+1. I. Blake, G. Seroussi, and N. Smart, Elliptic Curves in Cryptography, LMS.
+2. L. Washington, Elliptic Curves: Number Theory and Cryptography, CRC.
