@@ -1,5 +1,5 @@
 ---
-title: "Transposition Ciphers"
+title: "Transposition ciphers"
 collection: pencil
 permalink: /pencil/transposition
 excerpt:
