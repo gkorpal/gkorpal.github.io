@@ -14,10 +14,10 @@ work in progress.
 Let’s see some popular examples:
 
 * **Supersingular Isogeny Diffie–Hellman (SIDH):** Charles-Goren-Lauter (CGL) hash function. Supersingular Isogeny Key Encapsulation (SIKE)
-  * Short Quaternion and Isogeny Signature (SQISign):
+  * **Short Quaternion and Isogeny Signature (SQISign):**
 * **Commutative Supersingular Isogeny Diffie–Hellman (CSIDH;pronounce "sea-side"):** Couveignes-Rostovtsev–Stolbunov (CRS) scheme
-  * SeaSign:
-  * Commutative Supersingular Isogeny based Fiat-Shamir signatures (CSI-FiSH; pronounce "sea-fish"):
+  * **SeaSign:**
+  * **Commutative Supersingular Isogeny based Fiat-Shamir signatures (CSI-FiSH; pronounce "sea-fish"):**
 * **Oriented supersingular isogeny Diffie-Hellman (OSIDH):**
 
 
