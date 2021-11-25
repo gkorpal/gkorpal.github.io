@@ -13,9 +13,10 @@ Permutation of a set $X$ is a bijective function $\sigma : X \to X$ that for eac
 
 In most cases of transposition ciphers, the resulting permutation consists of several cycles with no particular relation between their lengths. The total number of letters represented in these cycles is less than the length of the message by the number of letters whose positions are unchanged, i.e. are in cycles consisting of just one number.
 
-Let's see some popular examples:
+We will now look at some of the popular examples.
 
-* **Rail fence cipher (zigzag cipher):** In this the plaintext is written downwards diagonally on successive $n$ "rails" of an imaginary fence, then moving up when the bottom rail is reached, down again when the top rail is reached, and so on until the whole plaintext is written out. The ciphertext is then read off in rows. SageMath function:
+## Rail fence cipher (zigzag cipher)
+In this the plaintext is written downwards diagonally on successive $n$ "rails" of an imaginary fence, then moving up when the bottom rail is reached, down again when the top rail is reached, and so on until the whole plaintext is written out. The ciphertext is then read off in rows. SageMath function:
 
 `````python
 sage: def zigzag(pl, key):
@@ -49,7 +50,8 @@ sage: zigzag("BEWAREOFZOMBIES", 3)
 
 Decryption is a bit [tricky](https://en.wikipedia.org/wiki/Rail_fence_cipher#Decryption).
 
-* **Bifid cipher:** This is a fractionating transposition cipher. Breaking up or fractionating letters before moving them around improves the security of a cipher considerably. SageMath function:
+## Bifid cipher
+This is a fractionating transposition cipher. Breaking up or fractionating letters before moving them around improves the security of a cipher considerably. SageMath function:
 
 `````python
 sage: def polybius(key): 
@@ -107,9 +109,10 @@ sage: bifid_de("NVORYGFRLXEAAIH", "ELEPHANT")
 'BEWAREOFZOMBIES'
 `````
 
-**ADFGX cipher** is another example of a fractionating transposition cipher, which uses two keys (transposition key and fractionation key). It is named after the five letters used in the ciphertext: A, D, F, G and X. These letters were chosen in a way to reduce the possibility of operator error, as they are very different from each other when transmitted via morse code.
+## ADFGX cipher
+It is another example of a fractionating transposition cipher, which uses two keys (transposition key and fractionation key). It is named after the five letters used in the ciphertext: A, D, F, G and X. These letters were chosen in a way to reduce the possibility of operator error, as they are very different from each other when transmitted via morse code.
 
-## References
+### References
 1. G. Korpal, [Enigma Cryptanalysis](https://gkorpal.github.io/files/summer2015-enigma_cryptanalysis-gaurish.pdf), July 2015.
 
 2. S. Tengely, [Lectures on Cryptography](http://shrek.unideb.hu/~tengely/crypto/webwork-mini.html), University of Debrecen, 2020.
