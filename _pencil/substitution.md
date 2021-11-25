@@ -9,7 +9,7 @@ paperurl:
 citation: 
 ---
 
-**Substitution** is a function which uses a set of rules to transform elements of a sequence into a new sequence using a set of rules which "translate" from the original sequence to its transformation. The easiest substitution is given when each character is replaced by exactly one other character. This encryption can be broken with statistical methods because in every language characters appear with a particular probability. 
+Substitution is a function which uses a set of rules to transform elements of a sequence into a new sequence using a set of rules which "translate" from the original sequence to its transformation. The easiest substitution is given when each character is replaced by exactly one other character. This encryption can be broken with statistical methods because in every language characters appear with a particular probability. 
 
 In this discussion we will work with English alphabets. We numerically encode the alphabets $\{A, B . . . , Z\}$ as the elements $\{0, 1, . . . , 25\}$ of $\mathbb{Z}/26\mathbb{Z}$. SageMath function:
 
@@ -23,7 +23,8 @@ sage: def lst2str(lst):
 
 Let's see some popular examples:
 
-* **Caesar cipher (shift cipher):**  This is a monoalphabetic substitution cipher. We obtain the ciphertext by replacing each letter of the message by the letter $n$ places beyond it in the normal alphabet. SageMath function:
+## Caesar cipher (shift cipher)
+This is a monoalphabetic substitution cipher. We obtain the ciphertext by replacing each letter of the message by the letter $n$ places beyond it in the normal alphabet. SageMath function:
 
 `````python
 sage: def caesar(pl, n): 
@@ -41,7 +42,8 @@ sage: caesar(pl, n)
 'EHZDUHRICRPELHV'
 `````
 
-* **Affine cipher:** This is direct generalization of Caesar cipher. Let $x$ be the numeric encoding of the alphabet. Then we obtain the ciphertext by applying the transformation of the form $x \mapsto ax + b$, for any $a$ coprime to 26. Thus, the Caesar cipher is an Affine cipher with $a = 1$. SageMath example:
+## Affine cipher
+This is direct generalization of Caesar cipher. Let $x$ be the numeric encoding of the alphabet. Then we obtain the ciphertext by applying the transformation of the form $x \mapsto ax + b$, for any $a$ coprime to 26. Thus, the Caesar cipher is an Affine cipher with $a = 1$. SageMath example:
 
 `````python
 sage: A = AffineCryptosystem(AlphabeticStrings())                                                               
@@ -58,7 +60,8 @@ sage: A.deciphering(a, b, C) == P
 True
 `````
 
-* **Vigenere cipher:** This is a polyalphabetic substitution cipher. It has several Caesar ciphers in sequence with different shift values. Vigenère encryption $E$ using the key $K$ can be written as $C_{i}=E_{K}(M_{i})=(M_{i}+K_{i}) \pmod {26}$ and decryption $D$ using the key $K$ is $M_{i}=D_{K}(C_{i})=(C_{i}-K_{i}+26)\pmod {26}$ in which $M=M_{1}\dots M_{n}$ is the message, $C=C_{1}\dots C_{n}$ is the ciphertext and $K=K_{1}\dots K_{n}$ is the key obtained by repeating the keyword $\lceil n/m\rceil$ times in which $m$ is the keyword length. SageMath function:
+## Vigenere cipher
+This is a polyalphabetic substitution cipher. It has several Caesar ciphers in sequence with different shift values. Vigenère encryption $E$ using the key $K$ can be written as $C_{i}=E_{K}(M_{i})=(M_{i}+K_{i}) \pmod {26}$ and decryption $D$ using the key $K$ is $M_{i}=D_{K}(C_{i})=(C_{i}-K_{i}+26)\pmod {26}$ in which $M=M_{1}\dots M_{n}$ is the message, $C=C_{1}\dots C_{n}$ is the ciphertext and $K=K_{1}\dots K_{n}$ is the key obtained by repeating the keyword $\lceil n/m\rceil$ times in which $m$ is the keyword length. SageMath function:
 
 `````python
 sage: def vige(s,k): 
@@ -94,7 +97,8 @@ True
 
 If the message is shorter than the key, then the Vigenere cipher is essentially the **one-time pad**, which is unbreakable for a random key. If the key is not random, then you may get some information on the plaintext.
 
-* **Playfair cipher:** This is a polygraphic substitution cipher in which pairs of letters are substituted (digraphic). In this the plaintext is broken up into two-letter digraphs with some restrictions. Those digraphs are encrypted using a **Polybius square**, (i.e. a 5x5 grid in which each letter of the alphabet is its own entry with the exception of I/J which are placed together). The positions of the letters in the digraph determine how the digraph is encrypted.
+## Playfair cipher
+This is a polygraphic substitution cipher in which pairs of letters are substituted (digraphic). In this the plaintext is broken up into two-letter digraphs with some restrictions. Those digraphs are encrypted using a **Polybius square**, (i.e. a 5x5 grid in which each letter of the alphabet is its own entry with the exception of I/J which are placed together). The positions of the letters in the digraph determine how the digraph is encrypted.
 
 `````python
 sage: def polybius(key): 
@@ -160,7 +164,7 @@ To decrypt, use the inverse (opposite) of the last 3 rules of `digraph_en` to ge
 
 Another polygraphic substitution cipher is the **Hill cipher**. It uses matrix algebra for encryption/decryption. However, encryption is very difficult to perform by hand for any sufficiently large block size.
 
-## References
+### References
 1. G. Korpal, [Enigma Cryptanalysis](https://gkorpal.github.io/files/summer2015-enigma_cryptanalysis-gaurish.pdf), July 2015.
 
 2. David R. Kohel, [Cryptography](http://iml.univ-mrs.fr/~kohel/pub/crypto.pdf), July 2008.
