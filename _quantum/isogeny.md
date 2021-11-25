@@ -9,7 +9,7 @@ paperurl:
 citation: 
 ---
  
-work in progress.
+Isogeny-based cryptography is a kind of elliptic-curve cryptography, whose security relies on (various incarnations of) the problem of finding an explicit isogeny between two given isogenous elliptic curves over a finite field. Currently, quantum computers do not seem to make the isogeny-finding problem substantially easier. This contrasts with the standard discrete-logarithm based elliptic-curve cryptography which is not quantum-safe due to [Shor's algorithm](https://doi.org/10.1109/SFCS.1994.365700).
 
 Let’s see some popular examples:
 
