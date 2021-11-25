@@ -13,7 +13,7 @@ Isogeny-based cryptography is a kind of elliptic-curve cryptography, whose secur
 
 Let’s see some popular examples:
 
-* **Supersingular Isogeny Diffie–Hellman (SIDH):** It was introduced by [L. De Feo, D. Jao, and J. Plut](https://eprint.iacr.org/2011/506) in 2011. This scheme is a reminiscent of the [Charles-Goren-Lauter (CGL) cryptographic hash function](https://eprint.iacr.org/2006/021) from 2006, which was [broken in 2020](https://arxiv.org/abs/2004.11495). Its current implementation is called [Supersingular Isogeny Key Encapsulation (SIKE)](https://sike.org/) and was submitted to the [NIST competition on post-quantum cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization).
+* **Supersingular Isogeny Diffie–Hellman (SIDH):** It was introduced by [L. De Feo, D. Jao, and J.  Plût](https://eprint.iacr.org/2011/506) in 2011. This scheme is a reminiscent of the [Charles-Goren-Lauter (CGL) cryptographic hash function](https://eprint.iacr.org/2006/021) from 2006, which was [broken in 2020](https://arxiv.org/abs/2004.11495). Its current implementation is called [Supersingular Isogeny Key Encapsulation (SIKE)](https://sike.org/) and was submitted to the [NIST competition on post-quantum cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization).
   * **Short Quaternion and Isogeny Signature (SQISign):**
 * **Commutative Supersingular Isogeny Diffie–Hellman (CSIDH;pronounce "sea-side"):** Couveignes-Rostovtsev–Stolbunov (CRS) scheme
   * **SeaSign:**
