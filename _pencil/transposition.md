@@ -50,6 +50,9 @@ sage: zigzag("BEWAREOFZOMBIES", 3)
 
 Decryption is a bit [tricky](https://en.wikipedia.org/wiki/Rail_fence_cipher#Decryption).
 
+### References
+1. P. Somwanshi, [Python3 program to illustrate Rail Fence Cipher Encryption and Decryption](https://www.geeksforgeeks.org/rail-fence-cipher-encryption-decryption/), GeeksforGeeks.
+
 ## Bifid cipher
 This is a fractionating transposition cipher. Breaking up or fractionating letters before moving them around improves the security of a cipher considerably. SageMath function:
 
@@ -113,14 +116,4 @@ sage: bifid_de("NVORYGFRLXEAAIH", "ELEPHANT")
 It is another example of a fractionating transposition cipher, which uses two keys (transposition key and fractionation key). It is named after the five letters used in the ciphertext: A, D, F, G and X. These letters were chosen in a way to reduce the possibility of operator error, as they are very different from each other when transmitted via morse code.
 
 ### References
-1. G. Korpal, [Enigma Cryptanalysis](https://gkorpal.github.io/files/summer2015-enigma_cryptanalysis-gaurish.pdf), July 2015.
-
-2. S. Tengely, [Lectures on Cryptography](http://shrek.unideb.hu/~tengely/crypto/webwork-mini.html), University of Debrecen, 2020.
-
-3. A. McAndrew, Introduction to Cryptography with Open-Source Software, CRC Press, 2011.
-
-4. P. Somwanshi, [Python3 program to illustrate Rail Fence Cipher Encryption and Decryption](https://www.geeksforgeeks.org/rail-fence-cipher-encryption-decryption/), GeeksforGeeks.
-
-5. J. Lyons et. al., [pycipher](https://github.com/jameslyons/pycipher), classical ciphers implemented in Python.
-
-6. Katherine E. Stange (Proof of Concept @ YouTube), ADFGVX Cipher: Encryption and Decryption: [https://youtu.be/T0xfKiU9Rr4](https://youtu.be/T0xfKiU9Rr4) 
+1. Katherine E. Stange (Proof of Concept @ YouTube), ADFGVX Cipher: Encryption and Decryption: [https://youtu.be/T0xfKiU9Rr4](https://youtu.be/T0xfKiU9Rr4) 
