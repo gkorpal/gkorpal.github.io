@@ -21,7 +21,7 @@ sage: def lst2str(lst):
 ....:     return ''.join([chr(int(x)+65) for x in lst])  # join without space
 `````
 
-We will now look look at some of the popular examples.
+We will now look at some of the popular examples.
 
 ## Caesar cipher (shift cipher)
 This is a monoalphabetic substitution cipher. We obtain the ciphertext by replacing each letter of the message by the letter $n$ places beyond it in the normal alphabet. SageMath function:
