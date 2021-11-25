@@ -97,6 +97,9 @@ True
 
 If the message is shorter than the key, then the Vigenere cipher is essentially the **one-time pad**, which is unbreakable for a random key. If the key is not random, then you may get some information on the plaintext.
 
+### Refernces
+1. Katherine E. Stange (Proof of Concept @ YouTube), Cryptanalysis of Vigenere cipher: not just how, but why it works: [https://youtu.be/QgHnr8-h0xI](https://youtu.be/QgHnr8-h0xI)
+
 ## Playfair cipher
 This is a polygraphic substitution cipher in which pairs of letters are substituted (digraphic). In this the plaintext is broken up into two-letter digraphs with some restrictions. Those digraphs are encrypted using a **Polybius square**, (i.e. a 5x5 grid in which each letter of the alphabet is its own entry with the exception of I/J which are placed together). The positions of the letters in the digraph determine how the digraph is encrypted.
 
@@ -163,18 +166,3 @@ sage: playfair("BEWAREOFZOMBIES","ELEPHANT")
 To decrypt, use the inverse (opposite) of the last 3 rules of `digraph_en` to get `digraph_de`, then drop any extra "X"s that do not make sense in the final message when finished. Note that no letter is evercrypted to itself. Moreover, if `FR` is encrypted as `IE` then `IE` will be encrypted as `FR`.
 
 Another polygraphic substitution cipher is the **Hill cipher**. It uses matrix algebra for encryption/decryption. However, encryption is very difficult to perform by hand for any sufficiently large block size.
-
-### References
-1. G. Korpal, [Enigma Cryptanalysis](https://gkorpal.github.io/files/summer2015-enigma_cryptanalysis-gaurish.pdf), July 2015.
-
-2. David R. Kohel, [Cryptography](http://iml.univ-mrs.fr/~kohel/pub/crypto.pdf), July 2008.
-
-3. David R. Kohel and Minh Van Nguyen, [Classical Cryptosystems](https://doc.sagemath.org/html/en/reference/cryptography/sage/crypto/classical.html), SageMath reference manual, 2007--08.
-
-4. A. Feaver et. al., [Sage Interactions - Cryptography](https://wiki.sagemath.org/interact/cryptography), SageMath Wiki, August 2019.
-
-5. S. Tengely, [Lectures on Cryptography](http://shrek.unideb.hu/~tengely/crypto/webwork-mini.html), University of Debrecen, 2020.
-
-6. A. McAndrew, Introduction to Cryptography with Open-Source Software, CRC Press, 2011.
-
-7. Katherine E. Stange (Proof of Concept @ YouTube), Cryptanalysis of Vigenere cipher: not just how, but why it works: [https://youtu.be/QgHnr8-h0xI](https://youtu.be/QgHnr8-h0xI)
