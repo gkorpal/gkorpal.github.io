@@ -9,11 +9,11 @@ paperurl:
 citation: 
 ---
  
-Isogeny-based cryptography is a kind of elliptic-curve cryptography, whose security relies on (various incarnations of) the problem of finding an explicit isogeny between two given isogenous elliptic curves over a finite field. Currently, quantum computers do not seem to make the isogeny-finding problem substantially easier. This contrasts with the standard discrete-logarithm based elliptic-curve cryptography which is not quantum-safe due to [Shor's algorithm](https://doi.org/10.1109/SFCS.1994.365700).
+Isogeny-based cryptography is a kind of elliptic-curve cryptography, whose security relies on (various incarnations of) the problem of finding an explicit isogeny between two given isogenous elliptic curves over a finite field. Currently, quantum computers do not seem to make the isogeny-finding problem substantially easier. This contrasts with the standard discrete-logarithm based elliptic-curve cryptography which is not quantum-safe due to [Shor's algorithm](https://doi.org/10.1109/SFCS.1994.365700) from 1997.
 
 Let’s see some popular examples:
 
-* **Supersingular Isogeny Diffie–Hellman (SIDH):** Charles-Goren-Lauter (CGL) hash function. Supersingular Isogeny Key Encapsulation (SIKE)
+* **Supersingular Isogeny Diffie–Hellman (SIDH):** This scheme is a reminiscent of the [Charles-Goren-Lauter (CGL) cryptographic hash function](https://eprint.iacr.org/2006/021) from 2006. Its current implementation is called [Supersingular Isogeny Key Encapsulation (SIKE)](https://sike.org/) and was submitted to the [NIST competition on post-quantum cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization).
   * **Short Quaternion and Isogeny Signature (SQISign):**
 * **Commutative Supersingular Isogeny Diffie–Hellman (CSIDH;pronounce "sea-side"):** Couveignes-Rostovtsev–Stolbunov (CRS) scheme
   * **SeaSign:**
