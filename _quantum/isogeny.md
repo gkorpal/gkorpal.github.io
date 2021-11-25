@@ -1,5 +1,5 @@
 ---
-title: "Isogeny-based Ciphers"
+title: "Isogeny based cryptography"
 collection: quantum
 permalink: /quantum/isogeny
 excerpt:
