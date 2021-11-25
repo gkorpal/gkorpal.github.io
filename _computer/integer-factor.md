@@ -3,13 +3,12 @@ title: "Integer factorization based cryptography"
 collection: computer
 permalink: /computer/integer-factor
 excerpt:
-date: 2021-09-27
+date: 2022-09-28
 venue: 
 paperurl: 
 citation: 
 ---
  
- under construction.
- 
+place holder 
 
 RSA
