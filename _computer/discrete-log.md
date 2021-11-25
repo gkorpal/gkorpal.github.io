@@ -1,5 +1,5 @@
 ---
-title: "Discrete-logarithm Ciphers"
+title: "Discrete logarithm based cryptography"
 collection: computer
 permalink: /computer/discrete-log
 excerpt:
