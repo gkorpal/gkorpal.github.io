@@ -68,13 +68,11 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 9. Lukas Zobernig, [Genus 2 Curves in Small Characteristic](https://www.math.auckland.ac.nz/~lzob857/papers/g2curves.pdf)
 
 ### Textbooks/Proceedings
-1. Lawrence Washington, Elliptic Curves: Number Theory and Cryptography, CRC.
-2. David A. Cox, Primes of the form $$x^2+ny^2$$: Fermat, Class Field Theory, and Complex Multiplication, Wiley.
-3. Joseph Silverman, Arithmetic of Elliptic Curves, Springer.
-4. Steven Galbraith, Mathematics of Public Key Cryptography, Cambridge University Press ([version 2.0](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html))
-5. John Voight, Quaternion Algebras, Springer ([latest version](https://math.dartmouth.edu/~jvoight/quat.html))
-6. Giuliana Davidoff, Peter Sarnak, and Alain Valette, Elementary number theory, group theory, and Ramanujan graph, Cambridge University Press
-7. Research Directions in Number Theory: Women in Numbers IV, Springer ([arXiv:1806.05709](https://arxiv.org/abs/1806.05709) and [arXiv:1804.04063
+1. David A. Cox, Primes of the form $$x^2+ny^2$$: Fermat, Class Field Theory, and Complex Multiplication, Wiley.
+2. Joseph Silverman, Arithmetic of Elliptic Curves, Springer.
+3. John Voight, Quaternion Algebras, Springer ([latest version](https://math.dartmouth.edu/~jvoight/quat.html))
+4. Giuliana Davidoff, Peter Sarnak, and Alain Valette, Elementary number theory, group theory, and Ramanujan graph, Cambridge University Press
+5. Research Directions in Number Theory: Women in Numbers IV, Springer ([arXiv:1806.05709](https://arxiv.org/abs/1806.05709) and [arXiv:1804.04063
 ](https://arxiv.org/abs/1804.04063))
 6. Proceedings of the Fourteenth Algorithmic Number Theory Symposium, The Open Book Series ([arXiv:1910.03180](https://arxiv.org/abs/1910.03180), [arXiv:2003.10118](https://arxiv.org/abs/2003.10118), [arXiv:2004.11495](https://arxiv.org/abs/2004.11495), and [arXiv:2003.00633](https://arxiv.org/abs/2003.00633) -- [paper presentation lectures](https://www.youtube.com/channel/UCdSSlKPQ57S8AlHaiclp26Q/videos))
 
