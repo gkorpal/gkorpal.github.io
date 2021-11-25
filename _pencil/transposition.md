@@ -9,7 +9,7 @@ paperurl:
 citation: 
 ---
  
-Permutation of a set $X$ is a bijective function $\sigma : X \to X$ that for each element $x \in X$ assigns a unique value $\sigma(x) \in X$. A **transposition** is a permutation of two elements and any permutation is also a product of transpositions.
+Permutation of a set $X$ is a bijective function $\sigma : X \to X$ that for each element $x \in X$ assigns a unique value $\sigma(x) \in X$. A transposition is a permutation of two elements and any permutation is also a product of transpositions.
 
 In most cases of transposition ciphers, the resulting permutation consists of several cycles with no particular relation between their lengths. The total number of letters represented in these cycles is less than the length of the message by the number of letters whose positions are unchanged, i.e. are in cycles consisting of just one number.
 
