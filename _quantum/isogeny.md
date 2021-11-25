@@ -12,7 +12,6 @@ citation:
 Isogeny-based cryptography is a kind of elliptic-curve cryptography, whose security relies on (various incarnations of) the problem of finding an explicit isogeny between two given isogenous elliptic curves over a finite field. Currently, quantum computers do not seem to make the isogeny-finding problem substantially easier. This contrasts with the standard discrete-logarithm based elliptic-curve cryptography which is not quantum-safe due to polynomial-time quantum algorithm by [P. W. Shor](https://doi.org/10.1109/SFCS.1994.365700) from 1997.
 
 Now let's look at some of the popular examples.
-
 ## Supersingular isogeny Diffie–Hellman (SIDH)
 It was introduced by [L. De Feo, D. Jao, and J.  Plût](https://eprint.iacr.org/2011/506) in 2011. This scheme is a reminiscent of the [Charles-Goren-Lauter (CGL) cryptographic hash function](https://eprint.iacr.org/2006/021) from 2006, which was [broken in 2020](https://arxiv.org/abs/2004.11495). Its current implementation is called [Supersingular Isogeny Key Encapsulation (SIKE)](https://sike.org/) and was submitted to the [NIST competition on post-quantum cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization) in 2017.
 * **Short Quaternion and Isogeny Signature (SQISign):**
@@ -23,8 +22,6 @@ It was introduced by [W. Castryck, T. Lange, C. Martindale, L. Panny, and J. Ren
 * **Commutative supersingular isogeny based Fiat-Shamir signatures (CSI-FiSH; pronounce "sea-fish"):**
 
 ## Oriented supersingular isogeny Diffie-Hellman (OSIDH)
-
-
 
 ## References
 
