@@ -8,11 +8,11 @@ author_profile: true
 > Mathematical reasoning may be regarded rather schematically as the exercise of a combination of two facilities, which we may call intuition and ingenuity. 
 > -[Alan M. Turing](https://en.wikiquote.org/wiki/Alan_Turing)
 
-## Cryptography
+## Cryptology
 
 **Kerckhoffs's principle:** *A cryptosystem should be secure even if everything about the system, except the key, is public knowledge.*
 
-### Computationally secure ciphers
+### Computationally secure cryptography
 
 I would recommend reading Seny Kamara's blog post about [getting started in cryptography](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/).
 
@@ -20,6 +20,6 @@ I would recommend reading Seny Kamara's blog post about [getting started in cryp
 - [Computer safe cryptography](https://gkorpal.github.io/computer)
 - [Quantum safe cryptography](https://gkorpal.github.io/quantum)
 
-### Unconditionally secure ciphers
+### Unconditionally secure cryptography
 
 - Quantum cryptography (placeholder)
