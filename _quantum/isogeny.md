@@ -19,7 +19,7 @@ It was introduced by [L. De Feo, D. Jao, and J.  Plût](https://eprint.iacr.org/
 ### References
 1. D. Urbanik, [A Friendly Introduction to Supersingular Isogeny Diffie-Hellman](https://www.math.toronto.edu/dburbani/work/friendlysidh.pdf) (Bonus: [video](https://www.youtube.com/watch?v=PW5Vsu57o9I) and [slides](https://www.math.toronto.edu/dburbani/work/sidh_talk_july_2016.pdf))
 2. C. Costello, [Supersingular isogeny key exchange for beginners](https://eprint.iacr.org/2019/1321) (Bonus: [video](https://www.microsoft.com/en-us/research/video/post-quantum-cryptography-supersingular-isogenies-for-beginners/))
-3. K. Lauter and J. Sotáková, [Supersingular Isogeny Graphs in Cryptography](https://jana-sotakova.github.io/PCMI.html) (Bonus: [PCMI webpage](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions))
+3. K. Lauter and J. Sotáková, [Supersingular Isogeny Graphs in Cryptography](https://jana-sotakova.github.io/PCMI.html) (Bonus: [PCMI webpage](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions) and [KLPT algorithm podcast](https://www.cryptography.fm/21))
 4. J-J Chi-Domínguez, [A quick journey on what SI[DH/KE] is](https://www.youtube.com/watch?v=B_0osKMNN5k) (Bonus: [slides](https://jjchidguez.github.io/slides.html))
 
 
@@ -27,7 +27,9 @@ It was introduced by [L. De Feo, D. Jao, and J.  Plût](https://eprint.iacr.org/
 It was introduced by [W. Castryck, T. Lange, C. Martindale, L. Panny, and J. Renes](https://eprint.iacr.org/2018/383) in 2018 and uses the subring of $$\mathbb F_p$$-rational endomorphisms of supersingular elliptic curves, instead of the full ring of endomorphisms, which is an order $$O$$ in an imaginary quadratic field. Moreover, the ideal-class group $$\mathrm{cl}(O)$$ is commutative, unlike the full ring of endomorphisms. This is an efficient variant of the [Couveignes-Rostovtsev–Stolbunov (CRS) scheme](https://eprint.iacr.org/2006/145) for which [the commutativity of ideal-class group](https://arxiv.org/abs/1012.4019) leads to a subexponential attack using the quantum algorithms by [G. Kuperberg](https://arxiv.org/abs/quant-ph/0302112) and [O. Regev](https://arxiv.org/abs/quant-ph/0406151) from 2004. The CSIDH also motivated the introduction of a new isogeny-based signature schemes like [SeaSign](https://eprint.iacr.org/2018/824) and [Commutative supersingular isogeny based Fiat-Shamir signatures (CSI-FiSH; pronounced "sea-fish")](https://eprint.iacr.org/2019/498).
 
 ### References
-1. 
+1. T. Lange, [(C)SIDH](https://www.hyperelliptic.org/tanja/teaching/isogeny-school21/) (Bonus: [Lorenz Panny's notes](https://yx7.cc/docs/misc/isog_bristol_notes.pdf))
+2. J. Sotáková, [Elliptic curves, isogenies, and endomorphism rings](https://jana-sotakova.github.io/writings/ANTS_school_exposition.pdf) (Bonus: [video](https://www.youtube.com/watch?v=hHD1tqFqjEQ))
+3. J.-F. Biasse, [Ideal class group computations for isogeny-based cryptography](http://www.usf-crypto.org/class-groups/)
 
 
 ## Recent developments
@@ -39,12 +41,6 @@ There are many new cryptosystems being developed, like [OSIDH](https://eprint.ia
 2. L. De Feo, [Are Isogenies for Real?](https://defeo.lu/docet/youtube/2021/01/12/rwc/) (Bonus: [discussion session](https://www.youtube.com/watch?v=EAe5dqWcxh4))
 3. L. De Feo. [What's next for isogeny based cryptography?](https://www.youtube.com/watch?v=IF7uRqViHPs) (Bonus: [slides](https://defeo.lu/docet/talk/2021/02/17/aimc/))
 
-### Video Lectures
-
-6. Jana Sotáková. Elliptic curves, isogenies, and endomorphism rings, [ANTS 2020 Summer School](https://www.math.auckland.ac.nz/~sgal018/ANTS/schedule.html), Invited talk (June 25-27, 2020). ([video](https://www.youtube.com/watch?v=hHD1tqFqjEQ) and [notes](https://jana-sotakova.github.io/writings/ANTS_school_exposition.pdf))
-9. Jean-François Biasse. Ideal class group computations for isogeny-based cryptography, [Isogeny-based Cryptography School](https://isogenyschool2020.co.uk/), Week 1 (July 05-09, 2021): Maths background I. ([videos](https://www.youtube.com/playlist?list=PLasTV9KvJPBusFVpkCVh-W4dYyB9aNkay) and [notes+exercises](http://www.usf-crypto.org/class-groups/))
-10. Tanja Lange and Lorenz Panny. Isogeny-based cryptography (Introduction to SIDH and CSIDH), [Isogeny-based Cryptography School](https://isogenyschool2020.co.uk/), Week 3 (July 19-23, 2021): Basic protocols. ([videos](https://www.youtube.com/playlist?list=PL6hzlGxGIS1Cnx3XS7ZD4wjcTmHqOEpTS), [slides+notes+exercises by Tanja](https://www.hyperelliptic.org/tanja/teaching/isogeny-school21/), [notes by Lorenz](https://yx7.cc/docs/misc/isog_bristol_notes.pdf), and [extra resources](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)).
-
 
 <!----- 
 2. Joost Renes, Improved Classical Cryptanalysis of SIKE in Practice, [IACR Practice and Theory of Public-Key Cryptography 2020](https://pkc.iacr.org/2020/), paper presentation (Jun 04, 2020). ([video](https://www.youtube.com/watch?v=QGIEbIzt6gk) and [paper](https://pkc.iacr.org/2020/program.php))
@@ -53,6 +49,7 @@ There are many new cryptosystems being developed, like [OSIDH](https://eprint.ia
 7. Chloe Martindale, Bruhat-Tits trees as a tool for isogeny-based cryptography, [Front Range Number Theory Day](https://sites.google.com/colorado.edu/front-range-number-theory-day/spring-2021) (April 24, 2021). ([video](https://www.youtube.com/watch?v=5f3SGbrQlkk) 360p)
 1. Christophe Petit. Post-quantum cryptography from supersingular isogeny problems?, [Microsoft Research Seminar](https://www.microsoft.com/en-us/research/video/post-quantum-cryptography-supersingular-isogeny-problems/) (Aug 03, 2017). ([video](https://www.youtube.com/watch?v=eHkmO7bFaSc))
 8. Lukas Zobernig. Lectures on Complex Multiplication, [University of Auckland Number Theory Reading Group 2020](https://uoantrg.wordpress.com/) (May - June, 2020). ([videos](https://youtube.com/playlist?list=PLDSicQbDroeqlQ8cce4JtExbL4aZ67bgk), [lec1notes](https://uoantrg.files.wordpress.com/2020/05/ell_over_c_1.pdf), [lec2notes](https://uoantrg.files.wordpress.com/2020/05/ell_over_c_2.pdf), and [lec3notes](https://uoantrg.files.wordpress.com/2020/07/ell_cm_1-1.pdf))
+10. Tanja Lange and Lorenz Panny. Isogeny-based cryptography (Introduction to SIDH and CSIDH), [Isogeny-based Cryptography School](https://isogenyschool2020.co.uk/), Week 3 (July 19-23, 2021): Basic protocols. ([videos](https://www.youtube.com/playlist?list=PL6hzlGxGIS1Cnx3XS7ZD4wjcTmHqOEpTS), [slides+notes+exercises by Tanja](https://www.hyperelliptic.org/tanja/teaching/isogeny-school21/), [notes by Lorenz](https://yx7.cc/docs/misc/isog_bristol_notes.pdf), and [extra resources](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)).
 ----->
 
 ### Lecture notes
