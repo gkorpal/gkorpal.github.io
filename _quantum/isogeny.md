@@ -42,7 +42,7 @@ It was introduced by [W. Castryck, T. Lange, C. Martindale, L. Panny, and J. Ren
 There are many new cryptosystems being developed, like [OSIDH](https://eprint.iacr.org/2020/985), [Séta](https://eprint.iacr.org/2019/1291), [SIAKE](https://eprint.iacr.org/2018/760), [SiGamal](https://eprint.iacr.org/2020/613), and [B-SIDH](https://eprint.iacr.org/2019/1145).
 
 ### References
-0. The webpages for [SIKE](https://sike.org/), [CSIDH](https://csidh.isogeny.org/index.html) and [ellipticnews (Steven Galbraith)](https://ellipticnews.wordpress.com/)
+0. The webpages for [SIKE](https://sike.org/), [CSIDH](https://csidh.isogeny.org/index.html) and [ellipticnews](https://ellipticnews.wordpress.com/)
 1. D. Jao, [Isogeny-based cryptography: past, present, and future](https://www.youtube.com/watch?v=AoE-uQinzqU)
 2. L. De Feo, [Pirates of the CSIDH](https://defeo.lu/docet/youtube/2020/06/03/pkc/) (Bonus: [preprint](https://eprint.iacr.org/2019/1288))
 3. L. De Feo, [Are Isogenies for Real?](https://defeo.lu/docet/youtube/2021/01/12/rwc/) (Bonus: [discussion session](https://www.youtube.com/watch?v=EAe5dqWcxh4))
