@@ -25,6 +25,7 @@ It was introduced by [L. De Feo, D. Jao, and J.  Plût](https://eprint.iacr.org/
 6. M. Pierrakea, [Supersingular isogeny key-exchange](https://www.math.u-bordeaux.fr/~ybilu/algant/documents/theses/Pierrakea.pdf)
 7. K. Lauter and J. Sotáková, [Supersingular Isogeny Graphs in Cryptography](https://jana-sotakova.github.io/PCMI.html) (Bonus: [PCMI webpage](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions) and [KLPT algorithm podcast](https://www.cryptography.fm/21))
 8. L. De Feo, [Mathematics of Isogeny Based Cryptography](https://arxiv.org/abs/1711.04062) (Bonus: [slides](https://defeo.lu/docet/class/2017/05/26/isogenies-in-africa/))
+9. P. Longa, [Supersingular Isogeny-Based Cryptography: Implementation Aspects and Parameter Selection](https://irp.cdn-website.com/7fa75f95/files/uploaded/IBCSchool_Longa.pdf) (Bonus: [slides](https://www.patricklonga.com/talks) and [related video](https://www.youtube.com/watch?v=31NyfrHSAco))
 
 
 ## Commutative supersingular isogeny Diffie–Hellman (CSIDH; pronounced "sea-side")
@@ -46,6 +47,13 @@ There are many new cryptosystems being developed, like [OSIDH](https://eprint.ia
 1. D. Jao, [Isogeny-based cryptography: past, present, and future](https://www.youtube.com/watch?v=AoE-uQinzqU)
 2. L. De Feo, [Are Isogenies for Real?](https://defeo.lu/docet/youtube/2021/01/12/rwc/) (Bonus: [discussion session](https://www.youtube.com/watch?v=EAe5dqWcxh4))
 3. L. De Feo, [What's next for isogeny based cryptography?](https://www.youtube.com/watch?v=IF7uRqViHPs) (Bonus: [slides](https://defeo.lu/docet/talk/2021/02/17/aimc/))
+4. Isogeny-based Cryptography School: [https://isogenyschool2020.co.uk/schedule/](https://isogenyschool2020.co.uk/schedule/)
+   * W. Castryck, [CSIDH on the surface (CSURF)](https://homes.esat.kuleuven.be/~wcastryc/summer_school_csurf.pdf), Week 3: Basic protocols (19-23rd July 2021)
+   * L. De Feo, [Tools for designing protocols based on isogenies (VDF, ORPF,...)](https://defeo.lu/docet/assets/misc/2021-08-02-isogeny-school.pdf), Week 5: Advanced protocols (2-6th August 2021)
+   * J. Sotáková, [Genus theory and attacking CSIDH-like cryptosystems](https://jana-sotakova.github.io/DDH/DDH.pdf), Week 6: Classical cryptanalysis (9-13th August 2021)
+   * L. Panny, [Meet-in-the-middle and van Oorschot-Wiener applied to isogeny graphs](https://yx7.cc/docs/misc/isogprob_bristol_notes.pdf), Week 6: Classical cryptanalysis (9-13th August 2021)
+   * C. Costello, [Why Hyperelliptic? (Using Kummer arithmetic to optimize genus one isogeny computations)](https://www.craigcostello.com.au/s/why-hyperelliptic.pdf), Week 9: Genus two (6-10th September 2021) 
+   * D.J. Bernstein, [√élu: Faster computation of isogenies of large prime degree](https://velusqrt.isogeny.org/presentations.html), Week 10: Efficient computation of isogenies (13-17th September 2021)
 
 
 <!----- 
@@ -58,22 +66,13 @@ There are many new cryptosystems being developed, like [OSIDH](https://eprint.ia
 10. Tanja Lange and Lorenz Panny. Isogeny-based cryptography (Introduction to SIDH and CSIDH), [Isogeny-based Cryptography School](https://isogenyschool2020.co.uk/), Week 3 (July 19-23, 2021): Basic protocols. ([videos](https://www.youtube.com/playlist?list=PL6hzlGxGIS1Cnx3XS7ZD4wjcTmHqOEpTS), [slides+notes+exercises by Tanja](https://www.hyperelliptic.org/tanja/teaching/isogeny-school21/), [notes by Lorenz](https://yx7.cc/docs/misc/isog_bristol_notes.pdf), and [extra resources](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)).
 8. Sarah Arpin, [Good Primes for Supersingular 2, 3-Isogeny Graphs](http://math.colorado.edu/~saar7867/GoodPrimes.pdf)
 7. Chloe Martindale, [Isogeny graphs of abelian varieties and applications to the Discrete Logarithm Problem](https://www.martindale.info/Rennes.pdf)
+9. Lukas Zobernig, [Genus 2 Curves in Small Characteristic](https://www.math.auckland.ac.nz/~lzob857/papers/g2curves.pdf)
 ----->
 
-### Lecture notes
-#### Isogeny-based Cryptography School (July 05 - September 24, 2021)
-Some notes I found from the [school I didn't attend](https://isogenyschool2020.co.uk/schedule/).
-1. Wouter Castryck, [CSURF](https://homes.esat.kuleuven.be/~wcastryc/summer_school_csurf.pdf), Week 3: Basic protocols (19-23rd July)
-2. Luca De Feo, [VDFs, OTPRF, and threshold schemes](https://defeo.lu/docet/assets/misc/2021-08-02-isogeny-school.pdf), Week 5: Advanced protocols (2-6th August)
-3. Jana Sotáková, [Genus theory attacks on CSIDH-style schemes](https://jana-sotakova.github.io/DDH/DDH.pdf), Week 6: Classical cryptanalysis (9-13th August)
-4. Lorenz Panny, [Meet-in-the-middle and van Oorschot-Wiener applied to isogeny graphs](https://yx7.cc/docs/misc/isogprob_bristol_notes.pdf), Week 6: Classical cryptanalysis (9-13th August)
-5. Craig Costello, [Using Kummer arithmetic to optimize genus one isogeny computations](https://www.craigcostello.com.au/s/why-hyperelliptic.pdf), Week 9: Genus two (6-10th September) 
-6. Patrick Longa, [Implementing supersingular isogeny-based protocols and the SIDH library](https://www.patricklonga.com/talks),  Week 11: Implementation (20-24th September) ([related video](https://www.youtube.com/watch?v=31NyfrHSAco))
 
 #### General
 1. Andrew Sutherland, [Introduction to Arithmetic Geometry](https://math.mit.edu/classes/18.782/lectures.html), especially lecture 24. ([CombinedPDF](https://gkorpal.github.io/files/drew-ag-2013.pdf); [OCW](https://ocw.mit.edu/courses/mathematics/18-782-introduction-to-arithmetic-geometry-fall-2013/lecture-notes/))
 2. Andrew Sutherland, [Computationally focused introduction to elliptic curves, with applications to isogney-based post-quantum ECC (Spring2021)](https://math.mit.edu/classes/18.783/2021/lectures.html), expecially lecture 5. ([CombinedPDF-2021](https://gkorpal.github.io/files/drew-ec-2021.pdf); [OCW-Spring2019](https://ocw.mit.edu/courses/mathematics/18-783-elliptic-curves-spring-2019/syllabus/))
-9. Lukas Zobernig, [Genus 2 Curves in Small Characteristic](https://www.math.auckland.ac.nz/~lzob857/papers/g2curves.pdf)
 
 ### Textbooks/Proceedings
 1. David A. Cox, Primes of the form $$x^2+ny^2$$: Fermat, Class Field Theory, and Complex Multiplication, Wiley.
