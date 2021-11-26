@@ -28,7 +28,7 @@ It was introduced by [L. De Feo, D. Jao, and J.  Plût](https://eprint.iacr.org/
 It was introduced by [W. Castryck, T. Lange, C. Martindale, L. Panny, and J. Renes](https://eprint.iacr.org/2018/383) in 2018 and uses the subring of $$\mathbb F_p$$-rational endomorphisms of supersingular elliptic curves, instead of the full ring of endomorphisms, which is an order $$O$$ in an imaginary quadratic field. Moreover, the ideal-class group $$\mathrm{cl}(O)$$ is commutative, unlike the full ring of endomorphisms. This is an efficient variant of the [Couveignes-Rostovtsev–Stolbunov (CRS) scheme](https://eprint.iacr.org/2006/145) for which [the commutativity of ideal-class group](https://arxiv.org/abs/1012.4019) leads to a subexponential attack using the quantum algorithms by [G. Kuperberg](https://arxiv.org/abs/quant-ph/0302112) and [O. Regev](https://arxiv.org/abs/quant-ph/0406151) from 2004. The CSIDH also motivated the introduction of a new isogeny-based signature schemes like [SeaSign](https://eprint.iacr.org/2018/824) and [Commutative supersingular isogeny based Fiat-Shamir signatures (CSI-FiSH; pronounced "sea-fish")](https://eprint.iacr.org/2019/498).
 
 ### References
-1. T. Lange, [(C)SIDH](https://www.hyperelliptic.org/tanja/teaching/isogeny-school21/) (Bonus: [Lorenz Panny's notes](https://yx7.cc/docs/misc/isog_bristol_notes.pdf))
+1. T. Lange, [(C)SIDH](https://www.hyperelliptic.org/tanja/teaching/isogeny-school21/) (Bonus: [L. Panny's notes](https://yx7.cc/docs/misc/isog_bristol_notes.pdf))
 2. L. De Feo, [Isogeny Graphs in Cryptography](https://defeo.lu/docet/talk/2019/07/29/wurzburg/)
 3. J. Sotáková, [Elliptic curves, isogenies, and endomorphism rings](https://jana-sotakova.github.io/writings/ANTS_school_exposition.pdf) (Bonus: [video](https://www.youtube.com/watch?v=hHD1tqFqjEQ))
 4. J.-F. Biasse, [Ideal class group computations for isogeny-based cryptography](http://www.usf-crypto.org/class-groups/)
@@ -42,7 +42,7 @@ There are many new cryptosystems being developed, like [OSIDH](https://eprint.ia
 ### References
 1. D. Jao, [Isogeny-based cryptography: past, present, and future](https://www.youtube.com/watch?v=AoE-uQinzqU)
 2. L. De Feo, [Are Isogenies for Real?](https://defeo.lu/docet/youtube/2021/01/12/rwc/) (Bonus: [discussion session](https://www.youtube.com/watch?v=EAe5dqWcxh4))
-3. L. De Feo. [What's next for isogeny based cryptography?](https://www.youtube.com/watch?v=IF7uRqViHPs) (Bonus: [slides](https://defeo.lu/docet/talk/2021/02/17/aimc/))
+3. L. De Feo, [What's next for isogeny based cryptography?](https://www.youtube.com/watch?v=IF7uRqViHPs) (Bonus: [slides](https://defeo.lu/docet/talk/2021/02/17/aimc/))
 
 
 <!----- 
