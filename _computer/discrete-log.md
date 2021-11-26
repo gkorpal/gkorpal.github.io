@@ -20,6 +20,8 @@ citation:
 ### References
 1. I. Blake, G. Seroussi, and N. Smart, Elliptic Curves in Cryptography, LMS.
 2. L. Washington, Elliptic Curves: Number Theory and Cryptography, CRC.
+3. The Stanford Center for Blockchain Research: [https://cbr.stanford.edu/](https://cbr.stanford.edu/)
+4. Fields Institute Blockchain Research Seminar Series: [http://www.fields.utoronto.ca/activities/21-22/blockchain-seminar](http://www.fields.utoronto.ca/activities/21-22/blockchain-seminar) ([YouTube](https://www.youtube.com/playlist?list=PLArBKNfJxuunXQp2_KAEpne1SmraEOjo-))
 
 ## Pairing based cryptography
 
