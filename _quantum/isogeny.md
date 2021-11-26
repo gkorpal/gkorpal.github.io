@@ -20,15 +20,19 @@ It was introduced by [L. De Feo, D. Jao, and J.  Plût](https://eprint.iacr.org/
 1. D. Urbanik, [A Friendly Introduction to Supersingular Isogeny Diffie-Hellman](https://www.math.toronto.edu/dburbani/work/friendlysidh.pdf) (Bonus: [video](https://www.youtube.com/watch?v=PW5Vsu57o9I) and [slides](https://www.math.toronto.edu/dburbani/work/sidh_talk_july_2016.pdf))
 2. C. Costello, [Supersingular isogeny key exchange for beginners](https://eprint.iacr.org/2019/1321) (Bonus: [video](https://www.microsoft.com/en-us/research/video/post-quantum-cryptography-supersingular-isogenies-for-beginners/))
 3. J-J Chi-Domínguez, [A quick journey on what SI[DH/KE] is](https://www.youtube.com/watch?v=B_0osKMNN5k) (Bonus: [slides](https://jjchidguez.github.io/slides.html))
-4. K. Lauter and J. Sotáková, [Supersingular Isogeny Graphs in Cryptography](https://jana-sotakova.github.io/PCMI.html) (Bonus: [PCMI webpage](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions) and [KLPT algorithm podcast](https://www.cryptography.fm/21))
+4. M. Inés and A. Best, [Supersingular Isogeny Graphs and Quaternion Algebras](https://alexjbest.github.io/buntes/chapter-supersing-isog.html) (Bonus: [BUNETS Fall 2018](http://math.bu.edu/people/midff/buntes/fall2018.html))
+5. K. Lauter and J. Sotáková, [Supersingular Isogeny Graphs in Cryptography](https://jana-sotakova.github.io/PCMI.html) (Bonus: [PCMI webpage](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions) and [KLPT algorithm podcast](https://www.cryptography.fm/21))
+6. L. De Feo, [Mathematics of Isogeny Based Cryptography](https://arxiv.org/abs/1711.04062) (Bonus: [slides](https://defeo.lu/docet/class/2017/05/26/isogenies-in-africa/)) 
 
 ## Commutative supersingular isogeny Diffie–Hellman (CSIDH; pronounced "sea-side")
 It was introduced by [W. Castryck, T. Lange, C. Martindale, L. Panny, and J. Renes](https://eprint.iacr.org/2018/383) in 2018 and uses the subring of $$\mathbb F_p$$-rational endomorphisms of supersingular elliptic curves, instead of the full ring of endomorphisms, which is an order $$O$$ in an imaginary quadratic field. Moreover, the ideal-class group $$\mathrm{cl}(O)$$ is commutative, unlike the full ring of endomorphisms. This is an efficient variant of the [Couveignes-Rostovtsev–Stolbunov (CRS) scheme](https://eprint.iacr.org/2006/145) for which [the commutativity of ideal-class group](https://arxiv.org/abs/1012.4019) leads to a subexponential attack using the quantum algorithms by [G. Kuperberg](https://arxiv.org/abs/quant-ph/0302112) and [O. Regev](https://arxiv.org/abs/quant-ph/0406151) from 2004. The CSIDH also motivated the introduction of a new isogeny-based signature schemes like [SeaSign](https://eprint.iacr.org/2018/824) and [Commutative supersingular isogeny based Fiat-Shamir signatures (CSI-FiSH; pronounced "sea-fish")](https://eprint.iacr.org/2019/498).
 
 ### References
 1. T. Lange, [(C)SIDH](https://www.hyperelliptic.org/tanja/teaching/isogeny-school21/) (Bonus: [Lorenz Panny's notes](https://yx7.cc/docs/misc/isog_bristol_notes.pdf))
-2. J. Sotáková, [Elliptic curves, isogenies, and endomorphism rings](https://jana-sotakova.github.io/writings/ANTS_school_exposition.pdf) (Bonus: [video](https://www.youtube.com/watch?v=hHD1tqFqjEQ))
-3. J.-F. Biasse, [Ideal class group computations for isogeny-based cryptography](http://www.usf-crypto.org/class-groups/)
+2. L. De Feo, [Isogeny Graphs in Cryptography](https://defeo.lu/docet/talk/2019/07/29/wurzburg/)
+3. J. Sotáková, [Elliptic curves, isogenies, and endomorphism rings](https://jana-sotakova.github.io/writings/ANTS_school_exposition.pdf) (Bonus: [video](https://www.youtube.com/watch?v=hHD1tqFqjEQ))
+4. J.-F. Biasse, [Ideal class group computations for isogeny-based cryptography](http://www.usf-crypto.org/class-groups/)
+5. L. De Feo, [Pirates of the CSIDH](https://defeo.lu/docet/youtube/2020/06/03/pkc/) (Bonus: [preprint](https://eprint.iacr.org/2019/1288))
 
 
 ## Recent developments
@@ -68,7 +72,7 @@ Some notes I found from the [school I didn't attend](https://isogenyschool2020.c
 3. Margarita Pierrakea, [Supersingular isogeny key-exchange](https://www.math.u-bordeaux.fr/~ybilu/algant/documents/theses/Pierrakea.pdf)
 4. Luca De Feo, [Mathematics of isogeny based cryptography](https://defeo.lu/docet/talk/2018/03/20/postscryptum/)
 5. Luca De Feo, [Isogeny graphs in cryptography](https://defeo.lu/docet/talk/2019/07/29/wurzburg/)
-6. María Inés and Alex Best, [Supersingular Isogeny Graphs and Quaternion Algebras](http://math.bu.edu/people/midff/buntes/fall2018.html)
+6.
 7. Chloe Martindale, [Isogeny graphs of abelian varieties and applications to the Discrete Logarithm Problem](https://www.martindale.info/Rennes.pdf)
 8. Sarah Arpin, [Good Primes for Supersingular 2, 3-Isogeny Graphs](http://math.colorado.edu/~saar7867/GoodPrimes.pdf)
 9. Lukas Zobernig, [Genus 2 Curves in Small Characteristic](https://www.math.auckland.ac.nz/~lzob857/papers/g2curves.pdf)
