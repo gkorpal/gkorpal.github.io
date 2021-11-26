@@ -42,7 +42,7 @@ It was introduced by [W. Castryck, T. Lange, C. Martindale, L. Panny, and J. Ren
 There are many new cryptosystems being developed, like [OSIDH](https://eprint.iacr.org/2020/985), [Séta](https://eprint.iacr.org/2019/1291), [SIAKE](https://eprint.iacr.org/2018/760), [SiGamal](https://eprint.iacr.org/2020/613), and [B-SIDH](https://eprint.iacr.org/2019/1145).
 
 ### References
-0. The webpages for [SIKE](https://sike.org/) and [CSIDH](https://csidh.isogeny.org/index.html)
+0. The webpages for [SIKE](https://sike.org/), [CSIDH](https://csidh.isogeny.org/index.html) and [ellipticnews (Steven Galbraith)](https://ellipticnews.wordpress.com/)
 1. D. Jao, [Isogeny-based cryptography: past, present, and future](https://www.youtube.com/watch?v=AoE-uQinzqU)
 2. L. De Feo, [Pirates of the CSIDH](https://defeo.lu/docet/youtube/2020/06/03/pkc/) (Bonus: [preprint](https://eprint.iacr.org/2019/1288))
 3. L. De Feo, [Are Isogenies for Real?](https://defeo.lu/docet/youtube/2021/01/12/rwc/) (Bonus: [discussion session](https://www.youtube.com/watch?v=EAe5dqWcxh4))
@@ -57,7 +57,12 @@ There are many new cryptosystems being developed, like [OSIDH](https://eprint.ia
 6. Cryptography FM (Nadim Kobeissi): [https://www.cryptography.fm/](https://www.cryptography.fm)
    * L. De Feo and H. Montgomery, [Cryptographic Group Actions and Applications](https://www.cryptography.fm/5), Episode 5 (27 Oct 2020)
    * B. Wesolowski, [The supersingular isogeny path and endomorphism ring problems are equivalent](https://www.cryptography.fm/21)), Episode 21 (24 Aug 2021)
-
+7. Security, Cryptography, Whatever (Deirdre Connolly, Thomas Ptacek, David Adrian): [https://securitycryptographywhatever.buzzsprout.com/](https://securitycryptographywhatever.buzzsprout.com/)
+   * G. Tankersley, [PAKEs, oPRFs, algebra,...](https://securitycryptographywhatever.buzzsprout.com/1822302/9439685-pakes-oprfs-algebra-feat-george-tankersley), Episode 
+8. Workshop on Elliptic Curve Cryptography (ECC): [https://eccworkshop.org/](https://eccworkshop.org/)
+9. Algorithmic Number Theory Symposium (ANTS): [https://antsmath.org](https://antsmath.org)
+10. Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation: [https://simonscollab.icerm.brown.edu/](https://simonscollab.icerm.brown.edu/)
+12. Virtual math seminar on open conjectures in number theory and arithmetic geometry (VaNTAGe): [https://sites.google.com/view/vantageseminar](https://sites.google.com/view/vantageseminar)
 
 <!----- 
 2. Joost Renes, Improved Classical Cryptanalysis of SIKE in Practice, [IACR Practice and Theory of Public-Key Cryptography 2020](https://pkc.iacr.org/2020/), paper presentation (Jun 04, 2020). ([video](https://www.youtube.com/watch?v=QGIEbIzt6gk) and [paper](https://pkc.iacr.org/2020/program.php))
@@ -65,18 +70,20 @@ There are many new cryptosystems being developed, like [OSIDH](https://eprint.ia
 5. Thomas Decru + Daniele Cozzo + Craig Costello, CSIDH on the surface + Sashimi + supersingular isogeny problem, [PQCrypto 2020](https://pqcrypto2020.inria.fr/program/), Isogeny-based and Number Theoretic-based Cryptography. ([videos](https://www.youtube.com/playlist?list=PLv9DOvVF-X96M-O2obeLYzhZ0Qj15p_wb) and [papers](https://pqcrypto2020.inria.fr/program/))
 7. Chloe Martindale, Bruhat-Tits trees as a tool for isogeny-based cryptography, [Front Range Number Theory Day](https://sites.google.com/colorado.edu/front-range-number-theory-day/spring-2021) (April 24, 2021). ([video](https://www.youtube.com/watch?v=5f3SGbrQlkk) 360p)
 1. Christophe Petit. Post-quantum cryptography from supersingular isogeny problems?, [Microsoft Research Seminar](https://www.microsoft.com/en-us/research/video/post-quantum-cryptography-supersingular-isogeny-problems/) (Aug 03, 2017). ([video](https://www.youtube.com/watch?v=eHkmO7bFaSc))
-8. 
+8. Lukas Zobernig. Lectures on Complex Multiplication, [University of Auckland Number Theory Reading Group 2020](https://uoantrg.wordpress.com/) (May - June, 2020). ([videos](https://youtube.com/playlist?list=PLDSicQbDroeqlQ8cce4JtExbL4aZ67bgk), [lec1notes](https://uoantrg.files.wordpress.com/2020/05/ell_over_c_1.pdf), [lec2notes](https://uoantrg.files.wordpress.com/2020/05/ell_over_c_2.pdf), and [lec3notes](https://uoantrg.files.wordpress.com/2020/07/ell_cm_1-1.pdf))
 10. Tanja Lange and Lorenz Panny. Isogeny-based cryptography (Introduction to SIDH and CSIDH), [Isogeny-based Cryptography School](https://isogenyschool2020.co.uk/), Week 3 (July 19-23, 2021): Basic protocols. ([videos](https://www.youtube.com/playlist?list=PL6hzlGxGIS1Cnx3XS7ZD4wjcTmHqOEpTS), [slides+notes+exercises by Tanja](https://www.hyperelliptic.org/tanja/teaching/isogeny-school21/), [notes by Lorenz](https://yx7.cc/docs/misc/isog_bristol_notes.pdf), and [extra resources](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)).
 8. Sarah Arpin, [Good Primes for Supersingular 2, 3-Isogeny Graphs](http://math.colorado.edu/~saar7867/GoodPrimes.pdf)
 7. Chloe Martindale, [Isogeny graphs of abelian varieties and applications to the Discrete Logarithm Problem](https://www.martindale.info/Rennes.pdf)
 9. Lukas Zobernig, [Genus 2 Curves in Small Characteristic](https://www.math.auckland.ac.nz/~lzob857/papers/g2curves.pdf)
+2. The cr.yp.to blog (Daniel J. Bernstein): [https://blog.cr.yp.to/](https://blog.cr.yp.to/)
+3. Chole Martindale's talks: [https://www.martindale.info/talks/](https://www.martindale.info/talks/)
+4. Luca De Feo's talks: [https://defeo.lu/docet/](https://defeo.lu/docet/)
+5. Lorenz Panny's docs: [https://yx7.cc/docs/](https://yx7.cc/docs/)
+6. Cloudflare Blog ([Cloudflare Research](https://research.cloudflare.com/)): [https://blog.cloudflare.com/tag/security/](https://blog.cloudflare.com/tag/security/) ([Google-Cloudflare Experiment](https://blog.cloudflare.com/the-tls-post-quantum-experiment/); [Sizing Up Post-Quantum Signatures](https://blog.cloudflare.com/sizing-up-post-quantum-signatures/))
+1. Boston University Number Theory Expository Seminar: [http://math.bu.edu/people/angusmca/buntes/index.html](http://math.bu.edu/people/angusmca/buntes/index.html)
+2. University of Auckland Number Theory Reading Group (Tristan Pang): [https://uoantrg.wordpress.com/](https://uoantrg.wordpress.com/)
 ----->
 
-
-#### General
-1. Andrew Sutherland, [Introduction to Arithmetic Geometry](https://math.mit.edu/classes/18.782/lectures.html), especially lecture 24. ([CombinedPDF](https://gkorpal.github.io/files/drew-ag-2013.pdf); [OCW](https://ocw.mit.edu/courses/mathematics/18-782-introduction-to-arithmetic-geometry-fall-2013/lecture-notes/))
-2. Andrew Sutherland, [Computationally focused introduction to elliptic curves, with applications to isogney-based post-quantum ECC (Spring2021)](https://math.mit.edu/classes/18.783/2021/lectures.html), expecially lecture 5. ([CombinedPDF-2021](https://gkorpal.github.io/files/drew-ec-2021.pdf); [OCW-Spring2019](https://ocw.mit.edu/courses/mathematics/18-783-elliptic-curves-spring-2019/syllabus/))
-3. Lukas Zobernig. Lectures on Complex Multiplication, [University of Auckland Number Theory Reading Group 2020](https://uoantrg.wordpress.com/) (May - June, 2020). ([videos](https://youtube.com/playlist?list=PLDSicQbDroeqlQ8cce4JtExbL4aZ67bgk), [lec1notes](https://uoantrg.files.wordpress.com/2020/05/ell_over_c_1.pdf), [lec2notes](https://uoantrg.files.wordpress.com/2020/05/ell_over_c_2.pdf), and [lec3notes](https://uoantrg.files.wordpress.com/2020/07/ell_cm_1-1.pdf))
 
 ### Textbooks/Proceedings
 1. David A. Cox, Primes of the form $$x^2+ny^2$$: Fermat, Class Field Theory, and Complex Multiplication, Wiley.
@@ -86,24 +93,3 @@ There are many new cryptosystems being developed, like [OSIDH](https://eprint.ia
 5. Research Directions in Number Theory: Women in Numbers IV, Springer ([arXiv:1806.05709](https://arxiv.org/abs/1806.05709) and [arXiv:1804.04063
 ](https://arxiv.org/abs/1804.04063))
 6. Proceedings of the Fourteenth Algorithmic Number Theory Symposium, The Open Book Series ([arXiv:1910.03180](https://arxiv.org/abs/1910.03180), [arXiv:2003.10118](https://arxiv.org/abs/2003.10118), [arXiv:2004.11495](https://arxiv.org/abs/2004.11495), and [arXiv:2003.00633](https://arxiv.org/abs/2003.00633) -- [paper presentation lectures](https://www.youtube.com/channel/UCdSSlKPQ57S8AlHaiclp26Q/videos))
-
-### Latest developments 
-
-
-#### Blogs/seminar slides
-1. ellipticnews (Steven Galbraith): [https://ellipticnews.wordpress.com/](https://ellipticnews.wordpress.com/)
-2. The cr.yp.to blog (Daniel J. Bernstein): [https://blog.cr.yp.to/](https://blog.cr.yp.to/)
-3. Chole Martindale's talks: [https://www.martindale.info/talks/](https://www.martindale.info/talks/)
-4. Luca De Feo's talks: [https://defeo.lu/docet/](https://defeo.lu/docet/)
-5. Lorenz Panny's docs: [https://yx7.cc/docs/](https://yx7.cc/docs/)
-6. Cloudflare Blog ([Cloudflare Research](https://research.cloudflare.com/)): [https://blog.cloudflare.com/tag/security/](https://blog.cloudflare.com/tag/security/) ([Google-Cloudflare Experiment](https://blog.cloudflare.com/the-tls-post-quantum-experiment/); [Sizing Up Post-Quantum Signatures](https://blog.cloudflare.com/sizing-up-post-quantum-signatures/))
-
-#### Graduate Student Seminars
-1. Boston University Number Theory Expository Seminar: [http://math.bu.edu/people/angusmca/buntes/index.html](http://math.bu.edu/people/angusmca/buntes/index.html)
-2. University of Auckland Number Theory Reading Group (Tristan Pang): [https://uoantrg.wordpress.com/](https://uoantrg.wordpress.com/)
-
-#### Research conferences/seminars
-1. Workshop on Elliptic Curve Cryptography (ECC): [https://eccworkshop.org/](https://eccworkshop.org/)
-2. Algorithmic Number Theory Symposium (ANTS): [https://antsmath.org](https://antsmath.org)
-3. Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation: [https://simonscollab.icerm.brown.edu/](https://simonscollab.icerm.brown.edu/)
-4. Virtual math seminar on open conjectures in number theory and arithmetic geometry (VaNTAGe): [https://sites.google.com/view/vantageseminar](https://sites.google.com/view/vantageseminar)
