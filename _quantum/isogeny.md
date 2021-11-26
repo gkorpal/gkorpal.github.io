@@ -27,7 +27,8 @@ It was introduced by [W. Castryck, T. Lange, C. Martindale, L. Panny, and J. Ren
 
 ## Oriented supersingular isogeny Diffie-Hellman (OSIDH)
 
-## References
+
+### References
 
 ### Video Lectures
 
