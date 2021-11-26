@@ -20,7 +20,7 @@ It was introduced by [L. De Feo, D. Jao, and J.  Plût](https://eprint.iacr.org/
 1. D. Urbanik, [A Friendly Introduction to Supersingular Isogeny Diffie-Hellman](https://www.math.toronto.edu/dburbani/work/friendlysidh.pdf) (Bonus: [video](https://www.youtube.com/watch?v=PW5Vsu57o9I) and [slides](https://www.math.toronto.edu/dburbani/work/sidh_talk_july_2016.pdf))
 2. C. Costello, [Supersingular isogeny key exchange for beginners](https://eprint.iacr.org/2019/1321) (Bonus: [video](https://www.microsoft.com/en-us/research/video/post-quantum-cryptography-supersingular-isogenies-for-beginners/))
 3. K. Lauter and J. Sotáková, [Supersingular Isogeny Graphs in Cryptography](https://jana-sotakova.github.io/PCMI.html) (Bonus: [PCMI webpage](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions))
-4. J-J Chi-Domínguez, [A quick journey on what SI[DH/KE]](https://www.urosario.edu.co/ascrypto/home/) (Bonus: [slides](https://jjchidguez.github.io/slides.html))
+4. J-J Chi-Domínguez, [A quick journey on what SI[DH/KE] is](https://www.youtube.com/watch?v=B_0osKMNN5k) (Bonus: [slides](https://jjchidguez.github.io/slides.html))
 
 
 ## Commutative supersingular isogeny Diffie–Hellman (CSIDH; pronounced "sea-side")
