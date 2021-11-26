@@ -58,7 +58,7 @@ There are many new cryptosystems being developed, like [OSIDH](https://eprint.ia
    * L. De Feo and H. Montgomery, [Cryptographic Group Actions and Applications](https://www.cryptography.fm/5), Episode 5 (27 Oct 2020)
    * B. Wesolowski, [The supersingular isogeny path and endomorphism ring problems are equivalent](https://www.cryptography.fm/21)), Episode 21 (24 Aug 2021)
 7. Security, Cryptography, Whatever (Deirdre Connolly, Thomas Ptacek, David Adrian): [https://securitycryptographywhatever.buzzsprout.com/](https://securitycryptographywhatever.buzzsprout.com/)
-   * G. Tankersley, [PAKEs, oPRFs, algebra,...](https://securitycryptographywhatever.buzzsprout.com/1822302/9439685-pakes-oprfs-algebra-feat-george-tankersley), Episode 
+   * G. Tankersley, [PAKEs, oPRFs, algebra,...](https://securitycryptographywhatever.buzzsprout.com/1822302/9439685-pakes-oprfs-algebra-feat-george-tankersley), Episode 8 (26 Oct 2021)
 8. Workshop on Elliptic Curve Cryptography (ECC): [https://eccworkshop.org/](https://eccworkshop.org/)
 9. Algorithmic Number Theory Symposium (ANTS): [https://antsmath.org](https://antsmath.org)
 10. Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation: [https://simonscollab.icerm.brown.edu/](https://simonscollab.icerm.brown.edu/)
