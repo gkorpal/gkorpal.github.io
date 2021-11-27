@@ -3,7 +3,7 @@ title: "Good Articles"
 collection: reading
 permalink: /reading/article-list
 excerpt:
-date: 2021-08-21
+date: 2021-11-26
 venue: 
 paperurl: 
 citation: 
@@ -63,6 +63,7 @@ One might need university library membership to access some of these articles (o
 
 ## Research
 
+* R. Wang, Y. Shoshitaishvili, C. Kruegel, and G. Vigna, Steal This Movie: Automatically Bypassing DRM Protection in Streaming Media Services, _USENIX 13_. [Stable link](https://www.usenix.org/conference/usenixsecurity13/technical-sessions/paper/wang_ruoyu) 
 * D. Boneh and M. Franklin, Identity-Based Encryption from the Weil Pairing, _Proc. of Crypto 2001_.  doi:[10.1007/3-540-44647-8_13](https://doi.org/10.1007/3-540-44647-8_13) \[The full version of this paper was published in SICOMP **32** (2003), no. 3. doi:[10.1137/S0097539701398521](https://doi.org/10.1137/S0097539701398521) \]
 * M. Fellows and N. Koblitz, Kid Krypto, _Proc. of Crypto 1992_. doi:[10.1007/3-540-48071-4_27](https://doi.org/10.1007/3-540-48071-4_27)
 * D. Chaum and E. van Heyst, Group Signatures, _Proc. of Eurocrypt 1991_. doi:[10.1007/3-540-46416-6_22](https://doi.org/10.1007/3-540-46416-6_22)
