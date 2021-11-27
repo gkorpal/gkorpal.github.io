@@ -82,6 +82,9 @@ There are many new cryptosystems being developed, like [OSIDH](https://eprint.ia
 6. Cloudflare Blog ([Cloudflare Research](https://research.cloudflare.com/)): [https://blog.cloudflare.com/tag/security/](https://blog.cloudflare.com/tag/security/) ([Google-Cloudflare Experiment](https://blog.cloudflare.com/the-tls-post-quantum-experiment/); [Sizing Up Post-Quantum Signatures](https://blog.cloudflare.com/sizing-up-post-quantum-signatures/))
 1. Boston University Number Theory Expository Seminar: [http://math.bu.edu/people/angusmca/buntes/index.html](http://math.bu.edu/people/angusmca/buntes/index.html)
 2. University of Auckland Number Theory Reading Group (Tristan Pang): [https://uoantrg.wordpress.com/](https://uoantrg.wordpress.com/)
+5. Research Directions in Number Theory: Women in Numbers IV, Springer ([arXiv:1806.05709](https://arxiv.org/abs/1806.05709) and [arXiv:1804.04063
+](https://arxiv.org/abs/1804.04063))
+6. Proceedings of the Fourteenth Algorithmic Number Theory Symposium, The Open Book Series ([arXiv:1910.03180](https://arxiv.org/abs/1910.03180), [arXiv:2003.10118](https://arxiv.org/abs/2003.10118), [arXiv:2004.11495](https://arxiv.org/abs/2004.11495), and [arXiv:2003.00633](https://arxiv.org/abs/2003.00633) -- [paper presentation lectures](https://www.youtube.com/channel/UCdSSlKPQ57S8AlHaiclp26Q/videos))
 ----->
 
 
@@ -90,6 +93,4 @@ There are many new cryptosystems being developed, like [OSIDH](https://eprint.ia
 2. Joseph Silverman, Arithmetic of Elliptic Curves, Springer.
 3. John Voight, Quaternion Algebras, Springer ([latest version](https://math.dartmouth.edu/~jvoight/quat.html))
 4. Giuliana Davidoff, Peter Sarnak, and Alain Valette, Elementary number theory, group theory, and Ramanujan graph, Cambridge University Press
-5. Research Directions in Number Theory: Women in Numbers IV, Springer ([arXiv:1806.05709](https://arxiv.org/abs/1806.05709) and [arXiv:1804.04063
-](https://arxiv.org/abs/1804.04063))
-6. Proceedings of the Fourteenth Algorithmic Number Theory Symposium, The Open Book Series ([arXiv:1910.03180](https://arxiv.org/abs/1910.03180), [arXiv:2003.10118](https://arxiv.org/abs/2003.10118), [arXiv:2004.11495](https://arxiv.org/abs/2004.11495), and [arXiv:2003.00633](https://arxiv.org/abs/2003.00633) -- [paper presentation lectures](https://www.youtube.com/channel/UCdSSlKPQ57S8AlHaiclp26Q/videos))
+
