@@ -10,6 +10,10 @@ author_profile: true
 
 ## Cryptology
 
+<a href="https://xkcd.com/538/">
+     <img alt="Equality" src="https://imgs.xkcd.com/comics/security.png" class="center">
+</a>
+
 **Kerckhoffs's principle:** *A cryptosystem should be secure even if everything about the system, except the key, is public knowledge.*
 
 ### Computationally secure cryptography
