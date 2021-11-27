@@ -20,12 +20,12 @@ It was introduced by [L. De Feo, D. Jao, and J.  Plût](https://eprint.iacr.org/
 1. M. Pierrakea, [Supersingular isogeny key-exchange](https://www.math.u-bordeaux.fr/~ybilu/algant/documents/theses/Pierrakea.pdf)
 2. D. Urbanik, [A Friendly Introduction to Supersingular Isogeny Diffie-Hellman](https://www.math.toronto.edu/dburbani/work/friendlysidh.pdf) (Bonus: [video](https://www.youtube.com/watch?v=PW5Vsu57o9I) and [slides](https://www.math.toronto.edu/dburbani/work/sidh_talk_july_2016.pdf))
 3. L. De Feo, [Mathematics of Isogeny Based Cryptography](https://arxiv.org/abs/1711.04062) (Bonus: [slides](https://defeo.lu/docet/class/2017/05/26/isogenies-in-africa/))
-4. M. Inés and A. Best, [Supersingular Isogeny Graphs and Quaternion Algebras](https://alexjbest.github.io/buntes/chapter-supersing-isog.html) (Bonus: [BUNTES Fall 2018](http://math.bu.edu/people/midff/buntes/fall2018.html))
+4. M. Inés, A. Ali, and A. Best, [Supersingular Isogeny Graphs and Quaternion Algebras](https://alexjbest.github.io/buntes/chapter-supersing-isog.html) (Bonus: [BUNTES Fall 2018](http://math.bu.edu/people/midff/buntes/fall2018.html))
 5. S. Arpin, [A Survey of Literature on Supersingular Isogeny Graphs](http://math.colorado.edu/~saar7867/SupersingularIsogenyLiterature.pdf)
 6. C. Costello, [Supersingular isogeny key exchange for beginners](https://eprint.iacr.org/2019/1321) (Bonus: [video](https://www.microsoft.com/en-us/research/video/post-quantum-cryptography-supersingular-isogenies-for-beginners/))
 7. K. Lauter and J. Sotáková, [Supersingular Isogeny Graphs in Cryptography](https://jana-sotakova.github.io/PCMI.html) (Bonus: [PCMI webpage](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions) and [KLPT algorithm podcast](https://www.cryptography.fm/21))
 8. P. Longa, [Supersingular Isogeny-Based Cryptography: Implementation Aspects and Parameter Selection](https://irp.cdn-website.com/7fa75f95/files/uploaded/IBCSchool_Longa.pdf) (Bonus: [slides](https://www.patricklonga.com/talks) and [related video](https://www.youtube.com/watch?v=31NyfrHSAco))
-9. J-J Chi-Domínguez, [A quick journey on what SI[DH/KE] is](https://youtu.be/B_0osKMNN5k?t=450) (Bonus: [slides](https://jjchidguez.github.io/slides.html))
+9. J-J Chi-Domínguez, [A quick journey on what SI[DH/KE] is](https://youtu.be/B_0osKMNN5k?t=462) (Bonus: [slides](https://jjchidguez.github.io/slides.html))
 
 
 ## Commutative supersingular isogeny Diffie–Hellman (CSIDH; pronounced "sea-side")
