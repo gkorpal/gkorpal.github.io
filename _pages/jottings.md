@@ -9,10 +9,13 @@ author_profile: true
 > -[Alan M. Turing](https://en.wikiquote.org/wiki/Alan_Turing)
 
 ## Cryptology
-
+<p>
+<center>
 <a href="https://xkcd.com/538/">
      <img alt="Equality" src="https://imgs.xkcd.com/comics/security.png" class="center">
 </a>
+</center>
+</p>
 
 **Kerckhoffs's principle:** *A cryptosystem should be secure even if everything about the system, except the key, is public knowledge.*
 
