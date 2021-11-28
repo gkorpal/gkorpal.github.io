@@ -17,10 +17,11 @@ Post-quantum cryptography which exploits the limitations of quantum computers.
 4. MasterMath 2020 (Dutch Master’s Degree Programme in Mathematics) - [Post-quantum cryptography](https://hyperelliptic.org/tanja/teaching/pqcrypto21/)
 5. PBS Infinite Series - [Quantum Computing and Cryptography](https://www.youtube.com/playlist?list=PLa6IE8XPP_gnot4uwqn7BeRJoZcaEsG1D)
 6. USF Center for Cryptographic Research - [Quantum Algorithms and Complexity](https://www.usf-crypto.org/mat-4930/)
-7. Simons Institute for the Theory of Computing - [Workshop on Quantum Cryptanalysis of Post-Quantum Cryptography](https://simons.berkeley.edu/workshops/lattices2020-quantum2020-joint) 
-8. Latincrypt 2021 - [ASCRYPTO cryptography summer school](https://www.urosario.edu.co/ascrypto/home/)
-9. ANTS 2020 - [Graduate Summer School](https://www.youtube.com/channel/UCuYEpA-S-3wR5lQgkpe-wUw)
-10. Post-quantum cryptography (PQCrypto): [https://pqcrypto.org/](https://pqcrypto.org/)
+7. CMU Graduate Course 15-859BB (Fall 2018) - [Quantum Computation and Information](https://www.cs.cmu.edu/~odonnell/quantum18/)
+8. Simons Institute for the Theory of Computing - [Workshop on Quantum Cryptanalysis of Post-Quantum Cryptography](https://simons.berkeley.edu/workshops/lattices2020-quantum2020-joint) 
+9. Latincrypt 2021 - [ASCRYPTO cryptography summer school](https://www.urosario.edu.co/ascrypto/home/)
+10. ANTS 2020 - [Graduate Summer School](https://www.youtube.com/channel/UCuYEpA-S-3wR5lQgkpe-wUw)
+11. Post-quantum cryptography (PQCrypto): [https://pqcrypto.org/](https://pqcrypto.org/)
 
 {% include base_path %}
 
