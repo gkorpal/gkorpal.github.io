@@ -17,7 +17,7 @@ Symmetric and public-key cryptography which exploits the limitations of modern c
 4. V. Goyal, [Introduction to Cryptography](https://www.cs.cmu.edu/~goyal/15356/), Fall 2020. (direct links: [videos](https://youtube.com/playlist?list=PLI3cKEs5b6gvelkJnHf16r3ADhYvcQjdr) and [notes](https://www.cs.cmu.edu/~goyal/15356/lecture_notes.pdf))
 5. R. Ostrovsky, [Foundations of Cryptography](http://web.cs.ucla.edu/~rafail/PUBLIC/OstrovskyDraftLecNotes2010.pdf), Winter 2010.
 6. J. Katz and Y. Lindell, Introduction to Modern Cryptography, CRC + [Maryland Cybersecurity Center MOOC](https://cyber.umd.edu/education/beyond-umd)
-7. D. Boneh and V. Shoup, [A graduate course in applied cryptography](http://toc.cryptobook.us/)) + [Stanford University MOOC](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
+7. D. Boneh and V. Shoup, [A graduate course in applied cryptography](http://toc.cryptobook.us/) + [Stanford University MOOC](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
 8. A. Joux, Algorithmic Cryptanalysis, CRC.
 9. J. Hoffstein, J. Pipher, and J. H. Silverman, An Introduction to Mathematical Cryptography, Springer.
 10. S. Galbraith, Mathematics of Public Key Cryptography, CUP. ([version 2.0](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html))
