@@ -21,7 +21,7 @@ author_profile: true
 
 ### Computationally secure cryptography
 
-I would recommend reading Seny Kamara's blog post about [getting started in cryptography](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/).
+I would recommend reading Seny Kamara's blog post about [getting started in cryptography](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/) and also look at Vipul Goyal's CMU course [Introduction to Cryptography](https://www.cs.cmu.edu/~goyal/15356/) from Fall 2020. (direct links: [videos](https://youtube.com/playlist?list=PLI3cKEs5b6gvelkJnHf16r3ADhYvcQjdr) and [notes](https://www.cs.cmu.edu/~goyal/15356/lecture_notes.pdf)).
 
 - [Pencil-paper safe cryptography](https://gkorpal.github.io/pencil)
 - [Computer safe cryptography](https://gkorpal.github.io/computer)
