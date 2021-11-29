@@ -11,6 +11,11 @@ citation:
  
 Isogeny-based cryptography is a kind of elliptic-curve cryptography, whose security relies on (various incarnations of) the problem of finding an explicit isogeny between two given isogenous supersingular elliptic curves over a finite field $$\mathbb F_q$$. Currently, quantum computers do not seem to make the isogeny-finding problem substantially easier. This contrasts with the standard discrete-logarithm based elliptic-curve cryptography which is not quantum-safe due to polynomial-time quantum algorithm by [P. W. Shor](https://arxiv.org/abs/quant-ph/9508027v2) from 1997.
 
+We can [compute isogenies in SageMath](https://doc.sagemath.org/html/en/reference/arithmetic_curves/sage/schemes/elliptic_curves/ell_curve_isogeny.html) (implemented by [D. Shumow in 2009](https://arxiv.org/abs/0910.5370)):
+
+
+Maria Santos has written a series of nice introductory [blog posts on isogeny-based cryptography](https://mariascrs.github.io/posts.html) which provide a summary of all important papers.
+ 
 Now let's look at some of the popular examples.
 
 ## Supersingular isogeny Diffie–Hellman (SIDH)
@@ -25,7 +30,7 @@ It was introduced by [L. De Feo, D. Jao, and J.  Plût](https://eprint.iacr.org/
 6. C. Costello, [Supersingular isogeny key exchange for beginners](https://eprint.iacr.org/2019/1321) (Bonus: [video](https://www.microsoft.com/en-us/research/video/post-quantum-cryptography-supersingular-isogenies-for-beginners/))
 7. K. Lauter and J. Sotáková, [Supersingular Isogeny Graphs in Cryptography](https://jana-sotakova.github.io/PCMI.html) (Bonus: [PCMI webpage](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions) and [KLPT algorithm podcast](https://www.cryptography.fm/21))
 8. P. Longa, [Supersingular Isogeny-Based Cryptography: Implementation Aspects and Parameter Selection](https://irp.cdn-website.com/7fa75f95/files/uploaded/IBCSchool_Longa.pdf) (Bonus: [slides](https://www.patricklonga.com/talks) and [related video](https://www.youtube.com/watch?v=31NyfrHSAco))
-9. J-J Chi-Domínguez, [A quick journey on what SI[DH/KE] is](https://youtu.be/B_0osKMNN5k?t=462) (Bonus: [slides](https://jjchidguez.github.io/slides.html); confusing notations for function composition)
+9. J-J Chi-Domínguez, [A quick journey on what SI[DH/KE] is](https://youtu.be/B_0osKMNN5k?t=462) (Bonus: [slides](https://jjchidguez.github.io/slides.html); the notation used for function composition is a bit confusing; here "Kummer line" = Montgomery ladder + Vélu's formulas)
 
 
 ## Commutative supersingular isogeny Diffie–Hellman (CSIDH; pronounced "sea-side")
@@ -37,6 +42,8 @@ It was introduced by [W. Castryck, T. Lange, C. Martindale, L. Panny, and J. Ren
 3. J. Sotáková, [Elliptic curves, isogenies, and endomorphism rings](https://jana-sotakova.github.io/writings/ANTS_school_exposition.pdf) (Bonus: [video](https://www.youtube.com/watch?v=hHD1tqFqjEQ))
 4. Y.B. Ti, [Mathematics of Isogeny-based cryptography](https://www.youtube.com/watch?v=cefwCn7wy2Q)
 5. J.-F. Biasse, [Ideal class group computations for isogeny-based cryptography](http://www.usf-crypto.org/class-groups/)
+6. D.A. Cox, Primes of the form $$x^2+ny^2$$: Fermat, Class Field Theory, and Complex Multiplication, Wiley.
+
 
 ## Recent developments
 
@@ -90,7 +97,6 @@ There are many new cryptosystems being developed, like [OSIDH](https://eprint.ia
 
 
 ### Textbooks/Proceedings
-1. David A. Cox, Primes of the form $$x^2+ny^2$$: Fermat, Class Field Theory, and Complex Multiplication, Wiley.
 2. Joseph Silverman, Arithmetic of Elliptic Curves, Springer.
 3. John Voight, Quaternion Algebras, Springer ([latest version](https://math.dartmouth.edu/~jvoight/quat.html))
 4. Giuliana Davidoff, Peter Sarnak, and Alain Valette, Elementary number theory, group theory, and Ramanujan graph, Cambridge University Press
