@@ -32,5 +32,6 @@ citation:
 ## Pairing based cryptography
 
 ### References
-1. I. Blake, G. Seroussi, and N. Smart, Advances in Elliptic Curve Cryptography, LMS.
-2. Ben Lynn’s Ph.D. Dissertation: [https://crypto.stanford.edu/pbc/thesis.html](https://crypto.stanford.edu/pbc/thesis.html)
+1. C. Costello, [Pairings for beginners](https://www.craigcostello.com.au/tutorials)
+2. I. Blake, G. Seroussi, and N. Smart, Advances in Elliptic Curve Cryptography, LMS.
+3. Ben Lynn’s Ph.D. Dissertation: [https://crypto.stanford.edu/pbc/thesis.html](https://crypto.stanford.edu/pbc/thesis.html)
