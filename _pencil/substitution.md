@@ -36,9 +36,9 @@ sage: def caesar(pl, n):
 For example, when $n=3$ and message is "BEWARE OF ZOMBIES" we get plain text by deleting spaces "BEWAREOFZOMBIES", and then we can use the above function:
 
 `````python
-sage: pl = 'BEWAREOFZOMBIES'                                                                                         
-sage: n = 3                                                                                                          
-sage: caesar(pl, n)                                                                                                  
+sage: pl = 'BEWAREOFZOMBIES'
+sage: n = 3
+sage: caesar(pl, n)
 'EHZDUHRICRPELHV'
 `````
 
@@ -46,15 +46,15 @@ sage: caesar(pl, n)
 This is direct generalization of Caesar cipher. Let $x$ be the numeric encoding of the alphabet. Then we obtain the ciphertext by applying the transformation of the form $x \mapsto ax + b$, for any $a$ coprime to 26. Thus, the Caesar cipher is an Affine cipher with $a = 1$. SageMath example:
 
 `````python
-sage: A = AffineCryptosystem(AlphabeticStrings())                                                               
-sage: A                                                                                                              
+sage: A = AffineCryptosystem(AlphabeticStrings())  
+sage: A
 Affine cryptosystem on Free alphabetic string monoid on A-Z
-sage: P = A.encoding("Beware of Zombies")                                                                            
-sage: P                                                                                                              
+sage: P = A.encoding("Beware of Zombies")
+sage: P
 BEWAREOFZOMBIES
-sage: a,b = (1,3)                                                                                                    
-sage: C = A.enciphering(a,b,P)                                                                                       
-sage: C                                                                                                              
+sage: a,b = (1,3)
+sage: C = A.enciphering(a,b,P)
+sage: C
 EHZDUHRICRPELHV
 sage: A.deciphering(a, b, C) == P
 True
@@ -75,23 +75,23 @@ sage: def vige(s,k):
 
 For example, for the message "Beware of Zombies" and key "elephant" we get
 `````python
-sage: s = 'BEWAREOFZOMBIES'                                                                                          
-sage: k = 'ELEPHANT'                                                                                                 
-sage: vige(s,k)                                                                                                      
+sage: s = 'BEWAREOFZOMBIES'
+sage: k = 'ELEPHANT'
+sage: vige(s,k)
 'FPAPYEBYDZQQPEF'
 `````
 
 SageMath example:
 
 `````python
-sage: A = AlphabeticStrings()                                                                                        
-sage: M = A.encoding("Beware of Zombies")                                                                            
-sage: K = A.encoding("ELEPHANT")  
-sage: V = VigenereCryptosystem(AlphabeticStrings(), len(K))                                                          
-sage: E = V.enciphering(K,M)                                                                                         
-sage: E                                                                                                              
+sage: A = AlphabeticStrings()
+sage: M = A.encoding("Beware of Zombies")
+sage: K = A.encoding("ELEPHANT")
+sage: V = VigenereCryptosystem(AlphabeticStrings(), len(K))
+sage: E = V.enciphering(K,M)
+sage: E
 FPAPYEBYDZQQPEF
-sage: V.deciphering(K,E) == M                                                                                        
+sage: V.deciphering(K,E) == M 
 True
 `````
 
@@ -160,7 +160,7 @@ sage: def playfair(pl, key):
 Then, for (encoded) plain text "BEWAREOFZOMBIES" and key "ELEPHANT" we wii get:
 
 `````python
-sage: playfair("BEWAREOFZOMBIES","ELEPHANT")                                                                         
+sage: playfair("BEWAREOFZOMBIES","ELEPHANT")
 'NPZLOPVOVUIDFPRY'
 `````
 To decrypt, use the inverse (opposite) of the last 3 rules of `digraph_en` to get `digraph_de`, then drop any extra "X"s that do not make sense in the final message when finished. Note that no letter is evercrypted to itself. Moreover, if `FR` is encrypted as `IE` then `IE` will be encrypted as `FR`.
