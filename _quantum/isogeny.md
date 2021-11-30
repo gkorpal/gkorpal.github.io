@@ -25,7 +25,7 @@ sage: E.j_invariant()
 364*a + 304
 sage: P = E(350*a+68,0); P
 (350*a + 68 : 0 : 1)
-sage: P.order()                                                                                          
+sage: P.order()
 2
 sage: phi = EllipticCurveIsogeny(E,P); phi  # not Montgomery form
 Isogeny of degree 2 from Elliptic Curve defined by y^2 = x^3 + (208*a+161)*x^2 
