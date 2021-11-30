@@ -18,7 +18,7 @@ Post-quantum cryptography which exploits the limitations of quantum computers.
 5. PBS Infinite Series - [Quantum Computing and Cryptography](https://www.youtube.com/playlist?list=PLa6IE8XPP_gnot4uwqn7BeRJoZcaEsG1D) by [Kelsey Houston-Edwards](https://www.kelseyhoustonedwards.com/video)
 6. USF Center for Cryptographic Research - [Quantum Algorithms and Complexity](https://www.usf-crypto.org/mat-4930/) by [Jean-Francois Biasse](https://www.youtube.com/playlist?list=PLasTV9KvJPBusFVpkCVh-W4dYyB9aNkay)
 7. CMU Graduate Course 15-859BB (Fall 2018) - [Quantum Computation and Information](https://www.cs.cmu.edu/~odonnell/quantum18/) by [Ryan O'Donnell](https://www.youtube.com/c/RyanODonnellTeaching)
-8. Simons Institute for the Theory of Computing - [Workshop on Quantum Cryptanalysis of Post-Quantum Cryptography](https://simons.berkeley.edu/workshops/lattices2020-quantum2020-joint) 
+8. Simons Institute for the Theory of Computing - [Workshop on Quantum Cryptanalysis of Post-Quantum Cryptography](https://simons.berkeley.edu/workshops/schedule/14097) 
 9. Latincrypt 2021 - [ASCRYPTO cryptography summer school](https://www.urosario.edu.co/ascrypto/home/)
 10. ANTS 2020 - [Graduate Summer School](https://www.youtube.com/channel/UCuYEpA-S-3wR5lQgkpe-wUw)
 11. Post-quantum cryptography (PQCrypto): [https://pqcrypto.org/](https://pqcrypto.org/)
