@@ -43,7 +43,7 @@ Elliptic Curve defined by y^2 = x^3 + (208*a+161)*x^2 + (343*a+209)*x +
 sage: E2.j_invariant()
 344*a + 190
 ```
-The [blog posts by Maria Santos](https://mariascrs.github.io/posts.html) provide a nice introduction to isogeny-based cryptography.
+The [blog posts by Maria Santos (UCL)](https://mariascrs.github.io/posts.html) provide a nice introduction to isogeny-based cryptography.
  
 Now let's look at some of the popular examples.
 
