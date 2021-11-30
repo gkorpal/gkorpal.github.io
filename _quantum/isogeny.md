@@ -43,7 +43,7 @@ Elliptic Curve defined by y^2 = x^3 + (208*a+161)*x^2 + (343*a+209)*x +
 sage: E2.j_invariant()
 344*a + 190
 ```
-Maria Santos has written a series of nice introductory [blog posts on isogeny-based cryptography](https://mariascrs.github.io/posts.html) which provide a summary of all important papers.
+The [blog posts by Maria Santos](https://mariascrs.github.io/posts.html) provide a nice introduction to isogeny-based cryptography.
  
 Now let's look at some of the popular examples.
 
@@ -77,28 +77,29 @@ It was introduced by [W. Castryck, T. Lange, C. Martindale, L. Panny, and J. Ren
 There are many new cryptosystems being developed, like [OSIDH](https://eprint.iacr.org/2020/985), [Séta](https://eprint.iacr.org/2019/1291), [SIAKE](https://eprint.iacr.org/2018/760), [SiGamal](https://eprint.iacr.org/2020/613), and [B-SIDH](https://eprint.iacr.org/2019/1145).
 
 ### References
-1. The webpages for [SIKE](https://sike.org/), [CSIDH](https://csidh.isogeny.org/index.html) and [ellipticnews](https://ellipticnews.wordpress.com/)
-2. D. Jao, [Isogeny-based cryptography: past, present, and future](https://www.youtube.com/watch?v=AoE-uQinzqU)
-3. L. De Feo's presentations:
+1. The webpages for [SIKE](https://sike.org/) and [CSIDH](https://csidh.isogeny.org/index.html).
+2. S. Galbraith's blog [ellipticnews](https://ellipticnews.wordpress.com/)
+3. D. Jao's seminar at ANTS-XIV: [Isogeny-based cryptography: past, present, and future](https://www.youtube.com/watch?v=AoE-uQinzqU)
+4. L. De Feo's presentations:
   * [Pirates of the CSIDH](https://defeo.lu/docet/youtube/2020/06/03/pkc/) (Bonus: [preprint](https://eprint.iacr.org/2019/1288))
   * [Are Isogenies for Real?](https://defeo.lu/docet/youtube/2021/01/12/rwc/) (Bonus: [discussion session](https://www.youtube.com/watch?v=EAe5dqWcxh4))
   * [What's next for isogeny based cryptography?](https://www.youtube.com/watch?v=IF7uRqViHPs) (Bonus: [slides](https://defeo.lu/docet/talk/2021/02/17/aimc/))
-4. Isogeny-based Cryptography School: [https://isogenyschool2020.co.uk/schedule/](https://isogenyschool2020.co.uk/schedule/)
+5. Isogeny-based Cryptography School: [https://isogenyschool2020.co.uk/schedule/](https://isogenyschool2020.co.uk/schedule/)
    * W. Castryck, [CSIDH on the surface (CSURF)](https://homes.esat.kuleuven.be/~wcastryc/summer_school_csurf.pdf), Week 3: Basic protocols (19-23rd July 2021)
    * L. De Feo, [Tools for designing protocols based on isogenies (VDF, ORPF,...)](https://defeo.lu/docet/assets/misc/2021-08-02-isogeny-school.pdf), Week 5: Advanced protocols (2-6th August 2021)
    * J. Sotáková, [Genus theory and attacking CSIDH-like cryptosystems](https://jana-sotakova.github.io/DDH/DDH.pdf), Week 6: Classical cryptanalysis (9-13th August 2021)
    * L. Panny, [Meet-in-the-middle and van Oorschot-Wiener applied to isogeny graphs](https://yx7.cc/docs/misc/isogprob_bristol_notes.pdf), Week 6: Classical cryptanalysis (9-13th August 2021)
    * C. Costello, [Why Hyperelliptic? : Using Kummer arithmetic to optimize genus one isogeny computations](https://www.craigcostello.com.au/s/why-hyperelliptic.pdf), Week 9: Genus two (6-10th September 2021) 
    * D.J. Bernstein, [√élu: Faster computation of isogenies of large prime degree](https://velusqrt.isogeny.org/presentations.html), Week 10: Efficient computation of isogenies (13-17th September 2021)
-5. [Cryptography FM](https://www.cryptography.fm) podcast (Nadim Kobeissi)
+6. [Cryptography FM](https://www.cryptography.fm) podcast (Nadim Kobeissi)
    * L. De Feo and H. Montgomery, [Cryptographic Group Actions and Applications](https://www.cryptography.fm/5), Episode 5 (27 Oct 2020)
    * B. Wesolowski, [The supersingular isogeny path and endomorphism ring problems are equivalent](https://www.cryptography.fm/21)), Episode 21 (24 Aug 2021)
-6. [Security, Cryptography, Whatever](https://securitycryptographywhatever.buzzsprout.com/) podcast (Deirdre Connolly, Thomas Ptacek, and David Adrian)
+7. [Security, Cryptography, Whatever](https://securitycryptographywhatever.buzzsprout.com/) podcast (Deirdre Connolly, Thomas Ptacek, and David Adrian)
    * G. Tankersley, [PAKEs, oPRFs, algebra,...](https://securitycryptographywhatever.buzzsprout.com/1822302/9439685-pakes-oprfs-algebra-feat-george-tankersley), Episode 8 (26 Oct 2021)
-7. Workshop on Elliptic Curve Cryptography (ECC): [https://eccworkshop.org/](https://eccworkshop.org/)
-8. Algorithmic Number Theory Symposium (ANTS): [https://antsmath.org](https://antsmath.org)
-9. Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation: [https://simonscollab.icerm.brown.edu/](https://simonscollab.icerm.brown.edu/)
-10. Virtual math seminar on open conjectures in number theory and arithmetic geometry (VaNTAGe): [https://sites.google.com/view/vantageseminar](https://sites.google.com/view/vantageseminar)
+8. Workshop on Elliptic Curve Cryptography (ECC): [https://eccworkshop.org/](https://eccworkshop.org/)
+9. Algorithmic Number Theory Symposium (ANTS): [https://antsmath.org](https://antsmath.org)
+10. Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation: [https://simonscollab.icerm.brown.edu/](https://simonscollab.icerm.brown.edu/)
+11. Virtual math seminar on open conjectures in number theory and arithmetic geometry (VaNTAGe): [https://sites.google.com/view/vantageseminar](https://sites.google.com/view/vantageseminar)
 
 <!----- 
 2. Joost Renes, Improved Classical Cryptanalysis of SIKE in Practice, [IACR Practice and Theory of Public-Key Cryptography 2020](https://pkc.iacr.org/2020/), paper presentation (Jun 04, 2020). ([video](https://www.youtube.com/watch?v=QGIEbIzt6gk) and [paper](https://pkc.iacr.org/2020/program.php))
