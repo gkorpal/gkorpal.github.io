@@ -44,7 +44,7 @@ sage: def zigzag(pl, key):
 Now, consider the example when $n=3$:
 
 `````python
-sage: zigzag("BEWAREOFZOMBIES", 3)                                                                                   
+sage: zigzag("BEWAREOFZOMBIES", 3)
 'BRZIEAEFOBEWOMS'
 `````
 
@@ -80,13 +80,13 @@ sage: def bifid(pl, key):
 ....:     for i in range(n): 
 ....:         pair=[tmp[2*i],tmp[2*i+1]] 
 ....:         ct += ks[5*pair[0]+pair[1]] 
-....:     return ct                                                                                                            
+....:     return ct
 `````
 
 For example, if (encoded) plain text is "BEWAREOFZOMBIES" and key is "ELEPHANT" then
 
 `````python
-sage: bifid("BEWAREOFZOMBIES","ELEPHANT")                                                                            
+sage: bifid("BEWAREOFZOMBIES","ELEPHANT")
 'NVORYGFRLXEAAIH'
 `````
 For decryption apply the above steps in reverse.
@@ -107,8 +107,8 @@ sage: def bifid_de(ct, key):
 ....:         pair = [A[i], B[i]] 
 ....:         pl += ks[5*pair[0]+pair[1]] 
 ....:     return pl 
-....:                                                                                                             
-sage: bifid_de("NVORYGFRLXEAAIH", "ELEPHANT")                                                                        
+....:
+sage: bifid_de("NVORYGFRLXEAAIH", "ELEPHANT")
 'BEWAREOFZOMBIES'
 `````
 
