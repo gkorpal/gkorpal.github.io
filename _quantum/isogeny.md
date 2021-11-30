@@ -13,7 +13,36 @@ Isogeny-based cryptography is a kind of elliptic-curve cryptography, whose secur
 
 We can [compute isogenies in SageMath](https://doc.sagemath.org/html/en/reference/arithmetic_curves/sage/schemes/elliptic_curves/ell_curve_isogeny.html) (implemented by [D. Shumow in 2009](https://arxiv.org/abs/0910.5370)):
 
-
+```python
+# verifying the computations given on page 6 of the article by 
+# Craig Costello referenced below.
+sage: K.<a> = GF(431^2, name="a", modulus=x^2+1); K
+Finite Field in a of size 431^2
+sage: E = EllipticCurve(K, [0,208*a+161,0,1,0]); E
+Elliptic Curve defined by y^2 = x^3 + (208*a+161)*x^2 + x over 
+Finite Field in a of size 431^2 
+sage: E.j_invariant()
+364*a + 304
+sage: P = E(350*a+68,0); P
+(350*a + 68 : 0 : 1)
+sage: P.order()                                                                                          
+2
+sage: phi = EllipticCurveIsogeny(E,P); phi  # not Montgomery form
+Isogeny of degree 2 from Elliptic Curve defined by y^2 = x^3 + (208*a+161)*x^2 
++ x over Finite Field in a of size 431^2 to Elliptic Curve defined by y^2 = 
+x^3 + (208*a+161)*x^2 + (343*a+209)*x + (363*a+398) over Finite Field in a 
+of size 431^2
+sage: phi.is_separable()
+True
+sage: phi.rational_maps()
+((x^2 + (81*a - 68)*x + (190*a - 214))/(x + (81*a - 68)),
+ (x^2*y + (162*a - 136)*x*y + y)/(x^2 + (162*a - 136)*x + (190*a - 213)))
+sage: E2 = EllipticCurve(K, [0,208*a+161,0,343*a+209,363*a+398]); E2
+Elliptic Curve defined by y^2 = x^3 + (208*a+161)*x^2 + (343*a+209)*x +
+(363*a+398) over Finite Field in a of size 431^2
+sage: E2.j_invariant()
+344*a + 190
+```
 Maria Santos has written a series of nice introductory [blog posts on isogeny-based cryptography](https://mariascrs.github.io/posts.html) which provide a summary of all important papers.
  
 Now let's look at some of the popular examples.
