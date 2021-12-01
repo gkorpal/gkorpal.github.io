@@ -68,7 +68,7 @@ It was introduced by [W. Castryck, T. Lange, C. Martindale, L. Panny, and J. Ren
 
 ### References
 I have included the university location for the write-ups/videos by graduate students.
-1. L. De Feo (2019), [Isogeny Graphs in Cryptography](https://defeo.lu/docet/talk/2019/07/29/wurzburg/)
+1. L. De Feo (2019), [Isogeny Graphs in Cryptography](https://defeo.lu/docet/talk/2019/07/29/wurzburg/) (Bonus: [David Jao on math.SE](https://math.stackexchange.com/users/268702/djao?tab=answers))
 2. J. Sotáková (Amsterdam 2020), [Elliptic curves, isogenies, and endomorphism rings](https://jana-sotakova.github.io/writings/ANTS_school_exposition.pdf) (Bonus: [video](https://www.youtube.com/watch?v=hHD1tqFqjEQ))
 3. Y.B. Ti (Auckland 2020), [Mathematics of Isogeny-based cryptography](https://www.youtube.com/watch?v=cefwCn7wy2Q)
 4. T. Lange and L. Panny (2021), [(C)SIDH](https://www.hyperelliptic.org/tanja/teaching/isogeny-school21/) (Bonus: [L. Panny's notes](https://yx7.cc/docs/misc/isog_bristol_notes.pdf) and [Martindale-Panny article](https://www.martindale.info/car_article.pdf))
