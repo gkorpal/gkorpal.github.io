@@ -14,9 +14,14 @@ Isogeny-based cryptography is a kind of elliptic-curve cryptography, whose secur
 Given an elliptic curve $E$ in Weierstrass form over a finite field $\mathbb F_q$ and a point $P$ on $E$ of order $n$, then we can compute a cyclic separable isogeny of degree $n$ using [Velu's formulas in SageMath](https://doc.sagemath.org/html/en/reference/arithmetic_curves/sage/schemes/elliptic_curves/ell_curve_isogeny.html) (implemented by [D. Shumow in 2009](https://arxiv.org/abs/0910.5370)):
 
 ```python
-# verifying the computations given on page 6 of the article by 
-# Craig Costello referenced below.
-sage: K.<a> = GF(431^2, name="a", modulus=x^2+1); K # 431 = 2^4 * 3^3 - 1 = 3 (mod 4)
+# verifying the computations given on page 6 of the article by Craig Costello below.
+# since the j-invariant of supersingular elliptic curves lies in F_{p^2}
+# it is sufficient to work with quadratic extension of F_p
+# the prime p = 431 is chosen such that x^2+1 is irreducible since 431 = 3 (mod 4)
+# hence F_{p^2} = F_{p}[x]/(x^2+1)
+# next we pick those supersingular elliptic curves which have (p+1)^2 = 432^2 
+# F_{p^2}-rational points and hence E(F_{p^2}) = ker([p+1]). see Jao-Feo-Plut p. 7
+sage: K.<a> = GF(431^2, name="a", modulus=x^2+1); K 
 Finite Field in a of size 431^2
 sage: E = EllipticCurve(K, [0,208*a+161,0,1,0]); E
 Elliptic Curve defined by y^2 = x^3 + (208*a+161)*x^2 + x over 
