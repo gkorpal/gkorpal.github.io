@@ -16,7 +16,7 @@ Given an elliptic curve $E$ in Weierstrass form over a finite field $\mathbb F_q
 ```python
 # verifying the computations given on page 6 of the article by 
 # Craig Costello referenced below.
-sage: K.<a> = GF(431^2, name="a", modulus=x^2+1); K # 431 = 2^4 * 3^3 - 1
+sage: K.<a> = GF(431^2, name="a", modulus=x^2+1); K # 431 = 2^4 * 3^3 - 1 = 3 (mod 4)
 Finite Field in a of size 431^2
 sage: E = EllipticCurve(K, [0,208*a+161,0,1,0]); E
 Elliptic Curve defined by y^2 = x^3 + (208*a+161)*x^2 + x over 
