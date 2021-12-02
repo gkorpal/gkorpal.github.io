@@ -14,14 +14,14 @@ Isogeny-based cryptography is a kind of elliptic-curve cryptography, whose secur
 Given an elliptic curve $E$ in Weierstrass form over a finite field $\mathbb F_q$ and a point $P$ on $E$ of order $n$, then we can compute a cyclic separable isogeny of degree $n$ using [Velu's formulas in SageMath](https://doc.sagemath.org/html/en/reference/arithmetic_curves/sage/schemes/elliptic_curves/ell_curve_isogeny.html) (implemented by [D. Shumow in 2009](https://arxiv.org/abs/0910.5370)):
 
 ```python
-# verifying the computations given on page 6 of the article by Craig Costello below.
-# since the j-invariant of supersingular elliptic curves lies in F_{p^2}
-# it is sufficient to work with quadratic extension of F_p
-# the prime p = 431 is chosen such that x^2+1 is irreducible since 431 = 3 (mod 4)
-# hence F_{p^2} = F_{p}[x]/(x^2+1)
-# next we pick those supersingular elliptic curves which have (p+1)^2 = 432^2 
+# Verifying the computations given on page 6 of the article by Craig Costello.
+# Since the j-invariant of supersingular elliptic curves lies in F_{p^2}
+# it is sufficient to work with quadratic extension of F_p.
+# The prime p = 431 is chosen such that x^2+1 is irreducible since 431 = 3 (mod 4)
+# hence F_{p^2} = F_{p}[x]/(x^2+1).
+# Next we pick those supersingular elliptic curves which have (p+1)^2 = 432^2 
 # F_{p^2}-rational points so that trace of frobenius is -2p and
-# E(F_{p^2}) = E[p+1]. see Costello p. 8 and 11; Feo-Jao-Plut section 4.1
+# E(F_{p^2}) = E[p+1]. see Costello p. 8 and 11; Feo-Jao-Plut section 4.1.
 sage: K.<a> = GF(431^2, name="a", modulus=x^2+1); K 
 Finite Field in a of size 431^2
 sage: E = EllipticCurve(K, [0,208*a+161,0,1,0]); E
