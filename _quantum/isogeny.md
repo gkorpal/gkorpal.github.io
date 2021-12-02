@@ -83,8 +83,10 @@ I have included the university location for the write-ups/videos by graduate stu
 5. S. Arpin (Boulder 2019) , [A Survey of Literature on Supersingular Isogeny Graphs](http://math.colorado.edu/~saar7867/SupersingularIsogenyLiterature.pdf)
 6. C. Costello (2019), [Supersingular isogeny key exchange for beginners](https://eprint.iacr.org/2019/1321) (Bonus: [video](https://www.microsoft.com/en-us/research/video/post-quantum-cryptography-supersingular-isogenies-for-beginners/))
 7. K. Lauter and J. Sotáková (2021), [Supersingular Isogeny Graphs in Cryptography](https://jana-sotakova.github.io/PCMI.html) (Bonus: [PCMI webpage](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions) and [KLPT algorithm podcast](https://www.cryptography.fm/21))
-8. P. Longa (2021), [Supersingular Isogeny-Based Cryptography: Implementation Aspects and Parameter Selection](https://irp.cdn-website.com/7fa75f95/files/uploaded/IBCSchool_Longa.pdf) (Bonus: [slides](https://www.patricklonga.com/talks) and [related video](https://www.youtube.com/watch?v=31NyfrHSAco))
-9. J-J Chi-Domínguez (2021), [A quick journey on what SI[DH/KE] is](https://youtu.be/B_0osKMNN5k?t=462) (Bonus: [slides](https://jjchidguez.github.io/slides.html); the notation used for function composition is a bit confusing; here "Kummer line arithmetic" = Montgomery ladder + Vélu's formulas -- see the [original SIDH paper](https://eprint.iacr.org/2011/506).)
+8. L. Panny, [Meet-in-the-middle and van Oorschot-Wiener applied to isogeny graphs](https://yx7.cc/docs/misc/isogprob_bristol_notes.pdf)
+<!--- Week 6: Classical cryptanalysis (9-13th August 2021) --->
+9. P. Longa (2021), [Supersingular Isogeny-Based Cryptography: Implementation Aspects and Parameter Selection](https://irp.cdn-website.com/7fa75f95/files/uploaded/IBCSchool_Longa.pdf) (Bonus: [slides](https://www.patricklonga.com/talks) and [related video](https://www.youtube.com/watch?v=31NyfrHSAco))
+10. J-J Chi-Domínguez (2021), [A quick journey on what SI[DH/KE] is](https://youtu.be/B_0osKMNN5k?t=462) (Bonus: [slides](https://jjchidguez.github.io/slides.html); the notation used for function composition is a bit confusing; here "Kummer line arithmetic" = Montgomery ladder + Vélu's formulas -- see the [original SIDH paper](https://eprint.iacr.org/2011/506).)
 
 
 ## Commutative supersingular isogeny Diffie–Hellman (CSIDH; pronounced "sea-side")
@@ -114,7 +116,6 @@ There are many new cryptosystems being developed, like [OSIDH](https://eprint.ia
    * W. Castryck, [CSIDH on the surface (CSURF)](https://homes.esat.kuleuven.be/~wcastryc/summer_school_csurf.pdf), Week 3: Basic protocols (19-23rd July 2021)
    * L. De Feo, [Tools for designing protocols based on isogenies (VDF, ORPF,...)](https://defeo.lu/docet/assets/misc/2021-08-02-isogeny-school.pdf), Week 5: Advanced protocols (2-6th August 2021)
    * J. Sotáková, [Genus theory and attacking CSIDH-like cryptosystems](https://jana-sotakova.github.io/DDH/DDH.pdf), Week 6: Classical cryptanalysis (9-13th August 2021)
-   * L. Panny, [Meet-in-the-middle and van Oorschot-Wiener applied to isogeny graphs](https://yx7.cc/docs/misc/isogprob_bristol_notes.pdf), Week 6: Classical cryptanalysis (9-13th August 2021)
    * C. Costello, [Why Hyperelliptic? : Using Kummer arithmetic to optimize genus one isogeny computations](https://www.craigcostello.com.au/s/why-hyperelliptic.pdf), Week 9: Genus two (6-10th September 2021) 
    * D.J. Bernstein, [√élu: Faster computation of isogenies of large prime degree](https://velusqrt.isogeny.org/presentations.html), Week 10: Efficient computation of isogenies (13-17th September 2021)
 6. [Cryptography FM](https://www.cryptography.fm) podcast (Nadim Kobeissi)
