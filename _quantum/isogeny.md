@@ -56,7 +56,7 @@ Elliptic Curve defined by y^2 = x^3 + (208*a+161)*x^2 + (343*a+209)*x +
 (363*a+398) over Finite Field in a of size 431^2
 sage: P2 = phi(P); P2
 (0 : 1 : 0)
-sage: P2.order()                                                                                                     
+sage: P2.order()
 1
 sage: E2.cardinality()
 186624
