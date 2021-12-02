@@ -20,7 +20,7 @@ Given an elliptic curve $E$ in Weierstrass form over a finite field $\mathbb F_q
 # the prime p = 431 is chosen such that x^2+1 is irreducible since 431 = 3 (mod 4)
 # hence F_{p^2} = F_{p}[x]/(x^2+1)
 # next we pick those supersingular elliptic curves which have (p+1)^2 = 432^2 
-# F_{p^2}-rational points and E(F_{p^2}) = ker([p+1]). see Jao-Feo-Plut p. 7
+# F_{p^2}-rational points and E(F_{p^2}) = E[p+1]. see Jao-Feo-Plut p. 7
 sage: K.<a> = GF(431^2, name="a", modulus=x^2+1); K 
 Finite Field in a of size 431^2
 sage: E = EllipticCurve(K, [0,208*a+161,0,1,0]); E
@@ -30,6 +30,10 @@ sage: E.cardinality()
 186624
 sage: 186624 == 432^2
 True
+sage: E.abelian_group()
+Additive abelian group isomorphic to Z/432 + Z/432 embedded in Abelian group of
+points on Elliptic Curve defined by y^2 = x^3 + (208*a+161)*x^2 + x over Finite
+Field in a of size 431^2
 sage: E.j_invariant()
 364*a + 304
 sage: P = E(350*a+68,0); P
@@ -51,6 +55,10 @@ Elliptic Curve defined by y^2 = x^3 + (208*a+161)*x^2 + (343*a+209)*x +
 (363*a+398) over Finite Field in a of size 431^2
 sage: E2.cardinality()
 186624
+sage: E2.abelian_group()
+Additive abelian group isomorphic to Z/432 + Z/432 embedded in Abelian group of 
+points on Elliptic Curve defined by y^2 = x^3 + (208*a+161)*x^2 + (343*a+209)*x + 
+(363*a+398) over Finite Field in a of size 431^2
 sage: E2.j_invariant()
 344*a + 190
 ```
