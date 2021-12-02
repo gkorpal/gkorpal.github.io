@@ -20,7 +20,8 @@ Given an elliptic curve $E$ in Weierstrass form over a finite field $\mathbb F_q
 # the prime p = 431 is chosen such that x^2+1 is irreducible since 431 = 3 (mod 4)
 # hence F_{p^2} = F_{p}[x]/(x^2+1)
 # next we pick those supersingular elliptic curves which have (p+1)^2 = 432^2 
-# F_{p^2}-rational points and E(F_{p^2}) = E[p+1]. see Jao-Feo-Plut p. 7
+# F_{p^2}-rational points so that trace of frobenius is -2p and
+# E(F_{p^2}) = E[p+1]. see Costello p. 8 and 11; Feo-Jao-Plut section 4.1
 sage: K.<a> = GF(431^2, name="a", modulus=x^2+1); K 
 Finite Field in a of size 431^2
 sage: E = EllipticCurve(K, [0,208*a+161,0,1,0]); E
