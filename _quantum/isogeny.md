@@ -26,11 +26,11 @@ Finite Field in a of size 431^2
 sage: E = EllipticCurve(K, [0,208*a+161,0,1,0]); E
 Elliptic Curve defined by y^2 = x^3 + (208*a+161)*x^2 + x over 
 Finite Field in a of size 431^2
-sage: E.cardinality()
+sage: E.cardinality() # Schoof 1985
 186624
 sage: 186624 == 432^2
 True
-sage: E.abelian_group()
+sage: E.abelian_group() # Rück 1987
 Additive abelian group isomorphic to Z/432 + Z/432 embedded in Abelian group of
 points on Elliptic Curve defined by y^2 = x^3 + (208*a+161)*x^2 + x over Finite
 Field in a of size 431^2
@@ -40,7 +40,7 @@ sage: P = E(350*a+68,0); P
 (350*a + 68 : 0 : 1)
 sage: P.order()
 2
-sage: phi = EllipticCurveIsogeny(E,P); phi  # not Montgomery form
+sage: phi = EllipticCurveIsogeny(E,P); phi  # Vélu 1971; not Montgomery form
 Isogeny of degree 2 from Elliptic Curve defined by y^2 = x^3 + (208*a+161)*x^2 
 + x over Finite Field in a of size 431^2 to Elliptic Curve defined by y^2 = 
 x^3 + (208*a+161)*x^2 + (343*a+209)*x + (363*a+398) over Finite Field in a 
