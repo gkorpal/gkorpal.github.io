@@ -15,10 +15,10 @@ Here I have divided articles between applied mathematics ([computational mathema
 
 <p>
 <center>
-    <a href="https://gkorpal.github.io/article-list/">
+    <a href="https://gkorpal.github.io/reading/article-list">
       <img alt="STEM" src="https://gkorpal.github.io/images/stem.jpg" width="300" height="300" class="center">
   </a>
-  <a href="https://gkorpal.github.io/article-list/">
+  <a href="https://gkorpal.github.io/reading/article-list">
      <img alt="crypt" src="https://gkorpal.github.io/images/crypt.jpg" width="300" height="300" class="center">
   </a>
    </center>
@@ -52,7 +52,8 @@ One might need university library membership to access some of these articles (o
 * K. Lauter, Postquantum Opportunities: Lattices, Homomorphic Encryption, and Supersingular Isogeny Graphs, _IEEE Security & Privacy_ **15** (2017), no. 4, 22--27. doi:[10.1109/MSP.2017.3151338](https://doi.org/10.1109/MSP.2017.3151338) 
 * H. Cohn, A conceptual breakthrough in sphere packing, _Notices Amer. Math. Soc._ **64** (2017), no. 2,  102--115. doi:[10.1090/noti1474](https://doi.org/10.1090/noti1474)
 * N. Koblitz and A. Menezes, A Riddle Wrapped in an Enigma, _IEEE Security & Privacy_ **14** (2016), no. 6, 34--42. doi:[10.1109/MSP.2016.120](https://doi.org/10.1109/MSP.2016.120) \[There are equivalent quality video expositions by [Numberphile](https://www.youtube.com/watch?v=ulg_AHBOIQU) (2013) and [Computerphile](https://www.youtube.com/watch?v=nybVFJVXbww) (2018)\]
-* N, Koblitz and A. Menezes, Cryptocash, cryptocurrencies, and cryptocontracts, _Designs, Codes and Cryptography_ **78** (2016), no. 1, 87--102. doi:[10.1007/s10623-015-0148-5](https://doi.org/10.1007/s10623-015-0148-5) 
+* N. Koblitz and A. Menezes, Cryptocash, cryptocurrencies, and cryptocontracts, _Designs, Codes and Cryptography_ **78** (2016), no. 1, 87--102. doi:[10.1007/s10623-015-0148-5](https://doi.org/10.1007/s10623-015-0148-5) 
+* J. Bonneau, A. Miller, J. Clark, A. Narayanan, J. A. Kroll and E. W. Felten, SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies, _Proc. of S&P (Oakland) 2015_. doi: [10.1109/SP.2015.14](https://doi.org/10.1109/SP.2015.14).
 * S. Kamara, Encrypted Search, _XRDS: Crossroads, The ACM Magazine for Students_ **21** (2015), no. 3, 30--34. doi:[10.1145/2730908](https://doi.org/10.1145/2730908), [Stable URL](https://xrds.acm.org/article.cfm?aid=2730908)
 * D. Boneh, A. Sahai and B. Waters, Functional encryption: a new vision for public-key cryptography, _Communications of the ACM_ **55** (2012), no. 11, 56--64. doi:[10.1145/2366316.2366333](https://doi.org/10.1145/2366316.2366333), [Stable URL](https://cacm.acm.org/magazines/2012/11/156588-functional-encryption/fulltext)
 * C. P. Pfleeger, Crypto: Not Just for the Defensive Team, _IEEE Security & Privacy_ **8** (2010), no. 2, 63--66. doi:[10.1109/MSP.2010.65](https://doi.org/10.1109/MSP.2010.65)
@@ -74,7 +75,7 @@ One might need university library membership to access some of these articles (o
 * A. C. Yao, Protocols for secure computations, _Proc. of IEEE Symp. on FOCS 1982_. doi:[10.1109/SFCS.1982.38](httpsL//doi.org/10.1109/SFCS.1982.38) 
 * M. Rejewski, An Application of the Theory of Permutations in Breaking the Enigma Cipher, _Zastos. Mat. \[Appl. Math. (Warsaw)\]_, **16** (1980), no. 4, 543--559. doi:[10.4064/am-16-4-543-559](https://doi.org/10.4064/am-16-4-543-559)
  
-As one can see, my knowledge of computer science is limited to cryptography. Note that the key theoretical cryptography results are generally announced in the conferences like [Crypto](https://www.iacr.org/meetings/crypto/), [Eurocrypt](https://www.iacr.org/meetings/eurocrypt/), [Asiacrypt](https://www.iacr.org/meetings/asiacrypt/), [TCC](https://www.iacr.org/meetings/tcc/), [FOCS](http://ieee-focs.org/), [STOC](http://acm-stoc.org/), [ANTS](https://antsmath.org/), and [AGC2T](https://www.ams.org/books/conm/770/). On the other hand, the key applied cryptography results are generally announced in the conferences like [S&P (Oakland)](https://www.ieee-security.org/TC/SP-Index.html), [CCS](https://www.sigsac.org/ccs.html), [CHES](https://www.iacr.org/meetings/ches/), and [USENIX Security](https://www.usenix.org/conferences/byname/108).
+As one can see, my knowledge of computer science is limited to cryptography. Note that the key theoretical cryptography results are generally announced in the conferences like [Crypto](https://www.iacr.org/meetings/crypto/), [Eurocrypt](https://www.iacr.org/meetings/eurocrypt/), [Asiacrypt](https://www.iacr.org/meetings/asiacrypt/), [TCC](https://www.iacr.org/meetings/tcc/), [FOCS](http://ieee-focs.org/), [STOC](http://acm-stoc.org/), [ANTS](https://antsmath.org/), and [AGC2T](https://www.ams.org/books/conm/770/). On the other hand, the key applied cryptography results are generally announced in the conferences like [S&P (Oakland)](https://www.ieee-security.org/TC/SP-Index.html), [CCS](https://www.sigsac.org/ccs.html), [CHES](https://www.iacr.org/meetings/ches/), and [USENIX Security](https://www.usenix.org/conferences/byname/108). A more comprehensive list of relevant conferences can be found [here](https://sec-deadlines.github.io/).
 
 # Pure Mathematics
 
