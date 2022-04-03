@@ -19,9 +19,6 @@ author_profile: true
 </center>
 </p>
 
-
-**Kerckhoffs's principle:** *A cryptosystem should be secure even if everything about the system, except the key, is public knowledge.*
-
 ### Computationally secure cryptography
 
 <p>
@@ -31,8 +28,9 @@ author_profile: true
 </a>
 </center>
 </p>
+<!----- **Kerckhoffs's principle:** *A cryptosystem should be secure even if everything about the system, except the key, is public knowledge.*----->
 
-I would recommend reading Seny Kamara's blog post about [getting started in cryptography](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/) and also look at Vipul Goyal's CMU course [Introduction to Cryptography](https://www.cs.cmu.edu/~goyal/15356/) from Fall 2020. (direct links: [videos](https://youtube.com/playlist?list=PLI3cKEs5b6gvelkJnHf16r3ADhYvcQjdr) and [notes](https://www.cs.cmu.edu/~goyal/15356/lecture_notes.pdf)).
+To get started, I would recommend reading Seny Kamara's blog post about [getting started in cryptography](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/) and also look at Vipul Goyal's CMU course [Introduction to Cryptography](https://www.cs.cmu.edu/~goyal/15356/) from Fall 2020. (direct links: [videos](https://youtube.com/playlist?list=PLI3cKEs5b6gvelkJnHf16r3ADhYvcQjdr) and [notes](https://www.cs.cmu.edu/~goyal/15356/lecture_notes.pdf)).
 
 - [Pencil-paper safe cryptography](https://gkorpal.github.io/pencil)
 - [Computer safe cryptography](https://gkorpal.github.io/computer)
