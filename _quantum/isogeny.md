@@ -101,7 +101,7 @@ I have included the university location for the write-ups/videos by graduate stu
 
 ## Recent developments
 
-There are many new cryptosystems being developed, like [OSIDH](https://eprint.iacr.org/2020/985), [Séta](https://eprint.iacr.org/2019/1291), [SIAKE](https://eprint.iacr.org/2018/760), [SiGamal](https://eprint.iacr.org/2020/613), and [B-SIDH](https://eprint.iacr.org/2019/1145).
+There are many new cryptosystems being developed, like [OSIDH](https://eprint.iacr.org/2020/985), [Séta](https://eprint.iacr.org/2019/1291), [SIAKE](https://eprint.iacr.org/2018/760), [SiGamal](https://eprint.iacr.org/2020/613), [B-SIDH](https://eprint.iacr.org/2019/1145), and [CTIDH](https://ctidh.isogeny.org/).
 
 ### References
 1. The webpages for [SIKE](https://sike.org/) and [CSIDH](https://csidh.isogeny.org/index.html).
