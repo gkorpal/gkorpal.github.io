@@ -15,7 +15,7 @@ Symmetric and public-key cryptography which exploits the limitations of modern c
 2. D. Kohel, [Cryptography](http://iml.univ-mrs.fr/~kohel/pub/crypto.pdf), July 2008.
 3. A. McAndrew, Introduction to Cryptography with Open-Source Software, CRC.
 4. R. Ostrovsky, [Foundations of Cryptography](http://web.cs.ucla.edu/~rafail/PUBLIC/OstrovskyDraftLecNotes2010.pdf), Winter 2010.
-5. Cryptopals, [the cryptopals crypto challenges](https://cryptopals.com/)
+5. Matasano, [Cryptopals Challenges](https://cryptopals.com/)
 6. J. Katz and Y. Lindell, Introduction to Modern Cryptography, CRC + [Maryland Cybersecurity Center MOOC](https://cyber.umd.edu/education/beyond-umd)
 7. D. Boneh and V. Shoup, [A graduate course in applied cryptography](http://toc.cryptobook.us/) + [Stanford University MOOC](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
 8. A. Joux, Algorithmic Cryptanalysis, CRC.
