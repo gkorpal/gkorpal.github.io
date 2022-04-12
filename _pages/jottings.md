@@ -32,8 +32,11 @@ author_profile: true
 
 To get started, I would recommend reading the following blog posts about:
 * [So, You Want to be a Cryptographer](https://www.schneier.com/crypto-gram/archives/1999/1015.html#SoYouWanttobeaCryptographer) - Bruce Schneier (Oct 1999)
+* [Applied Cryptography Engineering](https://sockpuppet.org/blog/2013/07/22/applied-practical-cryptography/) - Thomas and Erin Ptacek "Matasano" (Jul 2013)
 * [How Not to Learn Cryptography](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/) - Seny Kamara (Nov 2014)
 * [Cryptography and Mathematics](https://dl.acm.org/doi/10.1145/2730916) - Kristin Lauter's interview in XRDS: Crossroads, The ACM Magazine for Students (Mar 2015)
+* [How I became a cryptographer](https://littlemaninmyhead.wordpress.com/2017/05/18/how-i-became-a-cryptographer/) and [why I left cryptography](https://littlemaninmyhead.wordpress.com/2017/10/23/why-i-left-cryptography/) - Scott Contini (May-Oct 2017)
+* [How to become a Security Engineer](https://www.coryhardman.com/2021/05/how-to-become-security-engineer.html) - Cory Hardman (May 2021)
 
 Also to get some sense of the breadth of this field, one can look at Vipul Goyal's CMU course [Introduction to Cryptography](https://www.cs.cmu.edu/~goyal/15356/) from Fall 2020. (direct links: [videos](https://youtube.com/playlist?list=PLI3cKEs5b6gvelkJnHf16r3ADhYvcQjdr) and [notes](https://www.cs.cmu.edu/~goyal/15356/lecture_notes.pdf)).
 
