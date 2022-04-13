@@ -44,6 +44,7 @@ To get some sense of the breadth of this field, one can look at the following no
 * [Introduction to Cryptography](https://www.cs.cmu.edu/~goyal/15356/lecture_notes.pdf) (direct links: [videos](https://youtube.com/playlist?list=PLI3cKEs5b6gvelkJnHf16r3ADhYvcQjdr) and [course webpage](https://www.cs.cmu.edu/~goyal/15356/)) - Vipul Goyal (Carnegie Mellon)
 * [Useful Cryptography Resources](https://blog.cryptographyengineering.com/useful-cryptography-resources/) - Matthew Green (Johns Hopkins)
 
+Finally, following are some of my *jottings*:
 ### [Pencil-paper safe cryptography](https://gkorpal.github.io/pencil)
 ### [Computer safe cryptography](https://gkorpal.github.io/computer)
 ### [Quantum safe cryptography](https://gkorpal.github.io/quantum)
