@@ -45,9 +45,9 @@ To get some sense of the breadth of this field, one can look at the following no
 * [Useful Cryptography Resources](https://blog.cryptographyengineering.com/useful-cryptography-resources/) - Matthew Green (Johns Hopkins)
 
 Finally, following are some of my *jottings*:
-### [Pencil-paper safe cryptography](https://gkorpal.github.io/pencil)
-### [Computer safe cryptography](https://gkorpal.github.io/computer)
-### [Quantum safe cryptography](https://gkorpal.github.io/quantum)
+* ### [Pencil-paper safe cryptography](https://gkorpal.github.io/pencil)
+* ### [Computer safe cryptography](https://gkorpal.github.io/computer)
+* ### [Quantum safe cryptography](https://gkorpal.github.io/quantum)
 
 ## Unconditionally secure cryptography
 
