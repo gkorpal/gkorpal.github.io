@@ -24,7 +24,7 @@ author_profile: true
 <p>
 <center>
 <a href="https://xkcd.com/538/">
-     <img alt="Equality" src="https://imgs.xkcd.com/comics/security.png" class="center">
+     <img alt="rsa" src="https://imgs.xkcd.com/comics/security.png" class="center">
 </a>
 </center>
 </p>
@@ -49,5 +49,14 @@ Finally, following are some of my *jottings*:
 * ### [Quantum safe cryptography](https://gkorpal.github.io/quantum)
 
 ## Unconditionally secure cryptography
+
+<p>
+<center>
+<a href="https://dilbert.com/strip/2012-04-17">
+     <img alt="Equality" src="https://assets.amuniversal.com/57d36e70e4f2012fed51001dd8b71c47" class="center"
+           width="600" height="187">
+</a>
+</center>
+</p>
 
 * ### Quantum cryptography (placeholder)
