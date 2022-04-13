@@ -31,6 +31,7 @@ author_profile: true
 <!----- **Kerckhoffs's principle:** *A cryptosystem should be secure even if everything about the system, except the key, is public knowledge.*----->
 
 To get started, I would recommend the following:
+
 |  Blog posts/interviews | Lecture notes/books |
 | ---------------------- | ------------------- |
 | [So, You Want to be a Cryptographer](https://www.schneier.com/crypto-gram/archives/1999/1015.html#SoYouWanttobeaCryptographer) - Bruce Schneier (Oct 1999) |   [Useful Cryptography Resources](https://blog.cryptographyengineering.com/useful-cryptography-resources/) - Matthew Green (Johns Hopkins)|
