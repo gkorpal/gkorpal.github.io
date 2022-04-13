@@ -8,7 +8,7 @@ author_profile: true
 > Mathematical reasoning may be regarded rather schematically as the exercise of a combination of two facilities, which we may call intuition and ingenuity. 
 > -[Alan M. Turing](https://en.wikiquote.org/wiki/Alan_Turing)
 
-## Cryptography
+# Cryptography
 
 <p>
 <center>
@@ -19,7 +19,7 @@ author_profile: true
 </center>
 </p>
 
-### Computationally secure cryptography
+## Computationally secure cryptography
 
 <p>
 <center>
@@ -38,12 +38,16 @@ To get started, I would recommend reading the following blog posts/interviews:
 * [How I became a cryptographer](https://littlemaninmyhead.wordpress.com/2017/05/18/how-i-became-a-cryptographer/) and [why I left cryptography](https://littlemaninmyhead.wordpress.com/2017/10/23/why-i-left-cryptography/) - Scott Contini (May-Oct 2017)
 * [How to become a Security Engineer](https://www.coryhardman.com/2021/05/how-to-become-security-engineer.html) - Cory Hardman (May 2021)
 
-Also to get some sense of the breadth of this field, one can look at Vipul Goyal's CMU course [Introduction to Cryptography](https://www.cs.cmu.edu/~goyal/15356/) from Fall 2020. (direct links: [videos](https://youtube.com/playlist?list=PLI3cKEs5b6gvelkJnHf16r3ADhYvcQjdr) and [notes](https://www.cs.cmu.edu/~goyal/15356/lecture_notes.pdf)) and Matthew Green's list of [Useful Cryptography Resources](https://blog.cryptographyengineering.com/useful-cryptography-resources/).
+To get some sense of the breadth of this field, one can look at the following notes/resources:
+* [The Joy of Cryptography](https://joyofcryptography.com/) - Mike Rosulek (Oregon State)
+* [A Course in Cryptography](http://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf) - Rafael Pass and Abhi Shelat (Cornell)
+* [Introduction to Cryptography](https://www.cs.cmu.edu/~goyal/15356/lecture_notes.pdf) (direct links: [videos](https://youtube.com/playlist?list=PLI3cKEs5b6gvelkJnHf16r3ADhYvcQjdr) and [course webpage](https://www.cs.cmu.edu/~goyal/15356/)) - Vipul Goyal (Carnegie Mellon)
+* [Useful Cryptography Resources](https://blog.cryptographyengineering.com/useful-cryptography-resources/) - Matthew Green (Johns Hopkins)
 
-- [Pencil-paper safe cryptography](https://gkorpal.github.io/pencil)
-- [Computer safe cryptography](https://gkorpal.github.io/computer)
-- [Quantum safe cryptography](https://gkorpal.github.io/quantum)
+### [Pencil-paper safe cryptography](https://gkorpal.github.io/pencil)
+### [Computer safe cryptography](https://gkorpal.github.io/computer)
+### [Quantum safe cryptography](https://gkorpal.github.io/quantum)
 
-### Unconditionally secure cryptography
+## Unconditionally secure cryptography
 
 - Quantum cryptography (placeholder)
