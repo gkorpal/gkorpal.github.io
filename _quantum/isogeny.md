@@ -67,6 +67,8 @@ points on Elliptic Curve defined by y^2 = x^3 + (208*a+161)*x^2 + (343*a+209)*x 
 sage: E2.j_invariant()
 344*a + 190
 ```
+**Update (Feb 02, 2022):** Using SageMath 9.5, one can implement SIDH in only 20 lines of code ([announcement](https://twitter.com/yx7__/status/1488775190733484035?s=20&t=v0cPtXdYUruLpWyR84k7SA)).
+
 The [blog posts by Maria Santos (UCL)](https://mariascrs.github.io/posts.html) provide a nice introduction to isogeny-based cryptography.
  
 Now let's look at some of the popular examples.
