@@ -11,15 +11,9 @@ redirect_from:
 
 Education
 ---------
-* Ph.D. in Mathematics with minor in Computer Science, 2019 - present
-  * University: <em>[The University of Arizona, Tucson](https://www.arizona.edu/).</em>
-    * College: <em>[College of Science](https://science.arizona.edu/).</em>
-  
-* M.Sc. (5-year integrated) in Mathematics, 2019
-  * University: <em>[Homi Bhabha National Institute, Mumbai](http://www.hbni.ac.in/).</em>
-    * Constituent Institution: <em>[National Institute of Science Education and Research, Bhubaneswar](http://www.niser.ac.in/) </em>
+* Ph.D. in Mathematics with minor in Computer Science, The University of Arizona, 2019 - present.
+* M.Sc. (5-year integrated) in Mathematics, National Institute of Science Education and Research (Homi Bhabha National Institute), 2019.
   * Thesis: <em>[Sheaf, Cohomology and Geometry](http://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf).</em>
-    * Advisor: <em>[Ritwik Mukherjee](https://www.sites.google.com/site/ritwik371/home).</em>
 
 Work experience
 ------
