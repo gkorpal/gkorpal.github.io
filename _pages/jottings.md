@@ -19,23 +19,12 @@ author_profile: true
 </center>
 </p>
 
-## Computationally secure cryptography
-
-<p>
-<center>
-<a href="https://xkcd.com/538/">
-     <img alt="rsa" src="https://imgs.xkcd.com/comics/security.png" class="center">
-</a>
-</center>
-</p>
-<!----- **Kerckhoffs's principle:** *A cryptosystem should be secure even if everything about the system, except the key, is public knowledge.*----->
-
 To get started, I would recommend the following:
 
 |  Blog posts/interviews | Lecture notes/books |
 | ---------------------- | ------------------- |
 | [So, You Want to be a Cryptographer](https://www.schneier.com/crypto-gram/archives/1999/1015.html#SoYouWanttobeaCryptographer) - Bruce Schneier (Oct 1999) |   [Useful Cryptography Resources](https://blog.cryptographyengineering.com/useful-cryptography-resources/) - Matthew Green (Johns Hopkins)|
-| [Recommended skills for a job in cryptology](https://crypto.stackexchange.com/a/8444/87215) - Reid (May 2013)| [r/crypto](https://www.reddit.com/r/crypto/), [crypto.SE](https://crypto.stackexchange.com/), and [security.SE](https://security.stackexchange.com/) |
+| [Recommended skills for a job in cryptology](https://crypto.stackexchange.com/a/8444/87215) - Reid (May 2013)| [Useful Crypto-related Resources](https://github.com/claucece/useful-crypto-resources) -  Sofía Celi |
 | [Applied Cryptography Engineering](https://sockpuppet.org/blog/2013/07/22/applied-practical-cryptography/) - Thomas and Erin Ptacek "Matasano" (Jul 2013) | [A Course in Cryptography](http://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf) - Rafael Pass and Abhi Shelat (Cornell) |
 | [How Not to Learn Cryptography](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/) - Seny Kamara (Nov 2014) | [Foundations of Cryptography](http://web.cs.ucla.edu/~rafail/PUBLIC/OstrovskyDraftLecNotes2010.pdf) - Rafail Ostrovsky (UCLA) |
 | [Cryptography and Mathematics](https://dl.acm.org/doi/10.1145/2730916) - Kristin Lauter's interview in XRDS: Crossroads, The ACM Magazine for Students (Mar 2015) | [Introduction to Modern Cryptography](https://cseweb.ucsd.edu/~mihir/papers/br-book.pdf) - Mihir Bellare and Phillip Rogaway (UCSD & UC Davis) |
@@ -44,10 +33,26 @@ To get started, I would recommend the following:
 | [How to become a Security Engineer](https://www.coryhardman.com/2021/05/how-to-become-security-engineer.html) - Cory Hardman (May 2021)  | [The Joy of Cryptography](https://joyofcryptography.com/) - Mike Rosulek (Oregon State) |
 | [So, you want to be a Cryptographer?](https://gotchas.salusa.dev/GettingStarted.html) - Greg Rubin (May 2022) | [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - Dan Boneh and Victor Shoup (Stanford & NYU) |
 
-Finally, following are some of my *jottings*:
+## Computationally secure cryptography
+
+<img align="right" width="327" height="200" src="https://imgs.xkcd.com/comics/security.png">
+
+Following are some of my *jottings*:
 * ### [Pencil-paper safe cryptography](https://gkorpal.github.io/pencil)
 * ### [Computer safe cryptography](https://gkorpal.github.io/computer)
 * ### [Quantum safe cryptography](https://gkorpal.github.io/quantum)
+
+
+<!-----
+<p>
+<center>
+<a href="https://xkcd.com/538/">
+     <img alt="rsa" src="https://imgs.xkcd.com/comics/security.png" class="center">
+</a>
+</center>
+</p>
+ **Kerckhoffs's principle:** *A cryptosystem should be secure even if everything about the system, except the key, is public knowledge.*----->
+
 
 ## Unconditionally secure cryptography
 
@@ -60,4 +65,7 @@ Finally, following are some of my *jottings*:
 </center>
 </p>
 
+Following are some of my *jottings*:
 * ### Quantum cryptography (placeholder)
+
+
