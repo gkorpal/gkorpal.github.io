@@ -17,14 +17,17 @@ Education
 
 Work experience
 ------
-* **August 2019 - present:** Graduate Teaching Assistant - Department of Mathematics (The University of Arizona College of Science)
-  * **Spring 2022:** <em> Instructor for Math 120R, Zoom exam proctor for Math 122A (Samantha Kao), and grader for Math 122B (Tynan Lazarus)</em>   
-  * **Fall 2021:** <em> Instructor for Math 120R, Zoom exam proctor for Math 122A (Samantha Kao), and grader for Math 122B (Tynan Lazarus)</em>
-  * **Summer 2021:** <em> TA for Math 112 - Terry Caldwell (Drop-in Tutoring via Zoom and Grading HW via Gradescope)</em>
-  * **Spring 2021:** <em> TA for Math 112 - Michael Rossetti (Drop-in Tutoring via Zoom and Grading HW via Gradescope) and TA for Math 511B - Bryden Cais (Weekly problem solving sessions via Zoom and Grading HW via Gradescope).</em>
-  * **Fall 2020:** <em>TA for Math 112 - Michael Rossetti (Drop-in Tutoring via Zoom, Grading HW via Gradescope and Proctoring exams via Zoom) and Zoom exam proctor for Math 113 (Janet Sipes), Math 112 (Mary Lawler), Math 116 (Erzebet Lugosi) and Math 122A (Tynan Lazarus).</em>
-  * **Spring 2020:** <em>TA for Math 112 - Heonmi Kim ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))</em>
-  * **Fall 2019:** <em>TA for Math 112 - Mitchell James Wilson ([Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf))</em>
+* **August 2019 - May 2022:** Graduate Assistant I, Teaching - Department of Mathematics (The University of Arizona College of Science)
+
+| Semester | Primary responsibilities | Supervisor | Additional responsibilities |
+|--------- | --------------- | ---------- | --------------------------- |
+| Spring 2022| Instructor for Math 120R - Precalculus | Donna Krawczyk | Zoom exam proctor for Math 122A - Calculus (Samantha Kao), and Gradescope grader for Math 122B - Calculus (Tynan Lazarus)|
+| Fall 2021 | Instructor for Math 120R - Precalculus | Janice Takagi | Zoom exam proctor for Math 122A - Calculus (Samantha Kao), and grader for Math 122B - Calculus (Tynan Lazarus)|
+| Summer 2021 | TA for Math 112 - College Algebra | Terry Caldwell | none |
+| Spring 2021 | TA for Math 112 - College Algebra | Michael Rossetti | Super TA for Math 511B - Graduate Algebra II (Bryden Cais) |
+| Fall 2020 | TA for Math 112 - College Algebra | Michael Rossetti | Zoom exam proctor for Math 113 - Calculus (Janet Sipes), Math 112 - College Algebra (Mary Lawler), Math 116 - Business Calculus (Erzebet Lugosi) and Math 122A - Calculus (Tynan Lazarus)|
+| Spring 2020 | TA for Math 112 - Colege Algebra | Heonmi Kim | [Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf)
+| Fall 2019 | TA for Math 112 - College Algebra | Mitchell Wilson | [Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf) |
   
 Awards and Fellowships
 ------
