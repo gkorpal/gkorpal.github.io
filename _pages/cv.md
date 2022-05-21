@@ -39,7 +39,7 @@ Awards and Fellowships
 Conferences and Workshops
 ------
 * [Imagining a Better Online World: Exploring the Decentralized Web](https://metro.org/decentralizedweb), a series of 6 workshops about the Decentralized Web organized by [METRO](https://metro.org/), [Internet Archive](https://archive.org/details/dweb-webinar-series), [DWeb](https://getdweb.net/), and [Library Futures](https://www.libraryfutures.net/), attended via Zoom (on last Thursdays of January-June 2022)
-* [Big Data in Pure Mathematics](https://math-data.github.io/big-data-pure-math-2022/index.html), Boston University (May 21 - May 22, 2022).
+* [Big Data in Pure Mathematics](https://math-data.github.io/big-data-pure-math-2022/index.html), Boston University, held virtually using Zoom and Zulip (May 21 - May 22, 2022).
 * [BJB90: Celebrating the 90th birthday of Bryan John Birch](https://web-eur.cvent.com/event/a5f4d9a4-776f-46aa-a3f1-b84d0863886b/summary?RefId=HIMR), University of Bristol, attended virtually via Zoom (April 22, 2022)
 * [PQNet: Post-Quantum Networks Workshop (Part 2)](https://www.sofiaceli.com/PQNet-Workshop/), Cloudflare Research affiliated event with the [Real World Crypto Symposium 2022](https://rwc.iacr.org/2022/affiliated.php) at Amsterdam, held virtually using Zoom and Slack (April 19 - April 20, 2022)
 * [Microsoft Research Summit](https://researchsummit.microsoft.com/home_public) (The Future of Privacy & Security, The Future of Cloud Networking, and Federated Learning and Confidential Computing), Virtual event (Oct 19 - Oct 21, 2021)
