@@ -13,3 +13,5 @@ Korpal, Gaurish; Scott, Drew (2022): Decentralization and web3 technologies. Tec
 This is a survey paper on decentralization and Web3 technologies. Gaurish wrote about various decentralization technologies being developed (IPFS, Filecoin, Polkadot, Matrix) and Drew wrote about the role of blockchains (Bitcoin, Lightning Network, Ethereum, Zerocoin, Zerocash).
 
 [Download the article](https://gkorpal.github.io/files/drewscott_gkorpal_web3.pdf)
+
+[Download the presentation](https://gkorpal.github.io/files/web3-slides.pdf)
