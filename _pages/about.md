@@ -50,7 +50,7 @@ To enable the "dark mode", please use a browser extension like [Dark Reader](htt
 
 **email:** gkorpal at math dot arizona dot edu
 
-**Research interests**: Applications of arithmetic geometry in cryptography like elliptic curve cryptography, pairing-based cryptography, and isogeny-based cryptography.
+**Research interests**: Applications of arithmetic geometry to cryptography like elliptic curve cryptography, pairing-based cryptography, and isogeny-based cryptography.
 
 <!----
 Arithmetic geometry and the related applications in cryptography.
