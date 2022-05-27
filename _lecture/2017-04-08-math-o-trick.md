@@ -8,7 +8,7 @@ date: 2017-04-08
 location: "NISER Jatni"
 ---
 
-This was a 45 minutes performance prepared and performed by 7 students from my college (alphabetic order):
+This was a 45-minutes card magic trick performance prepared and performed by 7 students from my college (alphabetic order):
 
 * Devashish Sonowal (1st year, Int. M.Sc., NISER)
 * Gaurish Korpal (3rd year, Int. M.Sc. in Math, NISER)
