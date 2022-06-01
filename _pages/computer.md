@@ -10,9 +10,9 @@ redirect_from:
 
 Here we discuss the cryptosystems which play an important role in internet security. These are considered secure against computers built using classical physics theories (binary, electronic, digital, programmable,...).
 
-To get started, I would recommend the following:
+To get started, one can consider the following resources:
 
-|S. No.| Resource |
+|S. No.| Books/lecture notes/video lectures |
 |------|----------|
 |1 | [Lectures on Cryptography](https://shrek.unideb.hu/~tengely/crypto/webwork-mini.html) - Szabolcs Tengely (Debrecen, 2020)|
 |2 | [Cryptography](http://iml.univ-mrs.fr/~kohel/pub/crypto.pdf) - David Kohel (SageMath, July 2008)|
