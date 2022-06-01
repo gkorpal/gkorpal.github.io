@@ -8,16 +8,17 @@ redirect_from:
   
 ---
 
-Classical cryptosystems which played an important role in various battles and the world wars.
+Classical cryptosystems which played an important role in various battles and the world wars. To get started, I would recommend the following:
 
-### References
-1. G. Korpal, [Enigma Cryptanalysis](https://gkorpal.github.io/files/summer2015-enigma_cryptanalysis-gaurish.pdf), July 2015.
-2. S. Tengely, [Lectures on Cryptography: Classical ciphers](http://shrek.unideb.hu/~tengely/crypto/section-2.html), University of Debrecen, 2020.
-3. A. McAndrew, Introduction to Cryptography with Open-Source Software, CRC Press, 2011.
-4. David R. Kohel, [Cryptography](http://iml.univ-mrs.fr/~kohel/pub/crypto.pdf), July 2008.
-5. David R. Kohel and Minh Van Nguyen, [Classical Cryptosystems](https://doc.sagemath.org/html/en/reference/cryptography/sage/crypto/classical.html), SageMath reference manual, 2007--08.
-6. A. Feaver et. al., [Sage Interactions - Cryptography](https://wiki.sagemath.org/interact/cryptography), SageMath Wiki, August 2019.
-7. J. Lyons et. al., [pycipher](https://github.com/jameslyons/pycipher), classical ciphers implemented in Python.
+| S. No. | Resource |
+|--------|----------|
+|1 | [Enigma Cryptanalysis](https://gkorpal.github.io/files/summer2015-enigma_cryptanalysis-gaurish.pdf) - Gaurish Korpal (AUD, July 2015)|
+|2 | [Lectures on Cryptography: Classical ciphers](https://shrek.unideb.hu/~tengely/crypto/section-2.html) - Szabolcs Tengely (Debrecen, 2020)|
+|3 | Introduction to Cryptography with Open-Source Software (first three chapters) - A. McAndrew (CRC Press, 2011)|
+|4 | [Cryptography](http://iml.univ-mrs.fr/~kohel/pub/crypto.pdf) - David R. Kohel (July 2008)|
+|5 | [Classical Cryptosystems](https://doc.sagemath.org/html/en/reference/cryptography/sage/crypto/classical.html) - David R. Kohel and Minh Van Nguyen (SageMath reference manual, 2007--08)|
+|6 | [Sage Interactions - Cryptography](https://wiki.sagemath.org/interact/cryptography) - A. Feaver et al. (SageMath Wiki, August 2019)|
+|7 | [pycipher: classical ciphers implemented in Python](https://github.com/jameslyons/pycipher) - J. Lyons et al.|
 
 {% include base_path %}
 
