@@ -8,7 +8,7 @@ redirect_from:
   
 ---
 
-Here we discuss the cryptosystems which are expected to play an important role in future. These are considered secure against quantum computers (computers built using quantum physics theories). 
+Here we discuss the cryptosystems which are expected to play an important role in future. These are considered secure against quantum computers. That is, the kind of computers built using quantum physics theories. 
 
 To get started, I would recommend the following:
 ### References
