@@ -19,7 +19,7 @@ author_profile: true
 </center>
 </p>
 
-To get started, I would recommend the following:
+To get started, one can consider the following resources:
 
 |  Blog posts/interviews | Lecture notes/books |
 | ---------------------- | ------------------- |
