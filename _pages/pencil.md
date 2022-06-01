@@ -8,7 +8,7 @@ redirect_from:
   
 ---
 
-Here we discuss the cryptosystems which played an important role in various battles and the world wars. These systems were considered secure against humans with only pencil and paper.
+Here we discuss the cryptosystems which played an important role in various battles and the world wars. These were considered secure against humans with only pencil and paper.
 
 To get started, I would recommend the following:
 
