@@ -5,7 +5,7 @@ tags:
   - problem-solving
 ---
 
-begin
+Cypherpunks write code ([*A Cypherpunk's Manifesto* - Eric Hughes, 1993](https://www.activism.net/cypherpunk/manifesto.html)). Therefore, to get started, I want to work on various challenges of [Project Euler](https://projecteuler.net/) and [Cryptopals](https://cryptopals.com/). Eventually, I plan to participate in Capture The Flag (CTF) competitions like [CrytoHack](https://cryptohack.org/), [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://www.hackthebox.com/).
 
 | Topic | Textbook | Complementary Material | Supplementary Material |
 |-------| -------- | -----------------------| -----------------------|
