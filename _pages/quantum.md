@@ -8,7 +8,7 @@ redirect_from:
   
 ---
 
-Post-quantum cryptography which exploits the limitations of quantum computers.
+Here we discuss the cryptosystems which are expected to play an important role in the future. These are considered secure against quantum computers.
 
 ### References
 1. J. Hoffstein, J. Pipher, and J. H. Silverman, An Introduction to Mathematical Cryptography, Springer.
