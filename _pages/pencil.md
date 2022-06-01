@@ -8,7 +8,9 @@ redirect_from:
   
 ---
 
-Classical cryptosystems which played an important role in various battles and the world wars. To get started, I would recommend the following:
+Here we will discuss the cryptosystems which played an important role in various battles and the world wars. These systems were secure against humans with only pencil and paper. 
+
+To get started, I would recommend the following:
 
 | S. No. | Resource |
 |--------|----------|
