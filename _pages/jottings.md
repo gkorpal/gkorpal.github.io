@@ -37,7 +37,7 @@ To get started, I would recommend the following:
 
 <img align="right" width="327" height="200" src="https://imgs.xkcd.com/comics/security.png">
 
-These cryptosystems are considered secure against the computation power offered by pencil-paper, computers, and quantum computers. Following are some of my *jottings*:
+These cryptosystems are considered secure against the computation power offered by pencil-paper, computers, and quantum computers.
 * ### [Pencil-paper safe cryptography](https://gkorpal.github.io/pencil)
 * ### [Computer safe cryptography](https://gkorpal.github.io/computer)
 * ### [Quantum safe cryptography](https://gkorpal.github.io/quantum)
