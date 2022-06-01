@@ -8,7 +8,7 @@ redirect_from:
   
 ---
 
-Here we discuss the cryptosystems which play an important role in internet security. These are considered secure against computers (built using classical physics theories). 
+Here we discuss the cryptosystems which play an important role in internet security. These are considered secure against computers built using classical physics theories (binary, electronic, digital, programmable,...).
 
 To get started, I would recommend the following:
 |S. No.| Resource |
