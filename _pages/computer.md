@@ -8,7 +8,7 @@ redirect_from:
   
 ---
 
-Symmetric and public-key cryptography which exploits the limitations of modern computers.
+Here we discuss the cryptosystems which play an important role in internet security. These systems are considered secure against humans with computers. 
 
 ### References
 1. S. Tengely, [Lectures on Cryptography](http://shrek.unideb.hu/~tengely/crypto/webwork-mini.html), University of Debrecen, 2020.
