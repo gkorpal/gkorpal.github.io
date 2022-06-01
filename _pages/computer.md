@@ -8,22 +8,24 @@ redirect_from:
   
 ---
 
-Here we discuss the cryptosystems which play an important role in internet security. These systems are considered secure against humans with computers. 
+Here we discuss the cryptosystems which play an important role in internet security. These are considered secure against computers. 
 
-### References
-1. S. Tengely, [Lectures on Cryptography](http://shrek.unideb.hu/~tengely/crypto/webwork-mini.html), University of Debrecen, 2020.
-2. D. Kohel, [Cryptography](http://iml.univ-mrs.fr/~kohel/pub/crypto.pdf), July 2008.
-3. A. McAndrew, Introduction to Cryptography with Open-Source Software, CRC.
-5. Matasano, [Cryptopals Challenges](https://cryptopals.com/)
-6. J. Katz and Y. Lindell, Introduction to Modern Cryptography, CRC + [Maryland Cybersecurity Center MOOC](https://cyber.umd.edu/education/beyond-umd)
-7. D. Boneh and V. Shoup, [A graduate course in applied cryptography](http://toc.cryptobook.us/) + [Stanford University MOOC](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
-8. A. Joux, Algorithmic Cryptanalysis, CRC.
-9. J. Hoffstein, J. Pipher, and J. H. Silverman, An Introduction to Mathematical Cryptography, Springer.
-10. S. Galbraith, Mathematics of Public Key Cryptography, CUP. ([version 2.0](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html))
-11. USF Center for Cryptographic Research course: [Introduction to Cryptography and Coding Theory](https://www.usf-crypto.org/mad-4471/)
-12. Eindhoven University of Technology, Bachelor's course: [Introduction to Cryptology](https://www.hyperelliptic.org/tanja/teaching/CS21/)
-13. Eindhoven University of Technology, Master's course: [Cryptology](https://www.hyperelliptic.org/tanja/teaching/crypto21/)
+To get started, I would recommend the following:
+|S. No.| Resource |
+|------|----------|
+|1 | [Lectures on Cryptography](https://shrek.unideb.hu/~tengely/crypto/webwork-mini.html) - Szabolcs Tengely (Debrecen, 2020)|
+|2 | [Cryptography](http://iml.univ-mrs.fr/~kohel/pub/crypto.pdf) - David Kohel (SageMath, July 2008)|
+|3 | Introduction to Cryptography with Open-Source Software - Alasdair McAndrew (CRC Press, 2011)|
+|4 | Introduction to Modern Cryptography -  Jonathan Katz and Yehuda Lindell (CRC Press, 2007) |
+|5 | An Introduction to Mathematical Cryptography - Jeffrey Hoffstein et al. (Springer, 2008) |
+|6 | [Mathematics of Public Key Cryptography](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html) - Steven D. Galbraith (CUP, Oct 2018)|
+|7 | [Introduction to Cryptography and Coding Theory](https://www.usf-crypto.org/mad-4471/) - Jean-Francois Biasse (USF, 2018-2020) |
+|8 | [Introduction to Cryptology](https://www.hyperelliptic.org/tanja/teaching/CS21/) - Tanja Lange (TU/e, 2021) |
+|9 | [Cryptology](https://www.hyperelliptic.org/tanja/teaching/crypto21/) - Tanja Lange (TU/e, 2021) |
+|10| [Coursera MOOC: Cryptography I and II](https://www.coursera.org/instructor/~774) - Dan Boneh (Stanford) |
+|11| [Coursera MOOC: Cryptography](https://www.coursera.org/instructor/~79127) - Jonathan Katz (Maryland) |
 
+<!---- Matasano, [Cryptopals Challenges](https://cryptopals.com/) ---->
 
 {% include base_path %}
 
