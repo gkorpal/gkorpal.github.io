@@ -10,9 +10,9 @@ redirect_from:
 
 Here we discuss the cryptosystems which played an important role in various battles and the world wars. These were considered secure against humans with only pencil and paper.
 
-To get started, I would recommend the following:
+To get started, one can consider the following resources:
 
-| S. No. | Resource |
+| S. No. | Books/Lecture notes/python implementation |
 |--------|----------|
 |1 | [Enigma Cryptanalysis](https://gkorpal.github.io/files/summer2015-enigma_cryptanalysis-gaurish.pdf) - Gaurish Korpal (AUD, July 2015)|
 |2 | The code book : how to make it, break it, hack it, crack it - Simon Singh (Delacorte Press, 2002)|
