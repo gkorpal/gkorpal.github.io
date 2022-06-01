@@ -35,9 +35,9 @@ To get started, I would recommend the following:
 
 ## Computationally secure cryptography
 
-<img align="right" width="327" height="200" src="https://imgs.xkcd.com/comics/security.png">
+<img align="right" width="343" height="210" src="https://imgs.xkcd.com/comics/security.png">
 
-These cryptosystems are considered secure against the computation power offered by human with pencil-paper, computers, and quantum computers.
+These cryptosystems are considered secure against the computation power offered by humans with pencil-paper, computers, and quantum computers.
 * ### [Pencil-paper safe cryptography](https://gkorpal.github.io/pencil)
 * ### [Computer safe cryptography](https://gkorpal.github.io/computer)
 * ### [Quantum safe cryptography](https://gkorpal.github.io/quantum)
