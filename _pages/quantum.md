@@ -8,8 +8,9 @@ redirect_from:
   
 ---
 
-Here we discuss the cryptosystems which are expected to play an important role in the future. These are considered secure against quantum computers.
+Here we discuss the cryptosystems which are expected to play an important role in future. These are considered secure against quantum computers (computers built using quantum physics theories). 
 
+To get started, I would recommend the following:
 ### References
 1. J. Hoffstein, J. Pipher, and J. H. Silverman, An Introduction to Mathematical Cryptography, Springer.
 2. S. Galbraith, Mathematics of Public Key Cryptography, CUP. ([version 2.0](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html))
