@@ -42,8 +42,9 @@ Awards and Fellowships
 Conferences and Workshops
 ------
 * [Number Theory Informed by Computation](https://www.ias.edu/pcmi/pcmi-2022-graduate-summer-school), Park City Mathematics Institute (PCMI GSS 2022), Park City (Jul 17 - Aug 06, 2022)
+* [Mathematical Methods for Quantum Hardware](https://www.imsi.institute/activities/mathematical-methods-for-quantum-hardware/), Institute for Mathematical and Statistical Innovation (IMSI, Chicago), online (July 11 - 15, 2022)
 * [Imagining a Better Online World: Exploring the Decentralized Web](https://metro.org/decentralizedweb), a series of 6 workshops about the Decentralized Web organized by [METRO](https://metro.org/), [Internet Archive](https://archive.org/details/dweb-webinar-series), [DWeb](https://getdweb.net/), and [Library Futures](https://www.libraryfutures.net/), attended via Zoom (on the last Thursdays from Jan to Jun 2022)
-* [Global Virtual Sage Days 112.358](https://wiki.sagemath.org/days112.358), a fully virtual event. (Jun 01 - 03, 2022)
+* [Global Virtual Sage Days 112.358](https://wiki.sagemath.org/days112.358), a fully virtual event held using Zoom and Zulip (Jun 01 - 03, 2022)
 * [Big Data in Pure Mathematics](https://math-data.github.io/big-data-pure-math-2022/index.html), Boston University, held virtually using Zoom and Zulip (May 21 - May 22, 2022).
 * [BJB90: Celebrating the 90th birthday of Bryan John Birch](https://web-eur.cvent.com/event/a5f4d9a4-776f-46aa-a3f1-b84d0863886b/summary?RefId=HIMR), University of Bristol, attended virtually via Zoom (Apr 22, 2022)
 * [PQNet: Post-Quantum Networks Workshop (Part 2)](https://www.sofiaceli.com/PQNet-Workshop/), Cloudflare Research affiliated event with the [Real World Crypto Symposium 2022](https://rwc.iacr.org/2022/affiliated.php) at Amsterdam, held virtually using Zoom and Slack (Apr 19 - 20, 2022)
