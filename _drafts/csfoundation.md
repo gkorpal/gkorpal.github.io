@@ -40,6 +40,8 @@ There are [many programming languages](https://en.wikipedia.org/wiki/History_of_
 
 <img align="center" width="600" height="350" src="/images/timeline.png">
 
+https://docs.racket-lang.org/guide/numbers.html
+
 Python, C and Rust seem to be the popular ones.
 
 <!---- 
