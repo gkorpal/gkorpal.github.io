@@ -5,24 +5,42 @@ tags:
   - problem-solving
 ---
 
-Cypherpunks write code ([*A Cypherpunk's Manifesto* - Eric Hughes, 1993](https://www.activism.net/cypherpunk/manifesto.html)). Therefore, to get started, I want to work on various challenges of [Project Euler](https://projecteuler.net/) and [Cryptopals](https://cryptopals.com/). However, there are [many programming languages](https://en.wikipedia.org/wiki/History_of_programming_languages) to choose from. For example, following are some of the main programming languages developed before the Internet age (source: Programming Languages - Principles and Practice, by Louden & Lambert, 3rd ed)
+Cypherpunks write code ([*A Cypherpunk's Manifesto* - Eric Hughes, 1993](https://www.activism.net/cypherpunk/manifesto.html)). Therefore, I would like to work through the various problems from [Project Euler](https://projecteuler.net/) and [Cryptopals](https://cryptopals.com/). 
 
-<img align="center" width="600" height="350" src="/images/timeline.png">
+## Weak foundations
+In the past, I have dabbled into programming using different languages:
 
+| Education level | Programming language | IDE/Editor (Operating System) |
+| --------------- | -------------------- | ---------------------------- |
+|Primary school (classes I to IV) | Logo | MSWLogo (Windows 98)|
+|Middle school (classes V to VIII) | [Small Basic](https://github.com/gkorpal/DreamSpark-SmallBasic) | Microsoft Small Basic (Windows XP SP3)|
+|High school (classes IX to XII) | [Swing (Java)](https://github.com/gkorpal/learning-Java_GUI) | NetBeans (Windows 7)|
+|Undergraduate school | [C++](https://github.com/gkorpal/learning-Cpp_OOP) |Code::Blocks (Ubuntu 14.04)|
 
-Therefore, I spent one year learning the basics computer science following the advice from other CS majors/professors:
+However, I never spent sufficient amount of time to hone my programming skills. Therefore, at the beginning of my graduate school, I thought of properly [learning programming in Python](https://gkorpal.github.io/posts/2021/01/higher-arithmetic-computations/). However, I didn't like the language much (very different from Java and C++). Moreover, most of [the study materials I found](https://github.com/gkorpal/learning-Python_maths) were more about "writing code to solve a data science problems" rather than "learning to figure out solving a problem using the programming language we know."
+
+## Building foundations
+I decided to take a longer route and spent one year learning the basics computer science following the advice from other CS majors/professors.
+
 
 | Topic | Textbook | Complementary Material | Supplementary Material |
 |-------| -------- | -----------------------| -----------------------|
 | Programming | How to Design Programs, by Felleisen, Findler, Flatt, and Krishnamurthi (2nd edition) |  [HTML edition](https://htdp.org/2022-2-9/Book/index.html); [Racket](https://racket-lang.org/); CS2500 lecture [notes](https://course.ccs.neu.edu/cs2500/syllabus.html) and [videos](https://www.ccs.neu.edu/home/nderbinsky/fundies1/) | Structure and Interpretation of Computer Programs, by Abelson, Sussman, and Sussman ([Wizard book](https://mitpress.mit.edu/sites/default/files/sicp/index.html), [PDF edition](https://github.com/sarabander/sicp-pdf), Brian Harvey's lecture [notes](https://people.eecs.berkeley.edu/~bh/61a-pages/) and [videos](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E)); [CS50](https://cs50.harvard.edu/x/); CS61A lecture [notes](https://composingprograms.com/)|
 | Algorithms and Data Structures | Introduction to Algorithms, by Cormen, Leiserson, Rivest, and Stein (3rd edition) | [Online Resources](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) | Algorithm Design, by Kleinberg, and Tardos ([slides](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)); Algorithms, by Sedgewick and Wayne; CS61B lecture [notes](https://inst.eecs.berkeley.edu/~cs61b)|
 | Computer Organization | The Elements of Computing Systems, by Nisan and Schocken (2nd edition) | [Nand2Tetris](https://www.nand2tetris.org/); [The Python Tutorial](https://docs.python.org/3/tutorial/index.html); Microsoft's learning module on the [Introduction to object-oriented programming with Python](https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/) | Computer Systems: A Programmer's Perspective, by Bryant and O'Hallaron ([online resources](https://csapp.cs.cmu.edu/3e/home.html)); Computer Organization and Design, by Patterson and Hennessy; Modern Compiler Implementation in ML, by Appel ([Tiger book](https://www.cs.princeton.edu/~appel/modern/ml/)); Crafting Interpreters, by Nystrom ([HTML edition](https://craftinginterpreters.com/contents.html)); CS61C lecture [notes](https://inst.eecs.berkeley.edu/~cs61c/sp15/) and [videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_) |
-| Computer Networks | Computer Networks: A Systems Approach, by Peterson and Davie (5th edition) | [HTML edition](https://book.systemsapproach.org/index.html); [Mininet](https://github.com/mininet/mininet/wiki/Teaching-and-Learning-with-Mininet); C Programming: A Modern Approach, by King (2nd edition)| Computer Networking: A Top-Down Approach, by Kurose and Ross ([Wireshark labs](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)) | 
+| Computer Networks | Computer Networks: A Systems Approach, by Peterson and Davie (5th edition) | [HTML edition](https://book.systemsapproach.org/index.html); [Mininet](https://github.com/mininet/mininet/wiki/Teaching-and-Learning-with-Mininet); C Programming: A Modern Approach, by King (2nd edition) ([my notes](https://github.com/gkorpal/learning-C_systems))| Computer Networking: A Top-Down Approach, by Kurose and Ross ([Wireshark labs](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)) | 
 | Computer Security | Computer Security: Principles and Practice, by Stallings and Brown (4th edition) | Network Security: Private Communication in a Public World, by Kaufman, Perlman and Speciner; [SEEDLabs](https://seedsecuritylabs.org/) | Security in Computing, by Pfleeger and Pfleeger; Security Engineering, by Anderson ([drafts](https://www.cl.cam.ac.uk/~rja14/book.html))|
 | Theory | Introduction to the Theory of Computation, by Sipser (3rd edition) | MIT OCW 18.404J lecture [notes](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/lecture-notes/) and [videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY) | Computability and Logic, by Boolos, Burgess, and Jeffrey; The Nature Of Computation, by Moore and Mertens|
 
 
 Eventually, I plan to participate in Capture The Flag (CTF) competitions like [CrytoHack](https://cryptohack.org/), [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://www.hackthebox.com/).
+
+## Introspection
+There are [many programming languages](https://en.wikipedia.org/wiki/History_of_programming_languages) to choose from. For example, following are some of the main programming languages developed before the Internet age (source: Programming Languages - Principles and Practice, by Louden & Lambert, 3rd ed)
+
+<img align="center" width="600" height="350" src="/images/timeline.png">
+
+Python, C and Rust seem to be the popular ones.
 
 <!---- 
 Longterm goals (post-PhD):
