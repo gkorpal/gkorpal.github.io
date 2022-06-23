@@ -17,11 +17,11 @@ In the past, I have dabbled into programming using different languages:
 |High school (classes IX to XII) | [Swing (Java)/SQL](https://github.com/gkorpal/learning-Java_GUI) | NetBeans/MySQL (Windows 7)|
 |Undergraduate school | [C++](https://github.com/gkorpal/learning-Cpp_OOP) |Code::Blocks (Ubuntu 14.04)|
 
-However, I never spent sufficient amount of time to hone my programming skills. Therefore, at the beginning of my graduate school, I thought of properly [learning programming in Python](https://gkorpal.github.io/posts/2021/01/higher-arithmetic-computations/). However, most of [the study materials I found](https://github.com/gkorpal/learning-Python_maths) were more about "writing code to solve a data science problems" rather than "learning to figure out solving a problem using the programming language we know."
+Unfortunately, I never spent time on honing my programming skills. Therefore, at the beginning of my graduate school, I thought of properly learning [programming in Python](https://gkorpal.github.io/posts/2021/01/higher-arithmetic-computations/). However, most of the [study materials](https://github.com/gkorpal/learning-Python_maths) I found were more about "writing code to solve data science problems" rather than "learning to solve problems using programming."
 
 ## The present
 
-I spent one year learning the basics of computer science following the advice from other CS majors/professors.
+I spent one year learning the basics of computer science following the advice from UArizona Computer Science department students and professors.
 
 
 | Topic | Textbook | Complementary Material | Supplementary Material |
