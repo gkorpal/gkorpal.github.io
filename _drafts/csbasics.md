@@ -5,7 +5,7 @@ tags:
   - problem-solving
 ---
 
-Cypherpunks write code ([*A Cypherpunk's Manifesto* - Eric Hughes, 1993](https://www.activism.net/cypherpunk/manifesto.html)). Therefore, I would like to work through the various problems from [Project Euler](https://projecteuler.net/) and [Cryptopals](https://cryptopals.com/). 
+Cypherpunks write code ([*A Cypherpunk's Manifesto* - Eric Hughes, 1993](https://www.activism.net/cypherpunk/manifesto.html)). Therefore, I want to work through the various problems from [Project Euler](https://projecteuler.net/) and [Cryptopals](https://cryptopals.com/). However, I can't code proficiently in any language.
 
 ## The past
 In the past, I have dabbled into programming using different languages:
