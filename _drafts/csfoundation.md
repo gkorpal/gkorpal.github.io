@@ -14,7 +14,7 @@ In the past, I have dabbled into programming using different languages:
 | --------------- | -------------------- | ---------------------------- |
 |Primary school (classes I to IV) | Logo | MSWLogo (Windows 98)|
 |Middle school (classes V to VIII) | [Small Basic](https://github.com/gkorpal/DreamSpark-SmallBasic) | Microsoft Small Basic (Windows XP SP3)|
-|High school (classes IX to XII) | [Swing (Java)](https://github.com/gkorpal/learning-Java_GUI) | NetBeans (Windows 7)|
+|High school (classes IX to XII) | [Swing (Java)/SQL](https://github.com/gkorpal/learning-Java_GUI) | NetBeans/MySQL (Windows 7)|
 |Undergraduate school | [C++](https://github.com/gkorpal/learning-Cpp_OOP) |Code::Blocks (Ubuntu 14.04)|
 
 However, I never spent sufficient amount of time to hone my programming skills. Therefore, at the beginning of my graduate school, I thought of properly [learning programming in Python](https://gkorpal.github.io/posts/2021/01/higher-arithmetic-computations/). However, I didn't like the language much (very different from Java and C++). Moreover, most of [the study materials I found](https://github.com/gkorpal/learning-Python_maths) were more about "writing code to solve a data science problems" rather than "learning to figure out solving a problem using the programming language we know."
