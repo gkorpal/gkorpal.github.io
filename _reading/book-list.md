@@ -9,7 +9,7 @@ paperurl:
 citation: 
 ---
 
-Following are some of the mathematics books that I would recommend reading. The inspiration for this list came from the [Chicago undergraduate mathematics bibliography](https://github.com/ystael/chicago-ug-math-bib).
+Following are some of the mathematics books that I would recommend reading (not cover to cover!). The inspiration for this list came from the [Chicago undergraduate mathematics bibliography](https://github.com/ystael/chicago-ug-math-bib).
 
 One might need university library membership to access some of the out-of-print books (or use the power of internet). I have arranged the topics and books in the order of increasing requirement for mathematical maturity.
 
