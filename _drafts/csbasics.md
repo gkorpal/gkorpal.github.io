@@ -21,7 +21,7 @@ Unfortunately, I never spent time on honing my programming skills. Therefore, at
 
 ## The present
 
-I spent one year learning the basics of computer science following the advice from UArizona Computer Science department students and professors.
+I spent one year learning the basics of computer science following the advice from UArizona Computer Science department students and professors. None of the textbooks were read cover to cover.
 
 
 | Topic | Textbook | Complementary Material | Supplementary Material |
