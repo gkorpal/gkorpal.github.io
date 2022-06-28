@@ -36,20 +36,17 @@ I spent one year learning the basics of computer science following the advice fr
 During this one year journey, I got the opportunities to practice programming using Racket ([Beginning Student Language](https://github.com/gkorpal/HtDP)), C ([Software Router](https://github.com/gkorpal/SoftwareRouter) and [TLS VPN](https://github.com/gkorpal/TLS-VPN)), and Python3 ([Jack compiler](https://github.com/gkorpal/Nand2Tetris)). I also learned regular expression usage in AWK ([Frequency Analysis](https://github.com/gkorpal/TLS-VPN/tree/master/practice/secret-key_encryption)) and Python ([Lexical Analysis](https://github.com/gkorpal/Nand2Tetris/tree/master/p10p11)).
 
 ## The future
-Eventually, I plan to participate in Capture The Flag (CTF) competitions like [CrytoHack](https://cryptohack.org/), [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://www.hackthebox.com/).
+Next, I would like to improve my Python and C programming skills by 
+- solving the exercises from [Project Euler](https://projecteuler.net/) and [Cryptopals](https://cryptopals.com/);
+- contributing to [Open Source projects](https://www.firsttimersonly.com/), especially [SageMath](https://doc.sagemath.org/html/en/faq/faq-contribute.html);
+- creating programming projects related to my thesis
 
-Racket/Scheme (functional) -> Java (object oriented) -> C (systems) -> Python (glue)
-
-Kali Linux.
-
-There are [many programming languages](https://en.wikipedia.org/wiki/History_of_programming_languages) to choose from. For example, following are some of the main programming languages developed before the Internet age (source: Programming Languages - Principles and Practice, by Louden & Lambert, 3rd ed)
+However, there are [many more programming languages](https://en.wikipedia.org/wiki/History_of_programming_languages) to choose from. For example, following are some of the main programming languages developed before the Internet age (source: Programming Languages - Principles and Practice, by Louden & Lambert, 3rd ed)
 
 <img align="center" width="600" height="350" src="/images/timeline.png">
 
+Eventually, I would also like to learn Rust, and participate in Capture The Flag (CTF) competitions like [CrytoHack](https://cryptohack.org/), [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://www.hackthebox.com/) (Kali Linux).
 
-https://docs.racket-lang.org/guide/numbers.html
-
-Python, C and Rust seem to be the popular ones.
 
 <!---- 
 Longterm goals (post-PhD):
