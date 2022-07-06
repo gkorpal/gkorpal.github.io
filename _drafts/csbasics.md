@@ -33,7 +33,15 @@ I spent one year learning the basics of computer science following the advice fr
 | Security | Computer Security: Principles and Practice, by Stallings and Brown (4th edition) | Network Security: Private Communication in a Public World, by Kaufman, Perlman and Speciner; [SEEDLabs](https://seedsecuritylabs.org/) | Security in Computing, by Pfleeger and Pfleeger; Security Engineering, by Anderson ([drafts](https://www.cl.cam.ac.uk/~rja14/book.html)); UC Berkeley CS 161 lecture [notes](https://textbook.cs161.org/)|
 | Theory | Introduction to the Theory of Computation, by Sipser (3rd edition) | MIT OCW 18.404J lecture [notes](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/lecture-notes/) and [videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY) | Introduction to Automata Theory, Languages, and Computation, by Hopcroft, Motwani, and Ullman; Computability and Logic, by Boolos, Burgess, and Jeffrey; The Nature Of Computation, by Moore and Mertens; CMU CS 251 lecture [notes](https://www.cs251.com/Text.html) and [videos](https://youtube.com/playlist?list=PLKzLTB8HeSUIuln-o1mbXfTr8HmIhiGEg)|
 
-During this one year journey, I got the opportunities to practice programming using Racket ([Beginning Student Language](https://github.com/gkorpal/HtDP)), C ([Software Router](https://github.com/gkorpal/SoftwareRouter) and [TLS VPN](https://github.com/gkorpal/TLS-VPN)), and Python3 ([Jack VM](https://github.com/gkorpal/Nand2Tetris)). I also learned regular expression usage in AWK ([Frequency Analysis](https://github.com/gkorpal/TLS-VPN/tree/master/practice/secret-key_encryption)) and Python ([Lexical Analysis](https://github.com/gkorpal/Nand2Tetris/tree/master/p10p11)).
+During this one year journey, I got the opportunities to practice programming:
+
+| Language | Programming Paradigm | GitHub |
+| -------- | -------------------- | ------ |
+| Racket   | Functional | [Beginning Student Language](https://github.com/gkorpal/HtDP))|
+| C        | Procedural | [Software Router](https://github.com/gkorpal/SoftwareRouter) and [TLS VPN](https://github.com/gkorpal/TLS-VPN)|
+| Python3  | Object-Oriented | [Jack VM](https://github.com/gkorpal/Nand2Tetris)|
+
+I also learned regular expression usage in AWK ([Frequency Analysis](https://github.com/gkorpal/TLS-VPN/tree/master/practice/secret-key_encryption)) and Python ([Lexical Analysis](https://github.com/gkorpal/Nand2Tetris/tree/master/p10p11)).
 
 ## The future
 Next, I would like to improve my Python and C programming skills by 
