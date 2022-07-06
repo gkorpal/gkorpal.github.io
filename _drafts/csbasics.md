@@ -37,7 +37,7 @@ During this one year journey, I got the opportunities to practice programming:
 
 | Language | Programming Paradigm | GitHub |
 | -------- | -------------------- | ------ |
-| Racket   | Functional | [Beginning Student Language](https://github.com/gkorpal/HtDP))|
+| Racket   | Functional | [Beginning Student Language](https://github.com/gkorpal/HtDP)|
 | C        | Procedural | [Software Router](https://github.com/gkorpal/SoftwareRouter) and [TLS VPN](https://github.com/gkorpal/TLS-VPN)|
 | Python3  | Object-Oriented | [Jack VM](https://github.com/gkorpal/Nand2Tetris)|
 
