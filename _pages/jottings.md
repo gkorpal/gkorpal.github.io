@@ -33,7 +33,7 @@ To get started, one can consider the following resources:
 | [How to become a Security Engineer](https://www.coryhardman.com/2021/05/how-to-become-security-engineer.html) - Cory Hardman (May 2021) | [Cryptography Primitives and Protocols](https://www.kiayias.com/Aggelos_Kiayias/Introduction_to_Modern_Cryptography_files/Cryptograph_Primitives_and_Protocols.pdf) -  Aggelos Kiayias (Edinburgh)|
 | [So, you want to be a Cryptographer?](https://gotchas.salusa.dev/GettingStarted.html) - Greg Rubin (May 2022) | [The Joy of Cryptography](https://joyofcryptography.com/) - Mike Rosulek (Oregon State) |
 | [Some Cryptography Books I Like](https://cronokirby.com/posts/2022/05/some-cryptography-books-i-like/) - Lúcás Meier (May 2022) | [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - Dan Boneh and Victor Shoup (Stanford & NYU) |
-| [The best books for cryptography apprentices](https://shepherd.com/best-books/for-cryptography-apprentices) - Jean-Philippe Aumasson | [Cryptology ePrint Archive](https://eprint.iacr.org/) - IACR| 
+| [The best books for cryptography apprentices](https://shepherd.com/best-books/for-cryptography-apprentices) - Jean-Philippe Aumasson (Jul 2022) | [Cryptology ePrint Archive](https://eprint.iacr.org/) - IACR| 
 
 
 
