@@ -42,7 +42,7 @@ Awards and Fellowships
 Conferences and Workshops
 ------
 * [Number Theory Informed by Computation](https://www.ias.edu/pcmi/pcmi-2022-graduate-summer-school), Park City Mathematics Institute (PCMI GSS 2022), Park City (Jul 17 - Aug 06, 2022)
-* [Global Quantum Computing & Entrepreneurship Program](https://www.womanium.org/Quantum/Computing), Womanium, Washington DC, Online event attended using Zoom, Discord and Canvas (Jul 10 - Aug 5, 2022: Quantum Training Program with QWorld; Aug 6 - 26, 2022: Quantum Hackathon)
+* [Global Quantum Computing & Entrepreneurship Program](https://www.womanium.org/Quantum/Computing), Womanium, Washington DC, Online event attended using Zoom, Discord and Canvas, equivalent to the [QCourse511-1](https://qworld.net/qcourse511-1/) (Jul 10 - Aug 26, 2022)
 * [Imagining a Better Online World: Exploring the Decentralized Web](https://metro.org/decentralizedweb), a series of 6 workshops about the Decentralized Web organized by [METRO](https://metro.org/), [Internet Archive](https://archive.org/details/dweb-webinar-series), [DWeb](https://getdweb.net/), and [Library Futures](https://www.libraryfutures.net/), Online event attended using Zoom (on the last Thursdays from Jan to Jun 2022)
 * [Global Virtual Sage Days 112.358](https://wiki.sagemath.org/days112.358), Online event attended using Zoom and Zulip (Jun 01 - 03, 2022)
 * [Big Data in Pure Mathematics](https://math-data.github.io/big-data-pure-math-2022/index.html), Boston University, Online event attended using Zoom and Zulip (May 21 - 22, 2022).
