@@ -24,7 +24,7 @@ To get started, one can consider the following resources:
 |  Blog posts/interviews | Lecture notes/books/papers (free and great quality) |
 | ---------------------- | ------------------- |
 | [So, You Want to be a Cryptographer](https://www.schneier.com/crypto-gram/archives/1999/1015.html#SoYouWanttobeaCryptographer) - Bruce Schneier (Oct 1999) |   [Useful Cryptography Resources](https://blog.cryptographyengineering.com/useful-cryptography-resources/) - Matthew Green (Johns Hopkins)|
-| [Recommended skills for a job in cryptology](https://crypto.stackexchange.com/a/8444/87215) - Reid (May 2013)| [Useful Crypto-related Resources](https://github.com/claucece/useful-crypto-resources) -  Sofía Celi |
+| [Recommended skills for a job in cryptology](https://crypto.stackexchange.com/a/8444/87215) - Reid (May 2013)| [The list of 52 Things Every PhD Student Should Know to do Cryptography](https://bristolcrypto.blogspot.com/2014/10/52-things-number-1-different-types-of.html) - Bristol Cryptography Blog |
 | [Applied Cryptography Engineering](https://sockpuppet.org/blog/2013/07/22/applied-practical-cryptography/) - Thomas and Erin Ptacek "Matasano" (Jul 2013) | [Cryptography](http://iml.univ-mrs.fr/~kohel/pub/crypto.pdf) - David R. Kohel (Aix-Marseille)|
 | [How Not to Learn Cryptography](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/) - Seny Kamara (Nov 2014) | [A Course in Cryptography](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf) - Rafael Pass and Abhi Shelat (Cornell) |
 | [Cryptography and Mathematics](https://dl.acm.org/doi/10.1145/2730916) - Kristin Lauter's interview in XRDS: Crossroads, The ACM Magazine for Students (Mar 2015) | [Foundations of Cryptography](https://web.cs.ucla.edu/~rafail/PUBLIC/OstrovskyDraftLecNotes2010.pdf) - Rafail Ostrovsky (UCLA) |
@@ -33,7 +33,7 @@ To get started, one can consider the following resources:
 | [How to become a Security Engineer](https://www.coryhardman.com/2021/05/how-to-become-security-engineer.html) - Cory Hardman (May 2021) | [Cryptography Primitives and Protocols](https://www.kiayias.com/Aggelos_Kiayias/Introduction_to_Modern_Cryptography_files/Cryptograph_Primitives_and_Protocols.pdf) -  Aggelos Kiayias (Edinburgh)|
 | [So, you want to be a Cryptographer?](https://gotchas.salusa.dev/GettingStarted.html) - Greg Rubin (May 2022) | [The Joy of Cryptography](https://joyofcryptography.com/) - Mike Rosulek (Oregon State) |
 | [Some Cryptography Books I Like](https://cronokirby.com/posts/2022/05/some-cryptography-books-i-like/) - Lúcás Meier (May 2022) | [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - Dan Boneh and Victor Shoup (Stanford & NYU) |
-| [The best books for cryptography apprentices](https://shepherd.com/best-books/for-cryptography-apprentices) - Jean-Philippe Aumasson (Jul 2022) | [Cryptology ePrint Archive](https://eprint.iacr.org/) - IACR| 
+| [The best books for cryptography apprentices](https://shepherd.com/best-books/for-cryptography-apprentices) - Jean-Philippe Aumasson (Jul 2022) | [Useful Crypto-related Resources](https://github.com/claucece/useful-crypto-resources) -  Sofía Celi |
 
 
 
