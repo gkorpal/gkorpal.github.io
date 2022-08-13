@@ -126,6 +126,8 @@ There are many new cryptosystems being developed, like [OSIDH](https://eprint.ia
    * B. Wesolowski, [The supersingular isogeny path and endomorphism ring problems are equivalent](https://www.cryptography.fm/21)), Episode 21 (24 Aug 2021)
 7. [Security, Cryptography, Whatever](https://securitycryptographywhatever.buzzsprout.com/) podcast (Deirdre Connolly, Thomas Ptacek, and David Adrian)
    * G. Tankersley, [PAKEs, oPRFs, algebra,...](https://securitycryptographywhatever.buzzsprout.com/1822302/9439685-pakes-oprfs-algebra-feat-george-tankersley), Episode 8 (26 Oct 2021)
+   * [Hertzbleed](https://securitycryptographywhatever.buzzsprout.com/1822302/10812724-hertzbleed), Episode 18 (17 Jun 2022)
+   * S. Galbraith, [Hot Cryptanalytic Summer](https://securitycryptographywhatever.buzzsprout.com/1822302/11123170-hot-cryptanalytic-summer-feat-steven-galbraith), Season 2, Episode 2 (11 Aug 2022)
 8. Workshop on Elliptic Curve Cryptography (ECC): [https://eccworkshop.org/](https://eccworkshop.org/)
 9. Algorithmic Number Theory Symposium (ANTS): [https://antsmath.org](https://antsmath.org)
 10. Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation: [https://simonscollab.icerm.brown.edu/](https://simonscollab.icerm.brown.edu/)
