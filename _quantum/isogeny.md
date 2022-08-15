@@ -70,13 +70,13 @@ sage: E2.j_invariant()
 **Update (Feb 02, 2022):** Using SageMath 9.5, one can implement SIDH in only 20 lines of code ([announcement](https://twitter.com/yx7__/status/1488775190733484035?s=20&t=v0cPtXdYUruLpWyR84k7SA)).
 
 The [blog posts by Maria Santos (UCL)](https://mariascrs.github.io/posts.html) provide a nice introduction to isogeny-based cryptography.
- 
+
 Now let's look at some of the popular examples.
 
 ## Supersingular isogeny Diffie–Hellman (SIDH)
 It was introduced by [L. De Feo, D. Jao, and J.  Plût](https://eprint.iacr.org/2011/506) in 2011 and uses the full ring of endomorphisms of supersingular elliptic curves, which is an order in a quaternion algebra. This scheme is a reminiscent of the [Charles-Goren-Lauter (CGL) cryptographic hash function](https://eprint.iacr.org/2006/021) from 2006, which was [broken in 2020](https://arxiv.org/abs/2004.11495). Its current implementation is called [Supersingular Isogeny Key Encapsulation (SIKE)](https://sike.org/) and was submitted to the [NIST competition on post-quantum cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization) in 2017. An efficient algorithm for computing the endomorphism ring of a supersingular elliptic curve, under [certain assumptions](https://eprint.iacr.org/2018/371), would completely break the SIKE. The [SIDH also motivated](https://ellipticnews.wordpress.com/2020/12/24/sqisign/) the introduction of a new isogeny-based signature schemes like [Galbraith-Petit-Silva signature](https://eprint.iacr.org/2016/1154) and [Short Quaternion and Isogeny Signature (SQISign; pronounced "ski-sign")](https://eprint.iacr.org/2020/1240.pdf).
 
-**Update (Jul 30, 2022):** SIKE broken by Wouter Castryck and Thomas Decru. The [SageMath implementation](https://research.nccgroup.com/2022/08/08/implementing-the-castryck-decru-sidh-key-recovery-attack-in-sagemath/) of this attack recovers the private key in few minutes. See this [note by Galbraith](https://www.math.auckland.ac.nz/~sgal018/kani.pdf) to understand the role of Kani's theorem in this attack.
+**Update (Jul 30, 2022):** SIKE broken by Wouter Castryck and Thomas Decru. The [SageMath implementation](https://research.nccgroup.com/2022/08/08/implementing-the-castryck-decru-sidh-key-recovery-attack-in-sagemath/) of this attack recovers the private key in few minutes. See this [note by Galbraith](https://www.math.auckland.ac.nz/~sgal018/kani.pdf) to understand the role of Kani's theorem in this attack. One can find the current status of attacks [here](https://issikebrokenyet.github.io/).
 
 ### References
 I have included the university location for the write-ups/videos by graduate students. The ones that I found the most useful are star marked (\*).
