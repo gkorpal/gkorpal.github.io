@@ -16,7 +16,7 @@ To get started, one can consider the following resources:
 | ------ | ---------------------------------- |
 |1 | An Introduction to Mathematical Cryptography - Jeffrey Hoffstein et al. (Springer, 2008) |
 |2 | [Mathematics of Public Key Cryptography](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html) - Steven D. Galbraith (CUP, Oct 2018)|
-|3 | [Mathematics of Modern Cryptography](https://www.ias.edu/math/wam/2018) - Toni Bluher et al. (2018) [YouTube](https://youtube.com/playlist?list=PLdDZb3TwJPZ7MPcSPF2Qaqo6azr0VYOK2)
+|3 | [Mathematics of Modern Cryptography](https://www.ias.edu/math/wam/2018) - Toni Bluher et al. (2018) ([YouTube](https://youtube.com/playlist?list=PLdDZb3TwJPZ7MPcSPF2Qaqo6azr0VYOK2))
 |4 | [Post-quantum cryptography](https://hyperelliptic.org/tanja/teaching/pqcrypto21/) - Tanja Lange (TU/e, 2021) |
 |5 | [Introduction to mathematical cryptography](https://www.uvm.edu/~cvincen1/pcmi-uss.html) - Christelle Vincent (PCMI, 2022) |
 |6 | [Quantum Algorithms and Complexity](https://www.usf-crypto.org/mat-4930/) - Jean-Francois Biasse (USF, 2021) |
