@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Computer safe cryptography"
+title: "Classical computer safe cryptography"
 permalink: /computer/
 author_profile: true
 redirect_from:
