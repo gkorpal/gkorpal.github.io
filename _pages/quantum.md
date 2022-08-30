@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Quantum safe cryptography"
+title: "Quantum computer safe cryptography"
 permalink: /quantum/
 author_profile: true
 redirect_from:
