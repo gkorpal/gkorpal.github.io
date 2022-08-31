@@ -44,7 +44,7 @@ redirect_from:
 
 To enable the "dark mode", please use a browser extension like [Dark Reader](https://darkreader.org/).
 
-**Office:** ENR2 S390GG ([Environment and Natural Resources 2 Building](https://enr2tour.arizona.edu/))
+**Office:** MATH 707
 
 <!--- **Office Hours:**  On Sundays from 2:00 pm to 3:00 pm, on Tuesdays and Thursdays from 4:00 pm to 5:00 pm --->
 
