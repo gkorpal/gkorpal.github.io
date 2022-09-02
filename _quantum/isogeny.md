@@ -9,11 +9,18 @@ paperurl:
 citation: 
 ---
  
-Isogeny-based cryptography is a kind of elliptic-curve cryptography, whose security relies on (various incarnations of) the problem of finding an explicit isogeny between two given isogenous supersingular elliptic curves over a finite field $\mathbb F_q$. Currently, quantum computers do not seem to make the isogeny-finding problem substantially easier. This contrasts with the standard discrete-logarithm based elliptic-curve cryptography which is not quantum-safe due to polynomial-time quantum algorithm by [P. W. Shor](https://arxiv.org/abs/quant-ph/9508027v2) from 1997.
+Isogeny-based cryptography is a kind of elliptic-curve cryptography, whose security relies on (various incarnations of) the problem of finding an explicit isogeny between two given isogenous supersingular elliptic curves over a finite field $\mathbb F_q$. However, given an elliptic curve $E$ in Weierstrass form over a finite field $\mathbb F_q$ and a point $P$ on $E$ of order $n$, one can compute a cyclic separable isogeny of degree $n$ using [Velu's formulas in SageMath](https://doc.sagemath.org/html/en/reference/arithmetic_curves/sage/schemes/elliptic_curves/ell_curve_isogeny.html) (implemented by [D. Shumow in 2009](https://arxiv.org/abs/0910.5370)).
 
-Given an elliptic curve $E$ in Weierstrass form over a finite field $\mathbb F_q$ and a point $P$ on $E$ of order $n$, then we can compute a cyclic separable isogeny of degree $n$ using [Velu's formulas in SageMath](https://doc.sagemath.org/html/en/reference/arithmetic_curves/sage/schemes/elliptic_curves/ell_curve_isogeny.html) (implemented by [D. Shumow in 2009](https://arxiv.org/abs/0910.5370)):
+Currently, quantum computers do not seem to make the isogeny-finding problem substantially easier. This contrasts with the standard discrete-logarithm based elliptic-curve cryptography which is not quantum-safe due to polynomial-time quantum algorithm by [P. W. Shor](https://arxiv.org/abs/quant-ph/9508027v2) from 1997.
 
-```python
+The [blog posts by Maria Santos (UCL)](https://mariascrs.github.io/posts.html) provide a nice introduction to isogeny-based cryptography.
+
+Now let's look at some of the popular examples.
+
+## Supersingular isogeny Diffie–Hellman (SIDH)
+It was introduced by [L. De Feo, D. Jao, and J.  Plût](https://eprint.iacr.org/2011/506) in 2011 and uses the full ring of endomorphisms of supersingular elliptic curves, which is an order in a quaternion algebra. This scheme is a reminiscent of the [Charles-Goren-Lauter (CGL) cryptographic hash function](https://eprint.iacr.org/2006/021) from 2006, which was [broken in 2020](https://arxiv.org/abs/2004.11495). Its current implementation is called [Supersingular Isogeny Key Encapsulation (SIKE)](https://sike.org/) and was submitted to the [NIST competition on post-quantum cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization) in 2017. An efficient algorithm for computing the endomorphism ring of a supersingular elliptic curve, under [certain assumptions](https://eprint.iacr.org/2018/371), would completely break the SIKE. The [SIDH also motivated](https://ellipticnews.wordpress.com/2020/12/24/sqisign/) the introduction of a new isogeny-based signature schemes like [Galbraith-Petit-Silva signature](https://eprint.iacr.org/2016/1154) and [Short Quaternion and Isogeny Signature (SQISign; pronounced "ski-sign")](https://eprint.iacr.org/2020/1240.pdf).
+
+<!---- python
 # Verifying the computations given on page 6 of the article by Craig Costello.
 # Since the j-invariant of supersingular elliptic curves lies in F_{p^2}
 # it is sufficient to work with quadratic extension of F_p.
@@ -66,15 +73,9 @@ points on Elliptic Curve defined by y^2 = x^3 + (208*a+161)*x^2 + (343*a+209)*x 
 (363*a+398) over Finite Field in a of size 431^2
 sage: E2.j_invariant()
 344*a + 190
-```
+---->
+
 **Update (Feb 02, 2022):** Using SageMath 9.5, one can implement SIDH in only 20 lines of code ([announcement](https://twitter.com/yx7__/status/1488775190733484035?s=20&t=v0cPtXdYUruLpWyR84k7SA)).
-
-The [blog posts by Maria Santos (UCL)](https://mariascrs.github.io/posts.html) provide a nice introduction to isogeny-based cryptography.
-
-Now let's look at some of the popular examples.
-
-## Supersingular isogeny Diffie–Hellman (SIDH)
-It was introduced by [L. De Feo, D. Jao, and J.  Plût](https://eprint.iacr.org/2011/506) in 2011 and uses the full ring of endomorphisms of supersingular elliptic curves, which is an order in a quaternion algebra. This scheme is a reminiscent of the [Charles-Goren-Lauter (CGL) cryptographic hash function](https://eprint.iacr.org/2006/021) from 2006, which was [broken in 2020](https://arxiv.org/abs/2004.11495). Its current implementation is called [Supersingular Isogeny Key Encapsulation (SIKE)](https://sike.org/) and was submitted to the [NIST competition on post-quantum cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization) in 2017. An efficient algorithm for computing the endomorphism ring of a supersingular elliptic curve, under [certain assumptions](https://eprint.iacr.org/2018/371), would completely break the SIKE. The [SIDH also motivated](https://ellipticnews.wordpress.com/2020/12/24/sqisign/) the introduction of a new isogeny-based signature schemes like [Galbraith-Petit-Silva signature](https://eprint.iacr.org/2016/1154) and [Short Quaternion and Isogeny Signature (SQISign; pronounced "ski-sign")](https://eprint.iacr.org/2020/1240.pdf).
 
 **Update (Jul 30, 2022):** SIKE broken by Wouter Castryck and Thomas Decru. The [SageMath implementation](https://research.nccgroup.com/2022/08/08/implementing-the-castryck-decru-sidh-key-recovery-attack-in-sagemath/) of this attack recovers the private key in few minutes. See the posts by [Steven Galbraith](https://ellipticnews.wordpress.com/2022/08/12/attacks-on-sidh-sike/) and [Lorenz Panny](https://yx7.cc/blah/2022-08-22.html) to understand the attack. One can find the current status of attacks [here](https://issikebrokenyet.github.io/).
 
@@ -87,7 +88,7 @@ I have included the university location for the write-ups/videos by graduate stu
 5. L. Panny (TU Eindhoven 2017), [You could have invented Supersingular Isogeny Diffie-Hellman](https://yx7.cc/docs/sidh/ychi_sidh_slides.pdf)
 6. M. Inés, A. Ali, and A. Best (Boston 2018), [Supersingular Isogeny Graphs and Quaternion Algebras](https://alexjbest.github.io/buntes/chapter-supersing-isog.html) (Bonus: [BUNTES Fall 2018](http://math.bu.edu/people/midff/buntes/fall2018.html))
 7. S. Arpin (Boulder 2019) , [A Survey of Literature on Supersingular Isogeny Graphs](http://math.colorado.edu/~saar7867/SupersingularIsogenyLiterature.pdf)
-8. \*C. Costello (2019), [Supersingular isogeny key exchange for beginners](https://eprint.iacr.org/2019/1321) (Bonus: [video](https://www.microsoft.com/en-us/research/video/post-quantum-cryptography-supersingular-isogenies-for-beginners/))
+8. \*C. Costello (2019), [Supersingular isogeny key exchange for beginners](https://eprint.iacr.org/2019/1321) (Bonus: [video](https://www.microsoft.com/en-us/research/video/post-quantum-cryptography-supersingular-isogenies-for-beginners/), [Companion SageMath notebook by Wojciech Nawrocki](https://voidma.in/posts/jupyter_notebooks/2020-07-03-sike.html), and [Computation verification by me using SageMath](https://gkorpal.github.io/files/Costello-Sage.pdf))
 9. K. Lauter and J. Sotáková (2021), [Supersingular Isogeny Graphs in Cryptography](https://jana-sotakova.github.io/PCMI.html) (Bonus: [PCMI webpage](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions) and [KLPT algorithm podcast](https://www.cryptography.fm/21))
 10. P. Longa (2021), [Supersingular Isogeny-Based Cryptography: Implementation Aspects and Parameter Selection](https://irp.cdn-website.com/7fa75f95/files/uploaded/IBCSchool_Longa.pdf) (Bonus: [slides](https://www.patricklonga.com/talks) and [related video](https://www.youtube.com/watch?v=31NyfrHSAco))
 11. J-J Chi-Domínguez (2021), [A quick journey on what SI[DH/KE] is](https://youtu.be/B_0osKMNN5k?t=462) (Bonus: [slides](https://jjchidguez.github.io/slides.html); the notation used for function composition is a bit confusing; here "Kummer line arithmetic" = Montgomery ladder + Vélu's formulas -- see the [original SIDH paper](https://eprint.iacr.org/2011/506).)
