@@ -16,8 +16,8 @@ To get started, one can consider the following resources:
 |------|----------|
 |1 | [Lectures on Cryptography](https://shrek.unideb.hu/~tengely/crypto/webwork-mini.html) - Szabolcs Tengely (Debrecen, 2020)|
 |2 | Introduction to Cryptography with Open-Source Software - Alasdair McAndrew (CRC Press, 2011)|
-|3 | Introduction to Modern Cryptography -  Jonathan Katz and Yehuda Lindell (CRC Press, 2007) |
-|4 | An Introduction to Mathematical Cryptography - Jeffrey Hoffstein et al. (Springer, 2008) |
+|3 | [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) -  Jonathan Katz and Yehuda Lindell (CRC Press, 2021) |
+|4 | [An Introduction to Mathematical Cryptography](https://www.math.brown.edu/johsilve/MathCryptoHome.html) - Jeffrey Hoffstein et al. (Springer, 2014) |
 |5 | [Mathematics of Public Key Cryptography](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html) - Steven D. Galbraith (CUP, Oct 2018)|
 |6 | [Introduction to Cryptography and Coding Theory](https://www.usf-crypto.org/mad-4471/) - Jean-Francois Biasse (USF, 2018-2020) |
 |7 | [Introduction to Cryptology](https://www.hyperelliptic.org/tanja/teaching/CS21/) - Tanja Lange (TU/e, 2021) |
