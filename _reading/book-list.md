@@ -28,7 +28,7 @@ One might need university library membership to access some of the out-of-print 
   * [Elementary Number Theory](#elementary-number-theory)
   * [Analytic Number Theory](#analytic-number-theory)
   * [Algebraic Number Theory](#algebraic-number-theory)
-  * [Algorithmic Number Theory](#algorithmic-number-theory)
+  * [Computational Number Theory](#computational-number-theory)
   * [Arithmetic Geometry](#arithmetic-geometry)
   * [Complex Geometry](#complex-geometry)
   * [Enumerative Geometry](#enumerative-geometry)
@@ -212,22 +212,25 @@ The topics and books are arranged in the order I would recommend learning them.
   * **Primes of the Form $x^2 + ny^2$** by *D. Cox*: For a working knowledge of the important results of global class field theory one should read this as per [this advice](https://mathoverflow.net/a/6940/). *I haven't read this book.*
 
 
-## Algorithmic Number Theory
+## Computational Number Theory
 
 <!---- * **Algorithmic Number Theory: Efficient Algorithms** by *E. Bach and J. Shallit*: This book discusses those problems from number theory (primality testing, factorization, discrete logarithm,...) which admit efficient solutions. The focus is more on "how"
 * **Mathematics of Public Key Cryptography** by *S. Galbraith*: The book is a collection of the necessary background and results needed for a deep understanding of public key cryptography. The latest edition is [available online](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html).
   * **An Introduction to Mathematical Cryptography** by *J. Hoffstein, J. Pipher, and J. H. Silverman*: An undergraduate textbook on public key cryptography.
-  * **Computational Number Theory** by *A. Das*: PARI/GP illustrations of most number theory algorithms used in public key cryptography (more up-to-date than the book by [Giblin](https://www.cambridge.org/us/academic/subjects/mathematics/number-theory/primes-and-programming)). The main problem with this book is that the references are given in footnotes and not at the end, plus missing book index.
+   * **Cryptology and Computational Number Theory: Lectures from the AMS short course held at the University of Colorado, Boulder (Aug 6-7, 1989)** edited by *C. Pomerance*: Discusses the algorithms related to pre-ECC cryptography.
+  * **Elliptic Curves in Cryptography** by *I. Blake, G. Seroussi, and N. Smart*: Contains various extensions of Schoof's algorithm in Chapter VII. Useful when reading Chapter 7 of Crandall-Pomerance.
   * **Number-Theoretic Algorithms in Cryptography** by *O. N. Vasilenko*: A survey of number theory algorithms used in public key cryptography.
 ---->
 * **Prime Numbers: A Computational Perspective** by *R. Crandall and C. Pomerance*: It is a survey of the most important methods for proving primality and factoring (a kind of expanded version of the books by [Bressoud](https://www.springer.com/gp/book/9780387970400) and [Wagstaff](https://bookstore.ams.org/stml-68/)).
-  * **Cryptology and Computational Number Theory: Lectures from the AMS short course held at the University of Colorado, Boulder (Aug 6-7, 1989)** edited by *C. Pomerance*: Discusses the algorithms related to pre-ECC cryptography.
-  * **Elliptic Curves in Cryptography** by *I. Blake, G. Seroussi, and N. Smart*: Contains various extensions of Schoof's algorithm in Chapter VII. Useful when reading Chapter 7 of Crandall-Pomerance.
+  * **Computational Number Theory** by *A. Das*: PARI/GP illustrations of most number theory algorithms (more up-to-date than the book by [Giblin](https://www.cambridge.org/us/academic/subjects/mathematics/number-theory/primes-and-programming)). The main problem with this book is that the references are given in footnotes and not at the end, plus missing book index.
 * **A Course in Computational Algebraic Number Theory** by *H. Cohen*: The encyclopedic reference (no math/complexity proofs) for algorithmic number theory, written by the founder of PARI/GP. One can ignore the word "algebraic" in the title, since it discusses all types of number theoretic algorithms. Especially useful for lattice realted algorithms.
+  * **Algorithmic number thoery: Proceedings of a one-semester program at MSRI, Berkeley (Fall 2000)** edited by *J. Buhler and P. Stevenhagen*: This contains survey articles on a variety of topics like smooth numbers, factoring, primality testing, lattices, elliptic curves, computational algebraic number theory, fast arithmetic algorithms, modular forms, and arithmetic geometry. The articles are [available online](http://library.msri.org/books/Book44/contents.html).
 * **Binary Quadratic Forms: An Algorithmic Approach** by *J. Buchmann and U. Vollmer*: An introduction to many areas of algorithmic number theory for which the theory of binary quadratic forms is a starting point, like Diophantine equations, geometry of numbers, and algebraic number theory.  *Not read myself*.
   * **Advanced Topics in Computational Number Theory** by *H. Cohen*: It focuses primarly on algebraic number theory, and should have "algebraic" in its title.
 * **Modular Forms: A Computational Approach** by *W. Stein*: This is a graduate-level textbook about algorithms for computing with modular forms, written by the founder of SageMath. See [LMFDB](https://www.lmfdb.org/). *Not read myself*.
   * **Algorithms for Modular Elliptic Curves** by *J. E. Cremona*: Available [online](https://homepages.warwick.ac.uk/staff/J.E.Cremona/book/fulltext/index.html).
+* **Counting points on hyperelliptic curves over finite fields** by *D. Harvey*: The [draft of lecture notes](https://web.maths.unsw.edu.au/~davidharvey/research/pcmi-draft.pdf) from PCMI GSS 2022.  I will read them once I have 6 months available.
+  * **Elliptic Curves** by *A. Sutherland*: Lecture notes for MIT course [18.783 Elliptic Curves](https://math.mit.edu/classes/index.php?course=783). 
 
 ## Arithmetic Geometry 
 
@@ -236,15 +239,12 @@ The topics and books are arranged in the order I would recommend learning them.
 * **The Arithmetic of Elliptic Curves** by *J. H. Silverman*: The standard introductory text about elliptic curves using techniques from algebraic geometry (varieties in projective spaces). Make sure to use the 2nd edition corrected in 2016 printing, since earlier versions have lot of typos. Neukirch's "Algebraic Number Theory" book might be helpful when reading sections II.2, II.3, III.7 and VII.4. Also, it would be useful to recall stuff from analyic number theory, like Riemann zeta function (for section V.2), Diophantine approximation (for section IX.1) and transcendental number theory (for section IX.5).
    * **Basic Algebraic Geometry** by *I. Shafarevich* (translated from the Russian by K. A. Hirsch): This is a reference for many proofs skipped in the first two chapters by Silverman. Note that this is quiet different, in terms of notations and organization, from the newer expanded translation by Miles Reid.
    * **Galois Representations** by *Gabor Wiese*: These notes complement the discussion in section III.7 of Silverman's text. They are [available online](https://math.uni.lu/~wiese/notes/GalRep.pdf).
-* **Rational Points on Varieties** by *B. Poonen*: It provides a good introduction to the theory of obstructions to rational points on a variety, while briefly discussing other useful tools like étale cohomology. However, I have only read the first four chapters which discuss basic stuff.
+* **Rational Points on Varieties** by *B. Poonen*: It provides a good introduction to the theory of obstructions to rational points on a variety, while briefly discussing other useful tools like étale cohomology. However, I have only read the first four chapters which discuss basic stuff. 
   * **Central Simple Algebras and Galois Cohomology** by *P. Gille and T. Szamuely*: This book discusses the proofs and exercises given in the first and fourth chapters of Poonen's book. Central Simple Algebras (CSAs) over a field K are a non-commutative analog to extension fields over K – in both cases, they have no non-trivial 2-sided ideals, and have a distinguished field in their center, though a CSA can be non-commutative and need not have inverses (need not be a division algebra). This is of particular interest in "noncommutative number theory" as [generalizations of number fields](https://en.wikipedia.org/wiki/Hurwitz_quaternion_order). A detailed discussion of Brauer group examples related to class field theory is available in chapter IV and VIII.4 of Milne's [Class Field Theory notes](https://www.jmilne.org/math/CourseNotes/cft.html).
   * **Algebraic Geometry and Arithmetic Curves** by *Q. Liu* (translated from the French by R. Erné): This book discusses the proofs and exercises given in the second and third chapters of Poonen's book. An introduction to the language of schemes (chapters 1 to 4), without assuming the base field to be algebraically closed, or of characteristic zero. Some prior knowledge of complex geometry might be helpful when reading this book. 
- 
-<!---
- * **Arithmetic Geometry: Proceedings of the instructional conference held at the University of Connecticut (Jul 30 - Aug 10, 1984)** edited by *G. Cornell and J. H. Silverman*: The reference to learn basics of advanced topics like Jacobian varieties and Néron Models. It also contains the article by Milne which discusses abelian varieties without assuming ground field to be algebraically closed. Most of the articles are intended as expositions of the tools used in the proof of Faltings' theorem.  
+* **Arithmetic Geometry: Proceedings of the instructional conference held at the University of Connecticut (Jul 30 - Aug 10, 1984)** edited by *G. Cornell and J. H. Silverman*: The reference to learn basics of advanced topics like Jacobian varieties and Néron Models. It also contains the article by Milne which discusses abelian varieties without assuming ground field to be algebraically closed. Most of the articles are intended as expositions of the tools used in the proof of Faltings' theorem.  
   * **Algebraic Geometry** by *R. Hartshorne*: The chapter II and III of this book provide an introduction to algebraic geometry via the theory of schemes over algebraically closed field. Good reference for the cohomology of schemes. 
   * **Abelian Varieties** by *D. Mumford*: A scheme-theoretic treatment of most of the basic theory of abelian varieties. However, all ground fields are assumed to be algebraically closed, which limits the usefulness of the book as a reference for arithmetic geometers.
---->
 
 ## Complex Geometry 
 
