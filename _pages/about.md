@@ -50,13 +50,11 @@ To enable the "dark mode", please use a browser extension like [Dark Reader](htt
 
 **email:** gkorpal at math dot arizona dot edu
 
-**Research interests**: Applications of arithmetic geometry to cryptography; like elliptic curve cryptography ([Koblitz](https://www.ams.org/journals/mcom/1987-48-177/S0025-5718-1987-0866109-5/) and [Miller](https://link.springer.com/chapter/10.1007/3-540-39799-X_31)), pairing-based cryptography ([Joux](https://link.springer.com/chapter/10.1007/10722028_23)), and isogeny-based cryptography ([Couveignes](https://eprint.iacr.org/2006/291), [Rostovtsev-Stolbunov](https://eprint.iacr.org/2006/145), and [Charles-Goren-Lauter](https://eprint.iacr.org/2006/021)).
 
 <img align="left" width="400" height="520" src="https://www.smbc-comics.com/comics/1472742903-20160901.png">
-<img align="right" width="400" height="520" src="https://www.smbc-comics.com/comics/1464966334-20160603.png">
+<img align="left" width="400" height="520" src="https://www.smbc-comics.com/comics/1464966334-20160603.png">
 
-
-
+**Research interests**: Applications of arithmetic geometry to cryptography; like elliptic curve cryptography ([Koblitz](https://www.ams.org/journals/mcom/1987-48-177/S0025-5718-1987-0866109-5/) and [Miller](https://link.springer.com/chapter/10.1007/3-540-39799-X_31)), pairing-based cryptography ([Joux](https://link.springer.com/chapter/10.1007/10722028_23)), and isogeny-based cryptography ([Couveignes](https://eprint.iacr.org/2006/291), [Rostovtsev-Stolbunov](https://eprint.iacr.org/2006/145), and [Charles-Goren-Lauter](https://eprint.iacr.org/2006/021)).
 
 <!----
 Arithmetic geometry and the related applications in cryptography.
