@@ -39,7 +39,7 @@ To get started, one can consider the following resources:
 
 ## Computationally secure cryptography
 
-<img align="right" width="343" height="210" src="https://imgs.xkcd.com/comics/security.png">
+<img align="right" width="350" height="220" src="https://imgs.xkcd.com/comics/security.png">
 
 These cryptosystems are considered secure against the computation power offered by humans with pencil-paper, computers, and quantum computers.
 * ### [Pencil-paper safe cryptography](https://gkorpal.github.io/pencil)
@@ -54,11 +54,7 @@ These cryptosystems are considered secure against the computation power offered 
      <img alt="rsa" src="https://imgs.xkcd.com/comics/security.png" class="center">
 </a>
 </center>
-</p>
- **Kerckhoffs's principle:** *A cryptosystem should be secure even if everything about the system, except the key, is public knowledge.*----->
 
-
-## Unconditionally secure cryptography
 
 <p>
 <center>
@@ -68,6 +64,14 @@ These cryptosystems are considered secure against the computation power offered 
 </a>
 </center>
 </p>
+</p>
+ **Kerckhoffs's principle:** *A cryptosystem should be secure even if everything about the system, except the key, is public knowledge.*----->
+
+
+## Unconditionally secure cryptography
+
+<img align="left" width="350" height="370" src="https://www.smbc-comics.com/comics/1544366826-20181209.png">
+
 
 Following are some of my *jottings*:
 * ### Quantum cryptography (placeholder)
