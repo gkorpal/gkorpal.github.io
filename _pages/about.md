@@ -46,13 +46,14 @@ To enable the "dark mode", please use a browser extension like [Dark Reader](htt
 
 **Office:** MATH 707
 
-<!--- **Office Hours:**  On Sundays from 2:00 pm to 3:00 pm, on Tuesdays and Thursdays from 4:00 pm to 5:00 pm --->
+<!--- **Office Hours:**  On Sundays from 2:00 pm to 3:00 pm, on Tuesdays and Thursdays from 4:00 pm to 5:00 pm 
+<img align="left" width="400" height="520" src="https://www.smbc-comics.com/comics/1472742903-20160901.png">
+--->
 
 **email:** gkorpal at math dot arizona dot edu
 
 
-<img align="left" width="400" height="520" src="https://www.smbc-comics.com/comics/1472742903-20160901.png">
-<img align="left" width="400" height="520" src="https://www.smbc-comics.com/comics/1464966334-20160603.png">
+<img align="left" width="350" height="450" src="https://www.smbc-comics.com/comics/1464966334-20160603.png">
 
 **Research interests**: Applications of arithmetic geometry to cryptography; like elliptic curve cryptography ([Koblitz](https://www.ams.org/journals/mcom/1987-48-177/S0025-5718-1987-0866109-5/) and [Miller](https://link.springer.com/chapter/10.1007/3-540-39799-X_31)), pairing-based cryptography ([Joux](https://link.springer.com/chapter/10.1007/10722028_23)), and isogeny-based cryptography ([Couveignes](https://eprint.iacr.org/2006/291), [Rostovtsev-Stolbunov](https://eprint.iacr.org/2006/145), and [Charles-Goren-Lauter](https://eprint.iacr.org/2006/021)).
 
