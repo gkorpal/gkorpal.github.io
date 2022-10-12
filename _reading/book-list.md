@@ -24,12 +24,13 @@ One might need university library membership to access some of the out-of-print 
   * [Algebra](#algebra)
   * [Topology](#topology)
   * [Geometry](#geometry)
-* [Special Topics](#special-topics)
+* [Number Theory](#number-theory)
   * [Elementary Number Theory](#elementary-number-theory)
   * [Analytic Number Theory](#analytic-number-theory)
   * [Algebraic Number Theory](#algebraic-number-theory)
   * [Computational Number Theory](#computational-number-theory)
   * [Arithmetic Geometry](#arithmetic-geometry)
+* [Scary Topics](#scary-topics)
   * [Complex Geometry](#complex-geometry)
   * [Enumerative Geometry](#enumerative-geometry)
   * [Representation Theory](#representation-theory)
@@ -171,7 +172,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
   * **Geometry** by *M. Audin*: This book will help to bridge the gap between high-school geometry (Euclidean plane, Cartesian 2D and 3D, and Argand plane) and university geometry (differential geometry and algebraic geometry). Also, the chapters V and VI of this book supplement the contents of Samuel's book.
 * **An Invitation to Algebraic Geometry** by *K. E. Smith, et. al.*: This book nicely complements the first chapter of Hartshorne (rest of that book is about scheme theory). Lots of solved examples. Note that, though "genus" of a curve (Riemann surface) is defined in algebraic topology via Euler charateristic and in (complex) algebraic geometry via Riemann-Roch theorem, there is a close correspondence between "divisors" (algebraic geometry) and holomorphic "line bundles" (algebriac topology) on a Riemann surface. You can find more about this in the last chapter (Chapter 8) of this book. A good follow-up read would be the book "Algebraic Curves" by Fulton ([available online](http://www.math.lsa.umich.edu/~wfulton/CurveBook.pdf)) where a proof of Riemann-Roch theorem for cruves is discussed.
 
-# Special Topics 
+# Number Theory 
 --------------
 
 <img src="/images/book6.jpg" alt="">
@@ -246,6 +247,9 @@ The topics and books are arranged in the order I would recommend learning them.
   * **Algebraic Geometry** by *R. Hartshorne*: The chapter II and III of this book provide an introduction to algebraic geometry via the theory of schemes over algebraically closed field. Good reference for the cohomology of schemes. 
   * **Abelian Varieties** by *D. Mumford*: A scheme-theoretic treatment of most of the basic theory of abelian varieties. However, all ground fields are assumed to be algebraically closed, which limits the usefulness of the book as a reference for arithmetic geometers.
 
+
+# Scary Topics 
+--------------
 ## Complex Geometry 
 
 * **Algebraic Curves and Riemann Surfaces** by *R. Miranda*: It is a nice introductory text. Its Chapter IX is a good source for learning about Cech cohomology.
