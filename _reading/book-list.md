@@ -18,19 +18,19 @@ One might need university library membership to access some of the out-of-print 
 * [Olympiad Maths](#olympiad-maths)
 * [High School Maths](#high-school-maths)
 * [Undergraduate Maths](#undergraduate-maths)
-  * [Calculus](#calculus)
-  * [Analysis](#analysis)
   * [Discrete Mathematics](#discrete-mathematics)
   * [Algebra](#algebra)
+  * [Calculus](#calculus)
+  * [Analysis](#analysis)
   * [Topology](#topology)
   * [Geometry](#geometry)
 * [Number Theory](#number-theory)
-  * [Elementary Number Theory](#elementary-number-theory)
-  * [Analytic Number Theory](#analytic-number-theory)
-  * [Algebraic Number Theory](#algebraic-number-theory)
-  * [Computational Number Theory](#computational-number-theory)
-  * [Arithmetic Geometry](#arithmetic-geometry)
-* [Scary Topics](#scary-topics)
+  * [Elementary](#elementary)
+  * [Algebraic](#algebraic)
+  * [Analytic](#analytic)
+  * [Topological](#topological)
+  * [Geometric](#geometric)
+* [Scary Maths](#scary-maths)
   * [Complex Geometry](#complex-geometry)
   * [Enumerative Geometry](#enumerative-geometry)
   * [Representation Theory](#representation-theory)
@@ -118,6 +118,22 @@ The High School constitutes of class IX-XII (Secondary and Senior Secondary educ
 
 The Undergraduate constitutes of 4-year bachelor's degree program in mathematics (Tertiary education in India), i.e. students aged 18 to 22. 
 
+
+## Discrete Mathematics
+
+* **A Friendly Introduction to Number Theory** by *J. H. Silverman*: A modern introduction to elementary number theory. There are many other similar books published by AMS and MAA.
+* **Introductory Combinatorics** by *R. A. Brualdi*: There are some typos, but there some really interesting discussions like the theorem by Erdős and Szekeres (p. 76, 5th ed).
+* **A First Course in Graph Theory** by *G. Chartrand* and *P. Zhang*: Good introductions to chapters, lots of examples and also has historical remarks in some places. *Recommended by SSH.*
+* **Introduction to Algorithms -- A Creative Approach** by *U. Manber*: Unlike the standard algorithms textbook duo [CLRS](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) and [ADM](https://www.algorist.com/), this book utilizes the known mathematical proof techniques for designing algorithms (note that it is not a universal approach). Moreover, the exercises are divided into two types, namely, drill exercises and creative exercises.
+    * **Problem Solving with Algorithms and Data Structures using Python** by *B. M. Miller* and *D. L. Ranum*:  This is an introductory text on algorithms which uses Python 3.2 ([2nd edition](https://fbeedle.com/our-books/10-problem-solving-with-algorithms-and-data-structures-using-python-2nd-ed-9781590282571.html)) for illustrating concepts, helpful for learning to translate the [pseudocode](https://en.wikibooks.org/wiki/LaTeX/Algorithms) to an actual programming language. This book is also [available online](https://runestone.academy/runestone/books/published/pythonds/index.html), however you will need to use an adblocker or [host it yourself](https://github.com/RunestoneInteractive/pythonds). 
+* **Introduction to the Theory of Computation** by *M. Sipser*:  This is an introductory text on automata theory, computability theory, and complexity theory. A complete course based on this book is available via [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/index.htm) (videos also available on [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY) and [Internet Archive](https://archive.org/details/MIT18.404F20/)). 
+
+## Algebra 
+
+* **Linear Algebra** by *Friedberg, Insel and Spence*: To avoid typos, use 1999 reprint of the third edition, or more recent editions. It is a good book to learn basic stuff used in algebra (modules over PID, representation of finite groups, etc.), discrete mathematics (incidence matrix etc.), analysis (Banach space, numerical analysis, differential equations, etc.), and geometry (coordinate change, orientation, multilinear maps, etc.). 
+* **Abstract Algebra** by *Dummit and Foote*: For an introduction to group theory, ring theory, modules over PID, field theory and Galois theory (answers to straight edge & compass construction questions we encountered in high-school). Has lots of solved examples. Beginners might find the books by [Fraleigh](https://www.pearson.com/us/higher-education/program/Fraleigh-First-Course-in-Abstract-Algebra-A-7th-Edition/PGM44169.html) or [Gallian](https://www.cengage.com/c/contemporary-abstract-algebra-9e-/9781305657960PF/) more useful for learning basic group theory. For a more concise introduction, one can read the book by [Grove](https://store.doverpublications.com/048643947x.html).
+* **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's book "Algebraic Geometry". For a gentler introduction, one can read the book by N S Gopalakrishnan.
+
 ## Calculus 
 
 * **Calculus I, II, III** by *Jerrold E. Marsden and Alan Weinstein*:  These books are old fashioned version of Calculus I, II and II (US Education System). The books are <a href="https://aimath.org/textbooks/approved-textbooks/marsden-weinstein/" target="_blank">available online</a> for free as part of the American Institute of Mathematics' [Open Textbook Initiative](https://aimath.org/textbooks/approved-textbooks/). This topic is an amalgamation of analysis, topology and geometry. We use geometric and topological properties of the Euclidean space to find some logic behind analytic facts about functions defined on Euclidean space. This is the "maths" needed for most of the undergraduate Physics courses.
@@ -135,22 +151,6 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Complex Analysis** by *Bak and Newman*: A comprehensive introduction to analysis of functions defined over $\mathbb{C}$. We study things like holomorphic functions (Fundamental theorem of Algebra), contour integration (Residue theorem), Mobius tranformation etc. This book also contains a brand new proof of prime number theorem. For a more gentle introduction, see the book by Sasane and Sasane, "A Friendly Approach to Complex Analysis" or the book by Brown and Churchill, "Complex Variables and Applications".
 * **Introduction to Topology and Modern Analysis** by *G. F. Simmons*: This book should be renamed as "An Introduction to Functional Analysis". Here we talk about normed linear spaces over $\mathbb{R}$ and $\mathbb{C}$.
 * **Differential Equations** by *S. L. Ross*: Nothing special, any other text like Simmons and Krantz's book "Differential Equations: Theory, Technique and Practice" is also good. We will see the proofs of facts learned in Calculus II.
-
-
-## Discrete Mathematics
-
-* **A Friendly Introduction to Number Theory** by *J. H. Silverman*: A modern introduction to elementary number theory. There are many other similar books published by AMS and MAA.
-* **Introductory Combinatorics** by *R. A. Brualdi*: There are some typos, but there some really interesting discussions like the theorem by Erdős and Szekeres (p. 76, 5th ed).
-* **A First Course in Graph Theory** by *G. Chartrand* and *P. Zhang*: Good introductions to chapters, lots of examples and also has historical remarks in some places. *Recommended by SSH.*
-* **Introduction to Algorithms -- A Creative Approach** by *U. Manber*: Unlike the standard algorithms textbook duo [CLRS](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) and [ADM](https://www.algorist.com/), this book utilizes the known mathematical proof techniques for designing algorithms (note that it is not a universal approach). Moreover, the exercises are divided into two types, namely, drill exercises and creative exercises.
-    * **Problem Solving with Algorithms and Data Structures using Python** by *B. M. Miller* and *D. L. Ranum*:  This is an introductory text on algorithms which uses Python 3.2 ([2nd edition](https://fbeedle.com/our-books/10-problem-solving-with-algorithms-and-data-structures-using-python-2nd-ed-9781590282571.html)) for illustrating concepts, helpful for learning to translate the [pseudocode](https://en.wikibooks.org/wiki/LaTeX/Algorithms) to an actual programming language. This book is also [available online](https://runestone.academy/runestone/books/published/pythonds/index.html), however you will need to use an adblocker or [host it yourself](https://github.com/RunestoneInteractive/pythonds). 
-* **Introduction to the Theory of Computation** by *M. Sipser*:  This is an introductory text on automata theory, computability theory, and complexity theory. A complete course based on this book is available via [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/index.htm) (videos also available on [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY) and [Internet Archive](https://archive.org/details/MIT18.404F20/)). 
-
-## Algebra 
-
-* **Linear Algebra** by *Friedberg, Insel and Spence*: To avoid typos, use 1999 reprint of the third edition, or more recent editions. It is a good book to learn basic stuff used in algebra (modules over PID, representation of finite groups, etc.), discrete mathematics (incidence matrix etc.), analysis (Banach space, numerical analysis, differential equations, etc.), and geometry (coordinate change, orientation, multilinear maps, etc.). 
-* **Abstract Algebra** by *Dummit and Foote*: For an introduction to group theory, ring theory, modules over PID, field theory and Galois theory (answers to straight edge & compass construction questions we encountered in high-school). Has lots of solved examples. Beginners might find the books by [Fraleigh](https://www.pearson.com/us/higher-education/program/Fraleigh-First-Course-in-Abstract-Algebra-A-7th-Edition/PGM44169.html) or [Gallian](https://www.cengage.com/c/contemporary-abstract-algebra-9e-/9781305657960PF/) more useful for learning basic group theory. For a more concise introduction, one can read the book by [Grove](https://store.doverpublications.com/048643947x.html).
-* **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's book "Algebraic Geometry". For a gentler introduction, one can read the book by N S Gopalakrishnan.
 
 ## Topology 
 
@@ -179,30 +179,13 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 The topics and books are arranged in the order I would recommend learning them.
 
-## Elementary Number Theory 
+## Elementary 
 
 * **An Introduction to Diophantine Equations** by *D. Andrica, I. Cucurezeanu, and T. Andreescu*: A really nice place to learn elementary methods for solving various types of Diophantine equations.
 * **The  Higher  Arithmetic** by *H.  Davenport*: It is written in prose form, many interesting things to learn.
 * **An Introduction to the Theory of Numbers** by *Ivan Niven, Herbert S. Zuckerman and Hugh L. Montgomery*: Covers all flavours of number theory in adequate detail. Requires some mathematical maturity.
 
-## Analytic Number Theory
-
-* **An Introduction to the Theory of Numbers** by *G. H. Hardy and E. M. Wright*: It is a classic textbook with lot of interesting stuff using elementary analytic methods.
-  * **Fourier Analysis: An Introduction** by *E. M. Stein and R. Shakarchi*: It is a good reference for "Weyl’s Equidistribution Theorem" (section 4.2) which is closely related to "Kronecker’s Theorem" (Diophantine approximation) discussed in Hardy & Wright's book (section 23.3, latest edition
-* **Diophantine Approximation** by *W. M. Schmidt*: Standard reference for the general theory. Also contains proofs of theorems belonging to "Geometry of Numbers."
-  * **Topics in Number Theory (Volumes I and II)** by *W. J. LeVeque*: The best place to understand the proof of Roth's theorem and Delaunay-Nagell theorem (discussed in the volume 2 part). The volume 1 part can be used as an introduction to elementary number theory.
-* **Making Transcendence Transparent** by *E.B. Burger and R. Tubbs*: Very nice introductory text for learning the techniques used in transcedental number theory.
-* **Multiplicative Number Theory** by *H. Davenport*: This is a tough book for introducing analytic number theory, but worth the hardwork since you get to prove Prime Number Theorem with a good estimate. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!). 
-  * **The  Theory  of  Functions** by *E. C. Titchmarsh*. A good reference for the complex analysis used by Davenport. Might also be worth looking at Titchmarsh's other book "The Theory of the Riemann Zeta-Function."
-  * **An  Introduction  to  the  Analytic  Theory  of  Numbers** by *R. Ayoub*: A good supplementary text for the methods and estimates used by Davenport.
-  * **A Classical Introduction to Modern Number Theory** by *K. Ireland and M. Rosen*: Provides a straighforward proof of Dirichlet's theorem on infinite primes arithmetic progressions in chapter 16.
-* **Elementary Methods in Number Theory** by *M. B. Nathanson*: The part 3 of this book gives a good introduction to additive number theory. I haven't spent much time on this book since I don't enjoy thinking about combinatorial problems. Nowadays, this field is called "arithmetic combinatorics" and uses ergodic theory and harmonic analysis. 
-* **Introduction to Elliptic Curves and Modular Forms** by *N. Koblitz*: A nice introduction to modular forms, which basically adds details and exercises to Serre's condense one chapter introduction in his classic book "A Course in Arithmetic". The study of modular forms is motivated via congruent number problem, and a brief discussion of analytic theory of elliptic curves.
-  * **Complex Analysis** by *E. M. Stein and R. Shakarchi*: A good reference for the facts from complex analysis needed for understanding the proofs by Koblitz.
-  * **Fuchsian groups** by *S. Katok*: A good reference for understanding the shapes of fundamental domains.
-* **An Invitation to Modern Number Theory** by *S. J. Miller and R. Takloo-Bighash*: If you enjoy the estimation related stuff, the next step would be to learn about circle methods. To promote and  stimulate independent research, it contains many interesting exercises and suggestions for research projects in topics related to various aspects of analytic number theory ranging from Roth's theorem to probabilistic number theory. *I haven't read this book.*
-
-## Algebraic Number Theory 
+## Algebraic 
 
 * **Number Fields** by *D. Marcus*: A very good introductory text on algebraic number theory (chapters 2 to 5), where most big proofs are in the form of exercises. When I read this book in 2016, it was available only in old typewriter font but fortunately in 2018 Springer released its LaTeX edition! For supplementary reading, it is worth looking into the [expository articles by Keith Conrad](https://kconrad.math.uconn.edu/blurbs/).
   * **Algebraic number theory and Fermat's last theorem** by *I. Stewart and D. Tall*: It nicely illustrates the calculation of class numbers using examples.
@@ -212,50 +195,81 @@ The topics and books are arranged in the order I would recommend learning them.
 * **Class Field Theory** by *J.S. Milne*: This is good for learning local class field theory from the perspective of Galois cohomology (unlike Neukirch). I have read parts of Chapter I, II, III and V. It is freely [available online](https://www.jmilne.org/math/CourseNotes/cft.html).
   * **Primes of the Form $x^2 + ny^2$** by *D. Cox*: For a working knowledge of the important results of global class field theory one should read this as per [this advice](https://mathoverflow.net/a/6940/). *I haven't read this book.*
 
+## Analytic
 
+* **An Introduction to the Theory of Numbers** by *G. H. Hardy and E. M. Wright*: It is a classic textbook with lot of interesting stuff using elementary analytic methods.
+  * **Fourier Analysis: An Introduction** by *E. M. Stein and R. Shakarchi*: It is a good reference for "Weyl’s Equidistribution Theorem" (section 4.2) which is closely related to "Kronecker’s Theorem" (Diophantine approximation) discussed in Hardy & Wright's book (section 23.3, latest edition
+* **Making Transcendence Transparent** by *E.B. Burger and R. Tubbs*: Very nice introductory text for learning the techniques used in transcedental number theory.
+* **Multiplicative Number Theory** by *H. Davenport*: This is a tough book for introducing analytic number theory, but worth the hardwork since you get to prove Prime Number Theorem with a good estimate. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!). 
+  * **The  Theory  of  Functions** by *E. C. Titchmarsh*. A good reference for the complex analysis used by Davenport. Might also be worth looking at Titchmarsh's other book "The Theory of the Riemann Zeta-Function."
+  * **An  Introduction  to  the  Analytic  Theory  of  Numbers** by *R. Ayoub*: A good supplementary text for the methods and estimates used by Davenport.
+  * **A Classical Introduction to Modern Number Theory** by *K. Ireland and M. Rosen*: Provides a straighforward proof of Dirichlet's theorem on infinite primes arithmetic progressions in chapter 16.
+* **Elementary Methods in Number Theory** by *M. B. Nathanson*: The part 3 of this book gives a good introduction to additive number theory. I haven't spent much time on this book since I don't enjoy thinking about combinatorial problems. Nowadays, this field is called "arithmetic combinatorics" and uses ergodic theory and harmonic analysis. 
+* **An Invitation to Modern Number Theory** by *S. J. Miller and R. Takloo-Bighash*: If you enjoy the estimation related stuff, the next step would be to learn about circle methods. To promote and  stimulate independent research, it contains many interesting exercises and suggestions for research projects in topics related to various aspects of analytic number theory ranging from Roth's theorem to probabilistic number theory. *I haven't read this book.*
+
+
+<!----
 ## Computational Number Theory
 
-<!---- * **Algorithmic Number Theory: Efficient Algorithms** by *E. Bach and J. Shallit*: This book discusses those problems from number theory (primality testing, factorization, discrete logarithm,...) which admit efficient solutions. The focus is more on "how"
+ * **Algorithmic Number Theory: Efficient Algorithms** by *E. Bach and J. Shallit*: This book discusses those problems from number theory (primality testing, factorization, discrete logarithm,...) which admit efficient solutions. The focus is more on "how"
 * **Mathematics of Public Key Cryptography** by *S. Galbraith*: The book is a collection of the necessary background and results needed for a deep understanding of public key cryptography. The latest edition is [available online](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html).
   * **An Introduction to Mathematical Cryptography** by *J. Hoffstein, J. Pipher, and J. H. Silverman*: An undergraduate textbook on public key cryptography.
    * **Cryptology and Computational Number Theory: Lectures from the AMS short course held at the University of Colorado, Boulder (Aug 6-7, 1989)** edited by *C. Pomerance*: Discusses the algorithms related to pre-ECC cryptography.
   * **Elliptic Curves in Cryptography** by *I. Blake, G. Seroussi, and N. Smart*: Contains various extensions of Schoof's algorithm in Chapter VII. Useful when reading Chapter 7 of Crandall-Pomerance.
   * **Number-Theoretic Algorithms in Cryptography** by *O. N. Vasilenko*: A survey of number theory algorithms used in public key cryptography.
----->
+* **Arithmetic Geometry: Proceedings of the instructional conference held at the University of Connecticut (Jul 30 - Aug 10, 1984)** edited by *G. Cornell and J. H. Silverman*: The reference to learn basics of advanced topics like Jacobian varieties and Néron Models. It also contains the article by Milne which discusses abelian varieties without assuming ground field to be algebraically closed. Most of the articles are intended as expositions of the tools used in the proof of Faltings' theorem.  
+  * **Algebraic Geometry** by *R. Hartshorne*: The chapter II and III of this book provide an introduction to algebraic geometry via the theory of schemes over algebraically closed field. Good reference for the cohomology of schemes. 
+  * **Abelian Varieties** by *D. Mumford*: A scheme-theoretic treatment of most of the basic theory of abelian varieties. However, all ground fields are assumed to be algebraically closed, which limits the usefulness of the book as a reference for arithmetic geometers.
 * **Prime Numbers: A Computational Perspective** by *R. Crandall and C. Pomerance*: It is a survey of the most important methods for proving primality and factoring (a kind of expanded version of the books by [Bressoud](https://www.springer.com/gp/book/9780387970400) and [Wagstaff](https://bookstore.ams.org/stml-68/)).
   * **Computational Number Theory** by *A. Das*: PARI/GP illustrations of most number theory algorithms (more up-to-date than the book by [Giblin](https://www.cambridge.org/us/academic/subjects/mathematics/number-theory/primes-and-programming)). The main problem with this book is that the references are given in footnotes and not at the end, plus missing book index.
 * **A Course in Computational Algebraic Number Theory** by *H. Cohen*: The encyclopedic reference (no math/complexity proofs) for algorithmic number theory, written by the founder of PARI/GP. One can ignore the word "algebraic" in the title, since it discusses all types of number theoretic algorithms. Especially useful for lattice realted algorithms.
   * **Algorithmic number thoery: Proceedings of a one-semester program at MSRI, Berkeley (Fall 2000)** edited by *J. Buhler and P. Stevenhagen*: This contains survey articles on a variety of topics like smooth numbers, factoring, primality testing, lattices, elliptic curves, computational algebraic number theory, fast arithmetic algorithms, modular forms, and arithmetic geometry. The articles are [available online](http://library.msri.org/books/Book44/contents.html).
 * **Binary Quadratic Forms: An Algorithmic Approach** by *J. Buchmann and U. Vollmer*: An introduction to many areas of algorithmic number theory for which the theory of binary quadratic forms is a starting point, like Diophantine equations, geometry of numbers, and algebraic number theory.  *Not read myself*.
   * **Advanced Topics in Computational Number Theory** by *H. Cohen*: It focuses primarly on algebraic number theory, and should have "algebraic" in its title.
-* **Modular Forms: A Computational Approach** by *W. Stein*: This is a graduate-level textbook about algorithms for computing with modular forms, written by the founder of SageMath. See [LMFDB](https://www.lmfdb.org/). *Not read myself*.
   * **Algorithms for Modular Elliptic Curves** by *J. E. Cremona*: Available [online](https://homepages.warwick.ac.uk/staff/J.E.Cremona/book/fulltext/index.html).
-* **Counting points on hyperelliptic curves over finite fields** by *D. Harvey*: The [draft of lecture notes](https://web.maths.unsw.edu.au/~davidharvey/research/pcmi-draft.pdf) from PCMI GSS 2022.  I will read them once I have 6 months available.
+* **Counting points on hyperelliptic curves over finite fields** by *D. Harvey*: The [draft of lecture notes](https://web.maths.unsw.edu.au/~davidharvey/research/pcmi-draft.pdf) from PCMI GSS 2022.  I will read them once I have 6 free months available.
   * **Elliptic Curves** by *A. Sutherland*: Lecture notes for MIT course [18.783 Elliptic Curves](https://math.mit.edu/classes/index.php?course=783). 
+---->
 
-## Arithmetic Geometry 
+## Topological 
 
-* **Rational Points on Elliptic Curves** by *J. H. Silverman and J. Tate*: One of the most accessible introduction to the world of elliptic curves, especially the theory of heights (major part of Diophantine geometry). I read the chapters I to III of this book a while ago for Mordell’s theorem (the special case of elliptic curves with a rational point of order two). The appendix on projective geometry is also great. 
-  * **Topics in Algebra** by *I. N. Herstein*: This is a reference for the group theory needed to understand the proof of Mordell's theorem discussed in the text.
+## Geometric 
+
+* **Diophantine Approximation** by *W. M. Schmidt*: Standard reference for the general theory. Also contains proofs of theorems belonging to "Geometry of Numbers."
+  * **Topics in Number Theory (Volumes I and II)** by *W. J. LeVeque*: The best place to understand the proof of Roth's theorem and Delaunay-Nagell theorem (discussed in the volume 2 part). The volume 1 part can be used as an introduction to elementary number theory.
+* **Diophantine Geometry: An Introduction** by *M. Hindry and J. H. Silverman*: The study of Diophantine equations using tools from algebraic number theory and "classical" algebraic geometry. It contains the proof of the four fundamental finiteness theorems: Mordell-Weil Theorem, Roth's theorem, Siegel's theorem, and Faltings' theorem.
+  * **Rational Points on Elliptic Curves** by *J. H. Silverman and J. Tate*: One of the most accessible introduction to the world of elliptic curves, especially the theory of heights (major part of Diophantine geometry). I read the chapters I to III of this book a while ago for Mordell’s theorem (the special case of elliptic curves with a rational point of order two). The appendix on projective geometry is also great. 
+  * **Arithmetic Geometry: Proceedings of the instructional conference held at the University of Connecticut (Jul 30 - Aug 10, 1984)** edited by G. Cornell and J. H. Silverman: The reference to learn basics of advanced topics like Jacobian varieties and Néron Models. It also contains the article by Milne which discusses abelian varieties without assuming ground field to be algebraically closed. Most of the articles are intended as expositions of the tools used in the proof of Faltings' theorem.
 * **The Arithmetic of Elliptic Curves** by *J. H. Silverman*: The standard introductory text about elliptic curves using techniques from algebraic geometry (varieties in projective spaces). Make sure to use the 2nd edition corrected in 2016 printing, since earlier versions have lot of typos. Neukirch's "Algebraic Number Theory" book might be helpful when reading sections II.2, II.3, III.7 and VII.4. Also, it would be useful to recall stuff from analyic number theory, like Riemann zeta function (for section V.2), Diophantine approximation (for section IX.1) and transcendental number theory (for section IX.5).
    * **Basic Algebraic Geometry** by *I. Shafarevich* (translated from the Russian by K. A. Hirsch): This is a reference for many proofs skipped in the first two chapters by Silverman. Note that this is quiet different, in terms of notations and organization, from the newer expanded translation by Miles Reid.
    * **Galois Representations** by *Gabor Wiese*: These notes complement the discussion in section III.7 of Silverman's text. They are [available online](https://math.uni.lu/~wiese/notes/GalRep.pdf).
+   * **Elliptic Curves: Number Theory and Cryptography** by *L. C. Washington*: This complements sections XI.4 and XI.7 of Silverman's text.
+   * **Mathematics of Public Key Cryptography** by *S. D. Galbraith*: The parts II and VII of this book complements chapters V and XI of Silverman's text. The draft is [available online](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html).
+* **A First Course in Modular Forms** by *F. Diamond and J. Shurman*: This book explains the Modularity Theorem, "All rational elliptic curves arise from modular forms." 
+  * **Introduction to Elliptic Curves and Modular Forms** by *N. Koblitz*: A nice introduction to modular forms, which basically adds details and exercises to Serre's condense one chapter introduction in his classic book "A Course in Arithmetic". The study of modular forms is motivated via congruent number problem, and a brief discussion of analytic theory of elliptic curves. This complements chapter 1 of Diamond-Shurman.
+  * **Complex Analysis** by *E. M. Stein and R. Shakarchi*: A good reference for the facts from complex analysis needed for understanding the proofs involving modular forms. This complements chapter 1 of Diamond-Shurman.
+  * **Fuchsian groups** by *S. Katok*: A good reference for understanding the shapes of fundamental domains.
+  * **Algebraic Curves and Riemann Surfaces** by *R. Miranda*: It is a nice introductory text. Its Chapter IX is a good source for learning about Cech cohomology. This complements chapter 2 of Diamond-Shurman.
+  * **Modular Forms: A Computational Approach** by *W. Stein*: This is a graduate-level textbook about algorithms for computing with modular forms, written by the founder of SageMath. See [LMFDB](https://www.lmfdb.org/).
+  * **Lattices and Codes** by *W. Ebeling*: Lattices are studied in number theory and in the geometry of numbers. Many problems about codes have their counterpart in problems about lattices and sphere packings via the associated modular forms.  In this book the connections between weight enumerators of codes and theta functions of lattices, the classification of even unimodular 24-dimensional lattices, and the Leech lattice are discussed. 
+* **Algebraic Curves over a Finite Field** by *Hirschfeld, Korchmáros, and Torres*: This book presents the general theory of algebraic curves over finite fields. This topic have found applications in number theory (construction of curves with a large number of points), coding theory (the construction of error-correcting codes), and finite geometry ([MAA](https://www.maa.org/press/maa-reviews/algebraic-curves-over-a-finite-field)).
+  * **Algebraic Curves over Finite Fields** by *C. Moreno*: It includes discussion on L-functions, estimates for exponential sums, Goppa curves and modular curves. In particular, the proof of the Tsfasman-Vlǎduţ-Zink theorem. However, unlike the above book, the theorems are formulated in terms of function fields (similar to the book by [Stichtenoth](https://link.springer.com/book/10.1007/978-3-540-76878-4)).
+  * **Algebraic Geometric Codes (Basic Notions and Advanced Chapters)** by *Tsfasman, Vlǎduţ, and Nogin*: The first volume "Basic Notions" serves as a textbook and the second volume "Advanced Chapters" serves as a reference text. ([MAA](https://www.maa.org/press/maa-reviews/algebraic-geometry-codes-advanced-chapters))
 * **Rational Points on Varieties** by *B. Poonen*: It provides a good introduction to the theory of obstructions to rational points on a variety, while briefly discussing other useful tools like étale cohomology. However, I have only read the first four chapters which discuss basic stuff. 
   * **Central Simple Algebras and Galois Cohomology** by *P. Gille and T. Szamuely*: This book discusses the proofs and exercises given in the first and fourth chapters of Poonen's book. Central Simple Algebras (CSAs) over a field K are a non-commutative analog to extension fields over K – in both cases, they have no non-trivial 2-sided ideals, and have a distinguished field in their center, though a CSA can be non-commutative and need not have inverses (need not be a division algebra). This is of particular interest in "noncommutative number theory" as [generalizations of number fields](https://en.wikipedia.org/wiki/Hurwitz_quaternion_order). A detailed discussion of Brauer group examples related to class field theory is available in chapter IV and VIII.4 of Milne's [Class Field Theory notes](https://www.jmilne.org/math/CourseNotes/cft.html).
   * **Algebraic Geometry and Arithmetic Curves** by *Q. Liu* (translated from the French by R. Erné): This book discusses the proofs and exercises given in the second and third chapters of Poonen's book. An introduction to the language of schemes (chapters 1 to 4), without assuming the base field to be algebraically closed, or of characteristic zero. Some prior knowledge of complex geometry might be helpful when reading this book. 
-* **Arithmetic Geometry: Proceedings of the instructional conference held at the University of Connecticut (Jul 30 - Aug 10, 1984)** edited by *G. Cornell and J. H. Silverman*: The reference to learn basics of advanced topics like Jacobian varieties and Néron Models. It also contains the article by Milne which discusses abelian varieties without assuming ground field to be algebraically closed. Most of the articles are intended as expositions of the tools used in the proof of Faltings' theorem.  
-  * **Algebraic Geometry** by *R. Hartshorne*: The chapter II and III of this book provide an introduction to algebraic geometry via the theory of schemes over algebraically closed field. Good reference for the cohomology of schemes. 
-  * **Abelian Varieties** by *D. Mumford*: A scheme-theoretic treatment of most of the basic theory of abelian varieties. However, all ground fields are assumed to be algebraically closed, which limits the usefulness of the book as a reference for arithmetic geometers.
 
 
-# Scary Topics 
+# Scary Maths 
 --------------
+
+These topics are beyond the scope of my mental capabilities.
+
 ## Complex Geometry 
 
-* **Algebraic Curves and Riemann Surfaces** by *R. Miranda*: It is a nice introductory text. Its Chapter IX is a good source for learning about Cech cohomology.
+* **Analytic Functions of Several Complex Variables** by *Gunning and Rossi*: The necessary background about several variable complex valued functions, and a detailed proof of $\overline{\partial}$-Poincare lemma.
   * **Functions of One Complex Variable** by *J. B. Conway*: I really like the proofs given in this book (Runge's theorem, Mittag-Leffler's theorem and Weierstrass factorization theorem) which are critical for understanding Riemann surfaces.
-* **From Holomorphic Functions to Complex Manifolds** by *Fritzsche and Grauert*: For analytic subvariety properties. Didn't spend much time on it.
-  * **Analytic Functions of Several Complex Variables** by *Gunning and Rossi*: The necessary background about several variable complex valued functions, and a detailed proof of $\overline{\partial}$-Poincare lemma.
+  *  **From Holomorphic Functions to Complex Manifolds** by *Fritzsche and Grauert*: For analytic subvariety properties. Didn't spend much time on it.
   * **Function Theory of Several Complex Variables** by *S. G. Krantz*: The proof of Dolbeault theorem for $\mathbb{C}^n$ is discussed in section 6.3.
   * **Differential Analysis on Complex Manifolds** by *R. O. Wells*: For understanding vector bundles and more.
 * **Principles of Algebraic Geometry** by *J. Harris and P. Griffiths*: The only available introductory text on complex algebraic geometry. Not at all a good book for self study, my whole master's thesis was an attempt to understand 14 pages of this book (pp. 34-47): "Any analytic hypersurface in $\mathbb{C}^n$ is the zero-locus of a global holomorphic function." However, trying to understand the given collection of ideas is worth the effort.
