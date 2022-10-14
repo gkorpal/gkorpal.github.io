@@ -177,7 +177,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 <img src="/images/book6.jpg" alt="">
 
-Number Theory is a vast field of study and it is easy to feel overwhelmed. Therefore, I would suggest using the encylopaedia  "Introduction to Modern Number Theory : Fundamental Problems, Ideas and Theories" by Yuri I. Manin and Alexei A. Panchishkin as the guide ([MathOverflow](https://mathoverflow.net/a/13145/90056)). Also, those without an undergraduate in mathematics, can use the book "Number Theory in Science and Communication" by Manfred R. Schroeder as the guide.
+Number Theory is a vast field of study and it is easy to feel overwhelmed. Therefore, I would suggest using the encylopaedia  "Introduction to Modern Number Theory : Fundamental Problems, Ideas and Theories" by Yuri I. Manin and Alexei A. Panchishkin as the guide ([MathOverflow](https://mathoverflow.net/a/13145/90056)). Also, those without the knowledge of undergraduat mathematics, can use the book "Number Theory in Science and Communication" by Manfred R. Schroeder as the guide.
 
 ## Elementary 
 
