@@ -177,7 +177,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 <img src="/images/book6.jpg" alt="">
 
-The topics and books are arranged in the order I would recommend learning them.  "Introduction to Modern Number Theory : Fundamental Problems, Ideas and Theories" ([MathOverflow](https://mathoverflow.net/a/13145/90056))
+Number Theory is a vast field of study and it is easy to feel overwhelmed. Therefore, I would suggest using the encylopaedia  "Introduction to Modern Number Theory : Fundamental Problems, Ideas and Theories" by Yuri I. Manin and Alexei A. Panchishkin as the guide ([MathOverflow](https://mathoverflow.net/a/13145/90056)). Also, those without an undergraduate in mathematics, can use the book "Number Theory in Science and Communication" by Manfred R. Schroeder as the guide.
 
 ## Elementary 
 
@@ -212,16 +212,14 @@ The topics and books are arranged in the order I would recommend learning them. 
 * **Topics in Classical Automorphic Forms** by *Iwaniec*: An introduction to the study of the analytic approach to modular forms.
 * **Some Applications of Modular Forms** by *Sarnak*:
 * **The 1-2-3 of Modular Forms**:
+
 <!----
  * **Algorithmic Number Theory: Efficient Algorithms** by *E. Bach and J. Shallit*: This book discusses those problems from number theory (primality testing, factorization, discrete logarithm,...) which admit efficient solutions. The focus is more on "how"
 * **Mathematics of Public Key Cryptography** by *S. Galbraith*: The book is a collection of the necessary background and results needed for a deep understanding of public key cryptography. The latest edition is [available online](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html).
   * **An Introduction to Mathematical Cryptography** by *J. Hoffstein, J. Pipher, and J. H. Silverman*: An undergraduate textbook on public key cryptography.
    * **Cryptology and Computational Number Theory: Lectures from the AMS short course held at the University of Colorado, Boulder (Aug 6-7, 1989)** edited by *C. Pomerance*: Discusses the algorithms related to pre-ECC cryptography.
-
 * **An Invitation to Modern Number Theory** by *S. J. Miller and R. Takloo-Bighash*: If you enjoy the estimation related stuff, the next step would be to learn about circle methods. It contains many interesting exercises and suggestions for research projects in topics related to various aspects of analytic number theory ranging from Roth's theorem to Random Matrix Theory. 
-
   * **Number-Theoretic Algorithms in Cryptography** by *O. N. Vasilenko*: A survey of number theory algorithms used in public key cryptography.
-
   * **Computational Number Theory** by *A. Das*: PARI/GP illustrations of most number theory algorithms (more up-to-date than the book by [Giblin](https://www.cambridge.org/us/academic/subjects/mathematics/number-theory/primes-and-programming)). The main problem with this book is that the references are given in footnotes and not at the end, plus missing book index.
 * **A Course in Computational Algebraic Number Theory** by *H. Cohen*: The encyclopedic reference (no math/complexity proofs) for algorithmic number theory, written by the founder of PARI/GP. One can ignore the word "algebraic" in the title, since it discusses all types of number theoretic algorithms. Especially useful for lattice realted algorithms.
   * **Algorithmic number thoery: Proceedings of a one-semester program at MSRI, Berkeley (Fall 2000)** edited by *J. Buhler and P. Stevenhagen*: This contains survey articles on a variety of topics like smooth numbers, factoring, primality testing, lattices, elliptic curves, computational algebraic number theory, fast arithmetic algorithms, modular forms, and arithmetic geometry. The articles are [available online](http://library.msri.org/books/Book44/contents.html).
