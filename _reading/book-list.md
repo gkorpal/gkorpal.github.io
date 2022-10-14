@@ -177,13 +177,14 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 <img src="/images/book6.jpg" alt="">
 
-The topics and books are arranged in the order I would recommend learning them.
+The topics and books are arranged in the order I would recommend learning them.  "Introduction to Modern Number Theory : Fundamental Problems, Ideas and Theories" ([MathOverflow](https://mathoverflow.net/a/13145/90056))
 
 ## Elementary 
 
 * **An Introduction to Diophantine Equations** by *D. Andrica, I. Cucurezeanu, and T. Andreescu*: A really nice place to learn elementary methods for solving various types of Diophantine equations.
 * **The  Higher  Arithmetic** by *H.  Davenport*: It is written in prose form, many interesting things to learn.
 * **An Introduction to the Theory of Numbers** by *Ivan Niven, Herbert S. Zuckerman and Hugh L. Montgomery*: Covers all flavours of number theory in adequate detail. Requires some mathematical maturity.
+* **Prime Numbers: A Computational Perspective** by *R. Crandall and C. Pomerance*: It is a survey of the most important methods for proving primality and factoring (a kind of expanded version of the books by [Bressoud](https://www.springer.com/gp/book/9780387970400) and [Wagstaff](https://bookstore.ams.org/stml-68/)).
 
 ## Algebraic 
 
@@ -198,24 +199,26 @@ The topics and books are arranged in the order I would recommend learning them.
 ## Analytic
 
 * **An Introduction to the Theory of Numbers** by *G. H. Hardy and E. M. Wright*: It is a classic textbook with lot of interesting stuff using elementary analytic methods.
-  * **Fourier Analysis: An Introduction** by *E. M. Stein and R. Shakarchi*: It is a good reference for "Weyl’s Equidistribution Theorem" (section 4.2) which is closely related to "Kronecker’s Theorem" (Diophantine approximation) discussed in Hardy & Wright's book (section 23.3, latest edition
+  * **Fourier Analysis: An Introduction** by *E. M. Stein and R. Shakarchi*: It is a good reference for "Weyl’s Equidistribution Theorem" (section 4.2) which is closely related to "Kronecker’s Theorem" (Diophantine approximation) discussed in Hardy & Wright's book (section 23.3, latest edition).
+  * **Introduction to Quasi-Monte Carlo Integration and Applications** by *Leobacher and Pillichshammer*: The theory of Uniform Distribution Modulo One is  used for numerical integration based on QMC rules.
 * **Making Transcendence Transparent** by *E.B. Burger and R. Tubbs*: Very nice introductory text for learning the techniques used in transcedental number theory.
-* **Multiplicative Number Theory** by *H. Davenport*: This is a tough book for introducing analytic number theory, but worth the hardwork since you get to prove Prime Number Theorem with a good estimate. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!). 
+* **Multiplicative Number Theory** by *H. Davenport*: This is a tough book for introducing analytic number theory (the analytic theory of L-functions), but worth the hardwork since you get to prove Prime Number Theorem with a good estimate. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!).
   * **The  Theory  of  Functions** by *E. C. Titchmarsh*. A good reference for the complex analysis used by Davenport. Might also be worth looking at Titchmarsh's other book "The Theory of the Riemann Zeta-Function."
   * **An  Introduction  to  the  Analytic  Theory  of  Numbers** by *R. Ayoub*: A good supplementary text for the methods and estimates used by Davenport.
-  * **A Classical Introduction to Modern Number Theory** by *K. Ireland and M. Rosen*: Provides a straighforward proof of Dirichlet's theorem on infinite primes arithmetic progressions in chapter 16.
-* **Prime Numbers: A Computational Perspective** by *R. Crandall and C. Pomerance*: It is a survey of the most important methods for proving primality and factoring (a kind of expanded version of the books by [Bressoud](https://www.springer.com/gp/book/9780387970400) and [Wagstaff](https://bookstore.ams.org/stml-68/)).
-  * **An Invitation to Modern Number Theory** by *S. J. Miller and R. Takloo-Bighash*: If you enjoy the estimation related stuff, the next step would be to learn about circle methods. It contains many interesting exercises and suggestions for research projects in topics related to various aspects of analytic number theory ranging from Roth's theorem to Random Matrix Theory. 
-  * **Introduction to Quasi-Monte Carlo Integration and Applications** by *Leobacher and Pillichshammer*: The theory of Uniform Distribution Modulo One is  used for numerical integration based on QMC rules.
-  * **An Introduction to Mathematical Cryptography** by *J. Hoffstein, J. Pipher, and J. H. Silverman*: An undergraduate textbook on public key cryptography.
-* **Elementary Methods in Number Theory** by *M. B. Nathanson*: The part 3 of this book gives a good introduction to additive number theory (Waring’s problem, sums of squares, and asymptotics of partition functions). I haven't spent much time on this book since I don't enjoy thinking about combinatorial problems. Nowadays, this field is called "arithmetic combinatorics" and uses ergodic theory and harmonic analysis. 
+  * **A Classical Introduction to Modern Number Theory** by *K. Ireland and M. Rosen*: Provides a straighforward proof of Dirichlet's theorem on infinite primes arithmetic progressions in chapter 16.  
+* **Additive Number Theory: The Classical Bases** by *M. B. Nathanson*: This book gives introduction to the circle method and the sieve method. Nowadays, this field is called "arithmetic combinatorics" and uses ergodic theory and harmonic analysis. 
+  * **Elementary Methods in Number Theory** by *M. B. Nathanson*: The part 3 of this book gives a good introduction to additive number theory (Waring’s problem, sums of squares, and asymptotics of partition functions). 
+  * **Sieves in Number Theory** by *G. Greaves*: Discusses the "small" sieve method of V. Brun, A.Selberg, H. Iwaniec and others.
+* **Topics in Classical Automorphic Forms** by *Iwaniec*: An introduction to the study of the analytic approach to modular forms.
+* **Some Applications of Modular Forms** by *Sarnak*:
+* **The 1-2-3 of Modular Forms**:
 <!----
-## Computational Number Theory
-
  * **Algorithmic Number Theory: Efficient Algorithms** by *E. Bach and J. Shallit*: This book discusses those problems from number theory (primality testing, factorization, discrete logarithm,...) which admit efficient solutions. The focus is more on "how"
 * **Mathematics of Public Key Cryptography** by *S. Galbraith*: The book is a collection of the necessary background and results needed for a deep understanding of public key cryptography. The latest edition is [available online](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html).
-
+  * **An Introduction to Mathematical Cryptography** by *J. Hoffstein, J. Pipher, and J. H. Silverman*: An undergraduate textbook on public key cryptography.
    * **Cryptology and Computational Number Theory: Lectures from the AMS short course held at the University of Colorado, Boulder (Aug 6-7, 1989)** edited by *C. Pomerance*: Discusses the algorithms related to pre-ECC cryptography.
+
+* **An Invitation to Modern Number Theory** by *S. J. Miller and R. Takloo-Bighash*: If you enjoy the estimation related stuff, the next step would be to learn about circle methods. It contains many interesting exercises and suggestions for research projects in topics related to various aspects of analytic number theory ranging from Roth's theorem to Random Matrix Theory. 
 
   * **Number-Theoretic Algorithms in Cryptography** by *O. N. Vasilenko*: A survey of number theory algorithms used in public key cryptography.
 
