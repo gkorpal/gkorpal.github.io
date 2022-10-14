@@ -177,7 +177,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 <img src="/images/book6.jpg" alt="">
 
-Number Theory is a vast field of study and it is easy to feel overwhelmed. Therefore, I would suggest using the encylopaedia  "Introduction to Modern Number Theory : Fundamental Problems, Ideas and Theories" by Yuri I. Manin and Alexei A. Panchishkin as the guide ([MathOverflow](https://mathoverflow.net/a/13145/90056)). Also, those without the knowledge of undergraduat mathematics, can use the book "Number Theory in Science and Communication" by Manfred R. Schroeder as the guide.
+Number Theory is a vast field of study and it is easy to feel overwhelmed. Therefore, I would suggest using the encylopaedia  **Introduction to Modern Number Theory: Fundamental Problems, Ideas and Theories** by Yuri I. Manin and Alexei A. Panchishkin as the guide ([MathOverflow](https://mathoverflow.net/a/13145/90056)). Also, those without the knowledge of undergraduat mathematics, can use the book **Number Theory in Science and Communication** by Manfred R. Schroeder as the guide.
 
 ## Elementary 
 
@@ -199,9 +199,6 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
 ## Analytic
 
 * **An Introduction to the Theory of Numbers** by *G. H. Hardy and E. M. Wright*: It is a classic textbook with lot of interesting stuff using elementary analytic methods.
-  * **Fourier Analysis: An Introduction** by *E. M. Stein and R. Shakarchi*: It is a good reference for "Weyl’s Equidistribution Theorem" (section 4.2) which is closely related to "Kronecker’s Theorem" (Diophantine approximation) discussed in Hardy & Wright's book (section 23.3, latest edition).
-  * **Introduction to Quasi-Monte Carlo Integration and Applications** by *Leobacher and Pillichshammer*: The theory of Uniform Distribution Modulo One is  used for numerical integration based on QMC rules.
-* **Making Transcendence Transparent** by *E.B. Burger and R. Tubbs*: Very nice introductory text for learning the techniques used in transcedental number theory.
 * **Multiplicative Number Theory** by *H. Davenport*: This is a tough book for introducing analytic number theory (the analytic theory of L-functions), but worth the hardwork since you get to prove Prime Number Theorem with a good estimate. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!).
   * **The  Theory  of  Functions** by *E. C. Titchmarsh*. A good reference for the complex analysis used by Davenport. Might also be worth looking at Titchmarsh's other book "The Theory of the Riemann Zeta-Function."
   * **An  Introduction  to  the  Analytic  Theory  of  Numbers** by *R. Ayoub*: A good supplementary text for the methods and estimates used by Davenport.
@@ -209,9 +206,20 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
 * **Additive Number Theory: The Classical Bases** by *M. B. Nathanson*: This book gives introduction to the circle method and the sieve method. Nowadays, this field is called "arithmetic combinatorics" and uses ergodic theory and harmonic analysis. 
   * **Elementary Methods in Number Theory** by *M. B. Nathanson*: The part 3 of this book gives a good introduction to additive number theory (Waring’s problem, sums of squares, and asymptotics of partition functions). 
   * **Sieves in Number Theory** by *G. Greaves*: Discusses the "small" sieve method of V. Brun, A.Selberg, H. Iwaniec and others.
+  * **Three Pearls of Number Theory** by *A. Y. Khinchin*: A beautiful book ([MAA](https://www.maa.org/press/maa-reviews/three-pearls-of-number-theory)).
 * **Topics in Classical Automorphic Forms** by *Iwaniec*: An introduction to the study of the analytic approach to modular forms.
-* **Some Applications of Modular Forms** by *Sarnak*:
-* **The 1-2-3 of Modular Forms**:
+  * **Some Applications of Modular Forms** by *Sarnak*: Discusses the solution of three problems (Ruziewicz's problem from measure theory, constructing Ramanujan graphs, and Lennik's conjecture about sum of three squares) using modular forms.
+  * **The 1-2-3 of Modular Forms** by *Zagier et al.*: It has lecture notes by four authors. The first lecture discusses the applications to questions of number theory, combnatorics, differential equations, geometry, and mathematical physics. 
+* **Uniform distribution of sequences** by *L. Kuipers and Niederreiter*: The first ever survey in this field. 
+  * **Fourier Analysis: An Introduction** by *E. M. Stein and R. Shakarchi*: It is a good reference for "Weyl’s Equidistribution Theorem" (section 4.2) which is closely related to "Kronecker’s Theorem" (Diophantine approximation) discussed in Hardy & Wright's book (section 23.3, latest edition).
+  * **Sequences, Discrepancies and Applications** by *M. Drmota and R. F. Tichy*: This book discusses special developements and methods of the theory of uniform distribution since Kuipers-Niederreiter's book. 
+  * **Equidistribution in Number Theory, An Introduction: SMS–NATO ASI Summer School Montreal 2005** edited by *A. Granville and A. Rudnick*: See the [commentary by Pete Clark](http://alpha.math.uga.edu/~pete/udnotes.pdf).
+  * **Topics in Ergodic Theory** by *W. Parry*: The result "Uniform distribution (mod 1)" of H. Weyl can be regarded as the first ergodic theorem to be discovered.
+  * **Introduction to Quasi-Monte Carlo Integration and Applications** by *Leobacher and Pillichshammer*: The theory of Uniform Distribution Modulo One is  used for numerical integration based on QMC rules.
+  * **Applied Number Theory** by *H. Niederreiter and A. Winterhof*: The chapters 4 and 5 nicely complement the main text.
+  * **Random Number Generation and Quasi-Monte Carlo Methods** by *H. Niederreiter*: Classic reference.
+* **Making Transcendence Transparent** by *E.B. Burger and R. Tubbs*: Very nice introductory text for learning the techniques used in transcedental number theory.
+  * **Numbers: Rational and Irrational** by *Ivan Niven*: A beautiful book ([MAA](https://www.maa.org/press/maa-reviews/numbers-rational-and-irrational)).
 
 <!----
  * **Algorithmic Number Theory: Efficient Algorithms** by *E. Bach and J. Shallit*: This book discusses those problems from number theory (primality testing, factorization, discrete logarithm,...) which admit efficient solutions. The focus is more on "how"
