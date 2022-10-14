@@ -177,7 +177,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 <img src="/images/book6.jpg" alt="">
 
-Number Theory is a vast field of study and it is easy to feel overwhelmed. Therefore, I would suggest using the encylopaedia  **Introduction to Modern Number Theory: Fundamental Problems, Ideas and Theories** by Yuri I. Manin and Alexei A. Panchishkin as the guide ([MathOverflow](https://mathoverflow.net/a/13145/90056)). Also, those without the knowledge of undergraduat mathematics, can use the book **Number Theory in Science and Communication** by Manfred R. Schroeder as the guide.
+Number Theory is a vast field of study and it is easy to feel overwhelmed. Therefore, I would suggest using the encylopaedia  **Introduction to Modern Number Theory: Fundamental Problems, Ideas and Theories** by Yuri I. Manin and Alexei A. Panchishkin as the guide ([MathOverflow](https://mathoverflow.net/a/13145/90056)). Moreover, those without the knowledge of undergraduat mathematics, can use the book **Number Theory in Science and Communication** by Manfred R. Schroeder as the guide.
 
 ## Elementary 
 
@@ -193,8 +193,10 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
   * **Algebraic Number Theory, a Computational Approach** by *W. Stein*: The chapters 2 to 8 complement Marcus' book by providing many examples solved using SageMath. It is freely [available online](https://wstein.org/books/ant/).
 * **Algebraic Number Theory** by *J. Neukirch* (translated from the German by N. Schappacher): A really nice second introduction to algebraic number theory for someone interested in arithmetic geometry. It serves the purpose of standard reference for global fields and local fields. I have read parts of Chapter I, II, IV and VII.
   * **p-adic Numbers: An Introduction** by *F. Q. Gouvêa*: A good supplementary text for basic facts about $p$-adic numbers.
+* **Primes of the Form $x^2 + ny^2$** by *D. Cox*: Provides a working knowledge of the important results of (global) class field theory and ability to apply them to relevant situations ([MathOverflow](https://mathoverflow.net/q/6932/90056)). 
+  * **Elliptic functions** by *S. Lang*: Examples of explicit class field theory in the global case with an imaginary quadratic base field via the theory of elliptic curves with complex multiplication. Uses Deuring's formulation and complements the chapter 7 of Cox's text.
 * **Class Field Theory** by *J.S. Milne*: This is good for learning local class field theory from the perspective of Galois cohomology (unlike Neukirch). I have read parts of Chapter I, II, III and V. It is freely [available online](https://www.jmilne.org/math/CourseNotes/cft.html).
-* **Primes of the Form $x^2 + ny^2$** by *D. Cox*: For a working knowledge of the important results of global class field theory one should read this as per [this advice](https://mathoverflow.net/a/6940/). *I haven't read this book.* -- Lang elliptic functions.
+  *  **Local Fields** by *P. Serre*: Understanding of the structure and basic properties of local fields and adelic/idelic stuff.
 
 ## Analytic
 
