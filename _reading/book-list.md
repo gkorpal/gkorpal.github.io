@@ -3,7 +3,7 @@ title: "Good Books"
 collection: reading
 permalink: /reading/book-list
 excerpt:
-date: 2022-09-27
+date: 2022-10-15
 venue: 
 paperurl: 
 citation: 
@@ -212,10 +212,6 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
 ## Analytic
 
 * **An Introduction to the Theory of Numbers** by *G. H. Hardy and E. M. Wright*: It is a classic textbook with lot of interesting stuff using elementary analytic methods.
-* **Diophantine Approximation** by *W. M. Schmidt*: Standard reference for the general theory. Also contains proofs of theorems belonging to "Geometry of Numbers."
-  * **Topics in Number Theory (Volumes I and II)** by *W. J. LeVeque*: The best place to understand the proof of Roth's theorem and Delaunay-Nagell theorem (discussed in the volume 2 part). The volume 1 part can be used as an introduction to elementary number theory.
-  * **Exploring the Number Jungle: A Journey into Diophantine Analysis** by *E. B. Burger*: A beautiful little book ([MAA](https://www.maa.org/press/maa-reviews/exploring-the-number-jungle-a-journey-into-diophantine-analysis)).
-  * **An Introduction to Mathematical Cryptography** by *J. Hoffstein, J. Pipher, and J. H. Silverman*: An undergraduate textbook on public key cryptography. The chapter 7 gives a nice introduction to lattice-based cryptography.
 * **Making Transcendence Transparent** by *E.B. Burger and R. Tubbs*: Very nice introductory text for learning the techniques used in transcedental number theory.
   * **Numbers: Rational and Irrational** by *Ivan Niven*: A beautiful little book ([MAA](https://www.maa.org/press/maa-reviews/numbers-rational-and-irrational)).
 * **Multiplicative Number Theory** by *H. Davenport*: This is a tough book for introducing analytic number theory (the analytic theory of L-functions), but worth the hardwork since you get to prove Prime Number Theorem with a good estimate. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper!).
@@ -246,6 +242,10 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
 
 ## Geometric 
 
+* **Diophantine Approximation** by *W. M. Schmidt*: Standard reference for the general theory. Also contains proofs of theorems belonging to "Geometry of Numbers."
+  * **Topics in Number Theory (Volumes I and II)** by *W. J. LeVeque*: The best place to understand the proof of Roth's theorem and Delaunay-Nagell theorem (discussed in the volume 2 part). The volume 1 part can be used as an introduction to elementary number theory.
+  * **Exploring the Number Jungle: A Journey into Diophantine Analysis** by *E. B. Burger*: A beautiful little book ([MAA](https://www.maa.org/press/maa-reviews/exploring-the-number-jungle-a-journey-into-diophantine-analysis)).
+  * **An Introduction to Mathematical Cryptography** by *J. Hoffstein, J. Pipher, and J. H. Silverman*: An undergraduate textbook on public key cryptography. The chapter 7 gives a nice introduction to lattice-based cryptography.
 * **Diophantine Geometry: An Introduction** by *M. Hindry and J. H. Silverman*: The study of Diophantine equations using tools from algebraic number theory and "classical" algebraic geometry. It contains the proof of the four fundamental finiteness theorems: Mordell-Weil Theorem, Roth's theorem, Siegel's theorem, and Faltings' theorem (Bombieri's proof based on Vojta's).
   * **Rational Points on Elliptic Curves** by *J. H. Silverman and J. Tate*: One of the most accessible introduction to the world of elliptic curves, especially the theory of heights (major part of Diophantine geometry). I read the chapters I to III of this book a while ago for Mordell’s theorem (the special case of elliptic curves with a rational point of order two). The appendix on projective geometry is also great. 
 * **The Arithmetic of Elliptic Curves** by *J. H. Silverman*: The standard introductory text about elliptic curves using techniques from algebraic geometry (varieties in projective spaces). Make sure to use the 2nd edition corrected in 2016 printing, since earlier versions have lot of typos. Neukirch's "Algebraic Number Theory" book might be helpful when reading sections II.2, II.3, III.7 and VII.4. Also, it would be useful to recall stuff from analyic number theory, like Riemann zeta function (for section V.2), Diophantine approximation (for section IX.1) and transcendental number theory (for section IX.5).
