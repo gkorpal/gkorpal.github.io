@@ -238,8 +238,8 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
 ## Topological 
 
 * **The Sensual (quadratic) Form** by *J. H. Conway*: Introduces the concept of "topograph" to be able to see quadratic forms. I came to know about its usage in number theory from [this paper by James Rickards](https://arxiv.org/abs/1909.04103).
-  * **Topology of Numbers** by *Hatcher*: This book studies quadratic forms in two variables with integer coefficients from a perspective that emphasizes Conway's notion of the topograph of a quadratic form. However, it uses different names of terms than the ones defined by Conway.
-  * **Rigid cocycles and singular moduli for real quadratic fields** by *Jan Vonk*: Lectures from PCMI 2022. Note will be [here](https://pub.math.leidenuniv.nl/~vonkjb/notes/index.html).
+  * **Topology of Numbers** by *Hatcher*: This book studies quadratic forms in two variables with integer coefficients from a perspective that emphasizes Conway's notion of the topograph of a quadratic form. However, it uses different names of terms than the ones defined by Conway. The book draft is available on [author's website](https://pi.math.cornell.edu/~hatcher/TN/TNpage.html).
+  * **Rigid cocycles and singular moduli for real quadratic fields** by *Jan Vonk*: Lectures notes from PCMI 2022 will be posted [here](https://pub.math.leidenuniv.nl/~vonkjb/notes/index.html).
 
 ## Geometric 
 
@@ -250,7 +250,7 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
 * **The Arithmetic of Elliptic Curves** by *J. H. Silverman*: The standard introductory text about elliptic curves using techniques from algebraic geometry (varieties in projective spaces). Make sure to use the 2nd edition corrected in 2016 printing, since earlier versions have lot of typos. Neukirch's "Algebraic Number Theory" book might be helpful when reading sections II.2, II.3, III.7 and VII.4. Also, it would be useful to recall stuff from analyic number theory, like Riemann zeta function (for section V.2), Diophantine approximation (for section IX.1) and transcendental number theory (for section IX.5).
    * **Basic Algebraic Geometry** by *I. Shafarevich* (translated from the Russian by K. A. Hirsch): This is a reference for many proofs skipped in the first two chapters by Silverman. Note that this is quiet different, in terms of notations and organization, from the newer expanded translation by Miles Reid.
    * **Galois Representations** by *Gabor Wiese*: These notes complement the discussion in section III.7 of Silverman's text. They are [available online](https://math.uni.lu/~wiese/notes/GalRep.pdf).
-   * **Quaternion Algebras** by *John Voight*: The endomorphism ring of supersingular elliptic curves is an order of quaternion algebra. The chapter 42 of Voight complements section V.3 of Silvermam. The ebook is [available here](http://quatalg.org/).
+   * **Quaternion Algebras** by *John Voight*: The endomorphism ring of supersingular elliptic curves is an order of quaternion algebra. The chapter 42 of Voight complements section V.3 of Silverman. The ebook is [available here](http://quatalg.org/).
    * **Elliptic Curves: Number Theory and Cryptography** by *L. C. Washington*: This complements sections XI.4 and XI.7 of Silverman's text.
    * **Mathematics of Public Key Cryptography** by *S. D. Galbraith*: The parts II and VII of this book complements chapters V and XI of Silverman's text. The draft is [available online](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html).
    * **Elliptic Curves in Cryptography** by *I. Blake, G. Seroussi, and N. Smart*: Contains various extensions of Schoof's algorithm in Chapter VII. An alternate approach is discussed in [Harvey's lecture notes](https://web.maths.unsw.edu.au/~davidharvey/research/pcmi-draft.pdf) from PCMI GSS 2022.
