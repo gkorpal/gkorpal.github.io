@@ -55,7 +55,7 @@ To enable the "dark mode", please use a browser extension like [Dark Reader](htt
 
 <img align="left" width="350" height="450" src="https://www.smbc-comics.com/comics/1464966334-20160603.png">
 
-**Research interests**: Computational and applicable aspects of number theory.
+**Research interests**: Computational and applied aspects of number theory.
 
 <!----
 Arithmetic geometry and the related applications in cryptography.
