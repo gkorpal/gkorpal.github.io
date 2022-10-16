@@ -32,9 +32,7 @@ One might need university library membership to access some of the out-of-print 
   * [Geometric](#geometric)
 * [Scary Maths](#scary-maths)
   * [Complex Geometry](#complex-geometry)
-  * [Enumerative Geometry](#enumerative-geometry)
-  * [Representation Theory](#representation-theory)
-  
+  * [Enumerative Geometry](#enumerative-geometry)  
   
 # Popular Maths and Fiction 
 ------
