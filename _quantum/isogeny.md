@@ -11,9 +11,7 @@ citation:
  
 Isogeny-based cryptography is a kind of elliptic-curve cryptography, whose security relies on (various incarnations of) the problem of finding an explicit isogeny between two given isogenous supersingular elliptic curves over a finite field $\mathbb F_q$. However, given an elliptic curve $E$ in Weierstrass form over a finite field $\mathbb F_q$ and a point $P$ on $E$ of order $n$, one can compute a cyclic separable isogeny of degree $n$ using [Velu's formulas in SageMath](https://doc.sagemath.org/html/en/reference/arithmetic_curves/sage/schemes/elliptic_curves/ell_curve_isogeny.html) (implemented by [D. Shumow in 2009](https://arxiv.org/abs/0910.5370)).
 
-Currently, quantum computers do not seem to make the isogeny-finding problem substantially easier. This contrasts with the standard discrete-logarithm based elliptic-curve cryptography which is not quantum-safe due to polynomial-time quantum algorithm by [P. W. Shor](https://arxiv.org/abs/quant-ph/9508027v2) from 1997. Here is a summary [posted by Luca De Feo](https://twitter.com/luca_defeo/status/1579249496890183680?s=20&t=_CfzxMrLWFMeEITRViw68Q):
-
-![luca](https://pbs.twimg.com/media/FeqaAanWAAAGjGX?format=png)
+Currently, quantum computers do not seem to make the isogeny-finding problem substantially easier. This contrasts with the standard discrete-logarithm based elliptic-curve cryptography which is not quantum-safe due to polynomial-time quantum algorithm by [P. W. Shor](https://arxiv.org/abs/quant-ph/9508027v2) from 1997. 
 
 
 The [blog posts by Maria Santos (UCL)](https://mariascrs.github.io/posts.html) provide a nice introduction to isogeny-based cryptography.
@@ -80,7 +78,9 @@ sage: E2.j_invariant()
 
 **Update (Feb 02, 2022):** Using SageMath 9.5, one can implement SIDH in only 20 lines of code ([announcement](https://twitter.com/yx7__/status/1488775190733484035?s=20&t=v0cPtXdYUruLpWyR84k7SA)).
 
-**Update (Jul 30, 2022):** SIKE broken by Wouter Castryck and Thomas Decru. The [SageMath implementation](https://research.nccgroup.com/2022/08/08/implementing-the-castryck-decru-sidh-key-recovery-attack-in-sagemath/) of this attack recovers the private key in few minutes. See the posts by [Steven Galbraith](https://ellipticnews.wordpress.com/2022/08/12/attacks-on-sidh-sike/) and [Lorenz Panny](https://yx7.cc/blah/2022-08-22.html) to understand the attack. One can find the current status of attacks [here](https://issikebrokenyet.github.io/).
+**Update (Jul 30, 2022):** SIKE broken by Wouter Castryck and Thomas Decru. The [SageMath implementation](https://research.nccgroup.com/2022/08/08/implementing-the-castryck-decru-sidh-key-recovery-attack-in-sagemath/) of this attack recovers the private key in few minutes. See the posts by [Steven Galbraith](https://ellipticnews.wordpress.com/2022/08/12/attacks-on-sidh-sike/) and [Lorenz Panny](https://yx7.cc/blah/2022-08-22.html) to understand the attack. One can find the current status of attacks [here](https://issikebrokenyet.github.io/). Here is a summary [posted by Luca De Feo](https://twitter.com/luca_defeo/status/1579249496890183680?s=20&t=_CfzxMrLWFMeEITRViw68Q):
+
+![luca](https://pbs.twimg.com/media/FeqaAanWAAAGjGX?format=png)
 
 ### References
 I have included the university location for the write-ups/videos by graduate students. The ones that I found the most useful are star marked (\*).
