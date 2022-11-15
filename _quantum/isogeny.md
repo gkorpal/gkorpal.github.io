@@ -19,7 +19,8 @@ The [blog posts by Maria Santos (UCL)](https://mariascrs.github.io/posts.html) p
 Now let's look at some of the popular examples.
 
 ## Supersingular isogeny Diffie–Hellman (SIDH)
-It was introduced by [L. De Feo, D. Jao, and J.  Plût](https://eprint.iacr.org/2011/506) in 2011 and uses the full ring of endomorphisms of supersingular elliptic curves, which is an order in a quaternion algebra. This scheme is a reminiscent of the [Charles-Goren-Lauter (CGL) cryptographic hash function](https://eprint.iacr.org/2006/021) from 2006, which was [broken in 2020](https://arxiv.org/abs/2004.11495). Its current implementation is called [Supersingular Isogeny Key Encapsulation (SIKE)](https://sike.org/) and was submitted to the [NIST competition on post-quantum cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization) in 2017. An efficient algorithm for computing the endomorphism ring of a supersingular elliptic curve, under [certain assumptions](https://eprint.iacr.org/2018/371), would completely break the SIKE. The [SIDH also motivated](https://ellipticnews.wordpress.com/2020/12/24/sqisign/) the introduction of a new isogeny-based signature schemes like [Galbraith-Petit-Silva signature](https://eprint.iacr.org/2016/1154) and [Short Quaternion and Isogeny Signature (SQISign; pronounced "ski-sign")](https://eprint.iacr.org/2020/1240.pdf).
+
+It was introduced by [L. De Feo, D. Jao, and J.  Plût](https://eprint.iacr.org/2011/506) in 2011 and uses the full ring of endomorphisms of supersingular elliptic curves, which is an order in a quaternion algebra, and the fact that [the supersingular isogeny graph is Ramanujan](https://gkorpal.github.io/files/pizer.pdf). This scheme is a reminiscent of the [Charles-Goren-Lauter (CGL) cryptographic hash function](https://eprint.iacr.org/2006/021) from 2006, which was [broken in 2020](https://arxiv.org/abs/2004.11495). Its current implementation is called [Supersingular Isogeny Key Encapsulation (SIKE)](https://sike.org/) and was submitted to the [NIST competition on post-quantum cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization) in 2017. An efficient algorithm for computing the endomorphism ring of a supersingular elliptic curve, under [certain assumptions](https://eprint.iacr.org/2018/371), would completely break the SIKE. The [SIDH also motivated](https://ellipticnews.wordpress.com/2020/12/24/sqisign/) the introduction of a new isogeny-based signature schemes like [Galbraith-Petit-Silva signature](https://eprint.iacr.org/2016/1154) and [Short Quaternion and Isogeny Signature (SQISign; pronounced "ski-sign")](https://eprint.iacr.org/2020/1240.pdf).
 
 <!---- python
 # Verifying the computations given on page 6 of the article by Craig Costello.
@@ -83,6 +84,7 @@ sage: E2.j_invariant()
 ![luca](https://pbs.twimg.com/media/FeqaAanWAAAGjGX?format=png)
 
 ### References
+
 I have included the university location for the write-ups/videos by graduate students. The ones that I found the most useful are star marked (\*).
 1. M. Pierrakea (ALGANT-Bordeaux 2016-17), [Supersingular isogeny key-exchange](https://www.math.u-bordeaux.fr/~ybilu/algant/documents/theses/Pierrakea.pdf)
 2. \*D. Urbanik (Waterloo 2016-17), [A Friendly Introduction to Supersingular Isogeny Diffie-Hellman](https://www.math.toronto.edu/dburbani/work/friendlysidh.pdf) (Bonus: [video](https://www.youtube.com/watch?v=PW5Vsu57o9I) and [slides](https://www.math.toronto.edu/dburbani/work/sidh_talk_july_2016.pdf))
@@ -101,6 +103,7 @@ I have included the university location for the write-ups/videos by graduate stu
 It was introduced by [W. Castryck, T. Lange, C. Martindale, L. Panny, and J. Renes](https://eprint.iacr.org/2018/383) in 2018 and uses the subring of $\mathbb F_p$-rational endomorphisms of supersingular elliptic curves, which is an order $O$ in an imaginary quadratic field. Moreover, the ideal-class group $\mathrm{cl}(O)$ is commutative, unlike the full ring of endomorphisms. This is an efficient variant of the [Couveignes-Rostovtsev–Stolbunov (CRS) scheme](https://eprint.iacr.org/2006/145) for which [the commutativity of ideal-class group](https://arxiv.org/abs/1012.4019) leads to a subexponential attack using the quantum algorithms by [G. Kuperberg](https://arxiv.org/abs/quant-ph/0302112) and [O. Regev](https://arxiv.org/abs/quant-ph/0406151) from 2004. The CSIDH also motivated the introduction of a new isogeny-based signature schemes like [SeaSign](https://eprint.iacr.org/2018/824) and [Commutative supersingular isogeny based Fiat-Shamir signatures (CSI-FiSH; pronounced "sea-fish")](https://eprint.iacr.org/2019/498).
 
 ### References
+
 I have included the university location for the write-ups/videos by graduate students.
 1. L. De Feo (2019), [Isogeny Graphs in Cryptography](https://defeo.lu/docet/talk/2019/07/29/wurzburg/) (Bonus: [David Jao on math.SE](https://math.stackexchange.com/users/268702/djao?tab=answers))
 2. J. Sotáková (Amsterdam 2020), [Elliptic curves, isogenies, and endomorphism rings](https://jana-sotakova.github.io/writings/ANTS_school_exposition.pdf) (Bonus: [video](https://www.youtube.com/watch?v=hHD1tqFqjEQ))
@@ -113,6 +116,7 @@ I have included the university location for the write-ups/videos by graduate stu
 There are many new cryptosystems being developed, like [OSIDH](https://eprint.iacr.org/2020/985), [Séta](https://eprint.iacr.org/2019/1291), [SIAKE](https://eprint.iacr.org/2018/760), [SiGamal](https://eprint.iacr.org/2020/613), [B-SIDH](https://eprint.iacr.org/2019/1145), and [CTIDH](https://ctidh.isogeny.org/).
 
 ### References
+
 1. The webpages for [SIKE](https://sike.org/) and [CSIDH](https://csidh.isogeny.org/index.html).
 2. S. Galbraith's blog [ellipticnews](https://ellipticnews.wordpress.com/)
 3. D. Jao's seminar at ANTS-XIV: [Isogeny-based cryptography: past, present, and future](https://www.youtube.com/watch?v=AoE-uQinzqU)
