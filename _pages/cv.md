@@ -17,8 +17,10 @@ Education
 
 Work experience
 ------
+* **August 2022 - present:** Graduate Assistant II, Teaching - Department of Mathematics (The University of Arizona College of Science)
 * **August 2019 - May 2022:** Graduate Assistant I, Teaching - Department of Mathematics (The University of Arizona College of Science)
 
+<!-----
 | Semester | Primary responsibilities | Supervisor | Additional responsibilities |
 |--------- | --------------- | ---------- | --------------------------- |
 | Spring 2022| Instructor for Math 120R - Precalculus | Donna Krawczyk | Zoom exam proctor for Math 122A - Calculus (Samantha Kao), and Gradescope grader for Math 122B - Calculus (Tynan Lazarus)|
@@ -28,7 +30,8 @@ Work experience
 | Fall 2020 | TA for Math 112 - College Algebra | Michael Rossetti | Zoom exam proctor for Math 113 - Calculus (Janet Sipes), Math 112 - College Algebra (Mary Lawler), Math 116 - Business Calculus (Erzebet Lugosi) and Math 122A - Calculus (Tynan Lazarus)|
 | Spring 2020 | TA for Math 112 - Colege Algebra | Heonmi Kim | [Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf)
 | Fall 2019 | TA for Math 112 - College Algebra | Mitchell Wilson | [Job Guidelines](https://gkorpal.github.io/files/guidelinesfor112TAs.pdf) |
-  
+------>
+
 Awards and Fellowships
 ------
 * <u>Best M.Sc. Thesis Award in Mathematics</u> - National Institute of Science Education and Research, Bhubaneswar (June 10, 2019).
