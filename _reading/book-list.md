@@ -18,9 +18,9 @@ One might need university library membership to access some of the out-of-print 
 * [Olympiad Maths](#olympiad-maths)
 * [High School Maths](#high-school-maths)
 * [Undergraduate Maths](#undergraduate-maths)
+  * [Rudimentary Mathematics](#rudimentary-mathematics)
   * [Discrete Mathematics](#discrete-mathematics)
   * [Algebra](#algebra)
-  * [Calculus](#calculus)
   * [Analysis](#analysis)
   * [Topology](#topology)
   * [Geometry](#geometry)
@@ -30,6 +30,7 @@ One might need university library membership to access some of the out-of-print 
   * [Analytic](#analytic)
   * [Topological](#topological)
   * [Geometric](#geometric)
+  * [Miscellaneous](#miscellaneous)
 * [Scary Maths](#scary-maths)
   * [Complex Geometry](#complex-geometry)
   * [Enumerative Geometry](#enumerative-geometry)  
@@ -116,6 +117,15 @@ The High School constitutes of class IX-XII (Secondary and Senior Secondary educ
 
 The Undergraduate constitutes of 4-year bachelor's degree program in mathematics (tertiary education in India), i.e. students aged 18 to 22. 
 
+## Rudimentary Mathematics
+
+The name of this subsection is based on the book titled "[Rudimentary Mathematics for Economists and Statisticians](https://www.jstor.org/stable/1885019)." 
+
+* **Calculus I, II, III** by *Jerrold E. Marsden and Alan Weinstein*:  These books are old fashioned version of Calculus I, II and II (US Education System). The books are <a href="https://aimath.org/textbooks/approved-textbooks/marsden-weinstein/" target="_blank">available online</a> for free as part of the American Institute of Mathematics' [Open Textbook Initiative](https://aimath.org/textbooks/approved-textbooks/). This topic is an amalgamation of analysis, topology and geometry. We use geometric and topological properties of the Euclidean space to find some logic behind analytic facts about functions defined on Euclidean space. This is the "maths" needed for most of the undergraduate Physics courses.
+* **Tea Time Numerical Analysis** by *Leon Q. Brin*: An introductory textbook for numerical calculus with algorithms illustrated using GNU Octave. It is [available online](https://lqbrin.github.io/tea-time-numerical/) for free and is a part of the American Institute of Mathematics' [Open Textbook Initiative](https://aimath.org/textbooks/approved-textbooks/).
+* **Introduction to Probability** by *J. K. Blitzstein and J. Hwang*: It contains lots of examples, motivation and intuition. Calculus is the only prerequisite. Each chapter ends with a section showing how to perform relevant simulations and calculations in R. The softcopy of the book and the lecture videos are [available online for free](https://projects.iq.harvard.edu/stat110/home). After learning the basics, one can learn about stochastic process and the related applications other fields like [finance](https://quant.stackexchange.com/q/38862). *Recommended by TPR.*
+* **Mathematical Statistics with Applications in R** by *K.M. Ramachandran* and *C. Tsokos*: This is a very well written calculus-based introduction for someone really new to statistics. After a bit of experience, one can move to the book by [N. Mukhopadhyay](https://www.routledge.com/Probability-and-Statistical-Inference/Mukhopadhyay/p/book/9780367659493) and then in the end to the book by [Rohatgi and Saleh](https://www.wiley.com/en-us/An+Introduction+to+Probability+and+Statistics%2C+3rd+Edition-p-9781118799642). *Recommended by TPR.*
+
 
 ## Discrete Mathematics
 
@@ -134,12 +144,6 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 * **Representation and Characters of Groups** by *G. James and M. Liebeck*: This is an introductory text for representation theory of finite groups. It could have been an ideal introductory text for undergraduates but they chose [bad notations](https://math.stackexchange.com/a/192728). However, it is more accessible as compared to the standard textbook by [Serre](https://doi.org/10.1007/978-1-4684-9458-7).
   * **Representation Theory of Finite Groups** by *M. Burrow*: Must read the introduction to the first chapter. Notations are a bit outdated.
 
-## Calculus 
-
-* **Calculus I, II, III** by *Jerrold E. Marsden and Alan Weinstein*:  These books are old fashioned version of Calculus I, II and II (US Education System). The books are <a href="https://aimath.org/textbooks/approved-textbooks/marsden-weinstein/" target="_blank">available online</a> for free as part of the American Institute of Mathematics' [Open Textbook Initiative](https://aimath.org/textbooks/approved-textbooks/). This topic is an amalgamation of analysis, topology and geometry. We use geometric and topological properties of the Euclidean space to find some logic behind analytic facts about functions defined on Euclidean space. This is the "maths" needed for most of the undergraduate Physics courses.
-* **Tea Time Numerical Analysis** by *Leon Q. Brin*: An introductory textbook for numerical calculus with algortihms illustrated using GNU Octave. It is [available online](https://lqbrin.github.io/tea-time-numerical/) for free and is a part of the American Institute of Mathematics' [Open Textbook Initiative](https://aimath.org/textbooks/approved-textbooks/).
-* **Introduction to Probability** by *J. K. Blitzstein and J. Hwang*: It contains lots of examples, motivation and intuition. Calculus is the only prerequisite. Each chapter ends with a section showing how to perform relevant simulations and calculations in R. The softcopy of the book and the lecture videos are [available online for free](https://projects.iq.harvard.edu/stat110/home). After learning the basics, one can learn about stochastic process and the related applications other fields like [finance](https://quant.stackexchange.com/q/38862). *Recommended by TPR.*
-* **Mathematical Statistics with Applications in R** by *K.M. Ramachandran* and *C. Tsokos*: This is a very well written calculus-based introduction for someone really new to statistics. After a bit of experience, one can move to the book by [N. Mukhopadhyay](https://www.routledge.com/Probability-and-Statistical-Inference/Mukhopadhyay/p/book/9780367659493) and then in the end to the book by [Rohatgi and Saleh](https://www.wiley.com/en-us/An+Introduction+to+Probability+and+Statistics%2C+3rd+Edition-p-9781118799642). *Recommended by TPR.*
 
 ## Analysis 
 
@@ -177,7 +181,7 @@ The Undergraduate constitutes of 4-year bachelor's degree program in mathematics
 
 <img src="/images/book6.jpg" alt="">
 
-Number Theory is a vast field of study and it is easy to feel overwhelmed. Therefore, I would suggest using the encylopaedia  **Introduction to Modern Number Theory: Fundamental Problems, Ideas and Theories** by Yuri I. Manin and Alexei A. Panchishkin as the guide ([MathOverflow](https://mathoverflow.net/a/13145/90056)). Moreover, those without the knowledge of undergraduat mathematics, can use the book **Number Theory in Science and Communication** by Manfred R. Schroeder as the guide.
+Number Theory is a vast field of study and it is easy to feel overwhelmed. Therefore, I would suggest using the encylopaedia  **Introduction to Modern Number Theory: Fundamental Problems, Ideas and Theories** by Yuri I. Manin and Alexei A. Panchishkin as the guide ([MathOverflow](https://mathoverflow.net/a/13145/90056)). Moreover, those without the knowledge of undergraduate mathematics, can use the book **Number Theory in Science and Communication** by Manfred R. Schroeder as the guide.
 
 ## Elementary 
 
@@ -284,6 +288,13 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
   * **Étale Cohomology and the Weil Conjecture** by *E. Freitag and R. Kiehl* (translated from the German by B. S. Waterhouse and W. C. Waterhouse): This book presents P. Deligne's proof of the last of the Weil conjectures, following his original paper and develops the necessary background material from [étale cohomology](https://www.math.utah.edu/~howe/6370/). Its first section is a good reference for learning about [strict henselization](https://stacks.math.columbia.edu/tag/0BSK) which is used in section 3.2 of Brinon & Conrad.  
   * **Perfectoid Spaces: Lectures notes from the 2017 Arizona Winter School** edited by *B. Cais*: This is a reference for learning about [modern topics](https://people.maths.ox.ac.uk/gulotta/tt20.html) like the Fargues-Fontaine curve and Scholze’s theory of perfectoid spaces. The lecture notes and problem sets are also [available online](https://www.math.arizona.edu/~swc/aws/2017/index.html). It contains J. Weinstein's lecture notes on "Adic spaces" which are a good source for learning about perfectoid fields and complement the discussion in the section 4.3 of Brinon & Conrad. Note that in Weinstein's notes the nonarchimedian fields are assumed to be complete. Also, [this article by Kiran Kedlaya](https://link.springer.com/article/10.1186/s40687-015-0031-z) acts as a bridge between Weinstien and Brinon-Conrad notes. 
 
+## Miscellaneous
+
+These are some topics which I can't put into one of the above categories. A good reference for such topics are the [Arizona Winter Schools](https://swc-math.github.io/aws/index.html).
+
+* Arithmetic Dynamics: [Silverman's list of resources](https://www.math.brown.edu/johsilve/ADSHome.html).
+* Arithmetic Statistics: [Lozano-Robledo's list of resources](https://alozano.clas.uconn.edu/arithmetic-statistics/)
+* Applied Model Theory: [MathOverflow discussion](https://mathoverflow.net/a/7092/)
 
 # Scary Maths 
 --------------
