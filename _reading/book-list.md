@@ -114,7 +114,7 @@ The High School constitutes of class IX-XII (Secondary and Senior Secondary educ
 
 <img src="/images/book4.jpg" alt="">
 
-The Undergraduate constitutes of 4-year bachelor's degree program in mathematics (Tertiary education in India), i.e. students aged 18 to 22. 
+The Undergraduate constitutes of 4-year bachelor's degree program in mathematics (tertiary education in India), i.e. students aged 18 to 22. 
 
 
 ## Discrete Mathematics
@@ -212,7 +212,7 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
 * **An Introduction to the Theory of Numbers** by *G. H. Hardy and E. M. Wright*: It is a classic textbook with lot of interesting stuff using elementary analytic methods.
 * **Making Transcendence Transparent** by *E.B. Burger and R. Tubbs*: Very nice introductory text for learning the techniques used in transcedental number theory.
   * **Numbers: Rational and Irrational** by *Ivan Niven*: A beautiful little book ([MAA](https://www.maa.org/press/maa-reviews/numbers-rational-and-irrational)).
-* **Multiplicative Number Theory** by *H. Davenport*: This is a tough book for introducing analytic number theory (the analytic theory of L-functions), but worth the hardwork since you get to prove Prime Number Theorem with a good estimate. However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper on this topic!). 
+* **Multiplicative Number Theory** by *H. Davenport*: This is a tough book for introducing analytic number theory (the analytic theory of L-functions), but worth the hardwork since you get to prove Prime Number Theorem with a good estimate (chapters 1--22). However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper on this topic!). 
   * **The  Theory  of  Functions** by *E. C. Titchmarsh*. A good reference for the complex analysis used by Davenport. Might also be worth looking at Titchmarsh's other book "The Theory of the Riemann Zeta-Function."
   * **An  Introduction  to  the  Analytic  Theory  of  Numbers** by *R. Ayoub*: A good supplementary text for the methods and estimates used by Davenport.
   * **A Classical Introduction to Modern Number Theory** by *K. Ireland and M. Rosen*: Provides a straighforward proof of Dirichlet's theorem on infinite primes arithmetic progressions in chapter 16.  
@@ -222,6 +222,7 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
   * **Basic Number Theory** by *A. Weil*: It presents algebraic number theory from the adelic perspective, showing how adelic methods could provide simple and unified proofs of all the results proved in algebraic number theory ([MathOverflow](https://mathoverflow.net/q/71727/)). 
 * **Additive Number Theory: The Classical Bases** by *M. B. Nathanson*: This book gives introduction to the circle method and the sieve method. Nowadays, this field is called "arithmetic combinatorics" and uses ergodic theory and harmonic analysis. 
   * **Elementary Methods in Number Theory** by *M. B. Nathanson*: The part 3 of this book gives a good introduction to additive number theory (Waring’s problem, sums of squares, and asymptotics of partition functions). 
+  * **Introduction to Analytic and Probabilistic Number Theory** by *G. Tenenbaum (translated by P. D. F. Ion)*: Probabilistic methods (Part III of this book) grew out of Erdős' investigations of additive number theory problems. For more details see this [lecture by Rényi at ICM 1958](https://gkorpal.github.io/files/renyi1958.pdf).
   * **Sieves in Number Theory** by *G. Greaves*: Discusses the "small" sieve method of V. Brun, A.Selberg, H. Iwaniec and others.
   * **Three Pearls of Number Theory** by *A. Y. Khinchin*: A beautiful little book ([MAA](https://www.maa.org/press/maa-reviews/three-pearls-of-number-theory)).
 * **Topics in Classical Automorphic Forms** by *Iwaniec*: An introduction to the study of the analytic approach to modular forms.
