@@ -3,7 +3,7 @@ title: "Good Books"
 collection: reading
 permalink: /reading/book-list
 excerpt:
-date: 2023-01-13
+date: 2023-01-14
 venue: 
 paperurl: 
 citation: 
@@ -219,13 +219,14 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
 * **Fourier Analysis on Number Fields** by *D. Ramakrishnan and R. J. Valenza*: It is an introduction to the adelic approach to number theory organized around John Tate’s Ph.D. thesis which uses representation theory for locally compact groups ([review](https://www.ams.org/journals/bull/2000-37-03/S0273-0979-00-00872-7/S0273-0979-00-00872-7.pdf)). The last chapter contains the proof of Dirichlet's class number formula. A nice exposition about the connection between classical methods (Davenport's book above) and idelic methods (Tate's thesis) can be found in [this article by Gelbart and Miller](https://www.ams.org/journals/bull/2004-41-01/S0273-0979-03-00995-9/).
   * **Algebraic Number Theory: Proceedings of the instructional conference held at the University of Sussex (Sep 1-17, 1965)** edited by *J. W. S. Cassels and A. Fröhlich*: It uses local fields and adeles heavily. Also contains Tate's doctoral thesis that, in some sense, laid the foundations for the Langlands program ([Math.SE](https://math.stackexchange.com/q/25090/)). 
   * **Algebraic Number Theory** by *S. Lang*: The last part is a nice source for some important analytic aspects of algebraic number theory, similar to chapter 7 of Marcus' book and chapter VII of Neukirch's book mentioned above. It also contains the proof of Brauer-Siegel theorem (for imaginary quadratic fields, i.e. discriminant D<0, the class number is approximately of size √\|D\|). 
+  * **Basic Number Theory** by *A. Weil*: It presents algebraic number theory from the adelic perspective, showing how adelic methods could provide simple and unified proofs of all the results proved in algebraic number theory ([MathOverflow](https://mathoverflow.net/q/71727/)). 
 * **Additive Number Theory: The Classical Bases** by *M. B. Nathanson*: This book gives introduction to the circle method and the sieve method. Nowadays, this field is called "arithmetic combinatorics" and uses ergodic theory and harmonic analysis. 
   * **Elementary Methods in Number Theory** by *M. B. Nathanson*: The part 3 of this book gives a good introduction to additive number theory (Waring’s problem, sums of squares, and asymptotics of partition functions). 
   * **Sieves in Number Theory** by *G. Greaves*: Discusses the "small" sieve method of V. Brun, A.Selberg, H. Iwaniec and others.
   * **Three Pearls of Number Theory** by *A. Y. Khinchin*: A beautiful little book ([MAA](https://www.maa.org/press/maa-reviews/three-pearls-of-number-theory)).
 * **Topics in Classical Automorphic Forms** by *Iwaniec*: An introduction to the study of the analytic approach to modular forms.
   * **Some Applications of Modular Forms** by *Sarnak*: Discusses the solution of three problems (Ruziewicz's problem from measure theory, constructing Ramanujan graphs, and Lennik's conjecture about sum of three squares) using modular forms.
-  * **The 1-2-3 of Modular Forms** by *Zagier et al.*: It has lecture notes by four authors. The first lecture discusses the applications of classical modular forms to questions of number theory, combnatorics, differential equations, geometry, and mathematical physics. 
+  * **The 1-2-3 of Modular Forms** by *Zagier et al.*: It has lecture notes by four authors. The first lecture discusses the applications of classical modular forms to questions of number theory, combinatorics, differential equations, geometry, and mathematical physics. 
   * **Lattices and Codes** by *W. Ebeling*: Lattices are studied in number theory and in the geometry of numbers. Many problems about codes have their counterpart in problems about lattices and sphere packings via the associated modular forms (theta functions).  In this book the connections between weight enumerators of codes and theta functions of lattices, the classification of even unimodular 24-dimensional lattices, and the Leech lattice are discussed. 
 * **Uniform distribution of sequences** by *L. Kuipers and Niederreiter*: The first ever survey in this field. 
   * **Fourier Analysis: An Introduction** by *E. M. Stein and R. Shakarchi*: It is a good reference for "Weyl’s Equidistribution Theorem" (section 4.2) which is closely related to "Kronecker’s Theorem" (Diophantine approximation) discussed in Hardy & Wright's book (section 23.3, latest edition).
