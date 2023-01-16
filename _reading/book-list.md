@@ -3,7 +3,7 @@ title: "Good Books"
 collection: reading
 permalink: /reading/book-list
 excerpt:
-date: 2023-01-14
+date: 2023-01-16
 venue: 
 paperurl: 
 citation: 
