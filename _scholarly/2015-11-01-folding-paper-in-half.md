@@ -8,9 +8,12 @@ venue: 'At Right Angles'
 paperurl: 
 citation: 
 ---
-Korpal, G. (2015). "Folding paper in half." At Right Angles (India), pp. 20-23, Vol. 4, No. 3, November 2015. <a href="http://teachersofindia.org/en/ebook/folding-paper-half">http://teachersofindia.org/en/ebook/folding-paper-half</a>
+Korpal, G. (2015). "Folding paper in half." At Right Angles (India), pp. 20-23, Vol. 4, No. 3, November 2015. <a href="http://publications.azimpremjifoundation.org/1653/">http://publications.azimpremjifoundation.org/1653/</a>
 
 This article discusses Britney C. Gallivan's proof about the possibility of folding a piece of paper into half any number of times. 
+
+The article is nicely annotated and explained by [Luís Batalha on Fermat's Library](https://fermatslibrary.com/s/folding-paper-in-half).
+
 
 Cited in the book "Understanding Lesson Study for Mathematics" by R. Archer, S. Morgan, and D. Swanson 
 ![photo](https://gkorpal.github.io/images/gk-2020.png)
