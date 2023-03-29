@@ -3,7 +3,7 @@ title: "Good Articles"
 collection: reading
 permalink: /reading/article-list
 excerpt:
-date: 2022-02-11
+date: 2023-03-28
 venue: 
 paperurl: 
 citation: 
@@ -83,10 +83,11 @@ As one can see, my knowledge of computer science is limited to cryptography. Not
 
 ## Expository
 
+* W. D’Alessandro, Proving quadratic reciprocity: explanation, disagreement, transparency and depth, _Synthese_ **198** (2021), 8621--8664. [Stable URL](https://doi.org/10.1007/s11229-020-02591-6)
 * F. Oort, The Weil Conjectures, _Nieuw Arch. Wiskd. (5)_ **15** (2014), no. 6, 211--219. [Stable URL](http://www.nieuwarchief.nl/serie5/pdf/naw5-2014-15-3-211.pdf)  (There is a calculation error in the last line of the middle column of p. 214, $\alpha^{10},\beta^{10} = \mp 32i$).
 * C. S. Dalawat, Classical Reciprocity Laws, _Asia Pac. Math. Newsl._ **4** (2014), no. 4,  5--9. [Stable URL](http://www.asiapacific-mathnews.com/04/0404/0005_0009.pdf)
 * U. A. Rozikov, What   are   p-adic   Numbers? What   are   they   used   for?, _Asia Pac. Math. Newsl._ **3** (2013),   no. 4, 1–6. [Stable URL](http://www.asiapacific-mathnews.com/03/0304/0001_0006.pdf)
-* R. Sreekantan, Yitang Zhang and The Twin Primes Conjecture, _At Right Angles_ **2** (2013), no. 3, 14--17. [Stable URL](http://teachersofindia.org/en/article/yitang-zhang-and-twin-primes-conjecture)
+* R. Sreekantan, Yitang Zhang and The Twin Primes Conjecture, _At Right Angles_ **2** (2013), no. 3, 14--17. [Stable URL](https://publications.azimpremjiuniversity.edu.in/1682/)
 * G. Frey, The Arithmetic Behind Cryptography, _Notices Amer. Math. Soc._ **57** (2010), no. 3, 366-374. [Stable URL](http://www.ams.org/notices/201003/rtx100300366p.pdf)
 * A. Granville and G. Martin, Prime Number Races, _Amer. Math. Monthly_ **113** (2006), no. 1, 1--33. [Stable URL](https://www.jstor.org/stable/27641834)
 * D. Khurana, On GCD and LCM in Domains – A Conjecture of Gauss, _Resonance_ **8** (2003), no. 6, 72--79. [Stable URL](https://www.ias.ac.in/article/fulltext/reso/008/06/0072-0079)
@@ -99,7 +100,7 @@ As one can see, my knowledge of computer science is limited to cryptography. Not
 * B. L. van der Waerden, Hamilton's Discovery of Quaternions, _Math. Mag._ **49** (1976), no. 5, 227--234. doi:[10.2307/2689449](https://doi.org/10.2307/2689449), [Stable URL](https://www.jstor.org/stable/2689449)
 * M. Davis and R. Hersh, Hilbert's 10th Problem,  _Scientific American_ **229** (1973), no. 5, 84--91. doi: [10.1038/scientificamerican1173-84](https://doi.org/10.1038/scientificamerican1173-84), [Stable URL](https://www.jstor.org/stable/24923245)
 
-I have fond memories of reading expository articles in Indian magazines like Junior Mathematician (published by AMTI, Chennai) and Bona Mathematica (published by BP, Pune), which were similar to the Soviet era periodicals like Kvant (published by Nauka) and Little Mathematics Library (english translations published by Mir). Unfortunately, they are not available online (but were accessible without university library membership). However, [At Right Angles](http://teachersofindia.org/en/periodicals/at-right-angles) (published by APU, Bengaluru) and [Resonance](https://www.ias.ac.in/Journals/Resonance_%E2%80%93_Journal_of_Science_Education) (published by  IAS, Bengaluru) are  the current alternatives to these which are available online. 
+I have fond memories of reading expository articles in Indian magazines like Junior Mathematician (published by AMTI, Chennai) and Bona Mathematica (published by BP, Pune), which were similar to the Soviet era periodicals like Kvant (published by Nauka) and Little Mathematics Library (english translations published by Mir). Unfortunately, they are not available online (but were accessible without university library membership). However, [At Right Angles](https://azimpremjiuniversity.edu.in/at-right-angles) (published by APU, Bengaluru) and [Resonance](https://www.ias.ac.in/Journals/Resonance_%E2%80%93_Journal_of_Science_Education) (published by  IAS, Bengaluru) are  the current alternatives to these which are available online. 
 
 The Mathematical Association of America (MAA) publishes many exposition focused journals like the American Mathematical Monthly, Mathematics Magazine, the College Mathematics Journal and Math Horizons, but I haven't been able to access latest issues via my University library (archives are available via JSTOR). Moreover, the [Princeton Companion to Mathematics](https://press.princeton.edu/books/hardcover/9780691118802/the-princeton-companion-to-mathematics) contains many original expository articles about almost every topic in maths.
 
