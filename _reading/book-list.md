@@ -3,7 +3,7 @@ title: "Good Books"
 collection: reading
 permalink: /reading/book-list
 excerpt:
-date: 2023-01-21
+date: 2023-04-07
 venue: 
 paperurl: 
 citation: 
@@ -262,6 +262,7 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
    * **Elliptic Curves: Number Theory and Cryptography** by *L. C. Washington*: This complements sections XI.4 and XI.7 of Silverman's text.
    * **Mathematics of Public Key Cryptography** by *S. D. Galbraith*: The parts II and VII of this book complements chapters V and XI of Silverman's text. The draft is [available online](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html).
    * **Elliptic Curves in Cryptography** by *I. Blake, G. Seroussi, and N. Smart*: Contains various extensions of Schoof's algorithm in Chapter VII. An alternate approach is discussed in [Harvey's lecture notes](https://web.maths.unsw.edu.au/~davidharvey/research/pcmi-draft.pdf) from PCMI GSS 2022.
+   * **Elliptic curves: A computational approach** by *S. Schmitt, and H. Zimmer*:  It nicely complements Silverman's book, providing a path into the computational theory of elliptic curves. 
 * **A First Course in Modular Forms** by *F. Diamond and J. Shurman*: This book explains the Modularity Theorem (Taniyama–Shimura-Weil conjecture), "All rational elliptic curves arise from modular forms." The modularity theorem is, [in some sense](https://math.stackexchange.com/questions/55449/), a special case of the Langlands program.
   * **Introduction to Elliptic Curves and Modular Forms** by *N. Koblitz*: A nice introduction to modular forms, which basically adds details and exercises to Serre's condense one chapter introduction in his classic book "A Course in Arithmetic". The study of modular forms is motivated via congruent number problem, and a brief discussion of analytic theory of elliptic curves. This complements chapter 1 and 4 of Diamond-Shurman.
   * **Complex Analysis** by *E. M. Stein and R. Shakarchi*: A good reference for the facts from complex analysis needed for understanding the proofs involving modular forms. This complements chapter 1 of Diamond-Shurman.
