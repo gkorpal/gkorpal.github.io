@@ -3,7 +3,7 @@ title: "Good Articles"
 collection: reading
 permalink: /reading/article-list
 excerpt:
-date: 2023-03-28
+date: 2023-06-24
 venue: 
 paperurl: 
 citation: 
@@ -86,6 +86,7 @@ As one can see, my knowledge of computer science is limited to cryptography. Not
 * W. D’Alessandro, Proving quadratic reciprocity: explanation, disagreement, transparency and depth, _Synthese_ **198** (2021), 8621--8664. doi:[10.1007/s11229-020-02591-6](https://doi.org/10.1007/s11229-020-02591-6)
 * F. Oort, The Weil Conjectures, _Nieuw Arch. Wiskd. (5)_ **15** (2014), no. 6, 211--219. [Stable URL](http://www.nieuwarchief.nl/serie5/pdf/naw5-2014-15-3-211.pdf)  (There is a calculation error in the last line of the middle column of p. 214, $\alpha^{10},\beta^{10} = \mp 32i$).
 * C. S. Dalawat, Classical Reciprocity Laws, _Asia Pac. Math. Newsl._ **4** (2014), no. 4,  5--9. [Stable URL](http://www.asiapacific-mathnews.com/04/0404/0005_0009.pdf)
+* F. Oort, Prime Numbers, _ICCM Not._ **1** (2013), no. 2, 60–78. doi:[10.4310/ICCM.2013.v1.n2.a8](https://dx.doi.org/10.4310/ICCM.2013.v1.n2.a8) 
 * U. A. Rozikov, What   are   p-adic   Numbers? What   are   they   used   for?, _Asia Pac. Math. Newsl._ **3** (2013),   no. 4, 1–6. [Stable URL](http://www.asiapacific-mathnews.com/03/0304/0001_0006.pdf)
 * R. Sreekantan, Yitang Zhang and The Twin Primes Conjecture, _At Right Angles_ **2** (2013), no. 3, 14--17. [Stable URL](https://publications.azimpremjiuniversity.edu.in/1682/)
 * A. Rice and E. Brown, Why Ellipses Are Not Elliptic Curves, _Math. Mag._ **85** (2012), no. 3, 163--176. doi:[10.4169/math.mag.85.3.163](https://doi.org/10.4169/math.mag.85.3.163), [Stable URL](https://www.jstor.org/stable/10.4169/math.mag.85.3.163)
