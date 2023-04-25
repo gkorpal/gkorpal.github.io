@@ -3,7 +3,7 @@ title: "Good Articles"
 collection: reading
 permalink: /reading/article-list
 excerpt:
-date: 2023-06-24
+date: 2023-04-24
 venue: 
 paperurl: 
 citation: 
