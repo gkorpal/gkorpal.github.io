@@ -3,7 +3,7 @@ title: "Good Books"
 collection: reading
 permalink: /reading/book-list
 excerpt:
-date: 2023-04-07
+date: 2023-04-26
 venue: 
 paperurl: 
 citation: 
@@ -234,7 +234,8 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
   * **Some Applications of Modular Forms** by *Sarnak*: Discusses the solution of three problems (Ruziewicz's problem from measure theory, constructing Ramanujan graphs, and Lennik's conjecture about sum of three squares) using modular forms.
   * **The 1-2-3 of Modular Forms** by *Zagier et al.*: It has lecture notes by four authors. The first lecture discusses the applications of classical modular forms to questions of number theory, combinatorics, differential equations, geometry, and mathematical physics. 
   * **Lattices and Codes** by *W. Ebeling*: Lattices are studied in number theory and in the geometry of numbers. Many problems about codes have their counterpart in problems about lattices and sphere packings via the associated modular forms (theta functions).  In this book the connections between weight enumerators of codes and theta functions of lattices, the classification of even unimodular 24-dimensional lattices, and the Leech lattice are discussed. 
-* **Uniform distribution of sequences** by *L. Kuipers and Niederreiter*: The first ever survey in this field. 
+* **Number Theory, Fourier Analysis and Geometric Discrepancy** by *G. Travaglini*: This book consists of two parts. The first part is concerned with classical topics and results from elementary number theory, while the second part is concerned with the particular subject of uniform distribution theory and discrepancy theory. Many of the results are shown using Fourier-analytic arguments, and a basic introduction to Fourier analysis is incorporated into the text at the necessary positions ([MAA](https://www.maa.org/press/maa-reviews/number-theory-fourier-analysis-and-geometric-discrepancy) and [MathOverflow](https://mathoverflow.net/a/253862/))
+  * **Uniform distribution of sequences** by *L. Kuipers and Niederreiter*: The first ever survey in this field. 
   * **Fourier Analysis: An Introduction** by *E. M. Stein and R. Shakarchi*: It is a good reference for "Weyl’s Equidistribution Theorem" (section 4.2) which is closely related to "Kronecker’s Theorem" (Diophantine approximation) discussed in Hardy & Wright's book (section 23.3, latest edition).
   * **Sequences, Discrepancies and Applications** by *M. Drmota and R. F. Tichy*: This book discusses special developements and methods of the theory of uniform distribution since Kuipers-Niederreiter's book. 
   * **Equidistribution in Number Theory, An Introduction: SMS–NATO ASI Summer School Montreal 2005** edited by *A. Granville and A. Rudnick*: See the [commentary by Pete Clark](http://alpha.math.uga.edu/~pete/udnotes.pdf).
