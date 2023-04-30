@@ -3,7 +3,7 @@ title: "Good Articles"
 collection: reading
 permalink: /reading/article-list
 excerpt:
-date: 2023-04-26
+date: 2023-04-29
 venue: 
 paperurl: 
 citation: 
@@ -83,6 +83,7 @@ As one can see, my knowledge of computer science is limited to cryptography. Not
 
 ## Expository
 
+* J. S. Chahal, What Do Networks and Elliptic Curves Have in Common?, _Amer. Math. Monthly_ **130** (2023), no. 2, 158-175, doi:[10.1080/00029890.2022.2141548](https://doi.org/10.1080/00029890.2022.2141548)
 * W. D’Alessandro, Proving quadratic reciprocity: explanation, disagreement, transparency and depth, _Synthese_ **198** (2021), 8621--8664. doi:[10.1007/s11229-020-02591-6](https://doi.org/10.1007/s11229-020-02591-6)
 * F. Oort, The Weil Conjectures, _Nieuw Arch. Wiskd. (5)_ **15** (2014), no. 6, 211--219. [Stable URL](http://www.nieuwarchief.nl/serie5/pdf/naw5-2014-15-3-211.pdf)  (There is a calculation error in the last line of the middle column of p. 214, $\alpha^{10},\beta^{10} = \mp 32i$).
 * C. S. Dalawat, Classical Reciprocity Laws, _Asia Pac. Math. Newsl._ **4** (2014), no. 4,  5--9. [Stable URL](http://www.asiapacific-mathnews.com/04/0404/0005_0009.pdf)
