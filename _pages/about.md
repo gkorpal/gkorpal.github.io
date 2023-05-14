@@ -55,7 +55,7 @@ To enable the "dark mode", please use a browser extension like [Dark Reader](htt
 *I often have directed reading project ideas in number theory, suitable for motivated undergraduates (inspired by [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu)). Please email me if you wish to learn more about potential projects.*
 
  
-**Research interests:** Number theory, with emphasis on isogeny-based cryptography.
+**Research interests:** Number theory, with emphasis on [isogeny-based cryptography](https://gkorpal.github.io/quantum/isogeny).
 
 <img align="left" width="350" height="450" src="https://www.smbc-comics.com/comics/1464966334-20160603.png">
 
