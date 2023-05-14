@@ -295,6 +295,7 @@ These are some topics which I can't put into one of the above categories. A good
 * Arithmetic Statistics: [Lozano-Robledo's list of resources](https://alozano.clas.uconn.edu/arithmetic-statistics/)
 * Applied Model Theory: [MathOverflow discussion](https://mathoverflow.net/a/7092/)
 * p-adic Hodge Theory: [Gulotta's list of resources](https://dgulotta.github.io/tt20.html)
+* Shimura curves: [MathOverflow discussion](https://mathoverflow.net/q/11219/)
 
 # Scary Maths 
 --------------
