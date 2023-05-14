@@ -3,7 +3,7 @@ title: "Good Articles"
 collection: reading
 permalink: /reading/article-list
 excerpt:
-date: 2023-04-29
+date: 2023-05-13
 venue: 
 paperurl: 
 citation: 
@@ -97,6 +97,7 @@ As one can see, my knowledge of computer science is limited to cryptography. Not
 * J. B. Conrey, The Riemann Hypothesis, _Notices Amer. Math. Soc._ **50** (2003), no. 3, 341--353. [Stable URL](http://www.ams.org/notices/200303/fea-conrey-web.pdf)
 * S. Ahlgren and K. Ono, Adding and counting: The arithmetic of partitions, _Notices Amer. Math. Soc._ **48** (2001), no. 9, 978--984. [Stable URL](http://www.ams.org/notices/200109/fea-ahlgren.pdf)
 * P. Stevenhagen and H. W. Lenstra, Chebotarëv and his Density Theorem, _Math. Intelligencer_ **18** (1996), no. 2, 26--37. doi:[10.1007/BF03027290](https://doi.org/10.1007/BF03027290)
+* N. Schappacher and R. Schoof,  Beppo Levi and the arithmetic of elliptic curves, _Math. Intelligencer_ **18** (1996), no. 1, 57--69. doi:[10.1007/BF03024818](https://doi.org/10.1007/BF03024818)
 * J. Shallit, Origins of the analysis of the Euclidean algorithm, _Historia Mathematica_ **21** (1994), no. 4, 401--419. doi:[10.1006/hmat.1994.1031](https://doi.org/10.1006/hmat.1994.1031)
 * E. Bombieri, Prime Territory, _The Sciences_ **32** (1992), no. 5, 30--36. doi:[10.1002/j.2326-1951.1992.tb02416.x](https://doi.org/10.1002/j.2326-1951.1992.tb02416.x)
 * H. M. Edwards, Fermat's Last Theorem, _Scientific American_ **239** (1978), no. 4, 104–-122. doi: [10.1038/scientificamerican1078-104](https://doi.org/10.1038/scientificamerican1078-104), [Stable URL](https://www.jstor.org/stable/24955826)
