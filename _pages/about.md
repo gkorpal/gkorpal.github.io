@@ -52,7 +52,7 @@ To enable the "dark mode", please use a browser extension like [Dark Reader](htt
 
 **email:** gkorpal at math dot arizona dot edu
 
-*I frequently have directed reading projects ideas in number theory (inspired by [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu)), suitable for motivated undergraduates. Please email me if you wish to learn more about potential projects.*
+*I often have directed reading project ideas in number theory, suitable for motivated undergraduates (inspired by [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu)). Please email me if you wish to learn more about potential projects.*
 
  
 **Research interests:** Applications of arithmetic geometry to cryptography.
