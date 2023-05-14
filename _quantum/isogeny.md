@@ -83,6 +83,8 @@ sage: E2.j_invariant()
 
 ![luca](https://pbs.twimg.com/media/FeqaAanWAAAGjGX?format=png)
 
+**Update (Mar 26, 2023):** SQISign has new resources like [SQISign 2.0](https://eprint.iacr.org/2022/234), [SQISignHD](https://eprint.iacr.org/2023/436), and [Learning to SQI](https://learningtosqi.github.io/). 
+
 ### References
 
 I have included the university location for the write-ups/videos by graduate students. The ones that I found the most useful are star marked (\*).
@@ -110,6 +112,7 @@ I have included the university location for the write-ups/videos by graduate stu
 3. Y.B. Ti (Auckland 2020), [Mathematics of Isogeny-based cryptography](https://www.youtube.com/watch?v=cefwCn7wy2Q)
 4. T. Lange and L. Panny (2021), [(C)SIDH](https://www.hyperelliptic.org/tanja/teaching/isogeny-school21/) (Bonus: [L. Panny's notes](https://yx7.cc/docs/misc/isog_bristol_notes.pdf) and [Martindale-Panny article](https://www.martindale.info/car_article.pdf))
 5. J.-F. Biasse (2021), [Ideal class group computations for isogeny-based cryptography](http://www.usf-crypto.org/class-groups/)
+6. S. Galbraith (2023), [The Ideal Class Group Action on Supersingular Elliptic Curves](https://www.math.auckland.ac.nz/~sgal018/note-on-CSIDH-action.pdf)
 
 ## Recent developments
 
