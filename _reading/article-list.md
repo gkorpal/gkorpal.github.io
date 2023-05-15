@@ -3,7 +3,7 @@ title: "Good Articles"
 collection: reading
 permalink: /reading/article-list
 excerpt:
-date: 2023-05-13
+date: 2023-05-14
 venue: 
 paperurl: 
 citation: 
@@ -91,16 +91,29 @@ As one can see, my knowledge of computer science is limited to cryptography. Not
 * U. A. Rozikov, What   are   p-adic   Numbers? What   are   they   used   for?, _Asia Pac. Math. Newsl._ **3** (2013),   no. 4, 1–6. [Stable URL](http://www.asiapacific-mathnews.com/03/0304/0001_0006.pdf)
 * R. Sreekantan, Yitang Zhang and The Twin Primes Conjecture, _At Right Angles_ **2** (2013), no. 3, 14--17. [Stable URL](https://publications.azimpremjiuniversity.edu.in/1682/)
 * A. Rice and E. Brown, Why Ellipses Are Not Elliptic Curves, _Math. Mag._ **85** (2012), no. 3, 163--176. doi:[10.4169/math.mag.85.3.163](https://doi.org/10.4169/math.mag.85.3.163), [Stable URL](https://www.jstor.org/stable/10.4169/math.mag.85.3.163)
-* G. Frey, The Arithmetic Behind Cryptography, _Notices Amer. Math. Soc._ **57** (2010), no. 3, 366-374. [Stable URL](http://www.ams.org/notices/201003/rtx100300366p.pdf)
+* B. Sury, Nothing lucky about 13, _Math. Mag._ **83** (2010), no. 4, 289--293. doi:[10.4169/002557010X521840](https://doi.org/10.4169/002557010X521840)
+* G. Frey, The Arithmetic Behind Cryptography, _Notices Amer. Math. Soc._ **57** (2010), no. 3, 366--374. [Stable URL](http://www.ams.org/notices/201003/rtx100300366p.pdf)
+* F. Morgan, Fermat's last theorem for fractional and irrational exponents, _College Math. J._ **41** (2010), no. 3, 182--185. doi:[10.4169/074683410X488647](https://doi.org/10.4169/074683410X488647)
+* J. DeMaio and A. Lightcap, A Graph Theoretic Summation of the Cubes of the First $n$ Integers, _Math. Mag._ **82** (2009), no. 5, 363--364. doi:[10.4169/002557009X478409](https://doi.org/10.4169/002557009X478409)
+* J. B. Gil and M. D. Weiner, A Quick Change of Base Algorithm for Fractions, _College Math. J._ **39** (2008), no. 1, 56--59. [Stable URL](https://www.jstor.org/stable/27646569)
+* W. Y. Pong, Sums of consecutive integers, _College Math. J._ **38** (2007), no. 2, 119--123. doi:[10.1080/07468342.2007.11922226](https://doi.org/10.1080/07468342.2007.11922226)
 * A. Granville and G. Martin, Prime Number Races, _Amer. Math. Monthly_ **113** (2006), no. 1, 1--33. [Stable URL](https://www.jstor.org/stable/27641834)
+* G. Garza and J. Young, Wieferich Primes and Period Lengths for the Expansions of Fractions, _Math. Mag._ **77** (2004), no. 4, 314--319. [Stable URL](https://www.jstor.org/stable/3219294) 
 * D. Khurana, On GCD and LCM in Domains – A Conjecture of Gauss, _Resonance_ **8** (2003), no. 6, 72--79. [Stable URL](https://www.ias.ac.in/article/fulltext/reso/008/06/0072-0079)
 * J. B. Conrey, The Riemann Hypothesis, _Notices Amer. Math. Soc._ **50** (2003), no. 3, 341--353. [Stable URL](http://www.ams.org/notices/200303/fea-conrey-web.pdf)
 * S. Ahlgren and K. Ono, Adding and counting: The arithmetic of partitions, _Notices Amer. Math. Soc._ **48** (2001), no. 9, 978--984. [Stable URL](http://www.ams.org/notices/200109/fea-ahlgren.pdf)
+* G. P. Dresden, Two Irrational Numbers from the Last Nonzero Digits of $n!$ and $n^n$, _Math. Mag._ **74** (2001), no. 4, 316--320. [Stable URL](https://www.jstor.org/stable/2691105)
+* W. D. Stangl, Counting squares in $\mathbb{Z}_n$, _Math. Mag._ **69** (1996), no. 4, 285--289. [Stable URL](https://www.jstor.org/stable/2690536)
 * P. Stevenhagen and H. W. Lenstra, Chebotarëv and his Density Theorem, _Math. Intelligencer_ **18** (1996), no. 2, 26--37. doi:[10.1007/BF03027290](https://doi.org/10.1007/BF03027290)
 * N. Schappacher and R. Schoof,  Beppo Levi and the arithmetic of elliptic curves, _Math. Intelligencer_ **18** (1996), no. 1, 57--69. doi:[10.1007/BF03024818](https://doi.org/10.1007/BF03024818)
 * J. Shallit, Origins of the analysis of the Euclidean algorithm, _Historia Mathematica_ **21** (1994), no. 4, 401--419. doi:[10.1006/hmat.1994.1031](https://doi.org/10.1006/hmat.1994.1031)
+* D. E. G. Malm, A graph of primes, _Math. Mag._ **66** (1993), no. 5, 317--320. [Stable URL](https://www.jstor.org/stable/2690511)
 * E. Bombieri, Prime Territory, _The Sciences_ **32** (1992), no. 5, 30--36. doi:[10.1002/j.2326-1951.1992.tb02416.x](https://doi.org/10.1002/j.2326-1951.1992.tb02416.x)
+* A. D. Abrams and M. J. Paris, The Probability that $(a,b) = 1$, _Col. Math. J._ **23** (1992), no. 1, 47. [Stable URL](https://www.jstor.org/stable/2686199)
+* G. P. Graham and C. E. Roberts, A Diophantine equation from calculus, _Math. Mag._ **62** (1989), no. 2, 97--101. doi:[10.1080/0025570X.1989.11977418](https://doi.org/10.1080/0025570X.1989.11977418), [Stable URL](https://www.jstor.org/stable/2690390)
 * F. Bien, Constructions of telephone networks by group representations, _Notices Amer. Math. Soc._ **36** (1989), no. 1, 5--22. [Stable URL](https://www.ams.org/journals/notices/198901/198901FullIssue.pdf)
+* J. T. Cross, Primitive Pythagorean triples of Gaussian integers, _Math. Mag._ **59** (1986), no. 2, 106--110. [Stable URL](https://www.jstor.org/stable/2690428)
+* N. Koblitz, Why study equations over finite fields? _Math. Mag._ **55** (1982), no. 3, 144--149. doi:[10.2307/2690080](https://doi.org/10.2307/2690080), [Stable URL](https://www.jstor.org/stable/2690080)
 * H. M. Edwards, Fermat's Last Theorem, _Scientific American_ **239** (1978), no. 4, 104–-122. doi: [10.1038/scientificamerican1078-104](https://doi.org/10.1038/scientificamerican1078-104), [Stable URL](https://www.jstor.org/stable/24955826)
 * D. Zagier, The first 50 million prime numbers, _Math. Intelligencer_ **1** (1977), no. 1, 7--19. doi:[10.1007/BF03039306](https://doi.org/10.1007/BF03039306)
 * B. L. van der Waerden, Hamilton's Discovery of Quaternions, _Math. Mag._ **49** (1976), no. 5, 227--234. doi:[10.2307/2689449](https://doi.org/10.2307/2689449), [Stable URL](https://www.jstor.org/stable/2689449)
@@ -113,6 +126,7 @@ The Mathematical Association of America (MAA) publishes many exposition focused 
 ## Research
 
 * A. Granville,  Squares in Arithmetic Progressions and Infinitely Many Primes, _Amer. Math. Monthly_ **124** (2017), no. 10, 951--954. doi:[10.4169/amer.math.monthly.124.10.951](https://doi.org/10.4169/amer.math.monthly.124.10.951), [Stable URL](https://www.jstor.org/stable/10.4169/amer.math.monthly.124.10.951)
+* J. A. Zuehlke, Fermat's last theorem for Gaussian integer exponents,  _Amer. Math. Monthly_ **106** (1999), no. 1, 49. doi:[10.1080/00029890.1999.12005006](https://doi.org/10.1080/00029890.1999.12005006)
 * H. M. Stark, A complete determination of the complex quadratic fields of class-number one, _Michigan Math. J._ **14** (1967), no. 1, 1--27, doi:[10.1307/mmj/1028999653](http://projecteuclid.org/euclid.mmj/1028999653)
 * K. F. Roth, Rational approximations to algebraic numbers, _Mathematika_ **2** (1955), no. 1, 1--20. doi:[10.1112/S0025579300000644](https://doi.org/10.1112/S0025579300000644)
 * I. Niven, A simple proof that $\pi$ is irrational, _Bull. Amer. Math. Soc._ **53** (1947), no. 6, 509--509. [Stable URL](https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-53/issue-6/A-simple-proof-that-pi-is-irrational/bams/1183510788.full) (this method was later [generalized by A. E. Parks](https://www.jstor.org/stable/2322291))
