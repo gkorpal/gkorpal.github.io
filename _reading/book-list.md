@@ -3,7 +3,7 @@ title: "Good Books"
 collection: reading
 permalink: /reading/book-list
 excerpt:
-date: 2023-05-14
+date: 2023-05-15
 venue: 
 paperurl: 
 citation: 
@@ -221,7 +221,7 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
 * **Multiplicative Number Theory** by *H. Davenport*: This is a tough book for introducing analytic number theory (the analytic theory of L-functions), but worth the hardwork since you get to prove Prime Number Theorem with a good estimate (chapters 1--22). However, anyone interested in analytic number theory must read the chapter 8 about Riemann's contribution (he wrote only one paper on this topic!). 
   * **The  Theory  of  Functions** by *E. C. Titchmarsh*. A good reference for the complex analysis used by Davenport. Might also be worth looking at Titchmarsh's other book "The Theory of the Riemann Zeta-Function."
   * **An  Introduction  to  the  Analytic  Theory  of  Numbers** by *R. Ayoub*: A good supplementary text for the methods and estimates used by Davenport.
-  * **A Classical Introduction to Modern Number Theory** by *K. Ireland and M. Rosen*: Provides a straighforward proof of Dirichlet's theorem on infinite primes arithmetic progressions in chapter 16.  
+  * **A Classical Introduction to Modern Number Theory** by *K. Ireland and M. Rosen*: Provides a straighforward proof of Dirichlet's theorem on infinite primes arithmetic progressions in chapter 16. Also see chapters 10 and 11 for a nice exposition on Gauss Sums, Jacobi Sums, and Weil Conjectures.
 * **Fourier Analysis on Number Fields** by *D. Ramakrishnan and R. J. Valenza*: It is an introduction to the adelic approach to number theory organized around John Tate’s Ph.D. thesis which uses representation theory for locally compact groups ([review](https://www.ams.org/journals/bull/2000-37-03/S0273-0979-00-00872-7/S0273-0979-00-00872-7.pdf)). The last chapter contains the proof of Dirichlet's class number formula. A nice exposition about the connection between classical methods (Davenport's book above) and idelic methods (Tate's thesis) can be found in [this article by Gelbart and Miller](https://www.ams.org/journals/bull/2004-41-01/S0273-0979-03-00995-9/).
   * **Algebraic Number Theory: Proceedings of the instructional conference held at the University of Sussex (Sep 1-17, 1965)** edited by *J. W. S. Cassels and A. Fröhlich*: It uses local fields and adeles heavily. Also contains Tate's doctoral thesis that, in some sense, laid the foundations for the Langlands program ([Math.SE](https://math.stackexchange.com/q/25090/)). Also, see the notes by [Bjorn Poonen](https://math.mit.edu/~poonen/786/notes.pdf) and Kudla's articles from the Bernstein and Gelbart's book above.
   * **Algebraic Number Theory** by *S. Lang*: The last part is a nice source for some important analytic aspects of algebraic number theory, similar to chapter 7 of Marcus' book and chapter VII of Neukirch's book mentioned above. It also contains the proof of Brauer-Siegel theorem (for imaginary quadratic fields, i.e. discriminant D<0, the class number is approximately of size √\|D\|). 
@@ -239,6 +239,8 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
   * **Topics in Ergodic Theory** by *W. Parry*: The result "Uniform distribution (mod 1)" of H. Weyl can be regarded as the first ergodic theorem to be discovered.
   * **Introduction to Quasi-Monte Carlo Integration and Applications** by *Leobacher and Pillichshammer*: The theory of Uniform Distribution Modulo One is used for numerical integration based on QMC rules.
   * **Applied Number Theory** by *H. Niederreiter and A. Winterhof*: The chapters 4 and 5 nicely complement the main text. One can suppliment it with the calssic text "Random Number Generation and Quasi-Monte Carlo Methods" by Niederreiter.
+* **p-adic Numbers, p-adic Analysis, and Zeta-Functions** by *N. Koblitz*: It discusses the p-adic Mazur-Mellin transform and Dwork's proof of the rationality of zeta-function (Weil conjecture). *Never read.*
+  * **p-adic Analysis Compared with Real** by  *S. Katok*: A gentle undergratuate level exposition, like Gouvêa's textbook cited above. It also talks about the notion of differentiability for functions from $\mathbb{Q}_p$ into itself.
 * **Introduction to Elliptic Curves and Modular Forms** by *N. Koblitz*: A nice introduction to modular forms, which basically adds details and exercises to Serre's condense one chapter introduction in his classic book "A Course in Arithmetic". The study of modular forms is motivated via congruent number problem, and a brief discussion of analytic theory of elliptic curves. In particular, it contains an explanation of Tunnell's solution on the "congruence number problem'' (modulo the weak Birch-Swinnerton-Dyer conjecture). 
   * **Complex Analysis** by *E. M. Stein and R. Shakarchi*: A good reference for the facts from complex analysis needed for understanding the proofs involving modular forms. 
   * **Fuchsian groups** by *S. Katok*: A good reference for understanding the shapes of fundamental domains.
