@@ -34,6 +34,7 @@ Work experience
 
 Awards and Fellowships
 ------
+* [James R. Clay Graduate Travel Award](https://www.math.arizona.edu/about/awards/19) - Department of Mathematics, The University of Arizona (April 19, 2023) ~ USD 700
 * <u>Best M.Sc. Thesis Award in Mathematics</u> - National Institute of Science Education and Research, Bhubaneswar (June 10, 2019).
 * [Junior Research Fellowship and Eligibility for Lectureship](http://csirhrdg.res.in/) (Mathematical Sciences) - Council of Scientific and Industrial Research, New Delhi (Selected through the joint CSIR-UGC NET held on December 16, 2018) ~ All India Rank 18
 * [Visiting Students' Research Fellowship](http://www.tifr.res.in/~vsrp/) - Tata Institute of Fundamental Research, Mumbai (June 04, 2018 - July 04, 2018) ~ INR 8,000
