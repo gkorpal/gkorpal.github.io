@@ -3,7 +3,7 @@ title: "Good Articles"
 collection: reading
 permalink: /reading/article-list
 excerpt:
-date: 2023-05-14
+date: 2023-05-21
 venue: 
 paperurl: 
 citation: 
@@ -103,6 +103,7 @@ As one can see, my knowledge of computer science is limited to cryptography. Not
 * J. B. Conrey, The Riemann Hypothesis, _Notices Amer. Math. Soc._ **50** (2003), no. 3, 341--353. [Stable URL](http://www.ams.org/notices/200303/fea-conrey-web.pdf)
 * S. Ahlgren and K. Ono, Adding and counting: The arithmetic of partitions, _Notices Amer. Math. Soc._ **48** (2001), no. 9, 978--984. [Stable URL](http://www.ams.org/notices/200109/fea-ahlgren.pdf)
 * G. P. Dresden, Two Irrational Numbers from the Last Nonzero Digits of $n!$ and $n^n$, _Math. Mag._ **74** (2001), no. 4, 316--320. [Stable URL](https://www.jstor.org/stable/2691105)
+* B. Sury, Cyclotomy and Cyclotomic Polynomials - The Story of how Gauss Narrowly Missed Becoming a Philologist, _Resonance_ **4** (1999), no. 12, 41--53. [Stable URL](https://www.ias.ac.in/article/fulltext/reso/004/12/0041-0053)
 * W. D. Stangl, Counting squares in $\mathbb{Z}_{n}$, _Math. Mag._ **69** (1996), no. 4, 285--289. [Stable URL](https://www.jstor.org/stable/2690536)
 * P. Stevenhagen and H. W. Lenstra, Chebotarëv and his Density Theorem, _Math. Intelligencer_ **18** (1996), no. 2, 26--37. doi:[10.1007/BF03027290](https://doi.org/10.1007/BF03027290)
 * N. Schappacher and R. Schoof,  Beppo Levi and the arithmetic of elliptic curves, _Math. Intelligencer_ **18** (1996), no. 1, 57--69. doi:[10.1007/BF03024818](https://doi.org/10.1007/BF03024818)
@@ -114,7 +115,8 @@ As one can see, my knowledge of computer science is limited to cryptography. Not
 * G. P. Graham and C. E. Roberts, A Diophantine equation from calculus, _Math. Mag._ **62** (1989), no. 2, 97--101. doi:[10.1080/0025570X.1989.11977418](https://doi.org/10.1080/0025570X.1989.11977418), [Stable URL](https://www.jstor.org/stable/2690390)
 * F. Bien, Constructions of telephone networks by group representations, _Notices Amer. Math. Soc._ **36** (1989), no. 1, 5--22. [Stable URL](https://www.ams.org/journals/notices/198901/198901FullIssue.pdf)
 * J. T. Cross, Primitive Pythagorean triples of Gaussian integers, _Math. Mag._ **59** (1986), no. 2, 106--110. [Stable URL](https://www.jstor.org/stable/2690428)
-* N. Koblitz, Why study equations over finite fields? _Math. Mag._ **55** (1982), no. 3, 144--149. doi:[10.2307/2690080](https://doi.org/10.2307/2690080), [Stable URL](https://www.jstor.org/stable/2690080)
+* N. Koblitz, Why study equations over finite fields?, _Math. Mag._ **55** (1982), no. 3, 144--149. doi:[10.2307/2690080](https://doi.org/10.2307/2690080), [Stable URL](https://www.jstor.org/stable/2690080)
+* M. Rosen, Abel's Theorem on the Lemniscate, _Amer. Math. Monthly_ **88** (1981), no. 6, 387--395. [Stable URL](https://www.jstor.org/stable/2321821)
 * H. M. Edwards, Fermat's Last Theorem, _Scientific American_ **239** (1978), no. 4, 104–-122. doi: [10.1038/scientificamerican1078-104](https://doi.org/10.1038/scientificamerican1078-104), [Stable URL](https://www.jstor.org/stable/24955826)
 * D. Zagier, The first 50 million prime numbers, _Math. Intelligencer_ **1** (1977), no. 1, 7--19. doi:[10.1007/BF03039306](https://doi.org/10.1007/BF03039306)
 * B. L. van der Waerden, Hamilton's Discovery of Quaternions, _Math. Mag._ **49** (1976), no. 5, 227--234. doi:[10.2307/2689449](https://doi.org/10.2307/2689449), [Stable URL](https://www.jstor.org/stable/2689449)
