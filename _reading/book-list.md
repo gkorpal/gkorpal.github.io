@@ -3,7 +3,7 @@ title: "Good Books"
 collection: reading
 permalink: /reading/book-list
 excerpt:
-date: 2023-05-20
+date: 2023-05-23
 venue: 
 paperurl: 
 citation: 
@@ -291,13 +291,14 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
 
 ## Miscellaneous
 
-These are some topics which I can't put into one of the above categories. A good reference for such topics are the [Arizona Winter Schools](https://swc-math.github.io/aws/index.html).
+These are some topics which I can't put into one of the above categories because I don't know anything about them. A good reference for such topics are the [Arizona Winter Schools](https://swc-math.github.io/aws/index.html).
 
 * Arithmetic Dynamics: [Silverman's list of resources](https://www.math.brown.edu/johsilve/ADSHome.html).
 * Arithmetic Statistics: [Lozano-Robledo's list of resources](https://alozano.clas.uconn.edu/arithmetic-statistics/)
 * Applied Model Theory: [MathOverflow discussion](https://mathoverflow.net/a/7092/)
 * p-adic Hodge Theory: [Gulotta's list of resources](https://dgulotta.github.io/tt20.html)
 * Shimura curves: [MathOverflow discussion](https://mathoverflow.net/q/11219/)
+* Anabelian geometry: [nLab references](https://ncatlab.org/nlab/show/anabelian+geometry#references)
 
 # Scary Maths 
 --------------
