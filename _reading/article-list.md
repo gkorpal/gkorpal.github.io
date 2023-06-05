@@ -3,7 +3,7 @@ title: "Good Articles"
 collection: reading
 permalink: /reading/article-list
 excerpt:
-date: 2023-06-02
+date: 2023-06-04
 venue: 
 paperurl: 
 citation: 
@@ -114,6 +114,8 @@ As one can see, my knowledge of computer science is limited to cryptography. Not
 * B. Mazur, Number theory as gadfly, _Amer. Math. Monthly_ **98** (1991), no. 7, 593–610. [Stable URL](https://www.jstor.org/stable/2324924) 
 * G. P. Graham and C. E. Roberts, A Diophantine equation from calculus, _Math. Mag._ **62** (1989), no. 2, 97--101. doi:[10.1080/0025570X.1989.11977418](https://doi.org/10.1080/0025570X.1989.11977418), [Stable URL](https://www.jstor.org/stable/2690390)
 * F. Bien, Constructions of telephone networks by group representations, _Notices Amer. Math. Soc._ **36** (1989), no. 1, 5--22. [Stable URL](https://www.ams.org/journals/notices/198901/198901FullIssue.pdf)
+* D. Castellanos, The Ubiquitous $\pi$ (Part 2). _Math. Mag._ **61** (1988), no. 3, 148--163. [Stable URL](https://www.jstor.org/stable/2689713) (also see the Wolfram article containging illustration of [GCD lattices](https://mathworld.wolfram.com/RelativelyPrime.html))
+* D. Castellanos, The Ubiquitous $\pi$ (Part 1). _Math. Mag._ **61** (1988), no. 2, 67--98.[Stable URL](https://www.jstor.org/stable/2690037)
 * J. T. Cross, Primitive Pythagorean triples of Gaussian integers, _Math. Mag._ **59** (1986), no. 2, 106--110. [Stable URL](https://www.jstor.org/stable/2690428)
 * N. Koblitz, Why study equations over finite fields?, _Math. Mag._ **55** (1982), no. 3, 144--149. doi:[10.2307/2690080](https://doi.org/10.2307/2690080), [Stable URL](https://www.jstor.org/stable/2690080)
 * M. Rosen, Abel's Theorem on the Lemniscate, _Amer. Math. Monthly_ **88** (1981), no. 6, 387--395. [Stable URL](https://www.jstor.org/stable/2321821)
@@ -121,6 +123,7 @@ As one can see, my knowledge of computer science is limited to cryptography. Not
 * D. Zagier, The first 50 million prime numbers, _Math. Intelligencer_ **1** (1977), no. 1, 7--19. doi:[10.1007/BF03039306](https://doi.org/10.1007/BF03039306)
 * B. L. van der Waerden, Hamilton's Discovery of Quaternions, _Math. Mag._ **49** (1976), no. 5, 227--234. doi:[10.2307/2689449](https://doi.org/10.2307/2689449), [Stable URL](https://www.jstor.org/stable/2689449)
 * M. Davis and R. Hersh, Hilbert's 10th Problem,  _Scientific American_ **229** (1973), no. 5, 84--91. doi: [10.1038/scientificamerican1173-84](https://doi.org/10.1038/scientificamerican1173-84), [Stable URL](https://www.jstor.org/stable/24923245)
+* G. H. Hardy, An introduction to the theory of numbers, _Bull. Amer. Math. Soc._ **35** (1929), no. 6, 778–818. doi:[10.1090/S0002-9904-1929-04793-1](https://doi.org/10.1090/S0002-9904-1929-04793-1)
 
 I have fond memories of reading expository articles in Indian magazines like *Junior Mathematician* (published by [AMTI, Chennai](http://www.amtionline.com/list-of-our-publications.php)) and *Bona Mathematica* (published by [BP, Pune](https://www.bprim.org/publications)), which were similar to the Soviet era periodicals like *Kvant* (published by Nauka; english translations published in [Quantum](https://www.nsta.org/quantum-magazine-math-and-science) and [AMS](https://bookstore.ams.org/mawrld-17)) and *Little Mathematics Library* (english translations published by [Mir](https://mirtitles.org/)). Unfortunately, they are not available online (but were accessible without university library membership). Fortunately, [At Right Angles](https://azimpremjiuniversity.edu.in/at-right-angles) (supported by APU, Bengaluru), [Resonance](https://www.ias.ac.in/Journals/Resonance_%E2%80%93_Journal_of_Science_Education) (supported by  IAS, Bengaluru), [Bhavana](https://bhavana.org.in/) (supported by an independent trust), [Pi in the Sky](https://www.pims.math.ca/resources/publications/pi-sky) (supported by PIMS), [Crux Mathematicorum](https://cms.math.ca/publications/crux/) (supported by CMS, Ottawa), [Mathematical Reflections](https://www.awesomemath.org/mathematical-reflections/) (supported by AwesomeMath.org),  [Chalkdust](https://chalkdustmagazine.com/) (supported by the UK universities), and [Plus](https://plus.maths.org/content/) (supported by the University of Cambridge) are great free alternatives available online. 
 
@@ -130,7 +133,9 @@ The [Mathematical Association of America (MAA)](https://www.maa.org/press/period
 
 * A. Granville,  Squares in Arithmetic Progressions and Infinitely Many Primes, _Amer. Math. Monthly_ **124** (2017), no. 10, 951--954. doi:[10.4169/amer.math.monthly.124.10.951](https://doi.org/10.4169/amer.math.monthly.124.10.951), [Stable URL](https://www.jstor.org/stable/10.4169/amer.math.monthly.124.10.951)
 * J. A. Zuehlke, Fermat's last theorem for Gaussian integer exponents,  _Amer. Math. Monthly_ **106** (1999), no. 1, 49. doi:[10.1080/00029890.1999.12005006](https://doi.org/10.1080/00029890.1999.12005006)
-* A. P. Ogg, Automorphismes de courbes modulaires. Séminaire Delange-Pisot-Poitou. Théorie des nombres, Volume 16 (1974-1975) no. 1, Talk no. 7, 8 p. [Stable URL](http://www.numdam.org/item/SDPP_1974-1975__16_1_A4_0/)
+* A. P. Ogg, Automorphismes de courbes modulaires. _Séminaire Delange-Pisot-Poitou_ **16** (1975) no. 1, 8 p. [Stable URL](http://www.numdam.org/item/SDPP_1974-1975__16_1_A4_0/)
+* J. E. Nymann, On the probability that $k$ positive integers are relatively prime. II. _J. Number Theory_ **7** (1975), no. 4, 406–-412. doi:[10.1016/0022-314X(75)90044-X](https://doi.org/10.1016/0022-314X(75)90044-X)
+* J. E. Nymann, On the probability that $k$ positive integers are relatively prime. _J. Number Theory_ **4** (1972), 469--473. doi:[10.1016/0022-314X(72)90038-8](https://doi.org/10.1016/0022-314X(72)90038-8) (also see this [blog post](https://aperiodical.com/2013/06/cushing-your-luck-properties-of-randomly-chosen-numbers/))
 * H. M. Stark, A complete determination of the complex quadratic fields of class-number one, _Michigan Math. J._ **14** (1967), no. 1, 1--27, doi:[10.1307/mmj/1028999653](http://projecteuclid.org/euclid.mmj/1028999653)
 * K. F. Roth, Rational approximations to algebraic numbers, _Mathematika_ **2** (1955), no. 1, 1--20. doi:[10.1112/S0025579300000644](https://doi.org/10.1112/S0025579300000644)
 * I. Niven, A simple proof that $\pi$ is irrational, _Bull. Amer. Math. Soc._ **53** (1947), no. 6, 509--509. [Stable URL](https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-53/issue-6/A-simple-proof-that-pi-is-irrational/bams/1183510788.full) (this method was later [generalized by A. E. Parks](https://www.jstor.org/stable/2322291))
