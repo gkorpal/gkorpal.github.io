@@ -34,6 +34,7 @@ Work experience
 
 Awards and Fellowships
 ------
+* [GPSC Travel Grant](https://gpsc.arizona.edu/travel-grants) - Graduate and Professional Student Council, The University of Arizona (June 09, 2023) ~ USD 1500 
 * <u>Outstanding Graduate Teaching Assistant Award for Spring 2023</u> - Department of Mathematics, The University of Arizona (May 24, 2023) ~ USD 350
 * [James R. Clay Graduate Travel Award](https://www.math.arizona.edu/about/awards/19) - Department of Mathematics, The University of Arizona (April 19, 2023) ~ USD 700
 * <u>Best M.Sc. Thesis Award in Mathematics</u> - National Institute of Science Education and Research, Bhubaneswar (June 10, 2019).
