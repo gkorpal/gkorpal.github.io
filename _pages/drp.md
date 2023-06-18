@@ -1,4 +1,4 @@
-  ---
+---
 layout: archive
 title: "Directed Reading Project in Number Theory"
 permalink: /drp/
