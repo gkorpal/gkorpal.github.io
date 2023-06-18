@@ -20,7 +20,7 @@ During a DRP, you'll study a topic in number theory for two to three months and 
 
 ### Why are you offering DRPs?
 
-1. I just love to discuss mathematics with people.
+1. I just love to discuss number theory with people.
 2. It will also allow me to finally read that book/paper I never had time for!
 
 ### Can you give a DRP example?
