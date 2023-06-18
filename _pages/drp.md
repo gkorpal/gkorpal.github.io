@@ -14,14 +14,17 @@ During a DRP, you'll study a topic in number theory for two to three months and 
 ## FAQs
 
 ### Why do a DRP?
+
 1. Get an opportunity to explore topics in number theory!
 2. Learn about tools like LaTeX, Sage, and Git that can help one become a better researcher.
 
-### Why are you offering DRPs?**
+### Why are you offering DRPs?
+
 1. I just love to discuss mathematics with people.
 2. It will also allow me to finally read that book/paper I never had time for!
 
-**Can you give a DRP example?**
+## Can you give a DRP example?
+
 As an undergraduate, I did seven DRPs with various professors in India. The following is my favorite:
 
 - Title: Number Fields
@@ -29,7 +32,8 @@ As an undergraduate, I did seven DRPs with various professors in India. The foll
 - Report: https://gkorpal.github.io/technical/2016-07-31-number-fields
 - I later presented what I learned in a student seminar at my institute (NISER Bhubaneswar).
 
- ## What is the process for picking reading material for a DRP?**
+ ## What is the process for picking reading material for a DRP?
+ 
 1. You tell me which aspect of number theory you would like to explore (elementary, algebraic, analytic, topological, geometric). This mainly depends on your background and interests. If you are not sure, then I can help you choose.
 2. I assign you a primary (and secondary) reference based on your mathematical maturity level (e.g. won't ask you to read Marcus' textbook without knowing Galois theory)
 3. You make a reading plan (how many hours per week to spend on this and when to start/finish).
