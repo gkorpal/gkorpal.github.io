@@ -29,7 +29,7 @@ As an undergraduate, I did seven DRPs with various professors in India. The foll
 
 - Title: Number Fields
 - Summary: I spent two months learning about algebraic number theory with Prof. Ramesh Sreekantan (ISI Bangalore).  The main reference was Marcus' textbook "Number Fields" which is a standard introductory textbook on algebraic number theory where a big part of the theory is built via exercises. Therefore, I solved many exercises from this book. However, along the way, I also did some explorations using SageMath.
-- Report: https://gkorpal.github.io/technical/2016-07-31-number-fields
+- Report: [https://gkorpal.github.io/technical/2016-07-31-number-fields](https://gkorpal.github.io/technical/2016-07-31-number-fields)
 - I later presented what I learned in a student seminar at my institute (NISER Bhubaneswar).
 
 ### What is the process for picking reading material for a DRP?
