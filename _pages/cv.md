@@ -49,7 +49,7 @@ Conferences and Workshops
 ------
 * [Foundations and Frontiers of Probabilistic Proofs](https://www.msri.org/summer_schools/1037), ETH Zurich (SLMath SGS 2023), Zurich ( Jul 17 - 28, 2023)
 * [Number Theory and Applications](http://www.rnta.eu/HCMC2023/), Industrial University of Ho Chi Minh City (SEAMS school), Ho Chi Minh City (Jun 12 - 22, 2023)
-* [School on Applied Cryptography](https://sites.google.com/view/iacrschoolbkk2023), Chulalongkorn University (IACR School), Bangkok (Jan 30 - Feb 03, 2023)
+* [Applied Cryptography](https://sites.google.com/view/iacrschoolbkk2023), Chulalongkorn University (IACR School), Bangkok (Jan 30 - Feb 03, 2023)
 * [Number Theory Informed by Computation](https://www.ias.edu/pcmi/pcmi-2022-graduate-summer-school), Park City Mathematics Institute (PCMI GSS 2022), Park City (Jul 17 - Aug 06, 2022)
 * [Global Quantum Computing & Entrepreneurship Program](https://www.womanium.org/Quantum/Computing), Womanium, Washington DC, Online event attended using Zoom, Discord and Canvas, equivalent to accelerated [QCourse511-1](https://qworld.net/qcourse511-1/) (Jul 10 - Aug 26, 2022)
 * [Imagining a Better Online World: Exploring the Decentralized Web](https://metro.org/decentralizedweb), a series of 6 workshops about the Decentralized Web organized by [METRO](https://metro.org/), [Internet Archive](https://archive.org/details/dweb-webinar-series), [DWeb](https://getdweb.net/), and [Library Futures](https://www.libraryfutures.net/), Online event attended using Zoom (on the last Thursdays from Jan to Jun 2022)
@@ -62,9 +62,9 @@ Conferences and Workshops
 * [Sage/Oscar Days for Combinatorial Algebraic Geometry](https://icerm.brown.edu/programs/sp-s21/w2/), Institute for Computational & Experimental Research in Mathematics (ICERM, Brown University), Online event attended using Zoom, Slack and Gather.town (Feb 15 - 19, 2021)
 * [International Conference on Class Groups of Number Fields and Related Topics](https://sites.google.com/site/iccnnfrt2017/home), Harish-Chandra Research Institute, Allahabad (Sept 04 - 07, 2017)
 * [USERC Undergraduate Summer Workshop](https://gaurish4math.wordpress.com/2015/07/06/mathematical-almora/), Center for Excellence in Mathematical Sciences (Kumaon University), Almora (Jun 22 - Jul 04, 2015)    
-* [30th Annual Conference of Ramanujan Mathematical Society](http://30ac.ramanujanmathsociety.org/), Indian Institute of Science Education and Research, Mohali (May 15 - 17, 2015)
-* [RMS Some High Points of Undergraduate Mathematics Education](http://30ac.ramanujanmathsociety.org/workshop/ugmath), Indian Institute of Science Education and Research, Mohali (May 14, 2015)
-* [KVPY-INSPIRE National Science Camp (Vijyoshi 2014)](https://sites.google.com/site/vijyoshi2014/home), Indian Institute of Science Education and Research, Kolkata (Nov 10 - 12, 2014)  
+* [30th Annual Conference of Ramanujan Mathematical Society](http://30ac.ramanujanmathsociety.org/), IISER Mohali (RMS), Mohali  (May 15 - 17, 2015)
+* [Some High Points of Undergraduate Mathematics Education](http://30ac.ramanujanmathsociety.org/workshop/ugmath), IISER Mohali (RMS), Mohali (May 14, 2015)
+* [National Science Camp (Vijyoshi 2014)](https://gaurish4math.wordpress.com/2014/11/16/looking-around-from-eyes-of-a-mathematician/), Science City Auditorium (KVPY-INSPIRE-IISER Kolkata), Kolkata (Nov 10 - 12, 2014)  
 
 Recreational Mathematics Explorations
 ------
