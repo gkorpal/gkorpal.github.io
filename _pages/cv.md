@@ -47,6 +47,8 @@ Awards and Fellowships
 
 Conferences and Workshops
 ------
+* [Foundations and Frontiers of Probabilistic Proofs](https://www.msri.org/summer_schools/1037), ETH Zurich (SLMath SGS 2023), Zurich ( Jul 17 - 28, 2023)
+* [Number Theory and Applications](http://www.rnta.eu/HCMC2023/), Industrial University of Ho Chi Minh City (SEAMS school), Ho Chi Minh City (Jun 12 - 22, 2023)
 * [School on Applied Cryptography](https://sites.google.com/view/iacrschoolbkk2023), Chulalongkorn University (IACR School), Bangkok (Jan 30 - Feb 03, 2023)
 * [Number Theory Informed by Computation](https://www.ias.edu/pcmi/pcmi-2022-graduate-summer-school), Park City Mathematics Institute (PCMI GSS 2022), Park City (Jul 17 - Aug 06, 2022)
 * [Global Quantum Computing & Entrepreneurship Program](https://www.womanium.org/Quantum/Computing), Womanium, Washington DC, Online event attended using Zoom, Discord and Canvas, equivalent to accelerated [QCourse511-1](https://qworld.net/qcourse511-1/) (Jul 10 - Aug 26, 2022)
