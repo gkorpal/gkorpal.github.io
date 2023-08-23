@@ -47,6 +47,7 @@ Awards and Fellowships
 
 Conferences and Workshops
 ------
+* [Isogeny Graphs in Cryptography](https://www.birs.ca/events/2023/5-day-workshops/23w5132), BIRS/ICMS@Bristol (BIRS 5-Day Workshop/ICMS satellite event), Online participation (Aug 21 - 25, 2023)
 * [Foundations and Frontiers of Probabilistic Proofs](https://www.slmath.org/summer-schools/1037), ETH Zurich (SLMath SGS 2023), Zurich (Jul 17 - 28, 2023)
 * [Number Theory and Applications](http://www.rnta.eu/HCMC2023/), Industrial University of Ho Chi Minh City (SEAMS school), Ho Chi Minh City (Jun 12 - 22, 2023)
 * [Applied Cryptography](https://sites.google.com/view/iacrschoolbkk2023), Chulalongkorn University (IACR School), Bangkok (Jan 30 - Feb 03, 2023)
