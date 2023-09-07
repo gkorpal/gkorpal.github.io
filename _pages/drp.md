@@ -9,7 +9,7 @@ redirect_from:
 
 I often have directed reading project (DRP) ideas in number theory, suitable for motivated undergraduates. Please email me if you wish to learn more about the potential (online/in-person) projects. 
 
-During a DRP, you'll study a topic in number theory for two to three months and have weekly discussions with me. At the end of the reading period, you'll write a short report and present your readings at either your institute (in person) or the University of Arizona's Graduate Number Theory Seminar (online via Zoom).
+During a DRP, you'll study a topic in number theory for two to three months and have weekly discussions with me. At the end of the reading period, you'll write a short report and present your readings at either your institute (in person) or the DRP symposium (online via Zoom).
 
 ## FAQs
 
