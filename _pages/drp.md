@@ -37,4 +37,4 @@ As an undergraduate, I did eight DRPs ([elementary01](https://gkorpal.github.io/
 1. You tell me which aspect of number theory you would like to explore (elementary, algebraic, analytic, topological, geometric). This mainly depends on your background and interests. If you are not sure, then I can help you choose.
 2. I assign you a primary (and secondary) reference based on your mathematical maturity level (e.g. won't ask you to read Marcus' textbook without knowing Galois theory)
 3. You make a reading plan (how many hours per week to spend on this and when to start/finish).
-4. We meet once every week for an hour to discuss what you learned and, if needed, make adjustments to the plan.
+4. We meet regularly to discuss what you learned and, if needed, make adjustments to the plan.
