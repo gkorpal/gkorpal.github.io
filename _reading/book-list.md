@@ -3,7 +3,7 @@ title: "Good Books"
 collection: reading
 permalink: /reading/book-list
 excerpt:
-date: 2023-06-03
+date: 2023-09-30
 venue: 
 paperurl: 
 citation: 
@@ -265,7 +265,7 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
    * **Topics in Number Theory (Volumes I and II)** by *W. J. LeVeque*: The best place to understand the proof of Roth's theorem and Delaunay-Nagell theorem (discussed in the volume 2 part). The volume 1 part can be used as an introduction to elementary number theory.
    * **Elliptic curves: A computational approach** by *S. Schmitt, and H. Zimmer*:  It nicely complements Silverman's book, providing a path into the computational theory of elliptic curves. It includes the determination of torsion groups, computations concerning the Mordell–Weil group, especially concerning the rank and a basis of that group, height calculations, and the determination of integral and, more generally, S-integral points.
 * **Diophantine Geometry: An Introduction** by *M. Hindry and J. H. Silverman*: The study of Diophantine equations using tools from algebraic number theory and "classical" algebraic geometry. It contains the proof of the four fundamental finiteness theorems: Mordell-Weil Theorem, Roth's theorem, Siegel's theorem, and Faltings' theorem (Bombieri's proof based on Vojta's). Also see the short lecture series based on this book by [Elisa Lorenzo García](https://www.youtube.com/playlist?list=PLLxG_np9o-2ciLuPbuuU-38IRor2nt29b).
-  * **Rational Points on Elliptic Curves** by *J. H. Silverman and J. Tate*: One of the most accessible introduction to the world of elliptic curves, especially the theory of heights (major part of Diophantine geometry). I read the chapters I to III of this book a while ago for Mordell’s theorem (the special case of elliptic curves with a rational point of order two). The appendix on projective geometry is also great. It also contains a nice exposition on Lenstra's elliptic curve facotrization method.
+  * **Rational Points on Elliptic Curves** by *J. H. Silverman and J. Tate*: One of the most accessible introductions to the world of elliptic curves, especially the theory of heights (a major part of Diophantine geometry). I read chapters I to III of this book a while ago for Mordell’s theorem (the special case of elliptic curves with a rational point of order two). The appendix on projective geometry is also great. It also contains a nice exposition on Lenstra’s elliptic curve factorization method.
   * **Diophantine Approximation** by *W. M. Schmidt*: Standard reference for the general theory. Also contains proofs of theorems belonging to "Geometry of Numbers."
   * **Exploring the Number Jungle: A Journey into Diophantine Analysis** by *E. B. Burger*: A beautiful little book ([MAA](https://www.maa.org/press/maa-reviews/exploring-the-number-jungle-a-journey-into-diophantine-analysis)).
 * **Rational Points on Varieties** by *B. Poonen*: It provides a good introduction to the theory of obstructions to rational points on a variety, while briefly discussing other useful tools like étale cohomology and its relation to Weil conjectures. However, I have only read the first four chapters which discuss basic stuff. The book draft is [available online](https://math.mit.edu/~poonen/papers/Qpoints.pdf).
