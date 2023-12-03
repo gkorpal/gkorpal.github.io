@@ -85,6 +85,8 @@ sage: E2.j_invariant()
 
 **Update (Mar 26, 2023):** SQISign has new resources like [SQISign 2.0](https://eprint.iacr.org/2022/234), [SQISignHD](https://eprint.iacr.org/2023/436), and [Learning to SQI](https://learningtosqi.github.io/). 
 
+**Update (April 25, 2023)** A [blogpost by Thomas Decru](https://www.esat.kuleuven.be/cosic/blog/an-efficient-key-recovery-attack-on-sidh/) explaing the SIDH attack.
+
 ### References
 
 I have included the university location for the write-ups/videos by graduate students. The ones that I found the most useful are star marked (\*).
