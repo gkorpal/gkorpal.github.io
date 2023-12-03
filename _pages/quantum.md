@@ -23,8 +23,7 @@ To get started, one can consider the following resources:
 |7 | [Quantum Algorithms and Complexity](https://www.usf-crypto.org/mat-4930/) - Jean-Francois Biasse (USF, 2021) |
 |8 | [Mathematics of Public Key Cryptography](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html) - Steven D. Galbraith (CUP, Oct 2018)|
 |9 | [Workshop on Quantum Cryptanalysis of Post-Quantum Cryptography](https://simons.berkeley.edu/workshops/schedule/14097) - Simons Institute (2020)|
-|10 | [ASCRYPTO cryptography summer school](https://www.urosario.edu.co/ascrypto/home/) - Latincrypt 2021|
-|11| [ANTS Graduate Summer School](https://www.youtube.com/channel/UCuYEpA-S-3wR5lQgkpe-wUw) - ANTS 2020 |
+|10| [ANTS Graduate Summer School](https://www.youtube.com/channel/UCuYEpA-S-3wR5lQgkpe-wUw) - ANTS 2020 |
 
 <!----7. CMU Graduate Course 15-859BB (Fall 2018) - [Quantum Computation and Information](https://www.cs.cmu.edu/~odonnell/quantum18/) by [Ryan O'Donnell](https://www.youtube.com/c/RyanODonnellTeaching) ---->
 
