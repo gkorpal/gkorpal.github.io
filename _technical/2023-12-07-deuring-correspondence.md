@@ -8,7 +8,7 @@ venue: 'Craig Costello (Microsoft Research, Redmond)'
 paperurl: 
 citation: 
 ---
-Work done during between Fall 2022 and Fall 2023 (October 17, 2022 to December 07, 2023).
+Work done between Fall 2022 and Fall 2023 (October 17, 2022 to December 07, 2023).
 
 The Deuring correspondence plays an important role in the isogeny-based signature scheme called SQIsign. Here are the report and presentation for my comprehensive exam about this connection. 
 
