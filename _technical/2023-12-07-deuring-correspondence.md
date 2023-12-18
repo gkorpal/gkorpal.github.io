@@ -10,10 +10,10 @@ citation:
 ---
 Work done between Fall 2022 and Fall 2023 (October 17, 2022 to December 07, 2023).
 
-The Deuring correspondence plays an important role in the isogeny-based signature scheme called SQIsign. Here are the report and presentation from my comprehensive exam about this connection. 
-
-I plan to eventually improve the readability of the report (increase font size/line spacing, rearrange paragraphs, and add the index of examples/equations/figures). In the meantime, I invite readers to submit their comments (related to exposition, bibliography, typos,...).
+Here are the report and presentation from my comprehensive exam about the connection between Deuring correspondence and isogeny-based signature schemes. 
 
 [Download the report](http://gkorpal.github.io/files/gaurish_comp_written.pdf)
 
 [Download the presentation](http://gkorpal.github.io/files/gaurish_comp_oral.pdf)
+
+I plan to eventually improve the readability of the report (increase font size/line spacing, rearrange paragraphs, and add the index of examples/equations/figures). In the meantime, I invite readers to submit their comments (related to exposition, bibliography, typos,...).
