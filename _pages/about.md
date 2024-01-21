@@ -44,9 +44,9 @@ redirect_from:
 
 To enable the "dark mode", please use a browser extension like [Dark Reader](https://darkreader.org/).
 
+<!--- 
 **Office:** MATH 707
-
-<!--- **Office Hours:**  On Sundays from 2:00 pm to 3:00 pm, on Tuesdays and Thursdays from 4:00 pm to 5:00 pm 
+**Office Hours:**  On Sundays from 2:00 pm to 3:00 pm, on Tuesdays and Thursdays from 4:00 pm to 5:00 pm 
 <img align="left" width="400" height="520" src="https://www.smbc-comics.com/comics/1472742903-20160901.png">
 --->
 
