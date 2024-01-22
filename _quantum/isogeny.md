@@ -85,7 +85,9 @@ sage: E2.j_invariant()
 
 **Update (Mar 26, 2023):** SQISign has new resources like [SQISign 2.0](https://eprint.iacr.org/2022/234), [SQISignHD](https://eprint.iacr.org/2023/436), and [Learning to SQI](https://learningtosqi.github.io/). 
 
-**Update (April 25, 2023)** A [blogpost by Thomas Decru](https://www.esat.kuleuven.be/cosic/blog/an-efficient-key-recovery-attack-on-sidh/) explaing the SIDH attack.
+**Update (Apr 25, 2023):** A [blogpost by Thomas Decru](https://www.esat.kuleuven.be/cosic/blog/an-efficient-key-recovery-attack-on-sidh/) explaing the SIDH attack.
+
+**Upadate (Jan 21, 2024):** The [ALGANT Master's thesis](https://hdl.handle.net/20.500.12608/48936) by Riya Parankimamvila Mamachan about the mathematical aspects of the Castryck-Decru key recovery attack on SIDH.
 
 ### References
 
