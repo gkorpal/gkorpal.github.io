@@ -52,10 +52,10 @@ To enable the "dark mode", please use a browser extension like [Dark Reader](htt
 
 **email:** gkorpal at math dot arizona dot edu
 
-*I often have directed reading project ideas in number theory, suitable for motivated undergraduates. Please email me if you wish to learn more about the potential (online/in-person) projects. Details are [available here](https://gkorpal.github.io/drp/). Also check out [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu) and [DRP Türkiye](https://sites.google.com/view/drp-turkey).*
+*I often have directed reading project ideas in number theory, suitable for motivated undergraduates. Please email me if you wish to learn more about the potential (online/in-person) projects. Details are [available here](https://gkorpal.github.io/drp/). Also check out [Twoples](https://sites.google.com/view/twoples/home), [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu) and [DRP Türkiye](https://sites.google.com/view/drp-turkey).*
 
  
-**Research interests:** [Number Theory](https://gkorpal.github.io/reading/book-list#number-theory) and [cryptography](https://gkorpal.github.io/jottings/#cryptography), especially [isogeny-based cryptography](https://gkorpal.github.io/quantum/isogeny).
+**Research interests:** [Number Theory](https://gkorpal.github.io/reading/book-list#number-theory) and [Cryptography](https://gkorpal.github.io/jottings/#cryptography)
 
 <img align="left" width="350" height="450" src="https://www.smbc-comics.com/comics/1464966334-20160603.png">
 
