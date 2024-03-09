@@ -11,6 +11,14 @@ I often have directed reading project (DRP) ideas in number theory, suitable for
 
 During a DRP, you'll study a topic in number theory for two to three months and have weekly discussions with me. At the end of the reading period, you'll write a short report and present your readings at either your institute (in person) or the DRP symposium (online via Zoom).
 
+## Alumni
+
+- [Hun Sivmeng](https://github.com/mengistic) :cambodia: (July 2023 to September 2023)
+- [Süeda Şentürk Avcı](https://github.com/suedasenturk) :tr: (July 2023 to November 2023)
+- [William Sean Hendarto Wihardja](https://github.com/Wheeler577) :indonesia: (July 2023 to December 2023)
+- [Mochammad Zulfikar Aditya](https://github.com/moch-zulfikarnj) :indonesia: (July 2023 to December 2023)
+
+
 ## FAQs
 
 ### Why do a DRP?
