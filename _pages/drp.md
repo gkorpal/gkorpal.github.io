@@ -15,8 +15,11 @@ During a DRP, you'll study a topic in number theory for two to three months and 
 
 - Fall 2023 (July 2023 to December 2023)
   - Süeda Şentürk Avcı - Boğaziçi Üniversitesi, Türkiye (BS, 2024)
+    - [Dirichlet Class Number Formula for Imaginary Quadratic Fields](https://gkorpal.github.io/files/drp-sueda.pdf)
   - William Sean Hendarto Wihardja - Institut Teknologi Bandung, Indonesia (BS, 2024)
-  - [Mochammad Zulfikar Aditya](https://moch-zulfikarnj.github.io/) - Institut Teknologi Bandung, Indonesia (MS, 2020) 
+    - [Higher Reciprocity Laws](https://gkorpal.github.io/files/drp-william.pdf)
+  - [Mochammad Zulfikar Aditya](https://moch-zulfikarnj.github.io/) - Institut Teknologi Bandung, Indonesia (MS, 2020)
+    - [Quadratic Number Fields](https://gkorpal.github.io/files/drp-zulfikar.pdf)
 
 ## FAQs
 
