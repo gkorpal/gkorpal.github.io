@@ -71,8 +71,8 @@ One might need university library membership to access some of the out-of-print 
 * **The Man Who Loved Only Numbers** by *Paul Hoffmann*: The biography of Paul Erdos which motivated me to become a mathematician.
 * **A Beautiful Mind** by *Sylvia Nasar*: This is the biography of John Nash, a mathematician whose personality is quite the opposite of mine.
 * **The Strangest Man** by *Graham Farmelo*: This is the biography of Paul Dirac, whose life I wanted to know about because he is believed to be autistic.
-
-*Why no good books about the women mathematicians? Sophie Germain, Sofia Kovalevskaya, Emmy Noether, Julia Robinson,...*
+* **Julia, a Life in Mathematics** by *Constance Reid*: This is a nice biography by Julia Robinson's sister. I came to know about [Hilbert's Tenth Problem](https://www.zalafilms.com/films/juliarobinson.html) from this book, which had a deep impact on my taste in mathematics. It is a quick read, but can be particularly helpful for young women aspiring to a career in mathematics.
+* **Rosalind Franklin, The Dark Lady of DNA** by *Brenda Maddox*: I came to know about her in college. She is referred to as "The Dark Lady of DNA" because her contributions to the discovery of the structure of DNA were largely unrecognized during her life. (To read: [Dorothy Wrinch](https://maa.org/press/maa-reviews/i-died-for-beauty-dorothy-wrinch-and-the-cultures-of-science) and [Dorothy Crowfoot](https://www.nobelprize.org/prizes/chemistry/1964/hodgkin/biographical/))
 
 # Olympiad Maths 
 --------
