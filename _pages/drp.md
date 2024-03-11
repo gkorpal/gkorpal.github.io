@@ -26,7 +26,7 @@ During a DRP, you'll study a topic in number theory for two to three months and 
 ### Why do a DRP?
 
 1. Get an opportunity to explore topics in number theory!
-2. Learn about tools like LaTeX, Sage, and Git that can help one become a better researcher.
+2. Learn about tools like LaTeX, Sage, and Git that can help one become a better researcher. To know more about their importance, connect with [code4math](https://code4math.org/).
 
 ### Why are you offering DRPs?
 
