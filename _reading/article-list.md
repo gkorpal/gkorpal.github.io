@@ -3,7 +3,7 @@ title: "Good Articles"
 collection: reading
 permalink: /reading/article-list
 excerpt:
-date: 2023-06-04
+date: 2024-03-09
 venue: 
 paperurl: 
 citation: 
@@ -116,7 +116,9 @@ As one can see, my knowledge of computer science is limited to cryptography. Not
 * F. Bien, Constructions of telephone networks by group representations, _Notices Amer. Math. Soc._ **36** (1989), no. 1, 5--22. [Stable URL](https://www.ams.org/journals/notices/198901/198901FullIssue.pdf)
 * D. Castellanos, The Ubiquitous $\pi$ (Part 2). _Math. Mag._ **61** (1988), no. 3, 148--163. [Stable URL](https://www.jstor.org/stable/2689713) (also see the Wolfram article containging illustration of [GCD lattices](https://mathworld.wolfram.com/RelativelyPrime.html))
 * D. Castellanos, The Ubiquitous $\pi$ (Part 1). _Math. Mag._ **61** (1988), no. 2, 67--98.[Stable URL](https://www.jstor.org/stable/2690037)
+* M. Ram Murty, Artin’s conjecture for primitive roots, _Math. Intelligencer_ **10** (1988), no. 1, 59--67. doi:[10.1007/BF03023749](https://doi.org/10.1007/BF03023749) 
 * J. T. Cross, Primitive Pythagorean triples of Gaussian integers, _Math. Mag._ **59** (1986), no. 2, 106--110. [Stable URL](https://www.jstor.org/stable/2690428)
+* S. Bloch, The proof of the mordell conjecture, _Math. Intelligencer_ **6** (1984), no. 1, 41--47. doi:[10.1007/BF03024155](https://doi.org/10.1007/BF03024155)
 * N. Koblitz, Why study equations over finite fields?, _Math. Mag._ **55** (1982), no. 3, 144--149. doi:[10.2307/2690080](https://doi.org/10.2307/2690080), [Stable URL](https://www.jstor.org/stable/2690080)
 * M. Rosen, Abel's Theorem on the Lemniscate, _Amer. Math. Monthly_ **88** (1981), no. 6, 387--395. [Stable URL](https://www.jstor.org/stable/2321821)
 * H. M. Edwards, Fermat's Last Theorem, _Scientific American_ **239** (1978), no. 4, 104–-122. doi: [10.1038/scientificamerican1078-104](https://doi.org/10.1038/scientificamerican1078-104), [Stable URL](https://www.jstor.org/stable/24955826)
