@@ -44,15 +44,7 @@ redirect_from:
 
 To enable the *dark mode*, please use a browser extension like [Dark Reader](https://darkreader.org/).
 
-<!--- 
-**Office:** MATH 707
-**Office Hours:**  On Sundays from 2:00 pm to 3:00 pm, on Tuesdays and Thursdays from 4:00 pm to 5:00 pm 
-<img align="left" width="400" height="520" src="https://www.smbc-comics.com/comics/1472742903-20160901.png">
---->
-
-**email:** gkorpal at math dot arizona dot edu
-
-*I often have directed reading project ideas in number theory, suitable for motivated undergraduates. Please email me if you wish to learn more about the potential (online/in-person) projects. Details are [available here](https://github.com/DRP-NT). Also check out [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu), [Twoples](https://sites.google.com/view/twoples/home), and [DRP Türkiye](https://sites.google.com/view/drp-turkey).*
+*I often have directed reading project ideas in number theory, suitable for motivated undergraduates. The details are [available here](https://github.com/DRP-NT).*
  
 **Research interests:** [Number Theory](https://gkorpal.github.io/reading/book-list#number-theory) and [Cryptography](https://gkorpal.github.io/jottings/#cryptography)
 
