@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Directed Reading Project in Number Theory"
-permalink: /drp/
+permalink: /drp-nt/
 author_profile: true
 redirect_from:
-  - /drp-nt
+  - /drp
 ---
 
 I often have directed reading project (DRP) ideas in number theory, suitable for motivated undergraduates. Please email me if you wish to learn more about the potential (online/in-person) projects. 
