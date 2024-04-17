@@ -27,7 +27,7 @@ Work experience
 * **July 2015:** Summer Intern - School of Liberal Studies, Dr. B. R. Ambedkar University Delhi, New Delhi
 * **May 2015:** Summer Intern -  Department of Mathematics, Savitribai Phule Pune University, Pune
 
-Awards and Fellowships
+Awards and Scholarships
 ------
 * <u>Award for Excellence in Scholarship</u> - College of Science, University of Arizona (April 16, 2024) 
 * [GPSC Travel Grant](https://gpsc.arizona.edu/travel-grants) - Graduate and Professional Student Council, University of Arizona (June 09, 2023) ~ USD 1500 
