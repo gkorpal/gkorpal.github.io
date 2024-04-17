@@ -8,7 +8,7 @@ venue: 'B. Sahu (National Institute of Science Education and Research, Bhubanesw
 paperurl: 
 citation: 
 ---
-Work done during spring 2018 (January 07, 2018 to April 20, 2018).
+Work done during spring 2018 (January 07, 2018 to April 20, 2018). Requirement for NISER's course M499.
 
 Three different concepts were studied.  First, factorization of prime ideals in Dedekind domain extensions satisfying a mild condition. Second, determining the prime ideals of $\mathbb{Z}[x]$ using basic algebraic geometry.  Third, illustrating the application of normalization process to determine the dimension of the polynomial ring.
 
