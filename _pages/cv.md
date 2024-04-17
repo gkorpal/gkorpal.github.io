@@ -18,14 +18,14 @@ Education
 Work experience
 ------
 * **August 2019 - present:** Graduate Assistant, Teaching - Department of Mathematics, University of Arizona, Tucson
-* **June 2018:** [Visiting Students' Research Fellow](https://mathweb.tifr.res.in/vsrp) - School of Mathematics, Tata Institute of Fundamental Research, Mumbai
-* **December 2017:** Visiting Student Fellow -  Kerala School of Mathematics, KSCSTE, Kozhikode
-* **June - July 2017:** [Summer Research Fellow](https://www.imsc.res.in/summer_research_programme) - Mathematics Research Group, The Institute of Mathematical Sciences, Chennai 
+* **June 2018:** [Visiting Student Researcher](https://mathweb.tifr.res.in/vsrp) - School of Mathematics, Tata Institute of Fundamental Research, Mumbai
+* **December 2017:** [Visiting Student](https://ksom.res.in/visiting-fellowship/) -  Kerala School of Mathematics, KSCSTE, Kozhikode
+* **June - July 2017:** [Summer Researcher](https://www.imsc.res.in/summer_research_programme) - Mathematics Research Group, The Institute of Mathematical Sciences, Chennai 
 * **December 2016:** [Visiting Student](https://www.hri.res.in/academics/mathematics/math-vsp/) - Mathematics Section, Harish-Chandra Research Institute, Allahabad
-* **June - July 2016:** Summer Intern - Theoretical Statistics and Mathematics Unit, Indian Statistical Institute, Bangalore Centre
+* **June - July 2016:** [INSPIRE Summer Intern](https://online-inspire.gov.in/Account/INSPIREProgramme) - Theoretical Statistics and Mathematics Unit, Indian Statistical Institute, Bangalore Centre
 * **December 2015:** [Visiting Student](https://www.hri.res.in/academics/mathematics/math-vsp/) - Mathematics Section, Harish-Chandra Research Institute, Allahabad
-* **July 2015:** Summer Intern - School of Liberal Studies, Dr. B. R. Ambedkar University Delhi, New Delhi
-* **May 2015:** Summer Intern -  Department of Mathematics, Savitribai Phule Pune University, Pune
+* **July 2015:** [INSPIRE Summer Intern](https://online-inspire.gov.in/Account/INSPIREProgramme) - School of Liberal Studies, Dr. B. R. Ambedkar University Delhi, New Delhi
+* **May 2015:** [INSPIRE Summer Intern](https://online-inspire.gov.in/Account/INSPIREProgramme) -  Department of Mathematics, Savitribai Phule Pune University, Pune
 
 Awards and Scholarships
 ------
@@ -35,7 +35,7 @@ Awards and Scholarships
 * [James R. Clay Graduate Travel Award](https://www.math.arizona.edu/about/awards/19) - Department of Mathematics, University of Arizona (April 19, 2023) ~ USD 700
 * <u>Best M.Sc. Thesis Award in Mathematics</u> - National Institute of Science Education and Research, Bhubaneswar (June 10, 2019).
 * [Junior Research Fellowship and Eligibility for Lectureship](http://csirhrdg.res.in/) (Mathematical Sciences) - Council of Scientific and Industrial Research, New Delhi (Selected through the joint CSIR-UGC NET held on December 16, 2018) ~ All India Rank 18
-* [Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship](http://online-inspire.gov.in/) - Department of Science and Technology, Government of India (July 22, 2014 - May 20, 2019) ~ INR 380,000
+* [Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship for Higher Education](https://online-inspire.gov.in/Account/INSPIREProgramme) - Department of Science and Technology, Government of India (July 22, 2014 - May 20, 2019) ~ INR 380,000
 
 Conferences and Workshops
 ------
