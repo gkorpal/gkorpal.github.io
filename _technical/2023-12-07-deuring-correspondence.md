@@ -8,9 +8,9 @@ venue: 'Craig Costello (Microsoft Research, Redmond)'
 paperurl: 
 citation: 
 ---
-Work done between Fall 2022 and Fall 2023 (October 17, 2022 to December 07, 2023).
+Work done between Fall 2022 and Fall 2023 (October 17, 2022 to December 07, 2023). Requirement for UArizona's Comprehensive Exam.
 
-Here are the report and presentation from my comprehensive exam about the connection between Deuring correspondence and isogeny-based signature schemes. 
+Here are the report and presentation about the connection between Deuring correspondence and isogeny-based signature schemes. 
 
 [Download the report](http://gkorpal.github.io/files/gaurish_comp_written_19Dec.pdf)
 
