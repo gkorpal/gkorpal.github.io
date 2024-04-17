@@ -18,14 +18,14 @@ Education
 Work experience
 ------
 * **August 2019 - present:** Graduate Assistant, Teaching - Department of Mathematics, University of Arizona, Tucson
-* **June 2018:** [Visiting Student Researcher](https://mathweb.tifr.res.in/vsrp) - School of Mathematics, Tata Institute of Fundamental Research, Mumbai
-* **December 2017:** [Visiting Student](https://ksom.res.in/visiting-fellowship/) -  Kerala School of Mathematics, KSCSTE, Kozhikode
-* **June - July 2017:** [Summer Researcher](https://www.imsc.res.in/summer_research_programme) - Mathematics Research Group, The Institute of Mathematical Sciences, Chennai 
-* **December 2016:** [Visiting Student](https://www.hri.res.in/academics/mathematics/math-vsp/) - Mathematics Section, Harish-Chandra Research Institute, Allahabad
-* **June - July 2016:** [INSPIRE Summer Intern](https://online-inspire.gov.in/Account/INSPIREProgramme) - Theoretical Statistics and Mathematics Unit, Indian Statistical Institute, Bangalore Centre
-* **December 2015:** [Visiting Student](https://www.hri.res.in/academics/mathematics/math-vsp/) - Mathematics Section, Harish-Chandra Research Institute, Allahabad
-* **July 2015:** [INSPIRE Summer Intern](https://online-inspire.gov.in/Account/INSPIREProgramme) - School of Liberal Studies, Dr. B. R. Ambedkar University Delhi, New Delhi
-* **May 2015:** [INSPIRE Summer Intern](https://online-inspire.gov.in/Account/INSPIREProgramme) -  Department of Mathematics, Savitribai Phule Pune University, Pune
+* **June 2018:** Visiting Student - School of Mathematics, Tata Institute of Fundamental Research, Mumbai
+* **December 2017:** Winter Intern -  Kerala School of Mathematics, KSCSTE, Kozhikode
+* **June - July 2017:** Visiting Student - Mathematics Research Group, The Institute of Mathematical Sciences, Chennai 
+* **December 2016:** Visiting Student - Mathematics Section, Harish-Chandra Research Institute, Allahabad
+* **June - July 2016:** Summer Intern - Theoretical Statistics and Mathematics Unit, Indian Statistical Institute, Bangalore Centre
+* **December 2015:** Visiting Student - Mathematics Section, Harish-Chandra Research Institute, Allahabad
+* **July 2015:** Summer Intern - School of Liberal Studies, Dr. B. R. Ambedkar University Delhi, New Delhi
+* **May 2015:** Summer Intern -  Department of Mathematics, Savitribai Phule Pune University, Pune
 
 Awards and Scholarships
 ------
