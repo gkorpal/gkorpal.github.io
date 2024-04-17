@@ -8,7 +8,7 @@ venue: 'K. Srinivas (The Institute of Mathematical Sciences, Chennai)'
 paperurl: 
 citation: 
 ---
-Work done during summer 2017 (June 05, 2017 to July 15, 2017).
+Work done during summer 2017 (June 05, 2017 to July 15, 2017). Supported by [IMSc Summer Research Program](https://www.imsc.res.in/summer_research_programme).
 
 Studied de la Vallee Poussin's proof of Prime Number Theorem  and  Dirichlet's theorem of primes in arithmetic progression, following Davenport's exposition from the book "Multiplicative Number Theory."
 
