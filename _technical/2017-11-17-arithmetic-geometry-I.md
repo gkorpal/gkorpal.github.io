@@ -8,7 +8,7 @@ venue: 'B. Sahu (National Institute of Science Education and Research, Bhubanesw
 paperurl: 
 citation: 
 ---
-Work done during fall 2017 (August 01, 2017 to November 17, 2017).
+Work done during fall 2017 (August 01, 2017 to November 17, 2017). Requirement for NISER's course M498.
 
 Studied two different concepts. First, the properties of integral closure for various kinds of integral domains. Second, the Weierstrass form of elliptic curves.
 
