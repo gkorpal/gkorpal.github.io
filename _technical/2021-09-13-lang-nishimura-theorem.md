@@ -8,7 +8,7 @@ venue: 'Brandon Levin (The University of Arizona, Tucson)'
 paperurl: 
 citation: 
 ---
-Work done during parts of spring and summer 2021 (March 03, 2021 to August 02, 2021). MS Thesis as an assessment option for the PhD Qualifying Exams.
+Work done during parts of spring and summer 2021 (March 03, 2021 to August 02, 2021). MS Thesis as an assessment option for the PhD Qualifying Exams at UArizona.
 
 The Lang–Nishimura theorem implies that the property of having a k-point is a birational invariant of smooth, proper, integral k-varieties. Here we discuss Poonen’s proof of this result.
 
