@@ -8,7 +8,7 @@ venue: 'Brandon Levin (The University of Arizona, Tucson)'
 paperurl: 
 citation: 
 ---
-Work done during fall 2020 (August 24, 2020 to December 09, 2020).
+Work done during fall 2020 (August 24, 2020 to December 09, 2020). Requirement for UArizona's course Math 596G.
 
 Learned the proof of the Weil conjectures for elliptic curves, following Silverman's book "The Arithmetic of Elliptic Curves."
 
