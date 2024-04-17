@@ -18,6 +18,9 @@ Education
 Work experience
 ------
 * **August 2019 - present:** Graduate Assistant, Teaching - Department of Mathematics, University of Arizona, Tucson
+  * Instructor of Record for Math 120R (Precalculus) during 2021-2023 and Math 122B (Calculus I) during 2023-2024.
+  * Group Project Mentor for Math 485 (Mathematical Modeling) during Spring 2023.
+  * Grader for Math 112 (College Algebra) during 2019-2021 and Math 511B (Graduate Algebra) during Spring 2021.
 * **June 2018:** Visiting Student - School of Mathematics, Tata Institute of Fundamental Research, Mumbai
 * **December 2017:** Winter Intern -  Kerala School of Mathematics, KSCSTE, Kozhikode
 * **June - July 2017:** Visiting Student - Mathematics Research Group, The Institute of Mathematical Sciences, Chennai 
@@ -31,7 +34,7 @@ Awards and Scholarships
 ------
 * <u>Award for Excellence in Scholarship</u> - College of Science, University of Arizona (April 16, 2024) 
 * [GPSC Travel Grant](https://gpsc.arizona.edu/travel-grants) - Graduate and Professional Student Council, University of Arizona (June 09, 2023) ~ USD 1500 
-* <u>Outstanding Graduate Teaching Assistant Award for Spring 2023</u> - Department of Mathematics, University of Arizona (May 24, 2023)
+* <u>Outstanding Graduate Teaching Assistant Award</u> - Department of Mathematics, University of Arizona (May 24, 2023)
 * [James R. Clay Graduate Travel Award](https://www.math.arizona.edu/about/awards/19) - Department of Mathematics, University of Arizona (April 19, 2023) ~ USD 700
 * <u>Best M.Sc. Thesis Award in Mathematics</u> - National Institute of Science Education and Research, Bhubaneswar (June 10, 2019).
 * [Junior Research Fellowship and Eligibility for Lectureship](http://csirhrdg.res.in/) (Mathematical Sciences) - Council of Scientific and Industrial Research, New Delhi (Selected through the joint CSIR-UGC NET held on December 16, 2018) ~ All India Rank 18
