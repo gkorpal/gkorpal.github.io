@@ -44,11 +44,17 @@ Conferences and Workshops
 ------
 * [Abelian Varieties](https://swc-math.github.io/aws/2024/index.html), Southwest Center for Arithmetic Geometry (Arizona Winter School 2024), Tucson (March 02-06, 2024)
 * [Isogeny Graphs in Cryptography](https://www.birs.ca/events/2023/5-day-workshops/23w5132), BIRS/ICMS@Bristol (BIRS 5-Day Workshop/ICMS satellite event), Online participation (Aug 21 - 25, 2023)
+  * [My presenation](https://www.birs.ca/events/2023/5-day-workshops/23w5132/videos/watch/202308241648-Tran.html) for Group C. 
 * [Foundations and Frontiers of Probabilistic Proofs](https://www.slmath.org/summer-schools/1037), ETH Zurich (SLMath SGS 2023), Zurich (Jul 17 - 28, 2023)
 * [Number Theory and Applications](http://www.rnta.eu/HCMC2023/), Industrial University of Ho Chi Minh City (SEAMS school), Ho Chi Minh City (Jun 12 - 22, 2023)
 * [Applied Cryptography](https://sites.google.com/view/iacrschoolbkk2023), Chulalongkorn University (IACR School), Bangkok (Jan 30 - Feb 03, 2023)
+* [Data Science Boot Camp](https://www.erdosinstitute.org/certificates/fall-2022/gaurish-korpal), The Erdős Institute, Online event attended using Slack and Zoom (Aug 29 - Dec 09, 2022)
+  * [Final project](https://github.com/AbrahamRabinowitz/TeamPoplar) using NumPy, pandas, seaborn, and scikit-learn.
 * [Number Theory Informed by Computation](https://www.ias.edu/pcmi/pcmi-2022-graduate-summer-school), Park City Mathematics Institute (PCMI GSS 2022), Park City (Jul 17 - Aug 06, 2022)
-* [Global Quantum Computing & Entrepreneurship Program](https://www.womanium.org/Quantum/Computing), Womanium, Washington DC, Online event attended using Zoom, Discord and Canvas, equivalent to accelerated [QCourse511-1](https://qworld.net/qcourse511-1/) (Jul 10 - Aug 26, 2022)
+* [Global Quantum Computing & Entrepreneurship Program](https://www.womanium.org/Quantum/Computing), Womanium, Washington DC, Online event attended using Zoom, Discord and Canvas (Jul 10 - Aug 26, 2022)
+  * [QBronze diploma](https://github.com/gkorpal/QBronze/blob/master/QBronze96-208.pdf) for Grover's algorithm programming in Qiskit.
+  * [QSilver diploma](https://github.com/gkorpal/QSilver/blob/master/QSilver14-85.pdf) for Shor's algorithm programming in Cirq.
+  * [Quantum Computing Hardware certificate](https://github.com/gkorpal/Womanium/blob/master/Quantum%20Hardware%20Certificate%20-%2034913326.pdf) for virtual lab tours
 * [Imagining a Better Online World: Exploring the Decentralized Web](https://metro.org/decentralizedweb), a series of 6 workshops about the Decentralized Web organized by [METRO](https://metro.org/), [Internet Archive](https://archive.org/details/dweb-webinar-series), [DWeb](https://getdweb.net/), and [Library Futures](https://www.libraryfutures.net/), Online event attended using Zoom (on the last Thursdays from Jan to Jun 2022)
 * [Big Data in Pure Mathematics](https://math-data.github.io/big-data-pure-math-2022/index.html), Boston University, Online event attended using Zoom and Zulip (May 21 - 22, 2022).
 * [PQNet: Post-Quantum Networks Workshop (Part 2)](https://www.sofiaceli.com/PQNet-Workshop/), Cloudflare Research affiliated event with the [Real World Crypto Symposium 2022](https://rwc.iacr.org/2022/affiliated.php) at Amsterdam, attended virtually using Zoom and Slack (Apr 19 - 20, 2022)
