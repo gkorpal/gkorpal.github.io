@@ -23,14 +23,14 @@ Work experience
   * Instructor of Record for Calculus I (Math 122B) supervised by Donna Krawczyk (Fall 2023) and Janice Takagi (Spring 2024).
 * **August 2022 - May 2023:** Graduate Assistant II, Teaching - Department of Mathematics, University of Arizona, Tucson
   * Instructor of Record for Precalculus (Math 120R) supervised by Sarah Andrews (Fall 2022) and Janice Takagi (Spring 2023).
-  * Group Project Mentor for Mathematical Modeling (Math 485) supervised by  Joceline C Lega.
+  * Group Project Mentor for Mathematical Modeling (Math 485) supervised by  Joceline Lega (Spring 2023).
 * **August 2021 - May 2022:** Graduate Assistant I, Teaching - Department of Mathematics, University of Arizona, Tucson
   * Instructor of Record for Precalculus (Math 120R) supervised by Janice Takagi (Fall 2021) and Donna Krawczyk (Spring 2022).
 * **July - August 2021:** Graduate Assistant I, Teaching - Department of Mathematics, University of Arizona, Tucson
   * Teaching Assistant for College Algebra (Math 112) supervised by Terry Caldwell (Summer 2021).
 * **August 2020 - May 2021:** Graduate Assistant I, Teaching - Department of Mathematics, University of Arizona, Tucson
-  * Teaching Assistant for College Algebra (Math 112) supervised by Michael Rossett (Fall 2020 and Spring 2021).
-  * Teaching Assistant for Graduate Algebra II (Math 511B) supervised by Bryden Cais (Spring 2021)
+  * Teaching Assistant for College Algebra (Math 112) supervised by Michael Rossetti (Fall 2020 and Spring 2021).
+  * Teaching Assistant for Graduate Algebra II (Math 511B) supervised by Bryden Cais (Spring 2021).
 * **August 2019 - July 2020:** Graduate Assistant I, Teaching - Department of Mathematics, University of Arizona, Tucson
   * Teaching Assistant for College Algebra (Math 112) supervised by Mitchell Wilson (Fall 2019) and Heonmi Kim (Spring 2020).
 * **June 2018:** Visiting Student - School of Mathematics, Tata Institute of Fundamental Research, Mumbai
