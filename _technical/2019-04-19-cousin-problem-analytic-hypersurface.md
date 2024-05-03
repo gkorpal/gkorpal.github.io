@@ -12,4 +12,7 @@ Work done during spring 2019 (January 01, 2019 to April 19, 2019). Requirement f
 
 Firstly, a proof of Dolbeault theorem was studied. Then the utility of Dolbeault-Čech isomorphism was illustrated by proving that every analytic hypersurface in $\mathbb{C}^n$ can be described as the zero-locus of an entire function.
 
-[Download the report](http://gkorpal.github.io/files/spring2019-cousin_problem_for_hypersurface-gaurish.pdf)
+[Download the report](https://gkorpal.github.io/files/spring2019-cousin_problem_for_hypersurface-gaurish.pdf)
+
+[Download the presentation](https://gkorpal.github.io/files/spring2019-cousin_problem_for_hypersurface-ppt-gaurish.pdf)
+
