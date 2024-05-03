@@ -17,18 +17,30 @@ Education
 
 Work experience
 ------
-* **August 2019 - present:** Graduate Assistant, Teaching - Department of Mathematics, University of Arizona, Tucson
-  * Instructor of Record for Math 120R (Precalculus) during 2021-2023 and Math 122B (Calculus I) during 2023-2024.
-  * Group Project Mentor for Math 485 (Mathematical Modeling) during Spring 2023.
-  * Grader for Math 112 (College Algebra) during 2019-2021 and Math 511B (Graduate Algebra) during Spring 2021.
+* **August 2023 - May 2024:** Graduate Assistant II, Teaching - Department of Mathematics, University of Arizona, Tucson
+* **August 2022 - May 2023:** Graduate Assistant II, Teaching - Department of Mathematics, University of Arizona, Tucson
+* **August 2021 - May 2022:** Graduate Assistant I, Teaching - Department of Mathematics, University of Arizona, Tucson
+* **July - August 2021:** Graduate Assistant I, Teaching - Department of Mathematics, University of Arizona, Tucson
+* **August 2020 - May 2021:** Graduate Assistant I, Teaching - Department of Mathematics, University of Arizona, Tucson
+  * Teaching Assistant for College Algebra (Math 112) supervised by Michael Rossett.
+* **August 2019 - July 2020:** Graduate Assistant I, Teaching - Department of Mathematics, University of Arizona, Tucson
+  * Teaching Assistant for College Algebra (Math 112) supervised by Mitchell Wilson (Fall 2019) and Heonmi Kim (Spring 2020).
 * **June 2018:** Visiting Student - School of Mathematics, Tata Institute of Fundamental Research, Mumbai
+  * Reading project on [Arithmetic Zeta-function](https://gkorpal.github.io/technical/2018-07-04-arithmetic-zeta-function) supervised by C. S. Rajan. 
 * **December 2017:** Winter Intern -  Kerala School of Mathematics, KSCSTE, Kozhikode
-* **June - July 2017:** Visiting Student - Mathematics Research Group, The Institute of Mathematical Sciences, Chennai 
+  * Reading project on [Modular Forms](https://gkorpal.github.io/technical/2017-12-30-modular-forms) supervised by M. Manickam.
+* **June - July 2017:** Visiting Student - Mathematics Research Group, The Institute of Mathematical Sciences, Chennai
+  * Reading project on [Prime Numbers](https://gkorpal.github.io/technical/2017-07-15-prime-numbers) supervised by K. Srinivas.
 * **December 2016:** Visiting Student - Mathematics Section, Harish-Chandra Research Institute, Allahabad
+  * Reading project on [Reciprocity Laws](https://gkorpal.github.io/technical/2017-01-07-reciprocity-laws) supervised by Chandan Singh Dalawat.
 * **June - July 2016:** Summer Intern - Theoretical Statistics and Mathematics Unit, Indian Statistical Institute, Bangalore Centre
+  * Reading project on [Number Fields](https://gkorpal.github.io/technical/2016-07-31-number-fields) supervised by Ramesh Sreekantan.
 * **December 2015:** Visiting Student - Mathematics Section, Harish-Chandra Research Institute, Allahabad
+  * Reading project on [Diophantine Approximations](https://gkorpal.github.io/technical/2016-01-08-diophantine-approximations) supervised by R. Thangadurai.
 * **July 2015:** Summer Intern - School of Liberal Studies, Dr. B. R. Ambedkar University Delhi, New Delhi
+  * Reading project on [Enigma Cryptanalysis](https://gkorpal.github.io/technical/2015-07-26-enigma-cryptanalysis) supervised by Geetha Venkataraman.
 * **May 2015:** Summer Intern -  Department of Mathematics, Savitribai Phule Pune University, Pune
+  * Reading project on [Diophantine Equations](https://gkorpal.github.io/technical/2015-06-16-diophantine-equations) supervised by S. A. Katre.
 
 Awards and Scholarships
 ------
