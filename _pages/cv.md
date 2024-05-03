@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ---------
-* Ph.D. in Mathematics with a minor in Computer Science, University of Arizona, 2019 - present.
+* Ph.D. in Mathematics with a minor in Computer Science, University of Arizona, In progress.
+  * Qualifying Exam: [Lang-Nishimura theorem](https://gkorpal.github.io/technical/2021-09-13-lang-nishimura-theorem)
+  * Comprehensive Exam: [Deuring Correspondence and Public Key Cryptography](https://gkorpal.github.io/technical/2023-12-07-deuring-correspondence)
+  * Dissertation:  In progress.
 * M.Sc. (5-year integrated) in Mathematics, National Institute of Science Education and Research (Homi Bhabha National Institute), 2019.
-  * Thesis: <em>[Sheaf, Cohomology and Geometry](http://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf).</em>
+  * Thesis: [Sheaf, Cohomology and Geometry](http://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf) (Presenations: [Part 1](https://gkorpal.github.io/technical/2018-11-20-sheaf-theoretic-de-rham-isomorphism) and [Part 2](https://gkorpal.github.io/technical/2019-04-19-cousin-problem-analytic-hypersurface)). 
 
 Work experience
 ------
