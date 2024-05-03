@@ -12,4 +12,6 @@ Work done during fall 2018 (August 01, 2018 to November 20, 2018). Requirement f
 
 Studied a sheaf-theoretic proof of de Rham cohomology being a topological invariant. The de Rham cohomology of a smooth manifold was shown to be isomorphic to the Čech cohomology of that manifold with real coefficients.
 
-[Download the report](http://gkorpal.github.io/files/fall2018-de_rham_isomorphsim-gaurish.pdf)
+[Download the report](https://gkorpal.github.io/files/fall2018-de_rham_isomorphsim-gaurish.pdf)
+
+[Download the presentation](https://gkorpal.github.io/files/fall2018-de_rham_isomorphsim-ppt-gaurish.pdf)
