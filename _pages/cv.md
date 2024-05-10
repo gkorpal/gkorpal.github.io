@@ -55,7 +55,7 @@ Work experience
 
 Awards and Scholarships
 ------
-* <u>Award for Excellence in Scholarship</u> - College of Science, University of Arizona (April 16, 2024) 
+* [Award for Excellence in Scholarship](https://science.arizona.edu/news/winners-announced-outstanding-graduate-student-awards) - College of Science, University of Arizona (April 16, 2024) 
 * [GPSC Travel Grant](https://gpsc.arizona.edu/travel-grants) - Graduate and Professional Student Council, University of Arizona (June 09, 2023) ~ USD 1500 
 * <u>Outstanding Graduate Teaching Assistant Award</u> - Department of Mathematics, University of Arizona (May 24, 2023)
 * [James R. Clay Graduate Travel Award](https://www.math.arizona.edu/about/awards/19) - Department of Mathematics, University of Arizona (April 19, 2023) ~ USD 700
