@@ -41,7 +41,7 @@ Open source softwares have been a life saver for students in countries like Indi
 | Programming language | CAS library |
 | ------------| -------------------- |
 | C | [FLINT](https://flintlib.org/), [Pari](https://pari.math.u-bordeaux.fr/), [Symmetrica](https://www.algorithm.uni-bayreuth.de/en/research/SYMMETRICA/)|
-| C++ | [CoCoALib](https://cocoa.dima.unige.it/cocoa/cocoalib/), [GiNaC](https://www.ginac.de/), [NTL](https://libntl.org/), [SymbolicC++](https://issc.uj.ac.za/symbolic/symbolic.html), [SymEngine](https://github.com/symengine/symengine)|
+| C++ | [ASurfExt](https://gitlab.inria.fr/lbuse/ASurfExt), [CoCoALib](https://cocoa.dima.unige.it/cocoa/cocoalib/), [GiNaC](https://www.ginac.de/), [NTL](https://libntl.org/), [SymbolicC++](https://issc.uj.ac.za/symbolic/symbolic.html), [SymEngine](https://github.com/symengine/symengine)|
 | Haskell | [DoCon](https://homepages.inf.ed.ac.uk/wadler/realworld/docon2.html) |
 | Julia | [Nemo](https://www.nemocas.org/) (FLINT++), [Symbolics](https://github.com/JuliaSymbolics/Symbolics.jl) |
 | Python | [SymPy](https://www.sympy.org/en/index.html) | 
