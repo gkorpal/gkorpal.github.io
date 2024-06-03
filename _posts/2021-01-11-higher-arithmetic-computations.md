@@ -28,7 +28,7 @@ In the world of mathematical computations, proprietary softwares tend to more ad
 |SAS/SPSS | Statistical computations | R | statsmodels (NumPy + SciPy + pandas + Patsy + Matplotlib +...)|
 |MATLAB | Numerical computations | GNU Octave/Scilab | SciPy (NumPy + Matplotlib + ...) |
 |Mathematica/Maple ([Macsyma](https://en.wikipedia.org/wiki/Macsyma))| Symbolic computations (general-purpose CAS) | Maxima/FriCAS (fork of Axiom)  | SymPy (NumPy + Matplotlib + mpmath + ...)|
-|Magma | [Structural computations](http://magma.maths.usyd.edu.au/magma/overview/2/19/1/#subsection_1_1) (specialized CAS for mathematical structures from abstract algebra, algebraic geometry, and  finite incidence geometry) |  OSCAR (GAP + Polymake + Singular + Antic (Hecke/Nemo)) | [SageMath](https://doc.sagemath.org/html/en/reference/spkg/) (CyPari2, PySingular, JuPyMake, SymEngine.py, fpylll, sagetex, ...)  |
+|Magma | [Structural computations](http://magma.maths.usyd.edu.au/magma/overview/2/19/1/#subsection_1_1) (specialized CAS for mathematical structures from abstract algebra, algebraic geometry, and  finite incidence geometry) |  OSCAR (GAP + Nemo + Polymake + Singular) | [SageMath](https://doc.sagemath.org/html/en/reference/spkg/) (CyPari2, PySingular, JuPyMake, SymEngine.py, fpylll, sagetex, ...)  |
 
 For a more up-to-date information, have a look at the [ICMS proceedings](https://link.springer.com/conference/icms).
 
@@ -40,10 +40,10 @@ Open source softwares have been a life saver for students in countries like Indi
 
 | Programming language | CAS library |
 | ------------| -------------------- |
-| C | [FLINT](https://flintlib.org/), [Pari](https://pari.math.u-bordeaux.fr/), [Symmetrica](https://www.algorithm.uni-bayreuth.de/en/research/SYMMETRICA/)|
+| C | [FLINT](https://flintlib.org/) (Arb + Antic + Calcium), [Pari](https://pari.math.u-bordeaux.fr/), [Symmetrica](https://www.algorithm.uni-bayreuth.de/en/research/SYMMETRICA/)|
 | C++ | [ASurfExt](https://gitlab.inria.fr/lbuse/ASurfExt), [CoCoALib](https://cocoa.dima.unige.it/cocoa/cocoalib/), [GiNaC](https://www.ginac.de/), [NTL](https://libntl.org/), [polymake](https://polymake.org/doku.php/callable), [SymbolicC++](https://issc.uj.ac.za/symbolic/symbolic.html), [SymEngine](https://github.com/symengine/symengine)|
 | Haskell | [DoCon](https://homepages.inf.ed.ac.uk/wadler/realworld/docon2.html) |
-| Julia | [Nemo](https://www.nemocas.org/) (FLINT++), [Symbolics](https://github.com/JuliaSymbolics/Symbolics.jl) |
+| Julia | [Nemo](https://www.nemocas.org/) ([ANTIC](https://github.com/flintlib/antic)++), [Symbolics](https://github.com/JuliaSymbolics/Symbolics.jl) |
 | Python | [SymPy](https://www.sympy.org/en/index.html) | 
 
 People have tried achieving this in many other programming languages, but all of them are half-baked due to the lack of contributors. In fact, using GiNaC we can get a [symbolic extension](https://wiki.octave.org/wiki/index.php?title=Code&mobileaction=toggle_view_mobile#Octave_interfaces_to_GiNaC) for GNU Octave (nowadays can also [use SymPy](https://github.com/cbm755/octsympy)) and its fork [Pynac](https://github.com/pynac/pynac) provides the backend for symbolic expressions in SageMath (before that Maxima was used).  Moreover, SymEngine is planned to be used as an [optional fast symbolic core for SymPy](https://www.sympy.org/en/roadmap.html) since it is [much faster than Pynac and a bit faster than GiNaC](http://sciruby.com/blog/2015/08/17/ruby-wrappers-for-symengine/). However, for doing computational experiments in higher arithmetic we will have to learn multiple languages:
