@@ -28,7 +28,7 @@ In the world of mathematical computations, proprietary softwares tend to more ad
 |SAS/SPSS | Statistical computations | R | statsmodels (NumPy + SciPy + pandas + Patsy + Matplotlib +...)|
 |MATLAB | Numerical computations | GNU Octave/Scilab | SciPy (NumPy + Matplotlib + ...) |
 |Mathematica/Maple ([Macsyma](https://en.wikipedia.org/wiki/Macsyma))| Symbolic computations (general-purpose CAS) | Maxima/FriCAS (fork of Axiom)  | SymPy (NumPy + Matplotlib + mpmath + ...)|
-|Magma | [Structural computations](http://magma.maths.usyd.edu.au/magma/overview/2/19/1/#subsection_1_1) (specialized CAS for mathematical structures from abstract algebra, algebraic geometry, and  finite incidence geometry) |  OSCAR (GAP + Nemo + Polymake + Singular) | [SageMath](https://doc.sagemath.org/html/en/reference/spkg/) (CyPari2, PySingular, JuPyMake, SymEngine.py, Pynac, fpylll, sagetex, ...)  |
+|Magma ([Cayley](https://mathshistory.st-andrews.ac.uk/HistTopics/CGT_history/) + [KANT V4](https://web.archive.org/web/20120223154242/https://page.math.tu-berlin.de/~kant/kash.html)) | [Structural computations](http://magma.maths.usyd.edu.au/magma/overview/2/19/1/#subsection_1_1) (specialized CAS for mathematical structures from abstract algebra, algebraic geometry, and  finite incidence geometry) |  OSCAR (GAP + Nemo + Polymake + Singular) | [SageMath](https://doc.sagemath.org/html/en/reference/spkg/) (CyPari2, PySingular, JuPyMake, SymEngine.py, Pynac, fpylll, sagetex, ...)  |
 
 For a more up-to-date information, have a look at the [ICMS proceedings](https://link.springer.com/conference/icms).
 
@@ -40,7 +40,7 @@ Open source softwares have been a life saver for students in countries like Indi
 
 | Programming language | CAS library |
 | ------------| -------------------- |
-| C | [FLINT](https://flintlib.org/) ([Arb](https://arblib.org/) + [Antic](https://github.com/flintlib/antic) + [Calcium](https://fredrikj.net/calcium/)), [KANT](https://web.archive.org/web/20120223154242/https://page.math.tu-berlin.de/~kant/kash.html) (absorbed by Magma), [PARI](https://pari.math.u-bordeaux.fr/), [SIMATH](https://github.com/GunterMueller/SiMATH), [Symmetrica](https://www.algorithm.uni-bayreuth.de/en/research/SYMMETRICA/)|
+| C | [FLINT](https://flintlib.org/) ([Arb](https://arblib.org/) + [Antic](https://github.com/flintlib/antic) + [Calcium](https://fredrikj.net/calcium/)), [PARI](https://pari.math.u-bordeaux.fr/), [SIMATH](https://github.com/GunterMueller/SiMATH), [Symmetrica](https://www.algorithm.uni-bayreuth.de/en/research/SYMMETRICA/)|
 | C++ | [ASurfExt](https://gitlab.inria.fr/lbuse/ASurfExt), [castle](https://tthsqe12.github.io/castle.html), [CoCoALib](https://cocoa.dima.unige.it/cocoa/cocoalib/), [GiNaC](https://www.ginac.de/), [HECKE](https://wstein.org/Tables/hecke-cpp.html), [LiDIA](https://github.com/mkoeppe/LiDIA), [NTL](https://libntl.org/), [polymake](https://polymake.org/doku.php/callable), [SymbolicC++](https://issc.uj.ac.za/symbolic/symbolic.html), [SymEngine](https://github.com/symengine/symengine)|
 | Haskell | [DoCon](https://homepages.inf.ed.ac.uk/wadler/realworld/docon2.html), [hgal](https://hackage.haskell.org/package/hgal) |
 | Julia | [Nemo](https://www.nemocas.org/) (FLINT wrapper with [AlbstractAlgebra](https://github.com/Nemocas/AbstractAlgebra.jl), [Hecke](https://github.com/thofma/Hecke.jl), [ModularForms](https://gitlab.com/mraum/modularforms.jl)), [Symbolics](https://github.com/JuliaSymbolics/Symbolics.jl) |
