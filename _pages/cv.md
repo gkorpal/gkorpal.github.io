@@ -20,7 +20,10 @@ Education
 
 Work experience
 ------
+* **August 2024 - May 2025:** Graduate Associate, Teaching - Department of Mathematics, University of Arizona, Tucson
+  * Instructor of Record for Calculus I (Math 122B).
 * **July 2024:** Member - Summer Research in Mathematics, Simons Laufer Mathematical Sciences Institute, Berkeley
+  *  Supported by the National Science Foundation grant [DMS-1928930](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1928930).
 * **May - August 2024:** Research Intern - Cryptography team, Special Projects Group, Microsoft Research Lab, Redmond
 * **August 2023 - May 2024:** Graduate Assistant II, Teaching - Department of Mathematics, University of Arizona, Tucson
   * Instructor of Record for Calculus I (Math 122B) supervised by Donna Krawczyk (Fall 2023) and Janice Takagi (Spring 2024).
