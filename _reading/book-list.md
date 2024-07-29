@@ -254,7 +254,7 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
 
 ## Topological 
 
-* **The Sensual (quadratic) Form** by *J. H. Conway*: Introduces the concept of "topograph" to be able to see quadratic forms. I came to know about its usage in number theory from [this paper by James Rickards](https://arxiv.org/abs/1909.04103).
+* **The Sensual (quadratic) Form** by *J. H. Conway*: Introduces the concept of "topograph" to be able to see quadratic forms. I came to know about its usage in number theory from [this paper by James Rickards](https://arxiv.org/abs/1909.04103). One can also find it in Exercise 1.10, Chapter 5 of Edward J. Barbeau's book "Pell's Equation" ([Figure 5.1 and 5.2, page 60](https://link.springer.com/book/10.1007/b97610)).
   * **An Illustrated Theory of Numbers** by *M. H. Weissman*: The Part III of this book introduces the topograph of binary quadratic forms following Chapter 1 of J. H. Conway's book.
   * **Topology of Numbers** by *Hatcher*: This book studies quadratic forms in two variables with integer coefficients from a perspective that emphasizes Conway's notion of the topograph of a quadratic form. However, it uses different names of terms than the ones defined by Conway. The book draft is available on [author's website](https://pi.math.cornell.edu/~hatcher/TN/TNpage.html).
   * **Rigid cocycles and singular moduli for real quadratic fields** by *Jan Vonk*: Lectures notes from PCMI 2022 will be posted [here](https://pub.math.leidenuniv.nl/~vonkjb/notes/index.html).
