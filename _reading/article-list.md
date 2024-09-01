@@ -113,7 +113,7 @@ As one can see, my knowledge of computer science is limited to cryptography. Not
 * A. D. Abrams and M. J. Paris, The Probability that $(a,b) = 1$, _College Math. J._ **23** (1992), no. 1, 47. [Stable URL](https://www.jstor.org/stable/2686199)
 * B. Mazur, Number theory as gadfly, _Amer. Math. Monthly_ **98** (1991), no. 7, 593–610. [Stable URL](https://www.jstor.org/stable/2324924) 
 * G. P. Graham and C. E. Roberts, A Diophantine equation from calculus, _Math. Mag._ **62** (1989), no. 2, 97--101. doi:[10.1080/0025570X.1989.11977418](https://doi.org/10.1080/0025570X.1989.11977418), [Stable URL](https://www.jstor.org/stable/2690390)
-* F. Bien, Constructions of telephone networks by group representations, _Notices Amer. Math. Soc._ **36** (1989), no. 1, 5--22. [Stable URL](https://www.ams.org/journals/notices/198901/198901FullIssue.pdf#[{%22num%22:18,%22gen%22:0},{%22name%22:%22Fit%22}])
+* F. Bien, Constructions of telephone networks by group representations, _Notices Amer. Math. Soc._ **36** (1989), no. 1, 5--22. [Stable URL](https://www.ams.org/journals/notices/198901/198901FullIssue.pdf)
 * D. Castellanos, The Ubiquitous $\pi$ (Part 2). _Math. Mag._ **61** (1988), no. 3, 148--163. [Stable URL](https://www.jstor.org/stable/2689713) (also see the Wolfram article containging illustration of [GCD lattices](https://mathworld.wolfram.com/RelativelyPrime.html))
 * D. Castellanos, The Ubiquitous $\pi$ (Part 1). _Math. Mag._ **61** (1988), no. 2, 67--98.[Stable URL](https://www.jstor.org/stable/2690037)
 * M. Ram Murty, Artin’s conjecture for primitive roots, _Math. Intelligencer_ **10** (1988), no. 1, 59--67. doi:[10.1007/BF03023749](https://doi.org/10.1007/BF03023749) 
