@@ -25,6 +25,7 @@ In the world of mathematical computations, proprietary softwares tend to more ad
 
 | Proprietary software | Speciality | Open-source alternative | Equivalent/complementary [Python libraries](https://wiki.python.org/moin/Libraries) |
 |----------|----------| ---------- | --------- |
+|TI-84 Plus/Desmos | Technical computations | Genius/KAlgebra/Qalculate! | [Standard Library](https://docs.python.org/3/library/index.html) (math + decimal + fractions + turtle + tkinter + ... )
 |MATLAB | Numerical computations | GNU Octave/Scilab | [SciPy](https://scipy.org/faq/#numpy-vs-scipy-vs-other-packages) (NumPy + Matplotlib + ...) |
 |SAS/SPSS | Statistical computations | R/PSPP | [statsmodels](https://www.statsmodels.org/stable/index.html) (pandas + Patsy + Seaborn + ...)|
 |Mathematica/Maple ([Macsyma](https://en.wikipedia.org/wiki/Macsyma))| Symbolic computations (general-purpose CAS) | Maxima/FriCAS (fork of Axiom)  | [SymPy](https://www.sympy.org/en/index.html) (mpmath + Matplotlib + ...)|
@@ -66,9 +67,11 @@ To begin the Python journey, we will need the following packages:
 |----------|----------|
 |[Python3](https://fedoralovespython.org/) |`python3`|
 |[SymPy*](https://developer.fedoraproject.org/tech/languages/python/scipy.html) | `python3-sympy`|
-|[CyPARI2](https://pari.math.u-bordeaux.fr/Events/PARI2019/talks/jeroen.html) | `python3-cypari2`|
+|[CyPARI2**](https://pari.math.u-bordeaux.fr/Events/PARI2019/talks/jeroen.html) | `python3-cypari2`|
 
 \*Note that Fedora will automatically install the required dependecies like `mpmath`, `Cython`, `matplotlib` etc.
+
+\**Requires the actual PARI/GP package and the PARI library development package.
 
 If you want GUI version of Python development environment then can get [IDLE](https://docs.python.org/3/library/idle.html) by installing the package `python3-idle`. We will use Vim as the text editor for writing [Python scripts](https://docs.python.org/3/tutorial/modules.html). Note that [we don't need](https://unix.stackexchange.com/a/27795/420307) to add a file extension, however for proper syntax highlighting we will use the file extension `.py`. Therefore, it would be helpful to install the `python-mode` plugin ([instructions](https://github.com/python-mode/python-mode)). Following are some the key mappings for some of the `python-mode` commands ([documentation](https://github.com/python-mode/python-mode/blob/develop/doc/pymode.txt)):
 
