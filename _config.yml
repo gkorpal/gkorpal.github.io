@@ -86,7 +86,8 @@ author:
   location         : "Tucson, Arizona (USA)"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=RgfcAW4AAAAJ"
-  email            : "gkorpal@math.arizona.edu"
+  dblp             : "https://dblp.org/pid/389/5666"
+  email            : "gkorpal@arizona.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://www.math.arizona.edu/people/gkorpal"
   bitbucket        :
@@ -114,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
