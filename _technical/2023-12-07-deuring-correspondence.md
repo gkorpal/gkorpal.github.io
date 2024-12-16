@@ -16,4 +16,7 @@ Here are the report and presentation about the connection between Deuring corres
 
 [Download the presentation](http://gkorpal.github.io/files/gaurish_comp_oral_19Dec.pdf)
 
-I plan to eventually improve the readability of the report (increase font size/line spacing, rearrange paragraphs, and add the index of examples/equations/figures). In the meantime, I invite readers to submit their comments (related to exposition, bibliography, typos,...).
+**Update (December 15, 2024):** Over the last year I came across the following projects that can help construct various graphs to illustrate Deuring correspondence as I did in my report. 
+- [Isogeny Database](https://isogenies.enricflorit.com/) (Dec 2, 2020) by [Enric Florit](https://enricflorit.com/)
+- [Isogeny Database with Endomorphism Rings](https://github.com/jtcc2/isogeny-database-with-end-rings) (Sep 21, 2023) by [James Clements](https://jamesclements.info/)
+- [Supersingular l and L isogeny graphs,](https://github.com/JamesRickards-Canada/Isogeny) (Dec 9, 2023) by [James Rickards](https://jamesrickards-canada.github.io/)
