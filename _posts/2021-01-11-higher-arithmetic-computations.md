@@ -25,10 +25,10 @@ In the world of mathematical computations, proprietary softwares tend to be more
 
 | Proprietary software | Speciality | Open-source alternative | Equivalent/complementary [Python libraries](https://wiki.python.org/moin/Libraries) |
 |----------|----------| ---------- | --------- |
-|TI-84 Plus/Desmos | Technical computations | Genius/KAlgebra/Qalculate! | [Standard Library](https://docs.python.org/3/library/index.html) (math + decimal + fractions + turtle + tkinter + ... )
-|MATLAB | Numerical computations | GNU Octave/Scilab | [SciPy](https://scipy.org/faq/#numpy-vs-scipy-vs-other-packages) (NumPy + Matplotlib + ...) |
+|TI-83/Desmos | Technical computations | Genius/KAlgebra/Qalculate! | [Standard Library](https://docs.python.org/3/library/index.html) (math + decimal + fractions + turtle + tkinter + ... )
+|MATLAB ([MuPAD](https://en.wikipedia.org/wiki/MuPAD)) | Numerical computations | GNU Octave/Scilab | [SciPy](https://scipy.org/faq/#numpy-vs-scipy-vs-other-packages) (NumPy + Matplotlib + ...) |
 |SAS/SPSS | Statistical computations | R/PSPP | [statsmodels](https://www.statsmodels.org/stable/index.html) (pandas + Patsy + Seaborn + ...)|
-|Mathematica/Maple ([Macsyma](https://en.wikipedia.org/wiki/Macsyma))| Symbolic computations (general-purpose CAS) | Maxima/FriCAS (fork of Axiom)  | [SymPy](https://www.sympy.org/en/index.html) (mpmath + Matplotlib + ...)|
+|Maple/Mathematica ([Axiom](https://en.wikipedia.org/wiki/Axiom_(computer_algebra_system)) and [Macsyma](https://en.wikipedia.org/wiki/Macsyma))| Symbolic computations (general-purpose CAS) | Maxima/FriCAS | [SymPy](https://www.sympy.org/en/index.html) (mpmath + Matplotlib + ...)|
 |Magma ([Cayley](https://mathshistory.st-andrews.ac.uk/HistTopics/CGT_history/) + [KANT V4](https://web.archive.org/web/20120223154242/https://page.math.tu-berlin.de/~kant/kash.html)) | [Structural computations](http://magma.maths.usyd.edu.au/magma/overview/2/19/1/#subsection_1_1) (specialized CAS for mathematical structures from abstract algebra, algebraic geometry, and  finite incidence geometry) |  OSCAR (GAP + Nemo + Polymake + Singular) | [SageMath](https://doc.sagemath.org/html/en/reference/spkg/) (CyPari2 +  fpylll + JuPyMake + PySingular + Pynac + sagetex + SymEngine.py + ...)  |
 
 However, closed-source projects tend to die in a decade or two (see the comments by [Tim Daly](https://web.archive.org/web/20230302162018/https://sites.math.rutgers.edu/~zeilberg/fb26.html)). For more up-to-date information, see the [ICMS proceedings](https://icms-conference.org/) and [swMATH](https://zbmath.org/software/).
