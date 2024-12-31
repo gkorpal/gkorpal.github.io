@@ -3,7 +3,7 @@ title: "Good Articles"
 collection: reading
 permalink: /reading/article-list
 excerpt:
-date: 2024-03-09
+date: 2024-12-31
 venue: 
 paperurl: 
 citation: 
@@ -95,6 +95,7 @@ As one can see, my knowledge of computer science is limited to cryptography. Not
 * G. Frey, The Arithmetic Behind Cryptography, _Notices Amer. Math. Soc._ **57** (2010), no. 3, 366--374. [Stable URL](http://www.ams.org/notices/201003/rtx100300366p.pdf)
 * F. Morgan, Fermat's last theorem for fractional and irrational exponents, _College Math. J._ **41** (2010), no. 3, 182--185. doi:[10.4169/074683410X488647](https://doi.org/10.4169/074683410X488647)
 * J. DeMaio and A. Lightcap, A Graph Theoretic Summation of the Cubes of the First $n$ Integers, _Math. Mag._ **82** (2009), no. 5, 363--364. doi:[10.4169/002557009X478409](https://doi.org/10.4169/002557009X478409)
+* I. Łaba, From harmonic analysis to arithmetic combinatorics, _Bull. Amer. Math. Soc. (N.S.)_ **45** (2008), no. 1, 77--115. doi:[10.1090/S0273-0979-07-01189-5](https://doi.org/10.1090/S0273-0979-07-01189-5)
 * J. B. Gil and M. D. Weiner, A Quick Change of Base Algorithm for Fractions, _College Math. J._ **39** (2008), no. 1, 56--59. [Stable URL](https://www.jstor.org/stable/27646569)
 * W. Y. Pong, Sums of consecutive integers, _College Math. J._ **38** (2007), no. 2, 119--123. doi:[10.1080/07468342.2007.11922226](https://doi.org/10.1080/07468342.2007.11922226)
 * A. Granville and G. Martin, Prime Number Races, _Amer. Math. Monthly_ **113** (2006), no. 1, 1--33. [Stable URL](https://www.jstor.org/stable/27641834)
@@ -104,6 +105,7 @@ As one can see, my knowledge of computer science is limited to cryptography. Not
 * S. Ahlgren and K. Ono, Adding and counting: The arithmetic of partitions, _Notices Amer. Math. Soc._ **48** (2001), no. 9, 978--984. [Stable URL](http://www.ams.org/notices/200109/fea-ahlgren.pdf)
 * G. P. Dresden, Two Irrational Numbers from the Last Nonzero Digits of $n!$ and $n^n$, _Math. Mag._ **74** (2001), no. 4, 316--320. [Stable URL](https://www.jstor.org/stable/2691105)
 * B. Sury, Cyclotomy and Cyclotomic Polynomials - The Story of how Gauss Narrowly Missed Becoming a Philologist, _Resonance_ **4** (1999), no. 12, 41--53. [Stable URL](https://www.ias.ac.in/article/fulltext/reso/004/12/0041-0053)
+* W. Duke, Some old problems and new results about quadratic forms, _Notices Amer. Math. Soc._ **44** (1997), no. 2, 190--196. [Stable URL](https://www.ams.org/journals/notices/199702/duke.pdf)
 * W. D. Stangl, Counting squares in Zn, _Math. Mag._ **69** (1996), no. 4, 285--289. [Stable URL](https://www.jstor.org/stable/2690536)
 * P. Stevenhagen and H. W. Lenstra, Chebotarëv and his Density Theorem, _Math. Intelligencer_ **18** (1996), no. 2, 26--37. doi:[10.1007/BF03027290](https://doi.org/10.1007/BF03027290)
 * N. Schappacher and R. Schoof,  Beppo Levi and the arithmetic of elliptic curves, _Math. Intelligencer_ **18** (1996), no. 1, 57--69. doi:[10.1007/BF03024818](https://doi.org/10.1007/BF03024818)
@@ -134,6 +136,7 @@ The [Mathematical Association of America (MAA)](https://www.maa.org/press/period
 ## Research
 
 * A. Granville,  Squares in Arithmetic Progressions and Infinitely Many Primes, _Amer. Math. Monthly_ **124** (2017), no. 10, 951--954. doi:[10.4169/amer.math.monthly.124.10.951](https://doi.org/10.4169/amer.math.monthly.124.10.951), [Stable URL](https://www.jstor.org/stable/10.4169/amer.math.monthly.124.10.951)
+* M. Bhargav and J. Hanke, Universal Quadratic Forms and the 290-Theorem, preprint (2008). [Stable URL](https://web.archive.org/web/20131223071305/http://www.wordpress.jonhanke.com/?page_id=363)
 * J. A. Zuehlke, Fermat's last theorem for Gaussian integer exponents,  _Amer. Math. Monthly_ **106** (1999), no. 1, 49. doi:[10.1080/00029890.1999.12005006](https://doi.org/10.1080/00029890.1999.12005006)
 * A. P. Ogg, Automorphismes de courbes modulaires. _Séminaire Delange-Pisot-Poitou_ **16** (1975) no. 1, 8 p. [Stable URL](http://www.numdam.org/item/SDPP_1974-1975__16_1_A4_0/)
 * J. E. Nymann, On the probability that $k$ positive integers are relatively prime. II. _J. Number Theory_ **7** (1975), no. 4, 406–-412. doi:[10.1016/0022-314X(75)90044-X](https://doi.org/10.1016/0022-314X(75)90044-X)
