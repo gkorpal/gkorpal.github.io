@@ -67,13 +67,17 @@ One might need a university library membership to access some of these articles 
 
 My knowledge of applied maths is limited to the applications of number theory to cryptography. Note that the key theoretical cryptography results are generally announced in conferences like [Crypto](https://www.iacr.org/meetings/crypto/), [Eurocrypt](https://www.iacr.org/meetings/eurocrypt/), [Asiacrypt](https://www.iacr.org/meetings/asiacrypt/), [TCC](https://www.iacr.org/meetings/tcc/), [FOCS](http://ieee-focs.org/), [STOC](http://acm-stoc.org/), [ANTS](https://antsmath.org/), and [AGC2T](https://www.ams.org/books/conm/770/). On the other hand, the key applied cryptography results are generally announced in the conferences like [S&P (Oakland)](https://www.ieee-security.org/TC/SP-Index.html), [CCS](https://www.sigsac.org/ccs.html), [CHES](https://www.iacr.org/meetings/ches/), and [USENIX Security](https://www.usenix.org/conferences/byname/108). A more comprehensive list of relevant conferences can be found [here](https://sec-deadlines.github.io/).
 
+* E. Agathocleous, A. Joux, and D. Taufer (with an appendix by P. Moree and E. Sofo), Elliptic curves over Hasse pairs, preprint (2024). [arXiv](https://arxiv.org/abs/2406.03399) 
 * R. Wang, Y. Shoshitaishvili, C. Kruegel, and G. Vigna, Steal This Movie: Automatically Bypassing DRM Protection in Streaming Media Services, _USENIX 2013_. [Stable link](https://www.usenix.org/conference/usenixsecurity13/technical-sessions/paper/wang_ruoyu)
+* M. A. Bennett, A. Gherga, and A. Rechnitzer, Computing elliptic curves over Q, _Math. Comp._ **88** (2019), no. 317, 1341--1390. doi:[10.1090/mcom/3370](https://doi.org/10.1090/mcom/3370)
 * P. Castel, Solving quadratic equations in dimension 5 or more without factoring, _Proc. of ANTS 2012_. (2013). doi:[10.2140/obs.2013.1.213](https://doi.org/10.2140/obs.2013.1.213)
 * P. Nguyen and D. Stehlé, Low-dimensional lattice basis reduction revisited, _ACM Trans. Algorithms_, **5** (2009), no. 4, Art. 46. doi:[10.1145/1597036.1597050](https://doi.org/10.1145/1597036.1597050)
 * D. Simon, Solving quadratic equations using reduced unimodular quadratic forms, _Math. Comp._ **74** (2005), no. 251, 1531–--1543. doi:[10.1090/S0025-5718-05-01729-1](https://doi.org/10.1090/S0025-5718-05-01729-1)
 * J. E. Cremona and D. Rusin, Efficient solution of rational conics, _Math. Comp._ **72** (2003), no. 243, 1417--1441. doi:[10.1090/S0025-5718-02-01480-1](https://doi.org/10.1090/S0025-5718-02-01480-1)
 * D. Boneh and M. Franklin, Identity-Based Encryption from the Weil Pairing, _Proc. of Crypto 2001_.  doi:[10.1007/3-540-44647-8_13](https://doi.org/10.1007/3-540-44647-8_13) \[The full version of this paper was published in SICOMP **32** (2003), no. 3. doi:[10.1137/S0097539701398521](https://doi.org/10.1137/S0097539701398521) \]
 * I. Semaev, A 3-dimensional lattice reduction algorithm, _Proc. of CaLC 2001_. doi:[10.1007/3-540-44670-2_13](https://doi.org/10.1007/3-540-44670-2_13)
+* A. O. L. Atkin and F. Morain, Elliptic curves and primality proving, _Math. Comp._ **61** (1993), no. 203, 29--68. doi:[10.2307/2152935](https://doi.org/10.2307/2152935)
+* A. O. L. Atkin and F. Morain, Finding suitable curves for the elliptic curve method of factorization, _Math. Comp._ **60** (1993), no. 201, 399--405. doi:[10.2307/2153176](https://doi.org/10.2307/2153176)
 * J.L. Lehman, Levels of positive definite ternary quadratic forms, _Math. Comp._ **58** (1992), no. 197, 399--417. doi:[10.1090/S0025-5718-1992-1106974-1](https://doi.org/10.1090/S0025-5718-1992-1106974-1)
 * M. Fellows and N. Koblitz, Kid Krypto, _Proc. of Crypto 1992_. doi:[10.1007/3-540-48071-4_27](https://doi.org/10.1007/3-540-48071-4_27)
 * D. Chaum and E. van Heyst, Group Signatures, _Proc. of Eurocrypt 1991_. doi:[10.1007/3-540-46416-6_22](https://doi.org/10.1007/3-540-46416-6_22)
@@ -103,6 +107,7 @@ The [Mathematical Association of America (MAA)](https://www.maa.org/press/period
 * U. A. Rozikov, What   are   p-adic   Numbers? What   are   they   used   for?, _Asia Pac. Math. Newsl._ **3** (2013),   no. 4, 1–6. [Stable URL](http://www.asiapacific-mathnews.com/03/0304/0001_0006.pdf)
 * R. Sreekantan, Yitang Zhang and The Twin Primes Conjecture, _At Right Angles_ **2** (2013), no. 3, 14--17. [Stable URL](https://publications.azimpremjiuniversity.edu.in/1682/)
 * A. Rice and E. Brown, Why Ellipses Are Not Elliptic Curves, _Math. Mag._ **85** (2012), no. 3, 163--176. doi:[10.4169/math.mag.85.3.163](https://doi.org/10.4169/math.mag.85.3.163), [Stable URL](https://www.jstor.org/stable/10.4169/math.mag.85.3.163)
+* E. Kani, Idoneal numbers and some generalizations, _Ann. Sci. Math. Québec_ **35** (2011), no. 2, 197--227. [Stable URL](https://www.labmath.uqam.ca/~annales/volumes/35-2/PDF/197-227.pdf)
 * B. Sury, Nothing lucky about 13, _Math. Mag._ **83** (2010), no. 4, 289--293. doi:[10.4169/002557010X521840](https://doi.org/10.4169/002557010X521840)
 * G. Frey, The Arithmetic Behind Cryptography, _Notices Amer. Math. Soc._ **57** (2010), no. 3, 366--374. [Stable URL](http://www.ams.org/notices/201003/rtx100300366p.pdf)
 * F. Morgan, Fermat's last theorem for fractional and irrational exponents, _College Math. J._ **41** (2010), no. 3, 182--185. doi:[10.4169/074683410X488647](https://doi.org/10.4169/074683410X488647)
@@ -143,7 +148,9 @@ The [Mathematical Association of America (MAA)](https://www.maa.org/press/period
 
 ## Research
 
+* G. Xiao, Z. Zhou, Y. Yingpu, and L. Qu, The Endomorphism Rings of Supersingular Elliptic Curves over $\mathbb{F}_p$ and the Binary Quadratic Forms, _Adv. Math. Commun._  **19** (2025), no. 2, 698–715. [arXiv](https://arxiv.org/abs/2203.02097)
 * A. Granville,  Squares in Arithmetic Progressions and Infinitely Many Primes, _Amer. Math. Monthly_ **124** (2017), no. 10, 951--954. doi:[10.4169/amer.math.monthly.124.10.951](https://doi.org/10.4169/amer.math.monthly.124.10.951), [Stable URL](https://www.jstor.org/stable/10.4169/amer.math.monthly.124.10.951)
+* J. Rouse, Quadratic forms representing all odd positive integers, _Amer. J. Math._ **136** (2014), no. 6, 1693--1745. [Stable URL](https://web.archive.org/web/20240604091358/https://users.wfu.edu/rouseja/451/)
 * M. Bhargava and J. Hanke, Universal Quadratic Forms and the 290-Theorem, preprint (2008). [Stable URL](https://web.archive.org/web/20131223071305/http://www.wordpress.jonhanke.com/?page_id=363)
 * J. A. Zuehlke, Fermat's last theorem for Gaussian integer exponents,  _Amer. Math. Monthly_ **106** (1999), no. 1, 49. doi:[10.1080/00029890.1999.12005006](https://doi.org/10.1080/00029890.1999.12005006)
 * A. P. Ogg, Automorphismes de courbes modulaires. _Séminaire Delange-Pisot-Poitou_ **16** (1975) no. 1, 8 p. [Stable URL](http://www.numdam.org/item/SDPP_1974-1975__16_1_A4_0/)
