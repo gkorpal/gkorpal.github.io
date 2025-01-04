@@ -25,7 +25,7 @@ Here I have divided articles between applied mathematics ([computational mathema
  </p>
 
 
-Note that the order of authors' names in pure mathematics and applied mathematics (similar to science and engineering) articles tend to have a different meanings, for details see [this 1992 paper by Andrew Appel](https://doi.org/10.1145/131080.131091) and [this 2004 statement by the AMS](http://www.ams.org/profession/leaders/CultureStatement04.pdf). 
+Note that the order of authors' names in pure mathematics and applied mathematics (similar to science and engineering) articles tend to have different meanings, for details see [this 1992 paper by Andrew Appel](https://doi.org/10.1145/131080.131091) and [this 2004 statement by the AMS](http://www.ams.org/profession/leaders/CultureStatement04.pdf). 
 
 One might need a university library membership to access some of these articles (or use the power of the internet). I have arranged the articles in reverse chronological order (from the latest to the oldest). 
 
@@ -74,6 +74,7 @@ My knowledge of applied maths is limited to the applications of number theory to
 * A. V. Sutherland, Accelerating the CM method, _LMS J. Comput. Math._ **15** (2012), 172--204. doi:[10.1112/S1461157012001015](https://doi.org/10.1112/S1461157012001015)
 * A. V. Sutherland, Constructing elliptic curves over finite fields with prescribed torsion, _Math. Comp._ **81** (2012), no. 278, 1131--1147. doi:[10.1090/S0025-5718-2011-02538-X](https://doi.org/10.1090/S0025-5718-2011-02538-X)
 * P. Nguyen and D. Stehlé, Low-dimensional lattice basis reduction revisited, _ACM Trans. Algorithms_, **5** (2009), no. 4, Art. 46. doi:[10.1145/1597036.1597050](https://doi.org/10.1145/1597036.1597050)
+* G. Hanrot and D. Stehlé, Improved analysis of Kannan's shortest lattice vector algorithm, _Proc. of CRYPTO 2007_. doi:[10.1007/978-3-540-74143-5_10](https://doi.org/10.1007/978-3-540-74143-5_10)
 * D. Simon, Solving quadratic equations using reduced unimodular quadratic forms, _Math. Comp._ **74** (2005), no. 251, 1531–--1543. doi:[10.1090/S0025-5718-05-01729-1](https://doi.org/10.1090/S0025-5718-05-01729-1)
 * J. E. Cremona and D. Rusin, Efficient solution of rational conics, _Math. Comp._ **72** (2003), no. 243, 1417--1441. doi:[10.1090/S0025-5718-02-01480-1](https://doi.org/10.1090/S0025-5718-02-01480-1)
 * D. Boneh and M. Franklin, Identity-Based Encryption from the Weil Pairing, _Proc. of Crypto 2001_.  doi:[10.1007/3-540-44647-8_13](https://doi.org/10.1007/3-540-44647-8_13) \[The full version of this paper was published in SICOMP **32** (2003), no. 3. doi:[10.1137/S0097539701398521](https://doi.org/10.1137/S0097539701398521) \]
@@ -92,8 +93,10 @@ My knowledge of applied maths is limited to the applications of number theory to
 * H. W. Lenstra, Factoring integers with elliptic curves, _Ann. of Math. (2)_ **126** (1987), no. 3, 649--673. doi:[10.2307/1971363](https://doi.org/10.2307/1971363)
 * V. S. Miller, Use of Elliptic Curves in Cryptography, _Proc. of Crypto 1985_. doi:[10.1007/3-540-39799-X_31](https://doi.org/10.1007/3-540-39799-X_31)
 * R. Schoof, Elliptic curves over finite fields and the computation of square roots mod p, _Math. Comp._ **44** (1985), no. 170, 483--494. doi:[10.2307/2007968](https://doi.org/10.2307/2007968)
+* U. Fincke and M. Pohst, Improved methods for calculating vectors of short length in a lattice, including a complexity analysis, _Math. Comp._ **44** (1985), no. 170, 463--471. doi:[10.2307/2007966](https://doi.org/10.2307/2007966)
 * A. Shamir, Identity-Based Cryptosystems and Signature Schemes, _Proc. of IACR Crypto 1984_. doi:[10.1007/3-540-39568-7_5](https://doi.org/10.1007/3-540-39568-7_5)
-* A. C. Yao, Protocols for secure computations, _Proc. of IEEE Symp. on FOCS 1982_. doi:[10.1109/SFCS.1982.38](httpsL//doi.org/10.1109/SFCS.1982.38) 
+* A. C. Yao, Protocols for secure computations, _Proc. of IEEE Symp. on FOCS 1982_. doi:[10.1109/SFCS.1982.38](httpsL//doi.org/10.1109/SFCS.1982.38)
+* R. Kannan, Improved algorithms for integer programming and related lattice problems, _Proc. of STOC 1983_. doi:[10.1145/800061.808749](https://doi.org/10.1145/800061.808749) 
 * M. Rejewski, An Application of the Theory of Permutations in Breaking the Enigma Cipher, _Zastos. Mat. \[Appl. Math. (Warsaw)\]_, **16** (1980), no. 4, 543--559. doi:[10.4064/am-16-4-543-559](https://doi.org/10.4064/am-16-4-543-559)
 * J.L. Donaldson, Minkowski reduction of integral matrices, _Math. Comp._ **33** (1979), no. 145, 201--216. doi:[10.1090/S0025-5718-1979-0514819-7](https://doi.org/10.1090/S0025-5718-1979-0514819-7)
 * J. M. Pollard, Theorems on factorization and primality testing, _Proc. Cambridge Philos. Soc._ **76** (1974), 521--528. doi:[10.1017/s0305004100049252](https://doi.org/10.1017/s0305004100049252)
