@@ -162,7 +162,7 @@ The [Mathematical Association of America (MAA)](https://www.maa.org/press/period
 
 ## Research
 
-* G. Xiao, Z. Zhou, Y. Yingpu, and L. Qu, The Endomorphism Rings of Supersingular Elliptic Curves over $\mathbb{F}\_{p}$ and the Binary Quadratic Forms, __Adv. Math. Commun._  **19** (2025), no. 2, 698–715. [arXiv](https://arxiv.org/abs/2203.02097)
+* G. Xiao, Z. Zhou, Y. Yingpu, and L. Qu, The Endomorphism Rings of Supersingular Elliptic Curves over $\mathbb{F}\_{p}$ and the Binary Quadratic Forms, _Adv. Math. Commun._  **19** (2025), no. 2, 698–715. [arXiv](https://arxiv.org/abs/2203.02097)
 * A. Granville,  Squares in Arithmetic Progressions and Infinitely Many Primes, _Amer. Math. Monthly_ **124** (2017), no. 10, 951--954. doi:[10.4169/amer.math.monthly.124.10.951](https://doi.org/10.4169/amer.math.monthly.124.10.951), [Stable URL](https://www.jstor.org/stable/10.4169/amer.math.monthly.124.10.951)
 * J. Rouse, Quadratic forms representing all odd positive integers, _Amer. J. Math._ **136** (2014), no. 6, 1693--1745. [Stable URL](https://web.archive.org/web/20240604091358/https://users.wfu.edu/rouseja/451/)
 * M. Bhargava and J. Hanke, Universal Quadratic Forms and the 290-Theorem, preprint (2008). [Stable URL](https://web.archive.org/web/20131223071305/http://www.wordpress.jonhanke.com/?page_id=363)
