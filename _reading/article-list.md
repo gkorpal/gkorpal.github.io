@@ -136,6 +136,7 @@ The [Mathematical Association of America (MAA)](https://www.maa.org/press/period
 * S. Ahlgren and K. Ono, Adding and counting: The arithmetic of partitions, _Notices Amer. Math. Soc._ **48** (2001), no. 9, 978--984. [Stable URL](http://www.ams.org/notices/200109/fea-ahlgren.pdf)
 * G. P. Dresden, Two Irrational Numbers from the Last Nonzero Digits of $n!$ and $n^n$, _Math. Mag._ **74** (2001), no. 4, 316--320. [Stable URL](https://www.jstor.org/stable/2691105)
 * B. Sury, Cyclotomy and Cyclotomic Polynomials - The Story of how Gauss Narrowly Missed Becoming a Philologist, _Resonance_ **4** (1999), no. 12, 41--53. [Stable URL](https://www.ias.ac.in/article/fulltext/reso/004/12/0041-0053)
+* T. Y. Lam, On the Diagonalization of Quadratic Forms, _Math. Mag._ **72** (1999), no. 3, 231--235. doi:[10.1080/0025570X.1999.11996736](https://doi.org/10.1080/0025570X.1999.11996736), [Stable URL](https://www.jstor.org/stable/2690888)
 * W. Duke, Some old problems and new results about quadratic forms, _Notices Amer. Math. Soc._ **44** (1997), no. 2, 190--196. [Stable URL](https://www.ams.org/journals/notices/199702/duke.pdf)
 * W. D. Stangl, Counting squares in Zn, _Math. Mag._ **69** (1996), no. 4, 285--289. [Stable URL](https://www.jstor.org/stable/2690536)
 * P. Stevenhagen and H. W. Lenstra, Chebotarëv and his Density Theorem, _Math. Intelligencer_ **18** (1996), no. 2, 26--37. doi:[10.1007/BF03027290](https://doi.org/10.1007/BF03027290)
