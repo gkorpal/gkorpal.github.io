@@ -3,7 +3,7 @@ title: "Good Articles"
 collection: reading
 permalink: /reading/article-list
 excerpt:
-date: 2025-01-08
+date: 2025-01-17
 venue: 
 paperurl: 
 citation: 
@@ -79,6 +79,7 @@ My knowledge of applied maths is limited to the applications of number theory to
 * J. E. Cremona and D. Rusin, Efficient solution of rational conics, _Math. Comp._ **72** (2003), no. 243, 1417--1441. doi:[10.1090/S0025-5718-02-01480-1](https://doi.org/10.1090/S0025-5718-02-01480-1)
 * D. Boneh and M. Franklin, Identity-Based Encryption from the Weil Pairing, _Proc. of Crypto 2001_.  doi:[10.1007/3-540-44647-8_13](https://doi.org/10.1007/3-540-44647-8_13) \[The full version of this paper was published in SICOMP **32** (2003), no. 3. doi:[10.1137/S0097539701398521](https://doi.org/10.1137/S0097539701398521) \]
 * I. Semaev, A 3-dimensional lattice reduction algorithm, _Proc. of CaLC 2001_. doi:[10.1007/3-540-44670-2_13](https://doi.org/10.1007/3-540-44670-2_13)
+* W. Plesken and B. Souvignier, Computing isometries of lattices, _J. Symbolic Comput._ **24** (1997), no. 3-4, 327-–334. doi:[10.1006/jsco.1996.0130](https://doi.org/10.1006/jsco.1996.0130)
 * R. Schoof, Counting points on elliptic curves over finite fields, _J. Théor. Nombres Bordeaux_ **7** (1995), no. 1, 219--254. doi:[10.5802/jtnb.142](https://doi.org/10.5802/jtnb.142)
 * G.-J. Lay, and H. G. Zimmer, Constructing elliptic curves with given group order over large finite fields, _Proc. of ANTS 1994_. doi:[10.1007/3-540-58691-1_64](https://doi.org/10.1007/3-540-58691-1_64)
 * A. J. Menezes, T. Okamoto, and S. A. Vanstone, Reducing elliptic curve logarithms to logarithms in a finite field, _IEEE Trans. Inform. Theory_ **39** (1993), no. 5, 1639--1646. doi:[10.1109/18.259647](https://doi.org/10.1109/18.259647)
