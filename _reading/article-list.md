@@ -42,6 +42,7 @@ One might need a university library membership to access some of these articles 
 
 ## Expository
 
+* J. S. Chahal, What Do Networks and Elliptic Curves Have in Common?, _Amer. Math. Monthly_ **130** (2023), no. 2, 158-175, doi:[10.1080/00029890.2022.2141548](https://doi.org/10.1080/00029890.2022.2141548)
 * A. Menezes and D. Stebila, Challenges in Cryptography, _IEEE Security & Privacy_ **19** (2021), no. 2, 70--73. doi:[10.1109/MSEC.2021.3049730](https://doi.org/10.1109/MSEC.2021.3049730)
 * P. C. van Oorschot, Toward Unseating the Unsafe C Programming Language,  _IEEE Security & Privacy_ **19** (2021), no. 2, 4--6. doi:[10.1109/MSEC.2020.3048766](https://doi.org/10.1109/MSEC.2020.3048766)
 * T. Lindell, Secure multiparty computation, _Communications of the ACM_ **64** (2021), no. 1, 86--96. doi:[10.1145/3387108](https://doi.org/10.1145/3387108), [Stable URL](https://cacm.acm.org/magazines/2021/1/249459-secure-multiparty-computation/fulltext)
@@ -62,6 +63,8 @@ One might need a university library membership to access some of these articles 
 * K. Lauter, The advantages of elliptic curve cryptography for wireless security, _IEEE Wireless Communications_ **11** (2004), no. 1, 62--67. doi:[10.1109/MWC.2004.1269719](https://doi.org/10.1109/MWC.2004.1269719)
 * B. Schneier, Cryptography: the importance of not being different, _IEEE Computer_ **32** (1999), no. 3, 108--109. doi:[10.1109/2.751335](https://doi.org/10.1109/2.751335)
 * N. Koblitz, Cryptography as a teaching tool, _Cryptologia_ **21** (1997), no. 4, 317--326. doi:[10.1080/0161-119791885959](https://doi.org/10.1080/0161-119791885959)
+* F. Bien, Constructions of telephone networks by group representations, _Notices Amer. Math. Soc._ **36** (1989), no. 1, 5--22. [Stable URL](https://www.ams.org/journals/notices/198901/198901FullIssue.pdf)
+
 
 ## Research
 
@@ -70,7 +73,9 @@ My knowledge of applied maths is limited to the applications of number theory to
 * E. Agathocleous, A. Joux, and D. Taufer (with an appendix by P. Moree and E. Sofo), Elliptic curves over Hasse pairs, preprint (2024). [arXiv](https://arxiv.org/abs/2406.03399) 
 * R. Wang, Y. Shoshitaishvili, C. Kruegel, and G. Vigna, Steal This Movie: Automatically Bypassing DRM Protection in Streaming Media Services, _USENIX 2013_. [Stable link](https://www.usenix.org/conference/usenixsecurity13/technical-sessions/paper/wang_ruoyu)
 * M. A. Bennett, A. Gherga, and A. Rechnitzer, Computing elliptic curves over $\mathbb{Q}$, _Math. Comp._ **88** (2019), no. 317, 1341--1390. doi:[10.1090/mcom/3370](https://doi.org/10.1090/mcom/3370)
+* J. Doliskani, On division polynomial PIT and supersingularity, _Appl. Algebra Engrg. Comm. Comput._ **29** (2018), no. 5, 393--407. doi:[10.1007/s00200-018-0349-z](https://doi.org/10.1007/s00200-018-0349-z)
 * P. Castel, Solving quadratic equations in dimension 5 or more without factoring, _Proc. of ANTS 2012_ (2013). doi:[10.2140/obs.2013.1.213](https://doi.org/10.2140/obs.2013.1.213)
+* A. V. Sutherland, Isogeny volcanoes, _Proc. of ANTS 2012_ (2013). doi:[10.2140/obs.2013.1.507](https://doi.org/10.2140/obs.2013.1.507)
 * A. V. Sutherland, Accelerating the CM method, _LMS J. Comput. Math._ **15** (2012), 172--204. doi:[10.1112/S1461157012001015](https://doi.org/10.1112/S1461157012001015)
 * A. V. Sutherland, Constructing elliptic curves over finite fields with prescribed torsion, _Math. Comp._ **81** (2012), no. 278, 1131--1147. doi:[10.1090/S0025-5718-2011-02538-X](https://doi.org/10.1090/S0025-5718-2011-02538-X)
 * P. Nguyen and D. Stehlé, Low-dimensional lattice basis reduction revisited, _ACM Trans. Algorithms_, **5** (2009), no. 4, Art. 46. doi:[10.1145/1597036.1597050](https://doi.org/10.1145/1597036.1597050)
@@ -113,7 +118,6 @@ I have fond memories of reading expository articles in Indian magazines like *Ju
 
 The [Mathematical Association of America (MAA)](https://www.maa.org/press/periodicals) publishes many exposition-focused journals like the *American Mathematical Monthly*, *Mathematics Magazine*, the *College Mathematics Journal* and *Math Horizons*, but they are behind paywalls (in India I was only able to access the archives available via [JSTOR](https://www.jstor.org/publisher/maa) and [Classroom Capsules](https://www.maa.org/node/1231827/classroom-capsules-and-notes)). Similarly, the [Mathematical Association](https://www.m-a.org.uk/ma-journals) publishes *The Mathematical Gazette*, *SYMmetry Plus* etc.  Other paid expository periodicals are [Mathematical Intelligencer](https://www.springer.com/journal/283) and [Rocky Mountain Journal of Mathematics](https://rmmc.asu.edu/rmj/rmj.html). Moreover, the [Princeton Companion to Mathematics](https://press.princeton.edu/books/hardcover/9780691118802/the-princeton-companion-to-mathematics) contains many original expository articles about almost every topic in maths.
 
-* J. S. Chahal, What Do Networks and Elliptic Curves Have in Common?, _Amer. Math. Monthly_ **130** (2023), no. 2, 158-175, doi:[10.1080/00029890.2022.2141548](https://doi.org/10.1080/00029890.2022.2141548)
 * W. D’Alessandro, Proving quadratic reciprocity: explanation, disagreement, transparency and depth, _Synthese_ **198** (2021), 8621--8664. doi:[10.1007/s11229-020-02591-6](https://doi.org/10.1007/s11229-020-02591-6)
 * F. Oort, The Weil Conjectures, _Nieuw Arch. Wiskd. (5)_ **15** (2014), no. 6, 211--219. [Stable URL](http://www.nieuwarchief.nl/serie5/pdf/naw5-2014-15-3-211.pdf)  (There is a calculation error in the last line of the middle column of p. 214, $\alpha^{10},\beta^{10} = \mp 32i$).
 * C. S. Dalawat, Classical Reciprocity Laws, _Asia Pac. Math. Newsl._ **4** (2014), no. 4,  5--9. [Stable URL](http://www.asiapacific-mathnews.com/04/0404/0005_0009.pdf)
@@ -149,7 +153,6 @@ The [Mathematical Association of America (MAA)](https://www.maa.org/press/period
 * A. D. Abrams and M. J. Paris, The Probability that $(a,b) = 1$, _College Math. J._ **23** (1992), no. 1, 47. [Stable URL](https://www.jstor.org/stable/2686199)
 * B. Mazur, Number theory as gadfly, _Amer. Math. Monthly_ **98** (1991), no. 7, 593–610. [Stable URL](https://www.jstor.org/stable/2324924) 
 * G. P. Graham and C. E. Roberts, A Diophantine equation from calculus, _Math. Mag._ **62** (1989), no. 2, 97--101. doi:[10.1080/0025570X.1989.11977418](https://doi.org/10.1080/0025570X.1989.11977418), [Stable URL](https://www.jstor.org/stable/2690390)
-* F. Bien, Constructions of telephone networks by group representations, _Notices Amer. Math. Soc._ **36** (1989), no. 1, 5--22. [Stable URL](https://www.ams.org/journals/notices/198901/198901FullIssue.pdf)
 * D. Castellanos, The Ubiquitous $\pi$ (Part 2). _Math. Mag._ **61** (1988), no. 3, 148--163. [Stable URL](https://www.jstor.org/stable/2689713) (also see the Wolfram article containing an illustration of [GCD lattices](https://mathworld.wolfram.com/RelativelyPrime.html))
 * D. Castellanos, The Ubiquitous $\pi$ (Part 1). _Math. Mag._ **61** (1988), no. 2, 67--98.[Stable URL](https://www.jstor.org/stable/2690037)
 * M. Ram Murty, Artin’s conjecture for primitive roots, _Math. Intelligencer_ **10** (1988), no. 1, 59--67. doi:[10.1007/BF03023749](https://doi.org/10.1007/BF03023749) 
