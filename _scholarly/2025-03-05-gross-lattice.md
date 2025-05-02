@@ -13,3 +13,5 @@ He, Chenfeng; Korpal, Gaurish; Tran, Ha T. N.; Vincent, Christelle (2025):  Gros
 Part of this work was done while visiting SLMath as part of the Summer Research in Mathematics (SRiM) program.
 
 [Code repository](https://github.com/gkorpal/minimal-gross)
+
+[Presentation slides](http://gkorpal.github.io/files/AZseminar-handout.pdf) from the [departmental seminar](https://web.archive.org/web/20250502234920/https://www.math.arizona.edu/events/algebra-and-number-theory-seminar-gaurish-korpal).
