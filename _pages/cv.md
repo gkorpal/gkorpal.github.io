@@ -14,7 +14,7 @@ Education
 * Ph.D. in Mathematics with a minor in Computer Science, University of Arizona, In progress.
   * Qualifying Exam: [Lang-Nishimura theorem](https://gkorpal.github.io/technical/2021-09-13-lang-nishimura-theorem)
   * Comprehensive Exam: [Deuring Correspondence and Public Key Cryptography](https://gkorpal.github.io/technical/2023-12-07-deuring-correspondence)
-  * Dissertation:  In progress.
+  * Dissertation:  Supersingular Curves in Cryptography.
 * M.Sc. (5-year integrated) in Mathematics, National Institute of Science Education and Research (Homi Bhabha National Institute), 2019.
   * Thesis: [Sheaf, Cohomology and Geometry](http://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf) (Presentations: [Part 1](https://gkorpal.github.io/technical/2018-11-20-sheaf-theoretic-de-rham-isomorphism) and [Part 2](https://gkorpal.github.io/technical/2019-04-19-cousin-problem-analytic-hypersurface)). 
 
@@ -68,6 +68,7 @@ Awards and Scholarships
 
 Conferences and Workshops
 ------
+* [SIAM Mini-Conference 2025](https://web.archive.org/web/20250502234211/https://www.mariumyousuf.com/siam.arizona.github.io/), University of Arizona, Tucson (May 02, 2025)
 * [Abelian Varieties](https://swc-math.github.io/aws/2024/index.html), Southwest Center for Arithmetic Geometry (Arizona Winter School 2024), Tucson (March 02-06, 2024)
 * [Isogeny Graphs in Cryptography](https://www.birs.ca/events/2023/5-day-workshops/23w5132), BIRS/ICMS@Bristol (BIRS 5-Day Workshop/ICMS satellite event), Online participation (Aug 21 - 25, 2023)
   * [My presenation](https://www.birs.ca/events/2023/5-day-workshops/23w5132/videos/watch/202308241648-Tran.html) for Group C. 
