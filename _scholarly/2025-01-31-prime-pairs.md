@@ -13,3 +13,5 @@ Costello, Craig; Korpal, Gaurish (2025): On pairs of primes with small order rec
 Part of this work was done while I was an intern at Microsoft Research.
 
 [Code repository](https://github.com/gkorpal/order-reciprocity)
+
+[Presentation slides](https://gkorpal.github.io/files/prime-pairs-handout.pdf) from the Grad Student Algebra and Number Theory Seminar.
