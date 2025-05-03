@@ -14,4 +14,4 @@ Part of this work was done while I was an intern at Microsoft Research.
 
 [Code repository](https://github.com/gkorpal/order-reciprocity)
 
-[Presentation slides](https://gkorpal.github.io/files/prime-pairs-handout.pdf) from the Grad Student Algebra and Number Theory Seminar.
+[Presentation slides](https://gkorpal.github.io/files/prime-pairs_ppt.pdf) from the Grad Student Algebra and Number Theory Seminar.
