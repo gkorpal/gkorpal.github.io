@@ -78,6 +78,7 @@ Conferences and Workshops
 * [Data Science Boot Camp](https://www.erdosinstitute.org/certificates/fall-2022/gaurish-korpal), The Erdős Institute, Online event attended using Slack and Zoom (Aug 29 - Dec 09, 2022)
   * [Final project](https://github.com/AbrahamRabinowitz/TeamPoplar) using NumPy, pandas, seaborn, and scikit-learn.
 * [Number Theory Informed by Computation](https://www.ias.edu/pcmi/pcmi-2022-graduate-summer-school), Park City Mathematics Institute (PCMI GSS 2022), Park City (Jul 17 - Aug 06, 2022)
+  * [Lecture notes](https://www.ias.edu/pcmi/pcmi-2022-gss-lecture-notes-and-problem-sets) 
 * [Global Quantum Computing & Entrepreneurship Program](https://www.womanium.org/Quantum/Computing), Womanium, Washington DC, Online event attended using Zoom, Discord and Canvas (Jul 10 - Aug 26, 2022)
   * [QBronze diploma](https://github.com/gkorpal/QBronze/blob/master/QBronze96-208.pdf) for Grover's algorithm programming in Qiskit.
   * [QSilver diploma](https://github.com/gkorpal/QSilver/blob/master/QSilver14-85.pdf) for Shor's algorithm programming in Cirq.
