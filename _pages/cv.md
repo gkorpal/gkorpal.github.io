@@ -21,7 +21,7 @@ Education
 Work experience
 ------
 * **August 2024 - May 2025:** Graduate Associate, Teaching - Department of Mathematics, University of Arizona, Tucson
-  * Instructor of Record for Calculus I (Math 122B).
+  * Instructor of Record for Calculus I (Math 122B) supervised by Donna Krawczyk (Fall 2024) and Mariamma Varghese (Spring 2025).
 * **July 2024:** Member - Summer Research in Mathematics, Simons Laufer Mathematical Sciences Institute, Berkeley
   *  Supported by the National Science Foundation grant [DMS-1928930](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1928930).
 * **May - August 2024:** Research Intern - Cryptography team, Special Projects Group, Microsoft Research Lab, Redmond
@@ -78,7 +78,7 @@ Conferences and Workshops
 * [Data Science Boot Camp](https://www.erdosinstitute.org/certificates/fall-2022/gaurish-korpal), The Erdős Institute, Online event attended using Slack and Zoom (Aug 29 - Dec 09, 2022)
   * [Final project](https://github.com/AbrahamRabinowitz/TeamPoplar) using NumPy, pandas, seaborn, and scikit-learn.
 * [Number Theory Informed by Computation](https://www.ias.edu/pcmi/pcmi-2022-graduate-summer-school), Park City Mathematics Institute (PCMI GSS 2022), Park City (Jul 17 - Aug 06, 2022)
-  * [Lecture notes](https://www.ias.edu/pcmi/pcmi-2022-gss-lecture-notes-and-problem-sets) 
+  * [Lecture notes](https://www.ias.edu/pcmi/pcmi-2022-gss-lecture-notes-and-problem-sets) drafts/slides/problem-sets.
 * [Global Quantum Computing & Entrepreneurship Program](https://www.womanium.org/Quantum/Computing), Womanium, Washington DC, Online event attended using Zoom, Discord and Canvas (Jul 10 - Aug 26, 2022)
   * [QBronze diploma](https://github.com/gkorpal/QBronze/blob/master/QBronze96-208.pdf) for Grover's algorithm programming in Qiskit.
   * [QSilver diploma](https://github.com/gkorpal/QSilver/blob/master/QSilver14-85.pdf) for Shor's algorithm programming in Cirq.
