@@ -25,13 +25,13 @@ Work experience
 |----------| -------------| ----|
 | Aug'24-May'25|Department of Mathematics, University of Arizona | Instructor for Calculus I (Math 122B)|
 | Jul'24 | Simons Laufer Mathematical Sciences Institute, Berkeley | Summer Research in Mathematics ([Geometry of Endomorphism Rings](https://gkorpal.github.io/scholarly/2025-03-05-gross-lattice))|
-| May-August'24| Microsoft Research Lab, Redmond | Cryptography Research Intern ([Pairing-friendly cycles for SNARKs](https://gkorpal.github.io/scholarly/2025-01-31-prime-pairs))|
+| May-Aug'24| Microsoft Research Lab, Redmond | Cryptography Research Intern ([Pairing-friendly cycles for SNARKs](https://gkorpal.github.io/scholarly/2025-01-31-prime-pairs))|
 | Aug'23-May'24| Department of Mathematics, University of Arizona | Instructor for Calculus I (Math 122B) |
 | Aug'22-May'23| Department of Mathematics, University of Arizona | Instructor for Precalculus (Math 120R) and Group Project Mentor for Mathematical Modeling (Math 485)|
 | Aug'21-May'22| Department of Mathematics, University of Arizona | Instructor for Precalculus (Math 120R)|
-| Jul-August'21 | Department of Mathematics, University of Arizona | TA for College Algebra (Math 112)|
+| Jul-Aug'21 | Department of Mathematics, University of Arizona | TA for College Algebra (Math 112)|
 | Aug'20-May'21| Department of Mathematics, University of Arizona | TA for College Algebra (Math 112) and Graduate Algebra II (Math 511B)|
-| Aug'19-July'20 | Department of Mathematics, University of Arizona | TA for College Algebra (Math 112)|
+| Aug'19-Jul'20 | Department of Mathematics, University of Arizona | TA for College Algebra (Math 112)|
 | Jun'18 | School of Mathematics, Tata Institute of Fundamental Research, Mumbai | Visiting Student Research Program ([Arithmetic Zeta-function](https://gkorpal.github.io/technical/2018-07-04-arithmetic-zeta-function)) |
 | Dec'17 | Kerala School of Mathematics, KSCSTE, Kozhikode | Visiting Student ([Modular Forms](https://gkorpal.github.io/technical/2017-12-30-modular-forms))|
 | Jun-Jul'17 | Mathematics Research Group, The Institute of Mathematical Sciences, Chennai | Summer Research Programme ([Prime Numbers](https://gkorpal.github.io/technical/2017-07-15-prime-numbers)) | 
