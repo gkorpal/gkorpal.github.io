@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ---------
-* Ph.D. in Mathematics with a minor in Computer Science, University of Arizona, 2021-2025.
+* Ph.D. in Mathematics with a minor in Computer Science, University of Arizona, 2019-2025.
   * Qualifying Exam (Sep'21): [Lang-Nishimura theorem](https://gkorpal.github.io/technical/2021-09-13-lang-nishimura-theorem)
   * Comprehensive Exam (Dec'23): [Deuring Correspondence and Public Key Cryptography](https://gkorpal.github.io/technical/2023-12-07-deuring-correspondence)
   * Dissertation (Aug'25): Supersingular Curves in Cryptography.
