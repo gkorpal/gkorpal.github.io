@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 <p>
-<center>
-  <a href="https://www.worldcancerday.org/">
+<a href="https://www.worldcancerday.org/">
      <img alt="WC" src="https://gkorpal.github.io/images/cancer.png"
        width="80" height="80" class="center">
   </a>
@@ -30,7 +29,6 @@ redirect_from:
      <img alt="Trevor" src="https://gkorpal.github.io/images/trevor.jpg"
        width="80" height="80" class="center">
   </a>  
- </center>
  </p>
 
 
