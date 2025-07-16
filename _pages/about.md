@@ -10,28 +10,20 @@ redirect_from:
 
 <p>
 <center>
-  <a href="https://www.aapd.com/">
-     <img alt="AAPD" src="https://gkorpal.github.io/images/aapd.jpg"
+  <a href="https://www.worldcancerday.org/">
+     <img alt="WC" src="https://gkorpal.github.io/images/cancer.png"
        width="80" height="80" class="center">
   </a>
   <a href="https://autismacceptance.com/">
      <img alt="ASAN" src="https://gkorpal.github.io/images/ASAN_icon.jpg"
        width="80" height="80" class="center">
   </a>
-  <a href="https://awnnetwork.org/">
-     <img alt="AWN" src="https://gkorpal.github.io/images/awnlogo-256.png"
-       width="80" height="80" class="center">
-  </a>
-  <a href="https://www.sabeusa.org/">
-     <img alt="AZ" src="https://gkorpal.github.io/images/sabe-logo.png"
+  <a href="https://www.aapd.com/">
+     <img alt="AAPD" src="https://gkorpal.github.io/images/disability_pride.png"
        width="160" height="80" class="center">
   </a>
-    <a href="https://pflag.org/">
-     <img alt="PFLAG" src="https://gkorpal.github.io/images/pflag-logo.png"
-       width="80" height="80" class="center">
-  </a>
-  <a href="https://www.equalityfederation.org/">
-     <img alt="Equality" src="https://gkorpal.github.io/images/equalityf.png"
+  <a href="https://www.aclu.org/">
+     <img alt="Equality" src="https://gkorpal.github.io/images/HumanRights.png"
        width="80" height="80" class="center">
   </a>
   <a href="https://www.thetrevorproject.org/">
