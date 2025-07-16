@@ -20,7 +20,7 @@ redirect_from:
   </a>
   <a href="https://www.aapd.com/">
      <img alt="AAPD" src="https://gkorpal.github.io/images/disability_pride.png"
-       width="160" height="80" class="center">
+       width="107" height="80" class="center">
   </a>
   <a href="https://www.aclu.org/">
      <img alt="Equality" src="https://gkorpal.github.io/images/HumanRights.png"
