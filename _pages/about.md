@@ -36,9 +36,10 @@ For *dark mode*, please use a browser extension like [Dark Reader](https://darkr
 
 **Research interests:** [Number Theory](https://gkorpal.github.io/reading/book-list#number-theory) and [Cryptography](https://gkorpal.github.io/jottings/#cryptography)
 
+<!---
+
 <img align="left" width="350" height="450" src="https://www.smbc-comics.com/comics/1464966334-20160603.png">
 
-<!---
 [Beavers, Birds, and Frogs](https://web.archive.org/web/20241206080905/https://sites.math.rutgers.edu/~zeilberg/Opinion95.html)
 
 [Explorers, Alchemists, Wrestlers and Detectives](https://web.archive.org/web/20241216173449/https://www.dam.brown.edu/people/mumford/blog/2015/MathBeautyBrain.html)
