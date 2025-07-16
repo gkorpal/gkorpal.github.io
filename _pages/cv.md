@@ -45,8 +45,8 @@ Awards and Scholarships
 ------
 * [Award for Excellence in Scholarship](https://science.arizona.edu/news/winners-announced-outstanding-graduate-student-awards) - College of Science, University of Arizona (April 16, 2024) 
 * [GPSC Travel Grant](https://gpsc.arizona.edu/travel-grants) - Graduate and Professional Student Council, University of Arizona (June 09, 2023) ~ USD 1500 
-* <u>Outstanding Graduate Teaching Assistant Award</u> - Department of Mathematics, University of Arizona (May 24, 2023)
-* [James R. Clay Graduate Travel Award](https://www.math.arizona.edu/about/awards/19) - Department of Mathematics, University of Arizona (April 19, 2023) ~ USD 700
+* [Outstanding Graduate Teaching Assistant Award](https://www.math.arizona.edu/academics/graduate/scholarships) - Department of Mathematics, University of Arizona (May 24, 2023)
+* [James R. Clay Graduate Travel Award](https://www.math.arizona.edu/academics/graduate/scholarships) - Department of Mathematics, University of Arizona (April 19, 2023) ~ USD 700
 * <u>Best M.Sc. Thesis Award in Mathematics</u> - National Institute of Science Education and Research, Bhubaneswar (June 10, 2019).
 * [Junior Research Fellowship and Eligibility for Lectureship](http://csirhrdg.res.in/) (Mathematical Sciences) - Council of Scientific and Industrial Research, New Delhi (Selected through the joint CSIR-UGC NET held on December 16, 2018) ~ All India Rank 18
 * [Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship for Higher Education](https://online-inspire.gov.in/Account/INSPIREProgramme) - Department of Science and Technology, Government of India (July 22, 2014 - May 20, 2019) ~ INR 380,000
