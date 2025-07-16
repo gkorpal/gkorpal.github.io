@@ -27,7 +27,7 @@ Work experience
 | Jul'24 | Simons Laufer Mathematical Sciences Institute, Berkeley | Summer Research in Mathematics ([Geometry of Endomorphism Rings](https://gkorpal.github.io/scholarly/2025-03-05-gross-lattice))|
 | May-Aug'24| Microsoft Research Lab, Redmond | Cryptography Research Intern ([Pairing-friendly cycles for SNARKs](https://gkorpal.github.io/scholarly/2025-01-31-prime-pairs))|
 | Aug'23-May'24| Department of Mathematics, University of Arizona | Instructor for Calculus I (Math 122B) |
-| Aug'22-May'23| Department of Mathematics, University of Arizona | Instructor for Precalculus (Math 120R) and Group Project Mentor for Mathematical Modeling (Math 485)|
+| Aug'22-May'23| Department of Mathematics, University of Arizona | Instructor for Precalculus (Math 120R) and Group Project Mentor for Mathematical Modeling ([Math 485](https://github.com/dukenorton/Group_3_MATH_485))|
 | Aug'21-May'22| Department of Mathematics, University of Arizona | Instructor for Precalculus (Math 120R)|
 | Jul-Aug'21 | Department of Mathematics, University of Arizona | TA for College Algebra (Math 112)|
 | Aug'20-May'21| Department of Mathematics, University of Arizona | TA for College Algebra (Math 112) and Graduate Algebra II (Math 511B)|
