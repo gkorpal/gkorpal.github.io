@@ -20,3 +20,7 @@ Here are the report and presentation about the connection between Deuring corres
 - [Isogeny Database](https://isogenies.enricflorit.com/) (Dec 2, 2020) by [Enric Florit](https://enricflorit.com/)
 - [Isogeny Database with Endomorphism Rings](https://github.com/jtcc2/isogeny-database-with-end-rings) (Sep 21, 2023) by [James Clements](https://jamesclements.info/)
 - [Supersingular l and L isogeny graphs,](https://github.com/JamesRickards-Canada/Isogeny) (Dec 9, 2023) by [James Rickards](https://jamesrickards-canada.github.io/)
+
+**Update (July 16, 2025):** Some useful explainations from online forums.
+- [Given quaternion maximal order, find the corresponding j-invariant](https://math.stackexchange.com/questions/4370619/) by David Jao. ([pdf](http://gkorpal.github.io/files/deuring_jao.pdf))
+- [Find endomoprhism ring of isogenous supersingular curve](https://mathoverflow.net/questions/484539) by  Jonathan Love ([pdf](http://gkorpal.github.io/files/EndoRing.pdf)) 
