@@ -34,7 +34,7 @@ redirect_from:
 
 For *dark mode*, please use a browser extension like [Dark Reader](https://darkreader.org/).
 
-I enjoy exploring [number theory](https://gkorpal.github.io/reading/book-list#number-theory) and [cryptography](https://gkorpal.github.io/jottings/#cryptography).
+I enjoy [number theory](https://gkorpal.github.io/reading/book-list#number-theory) and [cryptography](https://gkorpal.github.io/jottings/#cryptography).
 
 <!---
 
