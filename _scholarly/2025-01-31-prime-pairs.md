@@ -4,7 +4,7 @@ collection: scholarly
 permalink: /scholarly/2025-01-31-prime-pairs
 excerpt: 
 date: 2025-01-31
-venue: 'LuCaNT 2025'
+venue: 'LuCaNT II'
 paperurl:
 citation: 
 ---
