@@ -37,7 +37,7 @@ redirect_from:
 I am Gaurish, and this is my personal website. I use it to journal my work related to [number theory](https://gkorpal.github.io/reading/book-list#number-theory) and [cryptography](https://gkorpal.github.io/jottings/#cryptography).
 
 Here is a brief description of the contents of this website:
-- [Scholarly Articles](https://gkorpal.github.io/scholarly/): Original research.
+- [Scholarly Articles](https://gkorpal.github.io/scholarly/): Products of my research collaborations.
 - [Technical Reports](https://gkorpal.github.io/technical/): Detailed notes I wrote while studying advanced concepts.
 - [Lecture Notes](https://gkorpal.github.io/lecture/): Short write-ups on interesting topics I gave a talk on.
 - [Reading Lists](https://gkorpal.github.io/reading/): The articles and books I found worth my time.
