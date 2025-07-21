@@ -31,10 +31,19 @@ redirect_from:
   </a>  
  </p>
 
+*For dark mode, please use a browser extension like [Dark Reader](https://darkreader.org/).*
 
-For *dark mode*, please use a browser extension like [Dark Reader](https://darkreader.org/).
 
-I enjoy [number theory](https://gkorpal.github.io/reading/book-list#number-theory) and [cryptography](https://gkorpal.github.io/jottings/#cryptography).
+I am Gaurish, and this is my personal website. I use it to journal my work related to [number theory](https://gkorpal.github.io/reading/book-list#number-theory) and [cryptography](https://gkorpal.github.io/jottings/#cryptography).
+
+Here is a brief description of the contents of this website:
+- [Scholarly Articles](https://gkorpal.github.io/scholarly/): Original research.
+- [Technical Reports](https://gkorpal.github.io/technical/): Detailed notes I wrote while studying advanced concepts.
+- [Lecture Notes](https://gkorpal.github.io/lecture/): Short write-ups on interesting topics I gave a talk on.
+- [Reading Lists](https://gkorpal.github.io/reading/): The articles and books I found worth my time.
+- [Jottings](https://gkorpal.github.io/jottings/): Curated collections of useful learning resources.
+- [Musings](https://gkorpal.github.io/year-archive/): Personal blog posts.
+- [CV](https://gkorpal.github.io/cv/): My educational background and work experience.
 
 <!---
 
