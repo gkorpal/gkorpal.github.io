@@ -16,6 +16,7 @@ The article is nicely annotated and explained by [Luís Batalha on Fermat's Libr
 
 
 Cited in the book "Understanding Lesson Study for Mathematics" by R. Archer, S. Morgan, and D. Swanson 
+
 ![photo](https://gkorpal.github.io/images/gk-2020.png)
 
 
