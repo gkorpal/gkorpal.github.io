@@ -3,7 +3,7 @@ title: "Good Articles"
 collection: reading
 permalink: /reading/article-list
 excerpt:
-date: 2025-06-22
+date: 2025-08-04
 venue: 
 paperurl: 
 citation: 
@@ -163,8 +163,10 @@ The [Mathematical Association of America (MAA)](https://old.maa.org/press/period
 * H. M. Edwards, Fermat's Last Theorem, _Scientific American_ **239** (1978), no. 4, 104–-122. doi: [10.1038/scientificamerican1078-104](https://doi.org/10.1038/scientificamerican1078-104), [Stable URL](https://www.jstor.org/stable/24955826)
 * D. Zagier, The first 50 million prime numbers, _Math. Intelligencer_ **1** (1977), no. 1, 7--19. doi:[10.1007/BF03039306](https://doi.org/10.1007/BF03039306)
 * B. L. van der Waerden, Hamilton's Discovery of Quaternions, _Math. Mag._ **49** (1976), no. 5, 227--234. doi:[10.2307/2689449](https://doi.org/10.2307/2689449), [Stable URL](https://www.jstor.org/stable/2689449)
+* J. T. Tate, The arithmetic of elliptic curves, Invent. Math. **23** (1974), 179--206. doi:[10.1007/BF01389745](https://doi.org/10.1007/BF01389745)
 * M. Davis and R. Hersh, Hilbert's 10th Problem,  _Scientific American_ **229** (1973), no. 5, 84--91. doi: [10.1038/scientificamerican1173-84](https://doi.org/10.1038/scientificamerican1173-84), [Stable URL](https://www.jstor.org/stable/24923245)
-* G. H. Hardy, An introduction to the theory of numbers, _Bull. Amer. Math. Soc._ **35** (1929), no. 6, 778–818. doi:[10.1090/S0002-9904-1929-04793-1](https://doi.org/10.1090/S0002-9904-1929-04793-1)
+* J. W. S. Cassels, Diophantine equations with special reference to elliptic curves, J. London Math. Soc. **41** (1966), 193--291.  doi:[10.1112/jlms/s1-41.1.193](https://doi.org/10.1112/jlms/s1-41.1.193)
+* G. H. Hardy, An introduction to the theory of numbers, _Bull. Amer. Math. Soc._ **35** (1929), no. 6, 778-–818. doi:[10.1090/S0002-9904-1929-04793-1](https://doi.org/10.1090/S0002-9904-1929-04793-1)
 
 ## Research
 
