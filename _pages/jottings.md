@@ -83,17 +83,25 @@ These cryptosystems are considered secure against the computation power offered 
 
 ## Unconditionally secure cryptography
 
-<img style="display: block; margin: auto;" width="350" height="370" src="https://www.smbc-comics.com/comics/1544366826-20181209.png">
+<img style="display: block; margin: auto;" width="283" height="300" src="https://www.smbc-comics.com/comics/1544366826-20181209.png">
 
-![image](https://www.smbc-comics.com/comics/1544366826-20181209.png){: style="float: left"}
-
-Following are some of my *jottings*:
-* ### Quantum cryptography (placeholder)
+TODO: Quantum cryptography
 
 # Math tech
 
+I have used various workflows in the past.
+
+- 2014 to 2019: Ubuntu (Lfcde and Gnome)
+- 2019 to 2020: Debian (inside ChromeOS)
+- 2020 to 2021: Fedora (Xfce and Gnome)
+- 2021 to 2023: openSUSE (KDE)
+- 2023 to present: WSL (Ubuntu inside Windows)
+
 ## Git
+
 ## Markdown
+
 ## TeX
+
 ## Programming
 
