@@ -8,7 +8,7 @@ venue: 'LuCaNT II'
 paperurl:
 citation: 
 ---
-Costello, Craig; Korpal, Gaurish (2025): On pairs of primes with small order reciprocity. [LuCaNT II](https://lucant.org/papers/2025/250130-Costello.pdf).
+with Craig Costello: On pairs of primes with small order reciprocity. [LuCaNT II](https://lucant.org/papers/2025/250130-Costello.pdf).
 
 Part of this work was done while I was an intern at Microsoft Research.
 
