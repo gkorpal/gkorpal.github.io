@@ -8,7 +8,7 @@ venue: 'arXiv'
 paperurl: 
 citation: 
 ---
-He, Chenfeng; Korpal, Gaurish; Tran, Ha T. N.; Vincent, Christelle (2025):  Gross lattices of supersingular elliptic curves. arXiv. Preprint. [2503.03478](https://arxiv.org/abs/2503.03478)
+with Chenfeng He, Ha Tran, and Christelle Vincent:  Gross lattices of supersingular elliptic curves. arXiv. Preprint. [2503.03478](https://arxiv.org/abs/2503.03478)
 
 Part of this work was done while visiting SLMath as part of the Summer Research in Mathematics (SRiM) program.
 
