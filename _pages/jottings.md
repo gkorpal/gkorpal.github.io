@@ -89,7 +89,7 @@ TODO: Quantum cryptography
 
 # Math tech
 
-The following is a rough outline of various tech set-ups I have worked with.
+The following is a list of various math tech setups I have worked with over the years.
 
 |  Interval (years) | Operating system | Primary software | 
 | ----------------- | ---------------- |-------------|
@@ -97,7 +97,7 @@ The following is a rough outline of various tech set-ups I have worked with.
 | 2019 to 2020| Debian (inside ChromeOS) | TexMaker |
 | 2020 to 2021| Fedora (Xfce and GNOME 3) | Vim+MuPDF |
 | 2021 to 2023| openSUSE (KDE Plasma 5) | Vim+MuPDF |
-| 2023 onwards| WSL (Ubuntu inside Windows) | VSCode | 
+| 2023 onwards| WSL 2 (Ubuntu server inside Windows) | VSCode with LaTeX Workshop Extension | 
 
 ## Git
 
