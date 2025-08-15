@@ -89,13 +89,15 @@ TODO: Quantum cryptography
 
 # Math tech
 
-I have used various workflows in the past.
+The following is a rough outline of various tech set-ups I have worked with.
 
-- 2014 to 2019: Ubuntu (Lfcde and Gnome)
-- 2019 to 2020: Debian (inside ChromeOS)
-- 2020 to 2021: Fedora (Xfce and Gnome)
-- 2021 to 2023: openSUSE (KDE)
-- 2023 to present: WSL (Ubuntu inside Windows)
+|  Interval (years) | Operating system | Primary software | 
+| ----------------- | ---------------- |-------------|
+| 2014 to 2019| Ubuntu (LXDE, GNOME 2, Unity, and Cinnamon) | TexMaker |
+| 2019 to 2020| Debian (inside ChromeOS) | TexMaker |
+| 2020 to 2021| Fedora (Xfce and GNOME 3) | Vim+MuPDF |
+| 2021 to 2023| openSUSE (KDE Plasma 5) | Vim+MuPDF |
+| 2023 onwards| WSL (Ubuntu inside Windows) | VSCode | 
 
 ## Git
 
