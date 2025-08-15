@@ -91,13 +91,13 @@ TODO: Quantum cryptography
 
 The following is a list of various math tech setups I have worked with over the years.
 
-|  Interval (years) | Operating system | Primary software | 
+|  Interval (years) | Operating system (user interface) | Primary software | 
 | ----------------- | ---------------- |-------------|
 | 2014 to 2019| Ubuntu (LXDE, GNOME 2, Unity, and Cinnamon) | TexMaker |
 | 2019 to 2020| Debian (inside ChromeOS) | TexMaker |
 | 2020 to 2021| Fedora (Xfce and GNOME 3) | Vim+MuPDF |
 | 2021 to 2023| openSUSE (KDE Plasma 5) | Vim+MuPDF |
-| 2023 onwards| WSL 2 (Ubuntu server inside Windows) | VSCode with LaTeX Workshop Extension | 
+| 2023 onwards| Ubuntu (Windows Subsystem for Linux 2) | VSCode with LaTeX Workshop Extension | 
 
 ## Git
 
