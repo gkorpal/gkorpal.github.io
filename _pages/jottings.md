@@ -8,13 +8,25 @@ author_profile: true
 > Mathematical reasoning may be regarded rather schematically as the exercise of a combination of two facilities, which we may call intuition and ingenuity. 
 > -[Alan M. Turing](https://en.wikiquote.org/wiki/Alan_Turing)
 
+Curated collections of useful learning resources.
+
+* [Cryptography](#cryptography) 
+  * [Computationally secure cryptography](#computationally-secure-cryptography)
+  * [Unconditionally secure cryptography](#unconditionally-secure-cryptography)
+* [Math tech](#math-tech)
+  * [Git](#git)
+  * [Markdown](#markdown)
+  * [TeX](#tex)
+  * [Programming](#programming)
+
+
 # Cryptography
 
 <p>
 <center>
 <a href="https://gkorpal.github.io/files/Crypto_goals.tex">
      <img alt="mindmap" src="https://gkorpal.github.io/images/Crypto_goals.png" class="center"
-          width="600" height="500">
+          width="400" height="400">
 </a>
 </center>
 </p>
@@ -71,10 +83,17 @@ These cryptosystems are considered secure against the computation power offered 
 
 ## Unconditionally secure cryptography
 
-<img align="left" width="350" height="370" src="https://www.smbc-comics.com/comics/1544366826-20181209.png">
+<img style="display: block; margin: auto;" width="350" height="370" src="https://www.smbc-comics.com/comics/1544366826-20181209.png">
 
+![image](https://www.smbc-comics.com/comics/1544366826-20181209.png){: style="float: left"}
 
 Following are some of my *jottings*:
 * ### Quantum cryptography (placeholder)
 
+# Math tech
+
+## Git
+## Markdown
+## TeX
+## Programming
 
