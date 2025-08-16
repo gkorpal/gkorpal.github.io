@@ -17,7 +17,7 @@ Curated collections of useful learning resources.
   * [Git](#git)
   * [Markdown](#markdown)
   * [TeX](#tex)
-  * [Programming](#programming)
+  * [Julia](#julia)
 
 
 # Cryptography
@@ -150,6 +150,25 @@ Further readings:
 
 ## Julia
 
-TODO
+Julia is a modern programming language that was developed to combine readability, speed, and scalability in one tool. It readily adopts cool features from other languages like [its amazing package manager](https://www.youtube.com/watch?v=HgFmiT5p0zU) `Pkg` inspired by Rust's `cargo`. I learned the basics from this tutorial: https://github.com/JuliaAcademy/JuliaProgrammingForNervousBeginners
 
+If new to programming, consider solving some of these exercises:
+- CodeAbby: https://www.codeabbey.com/
+- Project Euler: https://projecteuler.net/
+
+Some other useful resources:
+- Julia Documentation: https://docs.julialang.org/
+  -  Style guide: https://docs.julialang.org/en/v1/manual/style-guide/
+  -  Performance tips: https://docs.julialang.org/en/v1/manual/performance-tips/
+  -  Unicode input: https://docs.julialang.org/en/v1/manual/unicode-input/
+  -  Math operators: https://docs.julialang.org/en/v1/manual/mathematical-operations/
+- Julia cheatsheet: https://cheatsheet.juliadocs.org/
+- Floating point math: https://0.30000000000000004.com/#julia
+- Introduction to computational thinking (using `Pluto`): https://computationalthinking.mit.edu
+- Computer algebra system (using `Oscar`): https://www.oscar-system.org/tutorials/
+  - Type stability: https://github.com/thofma/HeckeTutorials.jl/blob/master/Performance.ipynb 
+- Modern Julia Workflow (using `PkgTemplates` and `Revise`): https://modernjuliaworkflows.org/
+- Parallel computing (using `Flux`): https://book.sciml.ai/
+- MATLAB vs Python vs Julia syntax: https://cheatsheets.quantecon.org/
+- Differences from other langauges: https://docs.julialang.org/en/v1/manual/noteworthy-differences/
 
