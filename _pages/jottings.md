@@ -105,7 +105,8 @@ Git is a version control system that was developed to manage Linux development. 
 
 Some other useful resources:
 - Git Guides: https://github.com/git-guides
-- Git Cheatsheets: https://training.github.com/  
+- Git Cheatsheets: https://training.github.com/
+- GitHub for Mathematicians: https://g4m.code4math.org/g4m.html
 
 ## Markdown
 
@@ -115,7 +116,7 @@ There are different flavors that add various features:
 - GitHub flavor ([kramdown](https://kramdown.gettalong.org/documentation.html) with support for  [math](https://github.blog/2022-05-19-math-support-in-markdown/), [flowchart](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/), and [footnote](https://github.blog/changelog/2021-09-30-footnotes-now-supported-in-markdown-fields/)): https://docs.github.com/en/get-started/writing-on-github
 - Zettlr flavor (+[KaTeX](https://katex.org/)): https://docs.zettlr.com/en/reference/markdown-basics/
 - Quarto flavor ([Pandoc Markdown](https://kdheepak.com/blog/writing-papers-with-markdown/)): https://quarto.org/docs/authoring/markdown-basics.html
-- Ghostwirter flavor ([CommonMark](https://commonmark.org/) et al.): https://ghostwriter.kde.org/documentation/
+- Ghostwriter flavor ([CommonMark](https://commonmark.org/) et al.): https://ghostwriter.kde.org/documentation/
 
 ## TeX
 
@@ -150,7 +151,7 @@ Further readings:
 
 ## Julia
 
-Julia is a modern programming language that was developed to combine readability, speed, and scalability in one tool. It readily adopts cool features from other languages like [its amazing package manager](https://www.youtube.com/watch?v=HgFmiT5p0zU) `Pkg` inspired by Rust's `cargo`. I learned the basics from this tutorial: https://github.com/JuliaAcademy/JuliaProgrammingForNervousBeginners
+Julia is a modern programming language that was developed to combine readability, speed, and scalability in one tool. It readily adopts cool features from other languages like [its amazing package manager](https://www.youtube.com/watch?v=HgFmiT5p0zU) `Pkg` inspired by Rust's `cargo`. One can learn the basics from this tutorial: https://github.com/JuliaAcademy/JuliaProgrammingForNervousBeginners
 
 If new to programming, consider solving some of these exercises:
 - CodeAbby: https://www.codeabbey.com/
