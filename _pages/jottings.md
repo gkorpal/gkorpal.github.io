@@ -110,66 +110,44 @@ Some other useful resources:
 
 ## Markdown
 
-Markdown is a markup language that was developed to bridge the gap between raw text and HTML. One can learn the basics here: https://www.markdownguide.org/
+Markdown is a markup language that was developed to bridge the gap between raw text and HTML. One can learn the basics here: [https://www.markdownguide.org/](https://www.markdownguide.org/)
 
 There are different flavors that add various features:
-- GitHub flavor ([kramdown](https://kramdown.gettalong.org/documentation.html) with support for  [math](https://github.blog/2022-05-19-math-support-in-markdown/), [flowchart](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/), and [footnote](https://github.blog/changelog/2021-09-30-footnotes-now-supported-in-markdown-fields/)): https://docs.github.com/en/get-started/writing-on-github
-- Zettlr flavor (+[KaTeX](https://katex.org/)): https://docs.zettlr.com/en/reference/markdown-basics/
-- Quarto flavor ([Pandoc Markdown](https://kdheepak.com/blog/writing-papers-with-markdown/)): https://quarto.org/docs/authoring/markdown-basics.html
-- Ghostwriter flavor ([CommonMark](https://commonmark.org/) et al.): https://ghostwriter.kde.org/documentation/
+- GitHub flavor ([kramdown](https://kramdown.gettalong.org/documentation.html) with support for  [math](https://github.blog/2022-05-19-math-support-in-markdown/), [flowchart](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/), and [footnote](https://github.blog/changelog/2021-09-30-footnotes-now-supported-in-markdown-fields/)): [https://docs.github.com/en/get-started/writing-on-github](https://docs.github.com/en/get-started/writing-on-github)
+- Zettlr flavor (+[KaTeX](https://katex.org/)): [https://docs.zettlr.com/en/reference/markdown-basics/](https://docs.zettlr.com/en/reference/markdown-basics/)
+- Quarto flavor ([Pandoc Markdown](https://kdheepak.com/blog/writing-papers-with-markdown/)): [https://quarto.org/docs/authoring/markdown-basics.html](https://quarto.org/docs/authoring/markdown-basics.html)
+- Ghostwriter flavor ([CommonMark](https://commonmark.org/) et al.): [https://ghostwriter.kde.org/documentation/](https://ghostwriter.kde.org/documentation/)
 
 ## TeX
 
-TeX is a typesetting system that was developed to meet the needs of mathematical and scientific typography. There are different flavors like [pdfTeX vs XeTeX vs LuaTeX](https://texfaq.org/FAQ-xetex-luatex) and [LaTeX vs ConTeXt](https://texfaq.org/FAQ-context). I use pdfTeX to produce PDF articles, reports, and presentations. Here is a tutorial to get started: https://edbennett.github.io/latex-tutorial/
+TeX is a typesetting system that was developed to meet the needs of mathematical and scientific typography. There are different flavors like [pdfTeX vs XeTeX vs LuaTeX](https://texfaq.org/FAQ-xetex-luatex), [LaTeX vs ConTeXt](https://texfaq.org/FAQ-context), and [BibTeX vs BibLaTeX](https://tex.stackexchange.com/questions/25701/bibtex-vs-biber-and-biblatex-vs-natbib). I use pdfTeX with BibTeX to produce PDF articles, reports, and presentations. Here is a tutorial to get started: [https://edbennett.github.io/latex-tutorial/](https://edbennett.github.io/latex-tutorial/)
 
 Further readings:
-- LaTeX basics
-  - LaTeX guide: https://www.learnlatex.org/
-  - LaTeX typesetting game: https://texnique.xyz/
-  - LaTeX cheat sheet: https://quickref.me/latex.html
-- Assistance tools
-  - LaTeX symbol recognition: https://detexify.kirelabs.org/classify.html
-  - Equation editor (online): https://editor.codecogs.com/
-  - Equation editor (offline): https://www.chachatelier.fr/latexit/latexit-home.php?lang=en
-  - Table generator: https://www.tablesgenerator.com/
-- Vector graphics
-  - TikZ/PGF plots generator: https://mitchellt.com/tikzpgfplotsgenerator.html (HTML manual: https://tikz.dev/)
-  - TikZ online GUI (via [GeoGebra](https://www.geogebra.org/classic) or [Mathcha](https://www.mathcha.io/)): https://mathcomm.org/general-principles-of-communicating-math/latex/figures-in-latex/
-  - TikZ offline GUI: https://tikzit.github.io/ (online alter: https://homepages.inf.ed.ac.uk/cheunen/freetikz/)
-  - TikZ-cd online GUI: https://tikzcd.yichuanshen.de/ (alter: https://q.uiver.app/)
-  - Overlay generator for annotating an image with TikZ: https://ff.cx/latex-overlay/
-  - Inkscape: https://castel.dev/post/lecture-notes-2/
-- Bibliography management
-  - JabRef browser extension: https://docs.jabref.org/collect/jabref-browser-extension
-  - BibTeX vs BibLaTeX: https://tex.stackexchange.com/questions/25701/bibtex-vs-biber-and-biblatex-vs-natbib
-  - BibLaTeX cheat sheet: https://tug.ctan.org/info/biblatex-cheatsheet/biblatex-cheatsheet.pdf
-- Presentation slides
-  - Beamer guide: https://latex-beamer.com/
-  - Beamer themes (native): https://mpetroff.net/files/beamer-theme-matrix/
-  - Beamer themes (extra): https://ctan.org/topic/presentation
-- GitHub and LaTeX: https://dev.to/mrturkmen/latex-with-github-actions-4580
+
+|  LaTeX basics | Assistance tools | 
+| ----------------- | ---------------- |
+| [LaTeX guide](https://www.learnlatex.org/) | [Detexify](https://detexify.kirelabs.org/classify.html) | 
+| [LaTeX typesetting game](https://texnique.xyz/) | [Equation editor](https://editor.codecogs.com/) | 
+| [LaTeX cheat sheet](https://quickref.me/latex.html) | [Table generator](https://www.tablesgenerator.com/) | 
+| [TikZ docs](https://tikz.dev/) | [TikZ-cd generator](https://q.uiver.app/)| 
+| [BibLaTeX cheat sheet](https://tug.ctan.org/info/biblatex-cheatsheet/biblatex-cheatsheet.pdf) | [JabRef browser extension](https://docs.jabref.org/collect/jabref-browser-extension) |
+| [Beamer guide](https://latex-beamer.com/)| [Beamer themes](https://mpetroff.net/files/beamer-theme-matrix/) |
+
 
 ## Julia
 
-Julia is a modern programming language that was developed to combine readability, speed, and scalability in one tool. It readily adopts cool features from other languages like [its amazing package manager](https://www.youtube.com/watch?v=HgFmiT5p0zU) `Pkg` inspired by Rust's `cargo`. One can learn the basics from this tutorial: https://github.com/JuliaAcademy/JuliaProgrammingForNervousBeginners
+Julia is a modern programming language that was developed to combine readability, speed, and scalability in one tool. It readily adopts cool features from other languages like [its amazing package manager](https://www.youtube.com/watch?v=HgFmiT5p0zU) `Pkg` inspired by Rust's `cargo`. One can learn the basics from this tutorial: [https://github.com/JuliaAcademy/JuliaProgrammingForNervousBeginners](https://github.com/JuliaAcademy/JuliaProgrammingForNervousBeginners)
 
-If new to programming, consider solving some of these exercises:
-- CodeAbby: https://www.codeabbey.com/
-- Project Euler: https://projecteuler.net/
+If new to programming, consider solving some exercises from [CodeAbby](https://www.codeabbey.com/) or [Project Euler](https://projecteuler.net/).
 
 Some other useful resources:
-- Julia Documentation: https://docs.julialang.org/
-  -  Style guide: https://docs.julialang.org/en/v1/manual/style-guide/
-  -  Performance tips: https://docs.julialang.org/en/v1/manual/performance-tips/
-  -  Unicode input: https://docs.julialang.org/en/v1/manual/unicode-input/
-  -  Math operators: https://docs.julialang.org/en/v1/manual/mathematical-operations/
-- Julia cheatsheet: https://cheatsheet.juliadocs.org/
-- Floating point math: https://0.30000000000000004.com/#julia
-- Introduction to computational thinking (using `Pluto`): https://computationalthinking.mit.edu
-- Computer algebra system (using `Oscar`): https://www.oscar-system.org/tutorials/
-  - Type stability: https://github.com/thofma/HeckeTutorials.jl/blob/master/Performance.ipynb 
-- Modern Julia Workflow (using `PkgTemplates` and `Revise`): https://modernjuliaworkflows.org/
-- Parallel computing (using `Flux`): https://book.sciml.ai/
-- MATLAB vs Python vs Julia syntax: https://cheatsheets.quantecon.org/
-- Differences from other langauges: https://docs.julialang.org/en/v1/manual/noteworthy-differences/
+
+| Core documentation | Using packges |
+| ------------- | ------- |
+| [Style guide](https://docs.julialang.org/en/v1/manual/style-guide/) | [`Pluto`](https://computationalthinking.mit.edu) |
+| [Performance tips](https://docs.julialang.org/en/v1/manual/performance-tips/) | [`Revise`](https://modernjuliaworkflows.org/) |
+| [Unicode input](https://docs.julialang.org/en/v1/manual/unicode-input/) | [`Hecke`](https://github.com/thofma/HeckeTutorials.jl/blob/master/Performance.ipynb) |
+| [Math operators](https://docs.julialang.org/en/v1/manual/mathematical-operations/) | [`Oscar`](https://www.oscar-system.org/tutorials/) |
+| [Cheatsheet](https://cheatsheet.juliadocs.org/) | [`LaTeXStings`](https://m3g.github.io/JuliaNotes.jl/stable/figures/) |
+| [Floating point math](https://0.30000000000000004.com/#julia) | [`Flux`](https://book.sciml.ai/) |
 
