@@ -101,9 +101,55 @@ The following is a list of various math tech setups I have worked with over the 
 
 ## Git
 
+Git is a version control system that was developed to manage Linux development. I use GitHub as the remote server for my git repositories. Here is a tutorial to get started: https://swcarpentry.github.io/git-novice/
+
+Some other useful resources:
+- Git Guides: https://github.com/git-guides
+- Git Cheatsheets: https://training.github.com/  
+
 ## Markdown
+
+Markdown is a markup language that was developed to bridge the gap between raw text and HTML. One can learn the basics here: https://www.markdownguide.org/
+
+There are different flavors that add various features:
+- GitHub flavor ([kramdown](https://kramdown.gettalong.org/documentation.html) with support for  [math](https://github.blog/2022-05-19-math-support-in-markdown/), [flowchart](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/), and [footnote](https://github.blog/changelog/2021-09-30-footnotes-now-supported-in-markdown-fields/)): https://docs.github.com/en/get-started/writing-on-github
+- Zettlr flavor (+[KaTeX](https://katex.org/)): https://docs.zettlr.com/en/reference/markdown-basics/
+- Quarto flavor ([Pandoc Markdown](https://kdheepak.com/blog/writing-papers-with-markdown/)): https://quarto.org/docs/authoring/markdown-basics.html
+- Ghostwirter flavor ([CommonMark](https://commonmark.org/) et al.): https://ghostwriter.kde.org/documentation/
 
 ## TeX
 
-## Programming
+TeX is a typesetting system that was developed to meet the needs of mathematical and scientific typography. There are different flavors like [pdfTeX vs XeTeX vs LuaTeX](https://texfaq.org/FAQ-xetex-luatex) and [LaTeX vs ConTeXt](https://texfaq.org/FAQ-context). I use pdfTeX to produce PDF articles, reports, and presentations. Here is a tutorial to get started: https://edbennett.github.io/latex-tutorial/
+
+Further readings:
+- LaTeX basics
+  - LaTeX guide: https://www.learnlatex.org/
+  - LaTeX typesetting game: https://texnique.xyz/
+  - LaTeX cheat sheet: https://quickref.me/latex.html
+- Assistance tools
+  - LaTeX symbol recognition: https://detexify.kirelabs.org/classify.html
+  - Equation editor (online): https://editor.codecogs.com/
+  - Equation editor (offline): https://www.chachatelier.fr/latexit/latexit-home.php?lang=en
+  - Table generator: https://www.tablesgenerator.com/
+- Vector graphics
+  - TikZ/PGF plots generator: https://mitchellt.com/tikzpgfplotsgenerator.html (HTML manual: https://tikz.dev/)
+  - TikZ online GUI (via [GeoGebra](https://www.geogebra.org/classic) or [Mathcha](https://www.mathcha.io/)): https://mathcomm.org/general-principles-of-communicating-math/latex/figures-in-latex/
+  - TikZ offline GUI: https://tikzit.github.io/ (online alter: https://homepages.inf.ed.ac.uk/cheunen/freetikz/)
+  - TikZ-cd online GUI: https://tikzcd.yichuanshen.de/ (alter: https://q.uiver.app/)
+  - Overlay generator for annotating an image with TikZ: https://ff.cx/latex-overlay/
+  - Inkscape: https://castel.dev/post/lecture-notes-2/
+- Bibliography management
+  - JabRef browser extension: https://docs.jabref.org/collect/jabref-browser-extension
+  - BibTeX vs BibLaTeX: https://tex.stackexchange.com/questions/25701/bibtex-vs-biber-and-biblatex-vs-natbib
+  - BibLaTeX cheat sheet: https://tug.ctan.org/info/biblatex-cheatsheet/biblatex-cheatsheet.pdf
+- Presentation slides
+  - Beamer guide: https://latex-beamer.com/
+  - Beamer themes (native): https://mpetroff.net/files/beamer-theme-matrix/
+  - Beamer themes (extra): https://ctan.org/topic/presentation
+- GitHub and LaTeX: https://dev.to/mrturkmen/latex-with-github-actions-4580
+
+## Julia
+
+TODO
+
 
