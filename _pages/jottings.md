@@ -101,12 +101,12 @@ The following is a list of various math tech setups I have worked with over the 
 
 ## Git
 
-Git is a version control system that was developed to manage Linux development. I use GitHub as the remote server for my git repositories. Here is a tutorial to get started: https://swcarpentry.github.io/git-novice/
+Git is a version control system that was developed to manage Linux development. I use GitHub as the remote server for my git repositories. Here is a tutorial to get started: [https://swcarpentry.github.io/git-novice/](https://swcarpentry.github.io/git-novice/)
 
 Some other useful resources:
-- Git Guides: https://github.com/git-guides
-- Git Cheatsheets: https://training.github.com/
-- GitHub for Mathematicians: https://g4m.code4math.org/g4m.html
+- Git Guides: [https://github.com/git-guides](https://github.com/git-guides)
+- Git Cheatsheets: [https://training.github.com/](https://training.github.com/)
+- GitHub for Mathematicians: [https://g4m.code4math.org/g4m.html](https://g4m.code4math.org/g4m.html)
 
 ## Markdown
 
