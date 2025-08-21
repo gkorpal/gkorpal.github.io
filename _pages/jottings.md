@@ -8,16 +8,14 @@ author_profile: true
 > Mathematical reasoning may be regarded rather schematically as the exercise of a combination of two facilities, which we may call intuition and ingenuity. 
 > -[Alan M. Turing](https://en.wikiquote.org/wiki/Alan_Turing)
 
-Curated collections of useful learning resources.
+Here are some resources related to cryptography and mathematics that I found useful.
 
-* [Cryptography](#cryptography) 
-  * [Computationally secure cryptography](#computationally-secure-cryptography)
-  * [Unconditionally secure cryptography](#unconditionally-secure-cryptography)
-* [Math tech](#math-tech)
-  * [Git](#git)
-  * [Markdown](#markdown)
-  * [TeX](#tex)
-  * [Julia](#julia)
+| [Cryptography](#cryptography) | [Math tech](#math-tech) |
+| ----------------------------- | ----------------------- |
+| [Computationally secure cryptography](#computationally-secure-cryptography) | [Git](#git) |
+| [Unconditionally secure cryptography](#unconditionally-secure-cryptography) | [Markdown](#markdown) |
+|                                                                             | [TeX](#tex) |
+|                                                                             | [Julia](#julia) |
 
 
 # Cryptography
