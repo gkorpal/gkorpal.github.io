@@ -91,7 +91,7 @@ The following is a list of various math tech setups I have worked with over the 
 
 |  Interval (years) | Operating system (user interface) | Primary software | 
 | ----------------- | ---------------- |-------------|
-| 2014 to 2019| Ubuntu (LXDE, GNOME 2, Unity, and Cinnamon) | TexMaker |
+| 2013 to 2019| Ubuntu (GNOME 2, LXDE, Unity, and Cinnamon) | TexMaker |
 | 2019 to 2020| Debian (Crostini/Linux on ChromeOS) | TexMaker |
 | 2020 to 2021| Fedora (Xfce and GNOME 3) | Vim+MuPDF |
 | 2021 to 2023| openSUSE (KDE Plasma 5) | Vim+MuPDF |
