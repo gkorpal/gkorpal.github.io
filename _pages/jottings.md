@@ -95,7 +95,7 @@ The following is a list of various math tech setups I have worked with over the 
 | 2019 to 2020| Debian (Crostini/Linux on ChromeOS) | TexMaker |
 | 2020 to 2021| Fedora (Xfce and GNOME 3) | Vim+MuPDF |
 | 2021 to 2023| openSUSE (KDE Plasma 5) | Vim+MuPDF |
-| 2023 onwards| Ubuntu (Windows Subsystem for Linux 2) | VSCode with LaTeX Workshop Extension | 
+| 2023 to 2025| Ubuntu (Windows Subsystem for Linux 2) | VSCode with LaTeX Workshop Extension | 
 
 ## Git
 
@@ -140,7 +140,7 @@ If new to programming, consider solving some exercises from [CodeAbby](https://w
 
 Some other useful resources:
 
-| Core documentation | Using packges |
+| Documentation | Packages |
 | ------------- | ------- |
 | [Style guide](https://docs.julialang.org/en/v1/manual/style-guide/) | [`Pluto`](https://computationalthinking.mit.edu) |
 | [Performance tips](https://docs.julialang.org/en/v1/manual/performance-tips/) | [`Revise`](https://modernjuliaworkflows.org/) |
