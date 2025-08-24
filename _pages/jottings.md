@@ -118,7 +118,7 @@ There are different flavors that add various features:
 
 ## TeX
 
-TeX is a typesetting system that was developed to meet the needs of mathematical and scientific typography. There are different flavors like [pdfTeX vs XeTeX vs LuaTeX](https://texfaq.org/FAQ-xetex-luatex), [LaTeX vs ConTeXt](https://texfaq.org/FAQ-context), and [BibTeX vs BibLaTeX](https://tex.stackexchange.com/questions/25701/bibtex-vs-biber-and-biblatex-vs-natbib). I use pdfTeX with BibTeX to produce PDF articles, reports, and presentations. Here is a tutorial to get started: [https://edbennett.github.io/latex-tutorial/](https://edbennett.github.io/latex-tutorial/)
+TeX is a typesetting system that was developed to meet the needs of mathematical and scientific typography. There are [different flavors](https://milde.users.sourceforge.net/TeXvariants-and-engines.xhtml) that can be created by combining an engine like [pdfTeX or XeTeX or LuaTeX](https://texfaq.org/FAQ-xetex-luatex) with a format like [LaTeX or ConTeXt](https://texfaq.org/FAQ-context). Moreover, LaTeX offers [lots of packages](https://ctan.org/), for example one can choose between [BibTeX and BibLaTeX](https://tex.stackexchange.com/questions/25701/bibtex-vs-biber-and-biblatex-vs-natbib) for bibiliography management. I use LaTeX with pdfTeX engine to produce PDF articles, reports, and presentations. Here is a tutorial to get started: [https://edbennett.github.io/latex-tutorial/](https://edbennett.github.io/latex-tutorial/)
 
 Further readings:
 
