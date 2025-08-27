@@ -14,9 +14,9 @@ Education
 * Ph.D. in Mathematics with a minor in Computer Science, University of Arizona, 2019-2025.
   * Qualifying Exam (Sep'21): [Lang-Nishimura theorem](https://gkorpal.github.io/technical/2021-09-13-lang-nishimura-theorem)
   * Comprehensive Exam (Dec'23): [Deuring Correspondence and Public Key Cryptography](https://gkorpal.github.io/technical/2023-12-07-deuring-correspondence)
-  * Dissertation (Jul'25): Supersingular Curves in Cryptography.
+  * Dissertation (Jul'25): [Supersingular Curves in Cryptography](https://repository.arizona.edu/handle/10150/678260) (Defense [slides](https://gkorpal.github.io/files/defense_handout.pdf)).
 * M.Sc. (5-year integrated) in Mathematics, National Institute of Science Education and Research (Homi Bhabha National Institute), 2014-2019.
-  * Thesis (Apr'19): [Sheaf, Cohomology and Geometry](http://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf) (Presentations: [Part 1](https://gkorpal.github.io/technical/2018-11-20-sheaf-theoretic-de-rham-isomorphism) and [Part 2](https://gkorpal.github.io/technical/2019-04-19-cousin-problem-analytic-hypersurface)). 
+  * Thesis (Apr'19): [Sheaf, Cohomology and Geometry](https://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf) (Presentations: [Part 1](https://gkorpal.github.io/technical/2018-11-20-sheaf-theoretic-de-rham-isomorphism) and [Part 2](https://gkorpal.github.io/technical/2019-04-19-cousin-problem-analytic-hypersurface)). 
 
 Work experience
 ------
@@ -31,7 +31,7 @@ Work experience
 | Aug'21-May'22| Department of Mathematics, University of Arizona | Instructor for Precalculus (Math 120R)|
 | Jul-Aug'21 | Department of Mathematics, University of Arizona | TA for College Algebra (Math 112)|
 | Aug'20-May'21| Department of Mathematics, University of Arizona | TA for College Algebra (Math 112) and Graduate Algebra II (Math 511B)|
-| Aug'19-Jul'20 | Department of Mathematics, University of Arizona | TA for College Algebra (Math 112)|
+| Aug'19-May'20 | Department of Mathematics, University of Arizona | TA for College Algebra (Math 112)|
 | Jun'18 | School of Mathematics, Tata Institute of Fundamental Research, Mumbai | Visiting Student Research Program ([Arithmetic Zeta-function](https://gkorpal.github.io/technical/2018-07-04-arithmetic-zeta-function)) |
 | Dec'17 | Kerala School of Mathematics, KSCSTE, Kozhikode | Visiting Student ([Modular Forms](https://gkorpal.github.io/technical/2017-12-30-modular-forms))|
 | Jun-Jul'17 | Mathematics Research Group, The Institute of Mathematical Sciences, Chennai | Summer Research Programme ([Prime Numbers](https://gkorpal.github.io/technical/2017-07-15-prime-numbers)) | 
@@ -84,9 +84,9 @@ Recreational Mathematics Explorations
 * [DRP-NT](https://github.com/DRP-NT): Supervised 7 undegraduate-level reading projects in number theory.
 * Wrote and directed a 45-minute magic show called [Math-O-Trick](https://gkorpal.github.io/lecture/2017-04-08-math-o-trick) for the Open Day at NISER on April 08, 2017. It consisted of 11 mathematical card tricks performed by 7 students including me ([Bachet 1](https://gkorpal.github.io/lecture/2017-01-28-bachet1), [Bachet 2](https://gkorpal.github.io/lecture/2017-02-03-bachet2), [Bachet 3](https://gkorpal.github.io/lecture/2017-02-11-bachet3)).
 * <a href="https://gkorpal.github.io/mathematix/">MathematiX Club, NISER - Bhubaneswar</a>: Organized a total of 80 undergraduate seminars from Spring 2015 to Spring 2019 (57 SUMS, 12 SRS, 9 MathToys, and 2 OpenDay), and 8 of these were delivered by me (3 SUMS, 2 SRS, 1 MathToys, and 2 OpenDay). Most of the reading material that I gave my juniors to prepare for the SUMS was from the following book series: "MIR Little Mathematics Library", "MAA Anneli Lax New Mathematical Library" and "AMS Mathematical World".
-* <a href="https://gkorpal.github.io/posts/2016/07/cross-diagonal-cover-VI/">Cross Diagonal Cover Problem</a>, a puzzle I posed in the form of blog posts on my wordpress blog Gaurish4Math during April-May 2016 (This puzzle was <a href="http://gkorpal.github.io/files/32.pdf">solved by Matthew Scroggs</a> in July 2016).
+* <a href="https://gkorpal.github.io/posts/2016/07/cross-diagonal-cover-VI/">Cross Diagonal Cover Problem</a>, a puzzle I posed in the form of blog posts on my wordpress blog Gaurish4Math during April-May 2016 (This puzzle was <a href="https://gkorpal.github.io/files/32.pdf">solved by Matthew Scroggs</a> in July 2016).
 * <u>Pulsating Checkpoint Sequence</u>
- (<a href="https://oeis.org/A264962">A264962</a>), The On-Line Encyclopedia of Integer Sequences, November 2015. (I discovered this sequence while attempting to solve a <a href="http://gkorpal.github.io/files/20151125-solution-be-still-my-pulsating-sequence.pdf">puzzle posed by Pradeep Mutalik</a> in “Quanta Magazine” in November 2015).
+ (<a href="https://oeis.org/A264962">A264962</a>), The On-Line Encyclopedia of Integer Sequences, November 2015. (I discovered this sequence while attempting to solve a <a href="https://gkorpal.github.io/files/20151125-solution-be-still-my-pulsating-sequence.pdf">puzzle posed by Pradeep Mutalik</a> in “Quanta Magazine” in November 2015).
 
  
 <!-----
