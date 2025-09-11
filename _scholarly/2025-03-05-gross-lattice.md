@@ -1,7 +1,7 @@
 ---
 title: "Gross lattices of supersingular elliptic curves"
 collection: scholarly
-permalink: /scholarly/2025-03-05-gross-lattice
+permalink: /scholarly/2025-03-05-minimal-gross
 excerpt: 
 date: 2025-03-05
 venue: 'arXiv'
