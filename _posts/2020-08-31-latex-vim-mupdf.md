@@ -14,7 +14,7 @@ tags:
   - vim plug
   - vimrc
 ---
-In this post I have written down the steps one can follow to use the Terminal Emulator as a versatile LaTeX editor. A good reference for learning LaTeX is "[The not so Short Introduction to LaTeX](https://ctan.org/tex-archive/info/lshort/english/)."
+The purpose of this post is to present an example for [UNIX as an IDE](https://github.com/gkorpal/learning-C_systems?tab=readme-ov-file) argument by using the Terminal Emulator as a versatile LaTeX editor. A good reference for learning LaTeX is "[The not so Short Introduction to LaTeX](https://ctan.org/tex-archive/info/lshort/english/)."
 
 # Preparation
 
