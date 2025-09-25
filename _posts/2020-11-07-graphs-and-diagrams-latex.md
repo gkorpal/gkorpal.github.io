@@ -14,9 +14,7 @@ tags:
   - tikz
   - tikzcd
 ---
-In this post I have collected the options available for embedding vector graphics in LaTeX when using pdfLaTeX.
-
-We can always use simple mathematical programs like GeoGebra for 2D and 3D graphs and drawing programs like Google Drawing for diagrams. These graphs and diagrams can be exported as png or jpg (raster graphics) and then inserted in pdf using `graphicx` package. 
+Here is a collection of options available for embedding vector graphics in LaTeX when using pdfLaTeX. We can always use simple mathematical programs like GeoGebra for 2D and 3D graphs and drawing programs like Google Drawing for diagrams. These graphs and diagrams can be exported as png or jpg (raster graphics) and then inserted in pdf using `graphicx` package. 
 
 ````latex
 \usepackage{graphicx} %add images
