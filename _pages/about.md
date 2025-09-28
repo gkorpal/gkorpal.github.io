@@ -34,7 +34,9 @@ redirect_from:
 *For dark mode, please use a browser extension like [Dark Reader](https://darkreader.org/).*
 
 
-I am Gaurish, and this is my personal website. I use it to journal my work related to [number theory](https://gkorpal.github.io/reading/book-list#number-theory) and [cryptography](https://gkorpal.github.io/jottings/#cryptography).
+I am Gaurish, and this is my personal website. I use it to journal my work related to [number theory](https://gkorpal.github.io/reading/book-list#number-theory) and [cryptography](https://gkorpal.github.io/jottings/#cryptography). 
+
+Email: gkorpal <at> proton <dot> me.
 
 Here is a brief description of the contents of this website:
 - [Scholarly Articles](https://gkorpal.github.io/scholarly/): Products of my research collaborations.
