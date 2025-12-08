@@ -10,12 +10,14 @@ author_profile: true
 
 Here are some resources related to cryptography and mathematics that I found useful.
 
-| [Cryptography](#cryptography) | [Math tech](#math-tech) |
-| ----- | ----- |
-| [Computationally secure cryptography](#computationally-secure-cryptography) | [Git](#git) |
-| [Unconditionally secure cryptography](#unconditionally-secure-cryptography) | [Markdown](#markdown) |
-|                                                                             | [TeX](#tex) |
-|                                                                             | [Julia](#julia) |
+- [Cryptography](#cryptography)
+    - [Computationally secure cryptography](#computationally-secure-cryptography)
+    - [Unconditionally secure cryptography](#unconditionally-secure-cryptography)
+- [Math tech](#math-tech) 
+    - [Git](#git) 
+    - [Markdown](#markdown) 
+    - [TeX](#tex) 
+    - [Julia](#julia) 
 
 
 # Cryptography
