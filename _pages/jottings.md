@@ -11,7 +11,7 @@ author_profile: true
 Here are some resources related to cryptography and mathematics that I found useful.
 
 | [Cryptography](#cryptography) | [Math tech](#math-tech) |
-| ----------------------------- | ----------------------- |
+| ----- | ----- |
 | [Computationally secure cryptography](#computationally-secure-cryptography) | [Git](#git) |
 | [Unconditionally secure cryptography](#unconditionally-secure-cryptography) | [Markdown](#markdown) |
 |                                                                             | [TeX](#tex) |
@@ -32,7 +32,7 @@ Here are some resources related to cryptography and mathematics that I found use
 To get started, one can consider the following resources:
 
 |  Blog posts/interviews | Lecture notes/books (free and great quality) | Websites/discussion forums |
-| ---------------------- | ------------------- |--------------------|
+| ---------- | ---------- |-----|
 | [So, You Want to be a Cryptographer](https://www.schneier.com/crypto-gram/archives/1999/1015.html#SoYouWanttobeaCryptographer) - Bruce Schneier (Oct 1999) | [The Joy of Cryptography](https://joyofcryptography.com/) - Mike Rosulek | [CryptoHack](https://cryptohack.org/) |
 | [Recommended skills for a job in cryptology](https://crypto.stackexchange.com/a/8444/87215) - Reid (May 2013)| [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - Dan Boneh and Victor Shoup | [Cryptopals](https://cryptopals.com/) |
 | [Applied Cryptography Engineering](https://sockpuppet.org/blog/2013/07/22/applied-practical-cryptography/) - Thomas and Erin Ptacek "Matasano" (Jul 2013) | [Cryptography](https://www.i2m.univ-amu.fr/perso/david.kohel/pub/crypto.pdf) - David R. Kohel | [Cryptography.SE](https://crypto.stackexchange.com/) |
@@ -90,7 +90,7 @@ TODO: Quantum cryptography
 The following is a list of various math tech setups I have worked with over the years.
 
 |  Interval (years) | Operating system (user interface) | Primary software | 
-| ----------------- | ---------------- |-------------|
+| ----- | ---------- | ----- |
 | 2013 to 2019| Ubuntu (GNOME 2, LXDE, Unity, and Cinnamon) | TexMaker |
 | 2019 to 2020| Debian (Crostini/Linux on ChromeOS) | TexMaker |
 | 2020 to 2021| Fedora (Xfce and GNOME 3) | Vim+MuPDF |
@@ -123,7 +123,7 @@ TeX is a typesetting system that was developed to meet the needs of mathematical
 Further readings:
 
 |  LaTeX basics | Assistance tools | 
-| ----------------- | ---------------- |
+| ----- | ----- |
 | [LaTeX guide](https://www.learnlatex.org/) | [Detexify](https://detexify.kirelabs.org/classify.html) | 
 | [LaTeX typesetting game](https://texnique.xyz/) | [Equation editor](https://editor.codecogs.com/) | 
 | [LaTeX cheat sheet](https://quickref.me/latex.html) | [Table generator](https://www.tablesgenerator.com/) | 
@@ -141,7 +141,7 @@ If new to programming, consider solving some exercises from [CodeAbby](https://w
 Some other useful resources:
 
 | Documentation | Packages |
-| ------------- | ------- |
+| ----- | ----- |
 | [Style guide](https://docs.julialang.org/en/v1/manual/style-guide/) | [`Pluto`](https://computationalthinking.mit.edu) |
 | [Performance tips](https://docs.julialang.org/en/v1/manual/performance-tips/) | [`Revise`](https://modernjuliaworkflows.org/) |
 | [Unicode input](https://docs.julialang.org/en/v1/manual/unicode-input/) | [`Hecke`](https://github.com/thofma/HeckeTutorials.jl/blob/master/Performance.ipynb) |
