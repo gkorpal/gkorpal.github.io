@@ -8,7 +8,7 @@ venue: 'IACR CiC vol. 3 no. 4'
 paperurl:
 citation: 
 ---
-with Craig Costello: Cycles of supersingular elliptic curves for pairing-based proof systems. IACR CiC vol. 3 no. 4.
+with Craig Costello: Cycles of supersingular elliptic curves for pairing-based proof systems. [IACR CiC vol. 3 no. 4](https://cic.iacr.org/p/2/4/29).
 
 Part of this work was done while I was an intern at Microsoft Research.
 
