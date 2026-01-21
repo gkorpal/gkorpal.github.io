@@ -36,7 +36,7 @@ redirect_from:
 
 I am Gaurish, and this is my personal website. I use it to journal my work related to [number theory](https://gkorpal.github.io/reading/book-list#number-theory) and [cryptography](https://gkorpal.github.io/jottings/#cryptography). 
 
-Email: gkorpal AT proton DOT me.
+Email: gkorpal AT zohomail DOT in.
 
 Here is a brief description of the contents of this website:
 - [Scholarly Articles](https://gkorpal.github.io/scholarly/): Products of my research collaborations.
