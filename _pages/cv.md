@@ -23,6 +23,7 @@ Work experience
 
 | Duration | Organization | Role |
 |----------| -------------| ----|
+| Jan'26 -- | Center for Cryptography and Cybersecurity, Indian Institute of Technology Hyderabad | Scientific Officer, Cryptography |
 | Aug'24-May'25|Department of Mathematics, University of Arizona | Instructor for Calculus I (Math 122B)|
 | Jul'24 | Simons Laufer Mathematical Sciences Institute, Berkeley | Summer Research in Mathematics ([Geometry of Endomorphism Rings](https://gkorpal.github.io/scholarly/2025-03-05-gross-lattice))|
 | May-Aug'24| Microsoft Research Lab, Redmond | Cryptography Research Intern ([Pairing-friendly cycles for SNARKs](https://gkorpal.github.io/scholarly/2025-01-31-prime-pairs))|
@@ -53,6 +54,7 @@ Awards and Scholarships
 
 Conferences and Workshops
 ------
+* [Cryptology Conclave](https://web.archive.org/web/20260123134517/https://ccs.iith.ac.in/crypto_conclave_26/index_1.html), Indian Institute of Technology Hyderabad, Kandi (Jan 22-23, 2026)
 * [SIAM Mini-Conference 2025](https://web.archive.org/web/20250502234211/https://www.mariumyousuf.com/siam.arizona.github.io/), University of Arizona, Tucson (May 02, 2025)
 * [Abelian Varieties](https://swc-math.github.io/aws/2024/index.html), Southwest Center for Arithmetic Geometry (Arizona Winter School 2024), Tucson (March 02-06, 2024)
 * [Isogeny Graphs in Cryptography](https://www.birs.ca/events/2023/5-day-workshops/23w5132), BIRS/ICMS@Bristol (BIRS 5-Day Workshop/ICMS satellite event), Online participation (Aug 21 - 25, 2023)
