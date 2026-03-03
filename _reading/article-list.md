@@ -63,6 +63,7 @@ One might need a university library membership to access some of these articles 
 * K. Lauter, The advantages of elliptic curve cryptography for wireless security, _IEEE Wireless Communications_ **11** (2004), no. 1, 62--67. doi:[10.1109/MWC.2004.1269719](https://doi.org/10.1109/MWC.2004.1269719)
 * B. Schneier, Cryptography: the importance of not being different, _IEEE Computer_ **32** (1999), no. 3, 108--109. doi:[10.1109/2.751335](https://doi.org/10.1109/2.751335)
 * N. Koblitz, Cryptography as a teaching tool, _Cryptologia_ **21** (1997), no. 4, 317--326. doi:[10.1080/0161-119791885959](https://doi.org/10.1080/0161-119791885959)
+* A. M. Odlyzko, The rise and fall of knapsack cryptosystems, _Cryptology and computational number theory (Boulder, CO, 1989)_, Proceedings of Symposia in Applied Mathematics, **42** (1990), no. 2, 75--88. doi:[10.1090/psapm/042](https://doi.org/10.1090/psapm/042), [Stable URL](https://web.archive.org/web/20240415181058/https://www-users.cse.umn.edu/~odlyzko/doc/arch/knapsack.survey.pdf)
 * F. Bien, Constructions of telephone networks by group representations, _Notices Amer. Math. Soc._ **36** (1989), no. 1, 5--22. [Stable URL](https://www.ams.org/journals/notices/198901/198901FullIssue.pdf)
 
 
@@ -84,6 +85,7 @@ My knowledge of applied maths is limited to the applications of number theory to
 * J. E. Cremona and D. Rusin, Efficient solution of rational conics, _Math. Comp._ **72** (2003), no. 243, 1417--1441. doi:[10.1090/S0025-5718-02-01480-1](https://doi.org/10.1090/S0025-5718-02-01480-1)
 * D. Boneh and M. Franklin, Identity-Based Encryption from the Weil Pairing, _Proc. of Crypto 2001_.  doi:[10.1007/3-540-44647-8_13](https://doi.org/10.1007/3-540-44647-8_13) \[The full version of this paper was published in SICOMP **32** (2003), no. 3. doi:[10.1137/S0097539701398521](https://doi.org/10.1137/S0097539701398521) \]
 * I. Semaev, A 3-dimensional lattice reduction algorithm, _Proc. of CaLC 2001_. doi:[10.1007/3-540-44670-2_13](https://doi.org/10.1007/3-540-44670-2_13)
+* S. Goldwasser, New directions in cryptography: twenty some years later (or cryptograpy and complexity theory: a match made in heaven), _Proc. of SFCS 1997_. doi: [10.1109/SFCS.1997.646120](https://doi.org/10.1109/SFCS.1997.646120)
 * W. Plesken and B. Souvignier, Computing isometries of lattices, _J. Symbolic Comput._ **24** (1997), no. 3-4, 327-–334. doi:[10.1006/jsco.1996.0130](https://doi.org/10.1006/jsco.1996.0130)
 * R. Schoof, Counting points on elliptic curves over finite fields, _J. Théor. Nombres Bordeaux_ **7** (1995), no. 1, 219--254. doi:[10.5802/jtnb.142](https://doi.org/10.5802/jtnb.142)
 * G.-J. Lay, and H. G. Zimmer, Constructing elliptic curves with given group order over large finite fields, _Proc. of ANTS 1994_. doi:[10.1007/3-540-58691-1_64](https://doi.org/10.1007/3-540-58691-1_64)
@@ -106,6 +108,7 @@ My knowledge of applied maths is limited to the applications of number theory to
 * A. K. Lenstra, H. W. Lenstra, L. Lovász, Factoring polynomials with rational coefficients, _Math. Ann._ **261** (1982), no. 4, 515--534. doi:[10.1007/BF01457454](https://doi.org/10.1007/BF01457454)
 * M. Rejewski, An Application of the Theory of Permutations in Breaking the Enigma Cipher, _Zastos. Mat. \[Appl. Math. (Warsaw)\]_, **16** (1980), no. 4, 543--559. doi:[10.4064/am-16-4-543-559](https://doi.org/10.4064/am-16-4-543-559)
 * J.L. Donaldson, Minkowski reduction of integral matrices, _Math. Comp._ **33** (1979), no. 145, 201--216. doi:[10.1090/S0025-5718-1979-0514819-7](https://doi.org/10.1090/S0025-5718-1979-0514819-7)
+* G. Brassard, A note on the complexity of cryptography (Corresp.), _IEEE Trans. on Information Theory_, **25** (1979), no. 2, 232--233. doi: [10.1109/TIT.1979.1056010](https://doi.org/10.1109/TIT.1979.1056010)
 * J. M. Pollard, Theorems on factorization and primality testing, _Proc. Cambridge Philos. Soc._ **76** (1974), 521--528. doi:[10.1017/s0305004100049252](https://doi.org/10.1017/s0305004100049252)
 
 # Pure Mathematics
