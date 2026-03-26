@@ -9,15 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
----------
-* Ph.D. in Mathematics with a minor in Computer Science, University of Arizona, 2019-2025.
-  * Qualifying Exam (Sep'21): [Lang-Nishimura theorem](https://gkorpal.github.io/technical/2021-09-13-lang-nishimura-theorem)
-  * Comprehensive Exam (Dec'23): [Deuring Correspondence and Public Key Cryptography](https://gkorpal.github.io/technical/2023-12-07-deuring-correspondence)
-  * Dissertation (Jul'25): [Supersingular Curves in Cryptography](https://repository.arizona.edu/handle/10150/678260) (Draft archive: [OSF Project](https://osf.io/s284d/)).
-* M.Sc. (5-year integrated) in Mathematics, National Institute of Science Education and Research (Homi Bhabha National Institute), 2014-2019.
-  * Thesis (Apr'19): [Sheaf, Cohomology and Geometry](https://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf) (Presentations: [Part 1](https://gkorpal.github.io/technical/2018-11-20-sheaf-theoretic-de-rham-isomorphism) and [Part 2](https://gkorpal.github.io/technical/2019-04-19-cousin-problem-analytic-hypersurface)). 
-
 Work experience
 ------
 
@@ -37,6 +28,15 @@ Work experience
 | Dec'15 | Mathematics Section, Harish-Chandra Research Institute, Allahabad | Visiting Student ([Diophantine Approximations](https://gkorpal.github.io/technical/2016-01-08-diophantine-approximations)) |
 | Jul'15 | School of Liberal Studies, Dr. B. R. Ambedkar University Delhi, New Delhi | Summer Intern ([Enigma Cryptanalysis](https://gkorpal.github.io/technical/2015-07-26-enigma-cryptanalysis)) |
 | May'15 | Bhaskaracharya Pratishthana, Pune | Summer Intern ([Diophantine Equations](https://gkorpal.github.io/technical/2015-06-16-diophantine-equations))|
+
+Education
+---------
+* Ph.D. in Mathematics with a minor in Computer Science, University of Arizona, 2019-2025.
+  * Qualifying Exam (Sep'21): [Lang-Nishimura theorem](https://gkorpal.github.io/technical/2021-09-13-lang-nishimura-theorem)
+  * Comprehensive Exam (Dec'23): [Deuring Correspondence and Public Key Cryptography](https://gkorpal.github.io/technical/2023-12-07-deuring-correspondence)
+  * Dissertation (Jul'25): [Supersingular Curves in Cryptography](https://repository.arizona.edu/handle/10150/678260) (Draft archive: [OSF Project](https://osf.io/s284d/)).
+* M.Sc. (5-year integrated) in Mathematics, National Institute of Science Education and Research (Homi Bhabha National Institute), 2014-2019.
+  * Thesis (Apr'19): [Sheaf, Cohomology and Geometry](https://gkorpal.github.io/files/niser-msc_thesis-gaurish.pdf) (Presentations: [Part 1](https://gkorpal.github.io/technical/2018-11-20-sheaf-theoretic-de-rham-isomorphism) and [Part 2](https://gkorpal.github.io/technical/2019-04-19-cousin-problem-analytic-hypersurface)). 
 
 Awards and Scholarships
 ------
