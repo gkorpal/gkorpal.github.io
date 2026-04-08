@@ -3,7 +3,7 @@ title: "Good Books"
 collection: reading
 permalink: /reading/book-list
 excerpt:
-date: 2025-01-03
+date: 2026-04-08
 venue: 
 paperurl: 
 citation: 
@@ -60,6 +60,7 @@ One might need a university library membership to access some of the out-of-prin
 * **The Curious Incident of the Dog in the Night-Time** by *Mark Haddon*: The protagonist is an autistic boy who loves prime numbers and aloo gobi.
 * **The Devotion of Suspect X** by *Keigo Higashino*: The protagonist is a brilliant but lonely mathematician.
 * **A Man Called Ove** by *Fredrik Backman*: The protagonist is an autistic old man who liked maths when he was a kid.
+* **Mathematics and Computation** by *Avi Wigderson*: Amazing book, especially for graduate students interested in theoretical computer science. Also checkout the [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo).
 
 # Biographies and Autobiographies 
 ------
