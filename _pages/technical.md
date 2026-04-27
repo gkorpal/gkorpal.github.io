@@ -5,8 +5,8 @@ permalink: /technical/
 author_profile: true
 ---
 
-> Young man, in mathematics you don't understand things. You just get used to them.
-> -[John von Neumann](https://en.wikiquote.org/wiki/John_von_Neumann)
+> As I have often said, electrons and gerbils don't cheat. People do. 
+> -[Martin Gardner](https://en.wikiquote.org/wiki/Martin_Gardner)
 
 {% include base_path %}
 
