@@ -14,7 +14,8 @@ Work experience
 
 | Duration | Organization | Role |
 |----------| -------------| ----|
-| Jan'26 -- | Center for Cryptography and Cybersecurity, Indian Institute of Technology Hyderabad, Kandi | Scientific Officer, Cryptography |
+| Jun'26-- | Department of Mathematics, University of Auckland, Auckland | Post Doctoral Fellow |
+| Jan'26-May'26 | Center for Cryptography and Cybersecurity, Indian Institute of Technology Hyderabad, Kandi | Scientific Officer, Cryptography |
 | Aug'24-May'25|Department of Mathematics, University of Arizona, Tucson | Graduate Associate, Teaching |
 | Jul'24 | Simons Laufer Mathematical Sciences Institute, Berkeley | Summer Research in Mathematics ([Geometry of Endomorphism Rings](https://gkorpal.github.io/scholarly/2025-03-05-gross-lattice))|
 | May-Aug'24| Microsoft Research Lab, Redmond | Cryptography Research Intern ([Pairing-friendly cycles for SNARKs](https://gkorpal.github.io/scholarly/2025-01-31-prime-pairs))|
