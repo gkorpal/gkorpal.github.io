@@ -18,7 +18,9 @@ arXiv: [arXiv:2608.03268](https://arxiv.org/abs/2608.03268)
 
 [Code repository](https://github.com/gkorpal/order-reciprocity)
 
-[LaTeX version](https://gkorpal.github.io/files/theorem.pdf) of the [Math.SE discussion]() about existence of infinitely many (p-1, q-1)-order reciprocities.
+[LaTeX version](https://gkorpal.github.io/files/theorem.pdf) of the [Math.SE discussion](https://math.stackexchange.com/questions/3118453/order-reciprocity/3118669#3118669) about existence of infinitely many (p-1, q-1)-order reciprocities.
+
+An [optimized version of Algorithm 1](https://gkorpal.github.io/files/algorithm.pdf) by Claude Sonnet 5.
 
 [Presentation slides](https://gkorpal.github.io/files/prime-pairs_ppt.pdf) from the Graduate Student Algebra and Number Theory Seminar at the University of Arizona.
 
