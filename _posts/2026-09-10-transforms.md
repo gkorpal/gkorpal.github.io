@@ -149,7 +149,7 @@ The dictionary below is arranged by relevance to the present discussion rather t
 
 | Normal form | Canonical form of | The transform that realizes it |
 | :--- | :--- | :--- |
-| **[Diagonal](https://en.wikipedia.org/wiki/Spectral_theorem)** (spectral theorem) | Normal matrices, under unitary similarity | The abelian Fourier transforms, which is weakening 1 |
+| **[Diagonal](https://en.wikipedia.org/wiki/Spectral_theorem)** (spectral theorem) | Normal matrices, under unitary similarity | **The ideal case** (weakening 1), against which every other row is measured. In infinite dimensions the diagonal has to be read as a multiplication operator |
 | **[Frobenius](https://en.wikipedia.org/wiki/Frobenius_normal_form)**, or rational | Any matrix over a field, under similarity, decomposed into companion blocks | **The DFT, Hartley and the NTT at once.** The cyclic shift is the [companion matrix](https://en.wikipedia.org/wiki/Companion_matrix) of $x^N - 1$, so the [circulants](https://en.wikipedia.org/wiki/Circulant_matrix) are the ring $K[x]/(x^N-1)$. How far that ring splits, and hence which transform one gets, depends entirely on the field. See below |
 | **[Block diagonal](https://en.wikipedia.org/wiki/Artin%E2%80%93Wedderburn_theorem)**, Wedderburn | The group algebra $\mathbb{C}[G]$, as an algebra | Fourier on a finite group, which is weakening 2. Abelian exactly when every block is $1 \times 1$. Missing from the usual lists because it classifies algebras rather than matrices. Terras, p. 34 |
 | **[$2 \times 2$ rotation blocks](https://en.wikipedia.org/wiki/Orthogonal_matrix)** | Real orthogonal matrices, under real orthogonal similarity | Hartley, which is weakening 3. Missing from the usual lists because they stop at $\mathbb{C}$ |
