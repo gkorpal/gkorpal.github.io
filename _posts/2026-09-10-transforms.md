@@ -61,7 +61,7 @@ The quantum Fourier transform invites the opposite error. Writing $N = 2^n$, its
 
 Both of those remarks are about speed. A third is about what the speed is for, and it ties the oldest group-theoretic row in the table to the newest. Nearly every quantum algorithm with an exponential advantage solves a single problem, the [hidden subgroup problem](https://en.wikipedia.org/wiki/Hidden_subgroup_problem): given a function on a group which is constant on the cosets of some unknown subgroup and distinct between them, find the subgroup. [Simon's algorithm](https://en.wikipedia.org/wiki/Simon%27s_problem) is the case $(\mathbb{Z}_2)^n$, and the transform it applies is exactly the Walsh-Hadamard entry above. [Shor's factoring](https://en.wikipedia.org/wiki/Shor%27s_algorithm) is the case of $\mathbb{Z}$, by way of period finding, and it runs on the quantum Fourier transform of 1994. The discrete logarithm is another instance. The family resemblance among the quantum algorithms of the 1990s is not a matter of style. They are one algorithm with different groups put into it.
 
-What that method does, and what it does not, is known fairly sharply. For finite abelian groups it works, in time polynomial in $\log |G|$. For non-abelian groups it largely does not, and the manner of the failure matters here. [Kuperberg (2003)](https://arxiv.org/abs/quant-ph/0302112) reached the dihedral group in subexponential time, $2^{O(\sqrt{\log N})}$, but not by using the dihedral group's own Fourier transform: he applies the ordinary abelian transform to the cyclic subgroup, is left with single-qubit states carrying a known label, and sieves those. The symmetric group, which carries graph isomorphism with it, remains out of reach, and the obstruction there has been shown to be genuine rather than a want of ingenuity. So the non-abelian Fourier transform of 1897 is a real generalization of the abelian one, but it is still the abelian one that does all the algorithmic work.[^hsp]
+What that method does, and what it does not, is known fairly sharply. For finite abelian groups it works, in time polynomial in $\log \lvert G \rvert$. For non-abelian groups it largely does not, and the manner of the failure matters here. [Kuperberg (2003)](https://arxiv.org/abs/quant-ph/0302112) reached the dihedral group in subexponential time, $2^{O(\sqrt{\log N})}$, but not by using the dihedral group's own Fourier transform: he applies the ordinary abelian transform to the cyclic subgroup, is left with single-qubit states carrying a known label, and sieves those. The symmetric group, which carries graph isomorphism with it, remains out of reach, and the obstruction there has been shown to be genuine rather than a want of ingenuity. So the non-abelian Fourier transform of 1897 is a real generalization of the abelian one, but it is still the abelian one that does all the algorithmic work.[^hsp]
 
 What follows argues that one idea from a first course in linear algebra accounts for most of the table, and that its limits are worth locating as precisely as its reach.
 
@@ -77,7 +77,7 @@ Here is the whole post in one sentence.
 
 > An integral transform **is** the $U$.
 
-This is meant literally rather than as an analogy. Let $\tau_a$ denote translation by $a$ on the real line, which is the operator carrying $f(t)$ to $f(t-a)$. Then
+This is meant literally rather than as an analogy. Write $\mathcal{F}$ for the Fourier transform, one particular choice of the $\mathcal{T}$ above, and let $\tau_a$ denote translation by $a$ on the real line, the operator carrying $f(t)$ to $f(t-a)$. Then
 
 $$\mathcal{F} \, \tau_a \, \mathcal{F}^{-1} = \text{multiplication by } e^{-i a \xi}$$
 
@@ -135,7 +135,7 @@ There are eight of these weakenings, set out below in order of decreasing streng
 
 5. **No group at all, but a Gelfand pair instead.** Radial functions on $\mathbb{R}^n$, and functions on the sphere $S^2 = SO(3)/SO(2)$, live on homogeneous spaces rather than groups. A Gelfand pair is the next best thing: a group together with a subgroup, arranged so that the convolution algebra comes out commutative even though no commutative group underlies it. The Hankel and spherical harmonic transforms are of this kind.
 
-6. **Intertwining rather than conjugation.** The Radon transform gives up on $U A U^{-1}$ entirely. It settles for a relation between two different operators living on two different spaces, namely $\mathcal{R}(\Delta f) = \partial_s^2 (\mathcal{R} f)$.
+6. **Intertwining rather than conjugation.** The Radon transform $\mathcal{R}$ gives up on $U A U^{-1}$ entirely. It settles for a relation between two different operators living on two different spaces, namely $\mathcal{R}(\Delta f) = \partial_s^2 (\mathcal{R} f)$.
 
 7. **No diagonalization, but the isometry survives.** Wavelets and the Gabor transform abandon the group character picture, taking the affine and Heisenberg groups in its place, and they abandon any clean convolution theorem with it. What survives is energy. An admissibility condition on the analysing window still guarantees that the whole family of shifted and scaled copies adds up to the identity, so nothing is lost in the transform. Isometry, it turns out, is the last thing to go. The group may be abandoned and the convolution theorem with it, and Plancherel will still be standing.
 
