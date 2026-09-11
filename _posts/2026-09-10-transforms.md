@@ -34,10 +34,10 @@ From Laplace in the 1780s to Gowers norms in the 1990s, the whole zoo is one ide
 | **1875** | **[Hankel Transform](https://en.wikipedia.org/wiki/Hankel_transform)** | Radial functions on $\mathbb{R}^n$, a [Gelfand pair](https://en.wikipedia.org/wiki/Gelfand_pair) | $t\,J_\nu(ut)$ | Axisymmetric boundary value problems, optics, acoustics[^hankel] |
 | **1893** | **[Walsh-Hadamard Transform](https://en.wikipedia.org/wiki/Hadamard_transform)** | Hypercube $(\mathbb{Z}_2)^n$ | $(-1)^{\langle x, y \rangle}$ | Error correcting codes, Mariner Mars telemetry, Simon's algorithm[^hadamard] |
 | **1896** | **[Mellin Transform](https://en.wikipedia.org/wiki/Mellin_transform)** | Multiplicative reals $(\mathbb{R}^+, \times)$ | $t^{s-1}$ | Analytic number theory, Dirichlet series, asymptotics[^mellin] |
-| **1897** | **[Fourier Transform on Finite Groups](https://en.wikipedia.org/wiki/Fourier_transform_on_finite_groups)** | Finite groups: [$S_n$](https://en.wikipedia.org/wiki/Symmetric_group), $D_n$, $GL_2(\mathbb{F}_q)$ | $\overline{\pi_{ij}(g)}$ | Representation theory, card shuffling, spectral graph theory[^frobenius] |
+| **1897** | **[Fourier Transform on Finite Groups](https://en.wikipedia.org/wiki/Fourier_transform_on_finite_groups)** | Finite groups: [$S_n$](https://en.wikipedia.org/wiki/Symmetric_group), $D_n$, $GL_2(\mathbb{F}_q)$ | Matrix coefficients $\overline{\pi_{ij}(g)}$ | Representation theory, card shuffling, spectral graph theory[^frobenius] |
 | **1905** | **[Hilbert Transform](https://en.wikipedia.org/wiki/Hilbert_transform)** | Real line $(\mathbb{R}, +)$ | $1/\pi(t-u)$, p.v. | Analytic signals, envelope detection, aerofoil theory[^hilbert] |
 | **1917** | **[Radon Transform](https://en.wikipedia.org/wiki/Radon_transform)** | Lines in $\mathbb{R}^2$, affine hyperplanes in $\mathbb{R}^n$ | $\delta(u - \langle x, \theta \rangle)$ | CT and PET tomography, seismic imaging[^radon] |
-| **1927** | **[Peter-Weyl Transform](https://en.wikipedia.org/wiki/Peter%E2%80%93Weyl_theorem)** | [Compact Lie groups](https://en.wikipedia.org/wiki/Compact_group) $SO(3)$, $SU(2)$ | $\overline{\pi_{ij}(g)}$ | Angular momentum, particle physics, molecular replacement |
+| **1927** | **[Peter-Weyl Transform](https://en.wikipedia.org/wiki/Peter%E2%80%93Weyl_theorem)** | [Compact Lie groups](https://en.wikipedia.org/wiki/Compact_group) $SO(3)$, $SU(2)$ | Matrix coefficients $\overline{\pi_{ij}(g)}$ | Angular momentum, particle physics, molecular replacement |
 | **1942** | **[Hartley Transform](https://en.wikipedia.org/wiki/Hartley_transform)** | Real line $(\mathbb{R}, +)$ | $\cos ut + \sin ut$ | Real valued signal processing without complex arithmetic |
 | **1946** | **[Gabor Transform / STFT](https://en.wikipedia.org/wiki/Short-time_Fourier_transform)** | Time-frequency plane, the [Heisenberg group](https://en.wikipedia.org/wiki/Heisenberg_group) | $\overline{g(t-b)}\,e^{-i\omega t}$ | Spectrograms, speech, time-frequency analysis |
 | **1947** | **[Z-Transform](https://en.wikipedia.org/wiki/Z-transform)** | $(\mathbb{Z}, +)$, continued off the unit circle | $z^{-n}$ | Digital filter design (IIR and FIR), sampled-data control[^ztransform] |
@@ -71,13 +71,13 @@ Everybody who has taken a first course in linear algebra has diagonalized a matr
 
 A **canonical form** is a distinguished representative of an equivalence class, where the equivalence comes from a group acting on the objects in question. Two matrices are similar if $A = P^{-1} B P$, which is to say that they are the same operator written out in two different bases. The canonical form for similarity is the Jordan form, and it is diagonal precisely when the operator has no nilpotent part left over.[^jordan]
 
-Now tighten the equivalence. Require the change of basis to be **unitary**, so that $A \mapsto U A U^{*}$ preserves lengths and angles, and restrict attention to normal operators. The canonical form then becomes the diagonal one, and that statement is the spectral theorem.[^spectral]
+Now tighten the equivalence. Require the change of basis to be **unitary**, so that $A \mapsto U A U^{*}$ preserves lengths and angles, $U^{*}$ being the conjugate transpose of $U$. Restrict attention also to normal operators. The canonical form then becomes the diagonal one, and that statement is the spectral theorem.[^spectral]
 
 Here is the whole post in one sentence.
 
 > An integral transform **is** the $U$.
 
-This is meant literally rather than as an analogy. Write $\mathcal{F}$ for the Fourier transform, one particular choice of the $\mathcal{T}$ above, and let $\tau_a$ denote translation by $a$ on the real line, the operator carrying $f(t)$ to $f(t-a)$. Then
+This is meant literally rather than as an analogy. Write $\mathcal{F}$ for the Fourier transform, one particular choice of the $\mathcal{T}$ above, and let $\tau_a$ denote translation by $a$ on the real line, the operator carrying $f(t)$ to $f(t-a)$. Then, with $\xi$ the variable on the transform side,
 
 $$\mathcal{F} \, \tau_a \, \mathcal{F}^{-1} = \text{multiplication by } e^{-i a \xi}$$
 
@@ -87,7 +87,7 @@ One further theorem explains why a single transform tidies up several operators 
 
 One qualification has to be entered against all of this, and it is not a small one. **The canonical forms of linear algebra are theorems about matrices**, which is to say about finite dimensions. Half the transforms tabulated above are not finite-dimensional at all, and for them the correspondence has to be restated rather than merely transported.
 
-The difficulty is sharper than a loss of precision. Translation on $\mathbb{R}$ has **no eigenvectors whatsoever** in $L^2(\mathbb{R})$, for the simple reason that $\lvert e^{i \xi t} \rvert = 1$ and a function of constant modulus is not square-integrable. The spectrum is purely continuous and there are no eigenvalues to put on a diagonal. What replaces the diagonal is the multiplication-operator form of the spectral theorem: a normal operator is unitarily equivalent to multiplication by a function on some $L^2(\mu)$. That is the sense, and the only sense, in which the continuous Fourier transform diagonalizes anything. Between the two extremes sit the **compact** operators, which retain a genuine diagonal form with eigenvalues tending to zero, and which are therefore the closest infinite-dimensional analogue of the matrix theory.
+The difficulty is sharper than a loss of precision. Translation on $\mathbb{R}$ has **no eigenvectors whatsoever** in $L^2(\mathbb{R})$, for the simple reason that $\lvert e^{i \xi t} \rvert = 1$ and a function of constant modulus is not square-integrable. The spectrum is purely continuous and there are no eigenvalues to put on a diagonal. What replaces the diagonal is the multiplication-operator form of the spectral theorem: a normal operator is unitarily equivalent to multiplication by a function on some $L^2(\mu)$, the measure $\mu$ being supplied by the operator itself. That is the sense, and the only sense, in which the continuous Fourier transform diagonalizes anything. Between the two extremes sit the **compact** operators, which retain a genuine diagonal form with eigenvalues tending to zero, and which are therefore the closest infinite-dimensional analogue of the matrix theory.
 
 So much for what a transform does. The question still open is why it should be possible at all, and the answer rests on a single assumption about the domain.
 
@@ -103,9 +103,9 @@ So the domain settles everything. Name the symmetry and the commuting operators 
 
 It is worth seeing how little has to be assumed for this to go through. The usual presentations offer a list of properties to be checked off one by one, and any such list invites the reader to suppose that the items are independent of each other. They are not. A single hypothesis suffices, namely that $G$ is a [locally compact abelian group](https://en.wikipedia.org/wiki/Locally_compact_abelian_group), and the standard theory then supplies the rest.[^rudin]
 
-The **dual group** is not a further requirement. It is constructed, the continuous characters of $G$ being shown to form a group in their own right under pointwise multiplication.
+The **dual group**, written $\hat G$, is not a further requirement. It is constructed, the continuous characters of $G$ being shown to form a group in their own right under pointwise multiplication.
 
-The **convolution theorem** is a single line, and it uses nothing about a character $\chi$ beyond the fact that it is a homomorphism:
+The **convolution theorem** is a single line, and it uses nothing about a character $\chi$ beyond the fact that it is a homomorphism. Writing $\hat f$ for $\mathcal{F}f$, which is the customary shorthand, $f * g$ for the convolution of $f$ with $g$, and a bar for complex conjugation:
 
 $$\widehat{f * g}(\chi) = \iint f(x) g(y) \overline{\chi(xy)} \, dx \, dy = \hat f(\chi) \, \hat g(\chi)$$
 
@@ -135,7 +135,7 @@ There are eight of these weakenings, set out below in order of decreasing streng
 
 5. **No group at all, but a Gelfand pair instead.** Radial functions on $\mathbb{R}^n$, and functions on the sphere $S^2 = SO(3)/SO(2)$, live on homogeneous spaces rather than groups. A Gelfand pair is the next best thing: a group together with a subgroup, arranged so that the convolution algebra comes out commutative even though no commutative group underlies it. The Hankel and spherical harmonic transforms are of this kind.
 
-6. **Intertwining rather than conjugation.** The Radon transform $\mathcal{R}$ gives up on $U A U^{-1}$ entirely. It settles for a relation between two different operators living on two different spaces, namely $\mathcal{R}(\Delta f) = \partial_s^2 (\mathcal{R} f)$.
+6. **Intertwining rather than conjugation.** The Radon transform $\mathcal{R}$ gives up on $U A U^{-1}$ entirely. It settles for a relation between two different operators living on two different spaces, namely $\mathcal{R}(\Delta f) = \partial_s^2 (\mathcal{R} f)$, where $\Delta$ is the Laplacian on the original space and $s$ the offset of the line along which $\mathcal{R}$ integrates.
 
 7. **No diagonalization, but the isometry survives.** Wavelets and the Gabor transform abandon the group character picture, taking the affine and Heisenberg groups in its place, and they abandon any clean convolution theorem with it. What survives is energy. An admissibility condition on the analysing window still guarantees that the whole family of shifted and scaled copies adds up to the identity, so nothing is lost in the transform. Isometry, it turns out, is the last thing to go. The group may be abandoned and the convolution theorem with it, and Plancherel will still be standing.
 
@@ -179,15 +179,14 @@ Which is the whole of the invitation. One idea from a first course in linear alg
 
 ## Sources
 
+Written by Claude. So maybe an AI slop....
+
 - Walter Rudin, *Fourier Analysis on Groups*, Interscience. Chapter 1 for the whole of the abstract theory used here: Haar measure, the dual group, the Plancherel theorem, Pontryagin duality, and the identification of the dual group with the maximal ideal space of $L^1(G)$.
 - Paul R. Halmos, *Finite-Dimensional Vector Spaces*, Springer UTM. The canonical forms, the spectral theorem, and commuting families of normal operators.
 - Lokenath Debnath and Dambaru Bhatta, *Integral Transforms and Their Applications*, 3rd edition, CRC Press, 2015. The historical introduction and the chapters on the Hankel, Mellin, Hilbert, $Z$ and Radon transforms.
 - Audrey Terras, *Fourier Analysis on Finite Groups and Applications*, LMS Student Texts 43, Cambridge, 1999. The abelian and non-abelian dictionary, the group algebra and Wedderburn, Hadamard and Walsh, and the Gauss and Clairaut prehistory of the FFT.
 - Michael A. Nielsen and Isaac L. Chuang, *Quantum Computation and Quantum Information*, Cambridge. Chapter 5 for the quantum Fourier transform, phase estimation, and the hidden subgroup problem.
 
-## Notes on dates and attribution
-
-Dating transforms is unavoidably messy, since the object, the name and the recognition seldom arrive together. Where a choice had to be made, it has been flagged.
 
 [^rudin]: Rudin, *Fourier Analysis on Groups*, Chapter 1: Haar measure §1.1.1, the dual group §1.2, Plancherel §1.6, Pontryagin duality §1.7. The identification is stated on p. 7, and Theorem 1.2.2 proves it both ways, each character giving a non-zero complex homomorphism of $L^1(G)$ and every such homomorphism arising so. Rudin's proof is the convolution computation displayed above. He writes $\Gamma$ where these notes write $\hat G$.
 
@@ -232,4 +231,3 @@ Dating transforms is unavoidably messy, since the object, the name and the recog
 [^wavelet]: Debnath and Bhatta record that the wavelet transform was discovered by Jean Morlet, a French geophysical engineer; Alex Grossmann recognized its importance, and their collaboration produced the mathematical theory of the continuous wavelet transform. Haar's basis of 1909 is the retrospective ancestor.
 
 [^gowers]: Gowers (1998) for progressions of length four, the general case following in 2001. The Gowers $U^k$ norms detect polynomial structure of degree $k-1$, which linear characters cannot see.
-
