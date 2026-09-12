@@ -63,6 +63,12 @@ Both of those remarks are about speed. A third is about what the speed is for, a
 
 What that method does, and what it does not, is known fairly sharply. For finite abelian groups it works, in time polynomial in $\log \lvert G \rvert$. For non-abelian groups it largely does not, and the manner of the failure matters here. [Kuperberg (2003)](https://arxiv.org/abs/quant-ph/0302112) reached the dihedral group in subexponential time, $2^{O(\sqrt{\log N})}$, but not by using the dihedral group's own Fourier transform: he applies the ordinary abelian transform to the cyclic subgroup, is left with single-qubit states carrying a known label, and sieves those. The symmetric group, which carries graph isomorphism with it, remains out of reach, and the obstruction there has been shown to be genuine rather than a want of ingenuity. So the non-abelian Fourier transform of 1897 is a real generalization of the abelian one, but it is still the abelian one that does all the algorithmic work.[^hsp]
 
+A fourth remark concerns what the Fourier transform on non-abelian groups is good for when it is not being asked to run an algorithm. A shuffle of $n$ cards is a probability $P$ on $S_n$, and $k$ shuffles is the convolution $P^{*k}$. The convolution theorem survives on a non-abelian group with matrices in place of numbers, so that $\widehat{P^{*k}}(\rho) = \hat P(\rho)^k$, and Plancherel turns the distance from the uniform distribution $U$ into a sum over the irreducible representations $\rho$:
+
+$$\lVert P^{*k} - U \rVert^2 \le \frac14 \sum_{\rho \neq 1} d_\rho \, \mathrm{Tr}\big(\hat P(\rho)^k \, \hat P(\rho)^{*k}\big)$$
+
+with $d_\rho$ the dimension of $\rho$. Nothing else goes in. Put $\mathbb{Z}_p$ into it, stepping by $\pm 1$, and about $p^2$ steps are needed; put $S_n$ in, swapping a random pair at each step, and $\frac{1}{2} n \log n$ shuffles suffice, the distance staying near $1$ until then and collapsing after. Same lemma, different group.[^diaconis]
+
 What follows argues that one idea from a first course in linear algebra accounts for most of the table, and that its limits are worth locating as precisely as its reach.
 
 ## Transforms as canonical forms
@@ -187,6 +193,7 @@ Written by Claude. An AI slop.
 - Paul R. Halmos, *Finite-Dimensional Vector Spaces*, Springer UTM. The canonical forms, the spectral theorem, and commuting families of normal operators.
 - Lokenath Debnath and Dambaru Bhatta, *Integral Transforms and Their Applications*, 3rd edition, CRC Press, 2015. The historical introduction and the chapters on the Hankel, Mellin, Hilbert, $Z$ and Radon transforms.
 - Audrey Terras, *Fourier Analysis on Finite Groups and Applications*, LMS Student Texts 43, Cambridge, 1999. The abelian and non-abelian dictionary, the group algebra and Wedderburn, Hadamard and Walsh, and the Gauss and Clairaut prehistory of the FFT.
+- Persi Diaconis, *Group Representations in Probability and Statistics*, IMS Lecture Notes–Monograph Series 11, 1988. Chapter 3 for random walks on groups, the upper bound lemma, and random transpositions.
 - Michael A. Nielsen and Isaac L. Chuang, *Quantum Computation and Quantum Information*, Cambridge. Chapter 5 for the quantum Fourier transform, phase estimation, and the hidden subgroup problem.
 
 
@@ -233,4 +240,6 @@ Written by Claude. An AI slop.
 [^wavelet]: Debnath and Bhatta record that the wavelet transform was discovered by Jean Morlet, a French geophysical engineer; Alex Grossmann recognized its importance, and their collaboration produced the mathematical theory of the continuous wavelet transform. Haar's basis of 1909 is the retrospective ancestor.
 
 [^gowers]: Gowers (1998) for progressions of length four, the general case following in 2001. The Gowers $U^k$ norms detect polynomial structure of degree $k-1$, which linear characters cannot see.
+
+[^diaconis]: Diaconis, Chapter 3B, Lemma 1, p. 24, the upper bound lemma, proved by Cauchy-Schwarz and Plancherel; the circle is Theorem 2, p. 25, and random transpositions Theorem 5, p. 36. Terras states the abelian case as Lemma 2 of Chapter 6, p. 112, and the general one as Lemma 1 of Chapter 17, p. 287, with the proof left as an exercise.
 
