@@ -3,7 +3,7 @@ title: "Good Articles"
 collection: reading
 permalink: /reading/article-list
 excerpt:
-date: 2026-04-15
+date: 2026-09-12
 venue: 
 paperurl: 
 citation: 
@@ -125,12 +125,14 @@ I have fond memories of reading expository articles in Indian magazines like *Ju
 The [Mathematical Association of America (MAA)](https://old.maa.org/press/periodicals) publishes many exposition-focused journals like the *American Mathematical Monthly*, *Mathematics Magazine*, the *College Mathematics Journal* and *Math Horizons*, but they are behind paywalls (in India I was only able to access the archives available via [JSTOR](https://www.jstor.org/publisher/maa) and [Classroom Capsules](https://old.maa.org/node/1231827/classroom-capsules-and-notes)). Similarly, the [Mathematical Association](https://www.m-a.org.uk/ma-journals) publishes *The Mathematical Gazette*, *SYMmetry Plus*, etc.  Other paid expository periodicals are [Mathematical Intelligencer](https://www.springer.com/journal/283) and [Rocky Mountain Journal of Mathematics](https://rmmc.asu.edu/rmj/rmj.html). Moreover, the [Princeton Companion to Mathematics](https://press.princeton.edu/books/hardcover/9780691118802/the-princeton-companion-to-mathematics) contains many original expository articles about almost every topic in maths.
 
 * W. D’Alessandro, Proving quadratic reciprocity: explanation, disagreement, transparency and depth, _Synthese_ **198** (2021), 8621--8664. doi:[10.1007/s11229-020-02591-6](https://doi.org/10.1007/s11229-020-02591-6)
+* W. T. Gowers, Generalizations of Fourier analysis, and how to apply them. _Bull. Amer. Math. Soc. (N.S.)_ **54** (2017), no. 1, 1–44. doi:[10.1090/bull/1550](https://doi.org/10.1090/bull/1550)
 * F. Oort, The Weil Conjectures, _Nieuw Arch. Wiskd. (5)_ **15** (2014), no. 6, 211--219. [Stable URL](http://www.nieuwarchief.nl/serie5/pdf/naw5-2014-15-3-211.pdf)  (There is a calculation error in the last line of the middle column of p. 214, $\alpha^{10},\beta^{10} = \mp 32i$).
 * C. S. Dalawat, Classical Reciprocity Laws, _Asia Pac. Math. Newsl._ **4** (2014), no. 4,  5--9. [Stable URL](http://www.asiapacific-mathnews.com/04/0404/0005_0009.pdf)
 * F. Oort, Prime Numbers, _ICCM Not._ **1** (2013), no. 2, 60–78. doi:[10.4310/ICCM.2013.v1.n2.a8](https://dx.doi.org/10.4310/ICCM.2013.v1.n2.a8) 
 * U. A. Rozikov, What   are   p-adic   Numbers? What   are   they   used   for?, _Asia Pac. Math. Newsl._ **3** (2013),   no. 4, 1–6. [Stable URL](http://www.asiapacific-mathnews.com/03/0304/0001_0006.pdf)
 * R. Sreekantan, Yitang Zhang and The Twin Primes Conjecture, _At Right Angles_ **2** (2013), no. 3, 14--17. [Stable URL](https://publications.azimpremjiuniversity.edu.in/1682/)
 * A. Rice and E. Brown, Why Ellipses Are Not Elliptic Curves, _Math. Mag._ **85** (2012), no. 3, 163--176. doi:[10.4169/math.mag.85.3.163](https://doi.org/10.4169/math.mag.85.3.163), [Stable URL](https://www.jstor.org/stable/10.4169/math.mag.85.3.163)
+* A. Lubotzky, Expander graphs in pure and applied mathematics. _Bull. Amer. Math. Soc. (N.S.)_ **49** (2012), no. 1, 113–162. doi[10.1090/S0273-0979-2011-01359-3](https://doi.org/10.1090/S0273-0979-2011-01359-3)
 * E. Kani, Idoneal numbers and some generalizations, _Ann. Sci. Math. Québec_ **35** (2011), no. 2, 197--227. [Stable URL](https://www.labmath.uqam.ca/~annales/volumes/35-2/PDF/197-227.pdf)
 * B. Sury, Nothing lucky about 13, _Math. Mag._ **83** (2010), no. 4, 289--293. doi:[10.4169/002557010X521840](https://doi.org/10.4169/002557010X521840)
 * G. Frey, The Arithmetic Behind Cryptography, _Notices Amer. Math. Soc._ **57** (2010), no. 3, 366--374. [Stable URL](http://www.ams.org/notices/201003/rtx100300366p.pdf)
@@ -141,6 +143,7 @@ The [Mathematical Association of America (MAA)](https://old.maa.org/press/period
 * J. B. Gil and M. D. Weiner, A Quick Change of Base Algorithm for Fractions, _College Math. J._ **39** (2008), no. 1, 56--59. [Stable URL](https://www.jstor.org/stable/27646569)
 * W. Y. Pong, Sums of consecutive integers, _College Math. J._ **38** (2007), no. 2, 119--123. doi:[10.1080/07468342.2007.11922226](https://doi.org/10.1080/07468342.2007.11922226)
 * A. Granville and G. Martin, Prime Number Races, _Amer. Math. Monthly_ **113** (2006), no. 1, 1--33. [Stable URL](https://www.jstor.org/stable/27641834)
+* S. Hoory, N. Linial, and A. Wigderson, Expander graphs and their applications. _Bull. Amer. Math. Soc. (N.S.)_ **43** (2006), no. 4, 439–561. doi:[10.1090/S0273-0979-06-01126-8](https://doi.org/10.1090/S0273-0979-06-01126-8)
 * G. Garza and J. Young, Wieferich Primes and Period Lengths for the Expansions of Fractions, _Math. Mag._ **77** (2004), no. 4, 314--319. [Stable URL](https://www.jstor.org/stable/3219294)
 * J. Hanke, Some recent results about (ternary) quadratic forms, _Proc. of 6th CNTA conference 2002_ (2004). doi:[10.1090/crmp/036/10](https://doi.org/10.1090/crmp/036/10), [Stable URL](https://web.archive.org/web/20160508173246/http://www.wordpress.jonhanke.com/wp-content/uploads/2013/04/Ternary-QF-Survey.pdf)
 * D. Khurana, On GCD and LCM in Domains – A Conjecture of Gauss, _Resonance_ **8** (2003), no. 6, 72--79. [Stable URL](https://www.ias.ac.in/article/fulltext/reso/008/06/0072-0079)
@@ -164,8 +167,11 @@ The [Mathematical Association of America (MAA)](https://old.maa.org/press/period
 * M. Ram Murty, Artin’s conjecture for primitive roots, _Math. Intelligencer_ **10** (1988), no. 1, 59--67. doi:[10.1007/BF03023749](https://doi.org/10.1007/BF03023749) 
 * J. T. Cross, Primitive Pythagorean triples of Gaussian integers, _Math. Mag._ **59** (1986), no. 2, 106--110. [Stable URL](https://www.jstor.org/stable/2690428)
 * S. Bloch, The proof of the Mordell conjecture, _Math. Intelligencer_ **6** (1984), no. 1, 41--47. doi:[10.1007/BF03024155](https://doi.org/10.1007/BF03024155)
+* S. Gelbart, An elementary introduction to the Langlands program._Bull. Amer. Math. Soc. (N.S.)_ **10** (1984), no. 2, 177–219. doi:[10.1090/S0273-0979-1984-15237-6](https://doi.org/10.1090/S0273-0979-1984-15237-6)
 * N. Koblitz, Why study equations over finite fields?, _Math. Mag._ **55** (1982), no. 3, 144--149. doi:[10.2307/2690080](https://doi.org/10.2307/2690080), [Stable URL](https://www.jstor.org/stable/2690080)
 * M. Rosen, Abel's Theorem on the Lemniscate, _Amer. Math. Monthly_ **88** (1981), no. 6, 387--395. [Stable URL](https://www.jstor.org/stable/2321821)
+* G. W. Mackey, Harmonic analysis as the exploitation of symmetry--a historical survey. _Bull. Amer. Math. Soc. (N.S.)_ **3** (1980), no. 1, part 1, 543–698. doi:[10.1090/S0273-0979-1980-14783-7](https://doi.org/10.1090/S0273-0979-1980-14783-7)
+* L. Auslander and R. Tolimieri, Is computing with the finite Fourier transform pure or applied mathematics? _Bull. Amer. Math. Soc. (N.S.)_ **1** (1979), no. 6, 847–897. doi:[10.1090/S0273-0979-1979-14686-X](https://doi.org/10.1090/S0273-0979-1979-14686-X)
 * H. M. Edwards, Fermat's Last Theorem, _Scientific American_ **239** (1978), no. 4, 104–-122. doi: [10.1038/scientificamerican1078-104](https://doi.org/10.1038/scientificamerican1078-104), [Stable URL](https://www.jstor.org/stable/24955826)
 * D. Zagier, The first 50 million prime numbers, _Math. Intelligencer_ **1** (1977), no. 1, 7--19. doi:[10.1007/BF03039306](https://doi.org/10.1007/BF03039306)
 * B. L. van der Waerden, Hamilton's Discovery of Quaternions, _Math. Mag._ **49** (1976), no. 5, 227--234. doi:[10.2307/2689449](https://doi.org/10.2307/2689449), [Stable URL](https://www.jstor.org/stable/2689449)
