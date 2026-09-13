@@ -3,7 +3,7 @@ title: "Good Books"
 collection: reading
 permalink: /reading/book-list
 excerpt:
-date: 2026-04-08
+date: 2026-09-13
 venue: 
 paperurl: 
 citation: 
@@ -146,7 +146,7 @@ The name of this subsection is based on the book titled "[Rudimentary Mathematic
 * **Introduction to Commutative Algebra** by *Atiyah and MacDonald*: For those who want to learn commutative algebra for algebraic geometry. Really helpful for someone planning to read Hartshorne's book "Algebraic Geometry". For a gentler introduction, one can read the book by N S Gopalakrishnan.
 * **Representation and Characters of Groups** by *G. James and M. Liebeck*: This is an introductory text for the representation theory of finite groups. It could have been an ideal introductory text for undergraduates but they chose [bad notations](https://math.stackexchange.com/a/192728). However, it is more accessible as compared to the standard textbook by [Serre](https://doi.org/10.1007/978-1-4684-9458-7).
   * **Representation Theory of Finite Groups** by *M. Burrow*: Must read the introduction to the first chapter. Notations are a bit outdated.
-
+  * **Representation Theory of Finite Groups: An Introductory Approach** by *B. Steinberg*: This book takes a Fourier analytic approach while only requiring a basic knowledge of linear algebra and group theory. The coolest part is section 11.3 about card shuffling.
 
 ## Analysis 
 
@@ -242,6 +242,8 @@ Number Theory is a vast field of study and it is easy to feel overwhelmed. There
   * **Basic Number Theory** by *A. Weil*: It presents algebraic number theory from the adelic perspective, showing how adelic methods could provide simple and unified proofs of all the results proved in algebraic number theory ([MathOverflow](https://mathoverflow.net/q/71727/)). 
 * **Number Theory, Fourier Analysis and Geometric Discrepancy** by *G. Travaglini*: This book consists of two parts. The first part is concerned with classical topics and results from elementary number theory, while the second part is concerned with the particular subject of uniform distribution theory and discrepancy theory. Many of the results are shown using Fourier-analytic arguments, and a basic introduction to Fourier analysis is incorporated into the text at the necessary positions ([MAA](https://old.maa.org/press/maa-reviews/number-theory-fourier-analysis-and-geometric-discrepancy) and [MathOverflow](https://mathoverflow.net/a/253862/))
   * **Fourier Analysis: An Introduction** by *E. M. Stein and R. Shakarchi*: It is a good reference for "Weyl’s Equidistribution Theorem" (section 4.2) which is closely related to "Kronecker’s Theorem" (Diophantine approximation) discussed in Hardy & Wright's book (section 23.3, latest edition).
+  * **Discrete Harmonic Analysis: Representations, Number Theory, Expanders, and the Fourier Transform** by *T. Ceccherini-Silberstein, F. Scarabotti, and F. Tolli*: Cool thing is the application of spectral analysis of the normalized Fourier transform to recover the law of
+quadratic reciprocity. It also presents Dirichlet's theorem on primes in arithmetic progressions, which is based on the character theory of finite Abelian groups as well as Tao's uncertainty principle for (finite) cyclic groups. Also, the third part has central themes of expanders and Ramanujan graphs.
   * **Uniform distribution of sequences** by *L. Kuipers and Niederreiter*: The first-ever survey in this field. Also see the [commentary by Pete Clark](http://alpha.math.uga.edu/~pete/udnotes.pdf) involving "Equidistribution in Number Theory, An Introduction" SMS–NATO ASI Summer School Montreal 2005 notes edited by Granville and Rudnick.
   * **Sequences, Discrepancies and Applications** by *M. Drmota and R. F. Tichy*: This book discusses special developments and methods of the theory of uniform distribution since Kuipers-Niederreiter's book.
   * **Ten Lectures on the Interface between Analytic Number Theory and Harmonic Analysis** by *H. L. Montgomery*: A standard reference for number theorists to learn about exponential sums. 
