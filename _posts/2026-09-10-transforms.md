@@ -14,11 +14,11 @@ tags:
   - spectral-theory
 ---
 
-An [integral transform](https://en.wikipedia.org/wiki/Integral_transform), or discrete transform, is a **change of basis**: it re-expresses a function on one domain in terms of a different set of basis functions. For a kernel $K(t, u)$,
+An [integral transform](https://en.wikipedia.org/wiki/Integral_transform) $\mathcal{T}$, or discrete transform, is a **change of basis**: it re-expresses a function $f$ on one domain $D$ in terms of a different set of basis functions. For a kernel $K(t, u)$,
 
 $$(\mathcal{T}f)(u) = \int_{D} f(t)  K(t, u)   dt$$
 
-where $D$ is whatever the function lives on: an interval, a ring of $N$ points, the positive reals under multiplication, the surface of a sphere. What every such domain carries is a symmetry, an operation under which it looks the same from any of its points. That symmetry is a **group** $G$, and the third column below names it for each transform.
+where $D$ can be an interval, a ring of $N$ points, the positive reals under multiplication, the surface of a sphere. What every such domain carries is a symmetry, an operation under which it looks the same from any of its points. That symmetry is a **group** $G$, and the third column below names it for each transform.
 
 From Laplace in the 1780s to Gowers norms in the 1990s, the whole zoo is one idea repeated, and the idea is a piece of linear algebra from a first course. What follows is a map: how far that one piece reaches, where it gives out, and what takes over.
 
