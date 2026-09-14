@@ -14,9 +14,9 @@ tags:
   - spectral-theory
 ---
 
-An [integral transform](https://en.wikipedia.org/wiki/Integral_transform) $\mathcal{T}$, or discrete transform, is a **change of basis**: it re-expresses a function $f$ on one domain $D$ in terms of a different set of basis functions. For a kernel $K(t, u)$,
+An [integral transform](https://en.wikipedia.org/wiki/Integral_transform) (resp. discrete transform) $\mathcal{T}$ is a **change of basis**: it re-expresses a function (resp. sequence) $f$ on one domain $D$ in terms of a different set of basis functions. For a kernel (resp. matrix) $K(t, u)$,
 
-$$(\mathcal{T}f)(u) = \int_{D} f(t)  K(t, u)   dt$$
+$$(\mathcal{T}f)(u) = \int_{D} f(t)  K(t, u)   dt \quad \Big(\text{resp.} \sum_{t \in D} f(t)  K(t, u)\Big)$$
 
 where $D$ can be an interval, a ring of $N$ points, the positive reals under multiplication, the surface of a sphere. What every such domain carries is a symmetry, an operation under which it looks the same from any of its points. That symmetry is a **group** $G$, and the third column below names it for each transform.
 
