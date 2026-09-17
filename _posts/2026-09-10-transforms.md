@@ -134,7 +134,7 @@ The $\phi_\pi$ are the multiplicative functionals of the commutative algebra, ex
 
 ## Stage three: non-abelian groups
 
-**The setting.** As in stage two, except that the domain is the group again, $X = G$ and $K = \{1\}$, with $G$ finite or a compact Lie group; $\lambda$ and $\ast$ are those of stage one, $\pi$, $V_\pi$, $d_\pi$ those of stage two, and $\chi_\pi = \operatorname{tr}\pi$ is the [character](https://en.wikipedia.org/wiki/Character_theory) of $\pi$, a function on $G$.
+**The setting.** As in stage two, except that the domain is the group again, $X = G$ and $K = \{1\}$, with $G$ finite or a compact Lie group; $\lambda$ and $\ast$ are those of stage one, $\pi$, $V_\pi$, $d_\pi$ those of stage two, and $\chi_\pi = \mathrm{tr}\pi$ is the [character](https://en.wikipedia.org/wiki/Character_theory) of $\pi$, a function on $G$.
 
 **What breaks.** $G$ is not commutative, so $(G, \{1\})$ is not a Gelfand pair: the convolutions $f \mapsto f \ast h$ do not commute with one another and no single eigenbasis exists.
 
@@ -152,7 +152,7 @@ the bar being the entrywise conjugate, so that the kernel is the $\overline{\pi_
 
 Two uses of the block form. A [Cayley graph](https://en.wikipedia.org/wiki/Cayley_graph) on $G$ has adjacency matrix equal to convolution by the indicator $\delta_S$ of its generating set $S$, so its eigenvalues are those of the blocks $\hat\delta_S(\pi)$, each repeated $d_\pi$ times; when $G$ is abelian, or $S$ is a union of [conjugacy classes](https://en.wikipedia.org/wiki/Conjugacy_class), the blocks are scalars and the eigenvalues are the character sums $\frac{1}{d_\pi}\sum_{s \in S} \chi_\pi(s)$.[^diaconis] And a shuffle is a probability $P$ on $S_n$, $k$ shuffles is $P^{\ast k}$, so $\widehat{P^{\ast k}} = \hat P^k$, and Plancherel bounds the [total-variation distance](https://en.wikipedia.org/wiki/Total_variation_distance_of_probability_measures) $\lVert P^{\ast k} - U \rVert = \max_A \lvert P^{\ast k}(A) - U(A) \rvert$ from the uniform distribution $U$ by a sum over representations:
 
-$$\lVert P^{\ast k} - U \rVert^2 \le \frac14 \sum_{\pi \neq 1} d_\pi \operatorname{tr}\big(\hat P(\pi)^k \hat P(\pi)^{\ast k}\big).$$
+$$\lVert P^{\ast k} - U \rVert^2 \le \frac14 \sum_{\pi \neq 1} d_\pi \mathrm{tr}\big(\hat P(\pi)^k \hat P(\pi)^{\ast k}\big).$$
 
 For $\mathbb Z_p$, stepping by $\pm 1$, somewhat more than $p^2$ steps are needed. For $S_n$, swapping a random pair each step, $\frac12 n\log n + cn$ shuffles bring the distance below $a e^{-2c}$, while $\frac12 n \log n - cn$ leave it above $\frac1e - o(1)$: the distance drops from a constant to nearly zero in a window of width $O(n)$ around $\frac12 n \log n$, which is the cutoff phenomenon.[^diaconis]
 
@@ -200,13 +200,15 @@ Classifying the elements of a matrix group up to conjugacy is the problem of can
 
 Two things that carry the name "transform", or are treated alongside them, are outside the four stages, each for a different reason.
 
-**Operators a transform diagonalizes.** The [Hilbert transform](https://en.wikipedia.org/wiki/Hilbert_transform) is convolution with $1/\pi t$ on the line, so it commutes with translation and the Fourier transform diagonalizes it, as multiplication by $-i \operatorname{sgn} \xi$.[^hilbert] The [Stieltjes transform](https://en.wikipedia.org/wiki/Stieltjes_transformation) is the Laplace transform applied twice, $\int_0^\infty f(t)\,dt/(t+x)$; its kernel depends on $t$ and $x$ only through $t/x$, up to the factor $1/x$, so it commutes with dilations and the Mellin transform diagonalizes it, as multiplication by $\pi/\sin \pi p$.[^stieltjes] The [Weyl fractional integral](https://en.wikipedia.org/wiki/Riemann%E2%80%93Liouville_integral) is of the same kind, a Mellin multiplier.[^stieltjes] These are not changes of basis but the kind of operator a change of basis is *for*, and that is why they have no row.
+**Operators a transform diagonalizes.** The [Hilbert transform](https://en.wikipedia.org/wiki/Hilbert_transform) is convolution with $1/\pi t$ on the line, so it commutes with translation and the Fourier transform diagonalizes it, as multiplication by $-i \mathrm{sgn} \xi$.[^hilbert] The [Stieltjes transform](https://en.wikipedia.org/wiki/Stieltjes_transformation) is the Laplace transform applied twice, $\int_0^\infty f(t)\,dt/(t+x)$; its kernel depends on $t$ and $x$ only through $t/x$, up to the factor $1/x$, so it commutes with dilations and the Mellin transform diagonalizes it, as multiplication by $\pi/\sin \pi p$.[^stieltjes] The [Weyl fractional integral](https://en.wikipedia.org/wiki/Riemann%E2%80%93Liouville_integral) is of the same kind, a Mellin multiplier.[^stieltjes] These are not changes of basis but the kind of operator a change of basis is *for*, and that is why they have no row.
 
 **No basis at all.** Let $A \subset \mathbb Z_N$ have density $\alpha$. The fraction of three-term [arithmetic progressions](https://en.wikipedia.org/wiki/Arithmetic_progression) $x + y = 2z$ with all three terms in $A$ is $\sum_r \hat A(r)^2 \hat A(-2r)$, which is $\alpha^3$, the random share, plus an error of at most $\alpha \max_{r \ne 0} \lvert \hat A(r) \rvert$; so either $A$ has its random share or a character correlates with it, and iterating on the progressions where that character is nearly constant is [Roth's theorem](https://en.wikipedia.org/wiki/Roth%27s_theorem_on_arithmetic_progressions) of 1953.[^roth] The [Gowers norms](https://en.wikipedia.org/wiki/Gowers_norm) (1998) are where this stops. On $\mathbb Z_N$ with $N$ odd the function $e^{2\pi i x^2/N}$ has every Fourier coefficient of modulus $N^{-1/2}$, as flat as Plancherel allows, yet it and three companions have four-term progression count $1$, the largest possible: the transform is blind to the quadratic phases. There are $N^2$ of them against $N$ characters, so they are no basis, and no quadratic transform or inversion formula exists. What survives is the $U^3$ norm, an average over cubes, and an inverse theorem: a function with large $U^3$ norm correlates with a phase built from a two-step [nilpotent group](https://en.wikipedia.org/wiki/Nilpotent_group), a Heisenberg group once more.[^gowers] Nothing is being diagonalized, so the thread does not fray here; it ends.
 
 One idea from a first course in linear algebra reaches across two and a half centuries into number theory, tomography, image compression and quantum computation. Representation theory is what one reaches for where it stops, and it works there because diagonalization was one of its tools and never the whole of it.
 
 ## Sources
+
+An AI slop. Brought to you by Anthropic Claude Opus 5.
 
 - Lokenath Debnath and Dambaru Bhatta, *Integral Transforms and Their Applications*, 3rd ed., CRC Press, 2015.
 - Audrey Terras, *Fourier Analysis on Finite Groups and Applications*, LMS Student Texts 43, Cambridge, 1999.
@@ -242,7 +244,7 @@ One idea from a first course in linear algebra reaches across two and a half cen
 
 [^frobenius]: Terras, p. 237, for Dedekind's letter and 1897; Mackey, p. 695, for Weyl thirty years later, and pp. 603–604 for the Peter–Weyl theorem of 1927 in the form "one obtains a complete system of orthogonal functions for the group by choosing an orthogonal basis in each subspace" of matrix elements.
 
-[^hilbert]: Debnath–Bhatta, Theorem 9.3.1(f), (9.3.6): $\mathcal{F}[\mathcal{H}f] = (-i \operatorname{sgn} k) \mathcal{F}[f]$.
+[^hilbert]: Debnath–Bhatta, Theorem 9.3.1(f), (9.3.6): $\mathcal{F}[\mathcal{H}f] = (-i \mathrm{sgn} k) \mathcal{F}[f]$.
 
 [^stieltjes]: Debnath–Bhatta, (9.7.1)–(9.7.3), the Stieltjes transform as the Laplace transform of the Laplace transform; (9.8.2), $S\{f(at)\} = \tilde f(az)$; (9.7.11) and Example 9.7.2, the Mellin form with $g(u) = (1+u)^{-1}$, $\mathcal{M}\{\tilde f\}(p) = \tilde f(p)\tilde g(1-p)$ and $\tilde g(1-p) = \pi\,\mathrm{cosec}(\pi p)$. Weyl fractional integral: (5.3.17) and Definition 8.5.1.
 
